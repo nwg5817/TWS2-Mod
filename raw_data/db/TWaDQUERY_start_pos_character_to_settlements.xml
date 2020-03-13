@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaDQUERY_start_pos_character_to_settlements>
+<root>
+	<query_table>
+		<table>start_pos_settlements</table>
+	</query_table>
+	<query_table>
+		<table>start_pos_regions</table>
+	</query_table>
+	<query_table>
+		<table>start_pos_character_to_settlements</table>
+	</query_table>
+	<table_join>
+		<join_type>inner</join_type>
+		<join_from_table>start_pos_character_to_settlements</join_from_table>
+		<join_from_field>settlement</join_from_field>
+		<join_to_table>start_pos_settlements</join_to_table>
+		<join_to_field>id</join_to_field>
+	</table_join>
+	<table_join>
+		<join_type>inner</join_type>
+		<join_from_table>start_pos_settlements</join_from_table>
+		<join_from_field>region</join_from_field>
+		<join_to_table>start_pos_regions</join_to_table>
+		<join_to_field>id</join_to_field>
+	</table_join>
+	<query_field>
+		<query_field_table>start_pos_regions</query_field_table>
+		<query_field_name>campaign</query_field_name>
+		<condition></condition>
+	</query_field>
+	<query_field>
+		<query_field_table>start_pos_settlements</query_field_table>
+		<query_field_name>region</query_field_name>
+		<condition></condition>
+	</query_field>
+	<query_field>
+		<query_field_table>start_pos_character_to_settlements</query_field_table>
+		<query_field_name>character</query_field_name>
+		<condition></condition>
+	</query_field>
+	<query_field>
+		<query_field_table>start_pos_character_to_settlements</query_field_table>
+		<query_field_name>settlement</query_field_name>
+		<condition></condition>
+	</query_field>
+</root>

@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_unit_regiment_names_localisation_lookup>
+<root>
+  <edit_uuid>95f0edd5-f604-4912-b2ba-d51e8751accb</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>unit_name</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+  </field>
+</root>

@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_ministerial_effectiveness_modifiers>
+<root>
+  <edit_uuid>515daddc-20b4-4ad9-b123-d27df4dde163</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>leader_minister_level</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>government_type</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>government_type</column_source_column>
+    <column_source_table>government_types</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>effectiveness_bonus</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+  </field>
+</root>

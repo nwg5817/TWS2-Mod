@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="campaign_bonus_value_ids_resource.xsd" generated="2010-02-15T18:56:14">
+<edit_uuid>642b085c-30fb-4c7a-bc72-17a1b96d5b2a</edit_uuid>
+<campaign_bonus_value_ids_resource>
+<key>production</key>
+<s_ColLineage>kNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{532F5576-229C-46AD-9601-648674280234}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_bonus_value_ids_resource>
+</dataroot>
+

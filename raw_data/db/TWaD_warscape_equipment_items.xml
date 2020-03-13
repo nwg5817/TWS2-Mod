@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_warscape_equipment_items>
+<root>
+  <edit_uuid>fe4115af-e538-11e0-8001-6cf049ef02b0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>equipment_item</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>equipment_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>collection_key</column_source_column>
+    <column_source_table>warscape_equipment_collections</column_source_table>
+  </field>
+</root>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="campaign_bonus_value_ids_projectile_type.xsd" generated="2010-02-15T18:56:03">
+<edit_uuid>c35f4530-47c0-4c6b-a041-118c427335a4</edit_uuid>
+<campaign_bonus_value_ids_projectile_type>
+<key>damage</key>
+<s_ColLineage>kNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D88266AE-CD13-4B22-AECB-34BFCC25B2C8}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_bonus_value_ids_projectile_type>
+</dataroot>
+

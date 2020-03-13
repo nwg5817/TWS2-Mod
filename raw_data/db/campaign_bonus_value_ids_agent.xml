@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Tue 27. Sep 16:14:41 2011" revision="3" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Jeff.Woods">
+<edit_uuid>b30d78ed-4644-4904-993f-5aac01a46154</edit_uuid><campaign_bonus_value_ids_agent>
+<key>action_cost_mod</key>
+</campaign_bonus_value_ids_agent>
+<campaign_bonus_value_ids_agent>
+<key>availability_and_quality</key>
+</campaign_bonus_value_ids_agent>
+<campaign_bonus_value_ids_agent>
+<key>cap</key>
+</campaign_bonus_value_ids_agent>
+<campaign_bonus_value_ids_agent>
+<key>character_xp_mod</key>
+</campaign_bonus_value_ids_agent>
+<campaign_bonus_value_ids_agent>
+<key>critical_success_mod</key>
+</campaign_bonus_value_ids_agent>
+<campaign_bonus_value_ids_agent>
+<key>maximum_cap_mod</key>
+</campaign_bonus_value_ids_agent>
+<campaign_bonus_value_ids_agent>
+<key>recruit_cost_mod</key>
+</campaign_bonus_value_ids_agent>
+<campaign_bonus_value_ids_agent>
+<key>spawn_rate</key>
+</campaign_bonus_value_ids_agent>
+<campaign_bonus_value_ids_agent>
+<key>spawn_rate_mod</key>
+</campaign_bonus_value_ids_agent>
+<campaign_bonus_value_ids_agent>
+<key>success_mod</key>
+</campaign_bonus_value_ids_agent>
+</dataroot>

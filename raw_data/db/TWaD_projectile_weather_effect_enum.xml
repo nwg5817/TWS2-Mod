@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_projectile_weather_effect_enum>
+<root>
+  <edit_uuid>ea7d5ab4-13df-40f5-a296-b40ae13a8716</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+</root>

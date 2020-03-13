@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Fri 30. Sep 08:51:41 2011" revision="7" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="James.Whitston">
+<edit_uuid>a4a37c4a-bc5f-4e82-b6fb-c6aaf908accd</edit_uuid><avatar_clan_specialisms>
+<ancillary>mp_bosh_clan_imperial</ancillary>
+<key>boshin_imperial</key>
+<product>boshin</product>
+</avatar_clan_specialisms>
+<avatar_clan_specialisms>
+<ancillary>mp_bosh_clan_shogunate</ancillary>
+<key>boshin_shogunate</key>
+<product>boshin</product>
+</avatar_clan_specialisms>
+<avatar_clan_specialisms>
+<ancillary>mp_clan_anc_bow</ancillary>
+<key>bow</key>
+<product>shogun2</product>
+</avatar_clan_specialisms>
+<avatar_clan_specialisms>
+<ancillary>mp_clan_anc_horse</ancillary>
+<key>cavalry</key>
+<product>shogun2</product>
+</avatar_clan_specialisms>
+<avatar_clan_specialisms>
+<ancillary>mp_clan_anc_spear</ancillary>
+<key>spear</key>
+<product>shogun2</product>
+</avatar_clan_specialisms>
+<avatar_clan_specialisms>
+<ancillary>mp_clan_anc_sword</ancillary>
+<key>sword</key>
+<product>shogun2</product>
+</avatar_clan_specialisms>
+</dataroot>

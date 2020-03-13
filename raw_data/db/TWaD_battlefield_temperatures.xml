@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_battlefield_temperatures>
+<root>
+  <edit_uuid>2e859e2d-f243-44d4-858e-86942edc0e57</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>climate</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>climate_type</column_source_column>
+    <column_source_table>climates</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>season</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>season</column_source_column>
+    <column_source_table>seasons</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>temperature</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_fixed_value>hot</column_source_fixed_value>
+    <column_source_fixed_value>cold</column_source_fixed_value>
+    <column_source_fixed_value>temperate</column_source_fixed_value>
+  </field>
+</root>

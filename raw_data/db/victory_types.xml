@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="victory_types.xsd" generated="2010-02-15T19:34:38">
+<edit_uuid>aea4e15c-4224-42af-b65e-5eda199c20a6</edit_uuid>
+<victory_types>
+<victory_type>domination</victory_type>
+<s_ColLineage>kNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{2F1C04C0-E2D1-4BC9-B26C-4ECB2A5F20A8}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</victory_types>
+<victory_types>
+<victory_type>long</victory_type>
+<s_ColLineage>kNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{42C37275-4746-42FA-9F2F-522454435BF4}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</victory_types>
+<victory_types>
+<victory_type>short</victory_type>
+<s_ColLineage>kNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{22AB19F9-FEB5-4B4C-ADC3-C0C2CAFD5824}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</victory_types>
+</dataroot>
+

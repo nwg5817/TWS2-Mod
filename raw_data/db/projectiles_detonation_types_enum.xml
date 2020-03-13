@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Thu 24. Jun 12:41:32 2010" revision="1" export_branch="C:/TW/battle/dev/shogun2/binaries" export_user="Dylan.Coughlan">
+<edit_uuid>478b4bc6-68b0-4995-8647-68d76e12e3d3</edit_uuid><projectiles_detonation_types_enum>
+<key>blinding_shockwave</key>
+</projectiles_detonation_types_enum>
+<projectiles_detonation_types_enum>
+<key>carcass</key>
+</projectiles_detonation_types_enum>
+<projectiles_detonation_types_enum>
+<key>none</key>
+</projectiles_detonation_types_enum>
+<projectiles_detonation_types_enum>
+<key>quicklime</key>
+</projectiles_detonation_types_enum>
+<projectiles_detonation_types_enum>
+<key>shockwave</key>
+</projectiles_detonation_types_enum>
+</dataroot>

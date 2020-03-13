@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_building_to_unit_abilities_junctions>
+<root>
+  <edit_uuid>1c4d3f10-59fe-464f-abb4-ae97bf73b3ea</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>building_name</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>battlefield_buildings</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>ability</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>unit_abilities</column_source_table>
+  </field>
+</root>

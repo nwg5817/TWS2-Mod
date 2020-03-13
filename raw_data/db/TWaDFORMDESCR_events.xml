@@ -1,0 +1,100 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaDFORMDESCR_events>
+<root>
+	<form_name>Events</form_name>
+	<rows>
+		<subform_table>
+			<table_name>events</table_name>
+			<new_button/>
+			<base_node/>
+			<record_switching>true</record_switching>
+			<filter_field>key</filter_field>
+			<parent_table></parent_table>
+			<parent_field></parent_field>
+			<columns>
+				<static_text_field>Key</static_text_field>
+				<text_edit_field>key</text_edit_field>
+				<static_text_field>Onscreen Title</static_text_field>
+				<text_edit_field>onscreen_name</text_edit_field>
+				<static_text_field>Dynamic?</static_text_field>
+				<check_box_field>dynamic</check_box_field>
+			</columns>
+			<columns>
+				<static_text_field>Text</static_text_field>
+				<memo_edit_field>event_text</memo_edit_field>
+			</columns>
+			<columns>
+				<static_text_field>Picture Category</static_text_field>
+				<text_edit_field>picture_category</text_edit_field>
+				<static_text_field>Date</static_text_field>
+				<text_edit_field>historical_date</text_edit_field>
+				<static_text_field>Season</static_text_field>
+				<combo_box_field>season</combo_box_field>
+			</columns>
+			<columns>
+				<static_text_field>Conditions</static_text_field>
+				<memo_edit_field>conditions</memo_edit_field>
+			</columns>
+		</subform_table>
+		<columns>
+			<rows>
+				<subform_table>
+					<static_text_field>View Groups</static_text_field>
+					<table_name>events_view_group_junct</table_name>
+					<new_button/>
+					<record_switching>false</record_switching>
+					<filter_field>event</filter_field>
+					<parent_table>events</parent_table>
+					<parent_field>key</parent_field>
+					<edit_grid>
+						<edit_grid_column name="View Group">view_group</edit_grid_column>				  
+					</edit_grid>
+				</subform_table>
+			</rows>
+			<rows>
+				<subform_table>
+					<static_text_field>Effect Groups</static_text_field>
+					<table_name>events_effect_group_junct</table_name>
+					<new_button/>
+					<record_switching>false</record_switching>
+					<filter_field>event</filter_field>
+					<parent_table>events</parent_table>
+					<parent_field>key</parent_field>
+					<edit_grid>
+						<edit_grid_column name="Effect Group">effect_group</edit_grid_column>				  
+					</edit_grid>
+				</subform_table>
+			</rows>
+		</columns>
+		<rows>
+			<subform_table>
+				<static_text_field>Effects</static_text_field>
+				<table_name>events_effects_junct</table_name>
+				<new_button/>
+				<record_switching>false</record_switching>
+				<filter_field>event</filter_field>
+				<parent_table>events</parent_table>
+				<parent_field>key</parent_field>
+				<edit_grid>
+					<edit_grid_column name="Effect">effect</edit_grid_column>
+					<edit_grid_column name="Value">value</edit_grid_column>			  
+				</edit_grid>
+			</subform_table>
+		</rows>
+		<rows>
+			<subform_table>
+				<static_text_field>Historic Character</static_text_field>
+				<table_name>events_hist_chars_junct</table_name>
+				<new_button/>
+				<record_switching>false</record_switching>
+				<filter_field>event</filter_field>
+				<parent_table>events</parent_table>
+				<parent_field>key</parent_field>
+				<edit_grid>
+					<edit_grid_column name="Historical Character">historical_character</edit_grid_column>		  
+				</edit_grid>
+			</subform_table>
+		</rows>
+	</rows>
+</root>
+	

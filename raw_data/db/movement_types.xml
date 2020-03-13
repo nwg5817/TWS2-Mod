@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="movement_types.xsd" generated="2010-02-15T19:09:55">
+<edit_uuid>23407f09-a4c9-4e50-841c-9e07e3fba2e8</edit_uuid>
+<movement_types>
+<type>run_charge</type>
+<s_ColLineage>kNOq8QEAAAA=
+</s_ColLineage>
+<s_Generation>1</s_Generation>
+<s_GUID>{D2BAC9AF-5E50-45C0-96AE-EE330BB3F080}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</movement_types>
+<movement_types>
+<type>walk</type>
+<s_ColLineage>kNOq8QEAAAA=
+</s_ColLineage>
+<s_Generation>1</s_Generation>
+<s_GUID>{167F77CD-65CB-49B4-80AB-A7871DC77AA8}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</movement_types>
+</dataroot>
+

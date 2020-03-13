@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_mission_types>
+<root>
+  <edit_uuid>9454EEA8-304B-11DF-8FD2-07DC55D89593</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+</root>

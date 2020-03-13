@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_character_skills>
+<root>
+  <edit_uuid>a321cee3-98bf-11df-8001-001fd02417f0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>image_path</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>localised_name</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>localised_description</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>pre_battle_speech_parameter</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>pre_battle_speech_parameters_enum</column_source_table>
+  </field>
+</root>

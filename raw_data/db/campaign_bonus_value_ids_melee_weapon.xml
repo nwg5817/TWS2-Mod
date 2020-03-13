@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="campaign_bonus_value_ids_melee_weapon.xsd" generated="2010-02-15T18:51:28">
+<edit_uuid>eb23997b-87c8-4348-988e-2a0d05baa061</edit_uuid>
+<campaign_bonus_value_ids_melee_weapon>
+<key>attack_bonus</key>
+<s_ColLineage>kNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{FB17E90B-D022-4E80-BCAA-789E68E76E4A}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_bonus_value_ids_melee_weapon>
+</dataroot>
+

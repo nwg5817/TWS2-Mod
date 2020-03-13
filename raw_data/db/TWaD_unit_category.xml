@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_unit_category>
+<root>
+  <edit_uuid>ee3be351-a17a-11e0-8001-6cf049ef02b0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>localised_name</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>20000</max_length>
+  </field>
+<field>
+<field_uuid>{b62f7385-bfa8-46cc-93ed-6ace8ef8b4ea}</field_uuid>
+<primary_key>0</primary_key>
+<name>r_colour</name>
+<field_type>double</field_type>
+<required>1</required>
+<default_value>0</default_value>
+</field>
+<field>
+<field_uuid>{43988d35-44e1-454f-8e32-045696b3f657}</field_uuid>
+<primary_key>0</primary_key>
+<name>g_colour</name>
+<field_type>double</field_type>
+<required>1</required>
+<default_value>0</default_value>
+</field>
+<field>
+<field_uuid>{98ca8efb-4ed6-4464-8aa2-3afd0021e276}</field_uuid>
+<primary_key>0</primary_key>
+<name>b_colour</name>
+<field_type>double</field_type>
+<required>1</required>
+<default_value>0</default_value>
+</field>
+</root>

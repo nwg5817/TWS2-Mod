@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Tue 13. Mar 14:32:15 2012" revision="43" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Chris.Gambold">
+<edit_uuid>98be6fc7-31bb-4ffe-bfe9-84ba10f0175f</edit_uuid><achievements>
+<aesthetic>crest_ach_won_5_clanmap_regions</aesthetic>
+<description>Your clan holds 5 provinces simultaneously on the multiplayer clan campaign map.</description>
+<key>ACHIEVEMENT_A_5_CLAN_REGIONS_SIMULTANEOUSLY_OWNED</key>
+<title>Stranglehold</title>
+</achievements>
+<achievements>
+<aesthetic>legs_morning_glory</aesthetic>
+<description>Capture 15 provinces on the avatar campaign map.</description>
+<key>ACHIEVEMENT_A_CAPTURE_15_AVATAR_CAMPAIGN_REGIONS</key>
+<title>Carve a Path</title>
+</achievements>
+<achievements>
+<aesthetic>sashimono_toyotomi_hideyoshi</aesthetic>
+<description>Capture all provinces on the avatar campaign map.</description>
+<key>ACHIEVEMENT_A_CAPTURE_ALL_AVATAR_CAMPAIGN_REGIONS</key>
+<title>Uniter of Japan</title>
+</achievements>
+<achievements>
+<description>Create a second avatar for use in avatar conquest mode.</description>
+<key>ACHIEVEMENT_A_CREATE_SECOND_AVATAR</key>
+<title>Double Dragons</title>
+</achievements>
+<achievements>
+<description>Defeat a Fall of the Samurai army with a Shogun 2 army.</description>
+<key>ACHIEVEMENT_A_DEFEAT_BOSHIN_ARMY_WITH_SHOGUN</key>
+<title>Keeping to Tradition</title>
+</achievements>
+<achievements>
+<description>Defeat a Shogun 2 army with a Fall of the Samurai army. [Fall of the Samurai only]</description>
+<key>ACHIEVEMENT_A_DEFEAT_SHOGUN_ARMY_WITH_BOSHIN</key>
+<title>Modernisation</title>
+</achievements>
+<achievements>
+<aesthetic>crest_ach_won_clanmap_season</aesthetic>
+<description>Personally earn 20 clan tokens.</description>
+<key>ACHIEVEMENT_A_EARN_20_CLAN_TOKENS</key>
+<title>Loyal to the Clan</title>
+</achievements>
+<achievements>
+<aesthetic>crest_ach_joined_clan</aesthetic>
+<description>Join a multiplayer clan in Shogun 2.</description>
+<key>ACHIEVEMENT_A_JOIN_A_CLAN</key>
+<title>Serve with Honour</title>
+</achievements>
+<achievements>
+<aesthetic>thigh_uesugi_kenshin</aesthetic>
+<description>Spend the maximum number of points in your avatar's skill tree.</description>
+<key>ACHIEVEMENT_A_MAX_OUT_AVATAR_SKILLS_TREE</key>
+<title>Path of the Leader</title>
+</achievements>
+<achievements>
+<description>Max out any &quot;Fall of the Samurai&quot; avatar skill tree, by spending a skill point in each skill within a single skill tree.</description>
+<key>ACHIEVEMENT_A_MAX_POINTS_IN_BOSHIN_SKILLS_TREE</key>
+<title>Skilled Warrior</title>
+</achievements>
+<achievements>
+<aesthetic>mask_oda_nobunaga</aesthetic>
+<description>Through the avatar system, get a veteran unit to level 9.</description>
+<key>ACHIEVEMENT_A_VETERAN_UNIT_LEVEL_10</key>
+<title>Heroic Warriors</title>
+</achievements>
+<achievements>
+<aesthetic>arms_golden_scale_cuirass</aesthetic>
+<description>Through the avatar system, get a veteran unit to level 4.</description>
+<key>ACHIEVEMENT_A_VETERAN_UNIT_LEVEL_5</key>
+<title>Exceptional Warriors</title>
+</achievements>
+<achievements>
+<aesthetic>crest_ach_1_drop_in_battle</aesthetic>
+<description>Keep at least 4 ashigaru units for a whole battle without routing once.</description>
+<key>ACHIEVEMENT_B_4_ASHIGARU_UNITS_WHOLE_BATTLE</key>
+<title>Commander of Commoners</title>
+</achievements>
+<achievements>
+<description>Win the Battle of Aizu after provoking all four hidden armies at once. [Fall of the Samurai only]</description>
+<key>ACHIEVEMENT_B_AIZU_1</key>
+<title>Wrecking Ball</title>
+</achievements>
+<achievements>
+<aesthetic>crest_ach_1_land_battle</aesthetic>
+<description>Have all your army, except the general, hidden simultaneously for more than 30 seconds.</description>
+<key>ACHIEVEMENT_B_ALL_UNITS_HIDDEN</key>
+<title>Elusive Strike Force</title>
+</achievements>
+<achievements>
+<description>As the defender, recapture a tower.</description>
+<key>ACHIEVEMENT_B_AS_DEFENDER_RECAPTURE_A_TOWER</key>
+<title>Redoubtable</title>
+</achievements>
+<achievements>
+<aesthetic>arms_uesugi_kenshin</aesthetic>
+<description>Defeat a Creative Assembly staff member in battle, or anyone else who has gained this achievement.</description>
+<key>ACHIEVEMENT_B_BEAT_CA_STAFF_VIRAL</key>
+<title>Spreading Like Wildfire</title>
+</achievements>
+<achievements>
+<description>As the attacker, burn a castle's gates, towers and tenshu to the ground using fire arrows, and win the battle.</description>
+<key>ACHIEVEMENT_B_BURN_CASTLE_DOWN_AND_WIN_BATTLE</key>
+<title>Towering Inferno</title>
+</achievements>
+<achievements>
+<aesthetic>arms_oda_nobunaga</aesthetic>
+<description>Win a battle using an army composed entirely of hero units and your general.</description>
+<key>ACHIEVEMENT_B_FIELD_ENTIRELY_HEROES</key>
+<title>Legendary Force</title>
+</achievements>
+<achievements>
+<description>Complete the Battle of Hakodate without any Imperial units being routed. [Fall of the Samurai only]</description>
+<key>ACHIEVEMENT_B_HAKODATE_1</key>
+<title>Perfect Ten</title>
+</achievements>
+<achievements>
+<description>Complete all historical battles. [Fall of the Samurai only]</description>
+<key>ACHIEVEMENT_B_HAKODATE_WON</key>
+<title>Journey's End</title>
+</achievements>
+<achievements>
+<aesthetic>crest_multicolour_laced</aesthetic>
+<description>On maps with more than one key building, your alliance shows its dominance by holding all of them simultaneously.</description>
+<key>ACHIEVEMENT_B_HOLD_ALL_KEY_BUILDINGS_2_MINS</key>
+<title>Battlefield Dominance</title>
+</achievements>
+<achievements>
+<description>Call in naval fire support during a land battle. [Fall of the Samurai only]</description>
+<key>ACHIEVEMENT_B_KILL_10000_MEN_WITH_ARTILLERY</key>
+<title>Hard Pounding</title>
+</achievements>
+<achievements>
+<description>Complete the Battle of Miyako Bay with the Kotetsu having taken less than 25% damage. [Fall of the Samurai only]</description>
+<key>ACHIEVEMENT_B_MIYAKO_BAY_1</key>
+<title>The Iron Lady</title>
+</achievements>
+<achievements>
+<description>Win the Battle of Osaka after both bridges get blown up by the defenders. [Fall of the Samurai only]</description>
+<key>ACHIEVEMENT_B_OSAKA_1</key>
+<title>Uphill Struggle</title>
+</achievements>
+<achievements>
+<aesthetic>helm_kawari_kabuto</aesthetic>
+<description>Play 10 multiplayer battles of any type.</description>
+<key>ACHIEVEMENT_B_PLAY_10_BATTLES</key>
+<title>Experienced Taisho</title>
+</achievements>
+<achievements>
+<aesthetic>crest_ach_25_percent_all_drops</aesthetic>
+<description>Successfully rally 5 units at once with one use of the general's rally ability.</description>
+<key>ACHIEVEMENT_B_RALLY_5_UNITS</key>
+<title>Inspiring Counterattack</title>
+</achievements>
+<achievements>
+<description>Sink an enemy ship by ramming. [Fall of the Samurai only]</description>
+<key>ACHIEVEMENT_B_SINK_ENEMY_SHIP_WITH_RAMMING</key>
+<title>Damn the Torpedoes</title>
+</achievements>
+<achievements>
+<description>Sink an enemy ship with torpedoes. [Fall of the Samurai only]</description>
+<key>ACHIEVEMENT_B_SINK_ENEMY_SHIP_WITH_TORPEDOES</key>
+<title>Warhead</title>
+</achievements>
+<achievements>
+<description>Sink  an HMS Warrior-class ship. [Fall of the Samurai only]</description>
+<key>ACHIEVEMENT_B_SINK_HMS_WARRIOR</key>
+<title>A Warrior's Bane</title>
+</achievements>
+<achievements>
+<description>Chase down and rout an enemy unit as it tries to escape the Battle of Toba-Fushimi. [Fall of the Samurai only]</description>
+<key>ACHIEVEMENT_B_TOBA_FUSHIMI_1</key>
+<title>Not On My Watch</title>
+</achievements>
+<achievements>
+<description>Play a historical battle. [Fall of the Samurai only]</description>
+<key>ACHIEVEMENT_B_TOBA_FUSHIMI_2</key>
+<title>A Journey Begins</title>
+</achievements>
+<achievements>
+<description>Win the Battle of Ueno without capturing any of the key temple buildings. [Fall of the Samurai only]</description>
+<key>ACHIEVEMENT_B_UENO_1</key>
+<title>A Blow to the Temple</title>
+</achievements>
+<achievements>
+<aesthetic>helm_tokugawa_ieyasu</aesthetic>
+<description>Win 100 matchmade battles in multiplayer.</description>
+<key>ACHIEVEMENT_B_WIN_100_RANKED_BATTLES</key>
+<title>The Dragon of Japan</title>
+</achievements>
+<achievements>
+<aesthetic>shoulders_tokugawa_ieyasu</aesthetic>
+<description>Win 10 siege battles as the attacker.</description>
+<key>ACHIEVEMENT_B_WIN_10_ATTACKING_SIEGES</key>
+<title>Castle-stormer</title>
+</achievements>
+<achievements>
+<aesthetic>legs_tokugawa_ieyasu</aesthetic>
+<description>Win 10 siege battles as the defender.</description>
+<key>ACHIEVEMENT_B_WIN_10_DEFENDING_SIEGES</key>
+<title>Man the Defences</title>
+</achievements>
+<achievements>
+<aesthetic>helm_hosokawa_tadaoki</aesthetic>
+<description>Win 200 multiplayer battles of any type.</description>
+<key>ACHIEVEMENT_B_WIN_200_MULTIPLAYER_BATTLES</key>
+<title>Zen-like Dedication</title>
+</achievements>
+<achievements>
+<aesthetic>crest_ach_50_percent_all_drops</aesthetic>
+<description>Win 20 naval battles in multiplayer.</description>
+<key>ACHIEVEMENT_B_WIN_20_NAVAL_BATTLES</key>
+<title>Master of the Waves</title>
+</achievements>
+<achievements>
+<aesthetic>helm_sparse_point_laced</aesthetic>
+<description>Win 50 matchmade battles in multiplayer.</description>
+<key>ACHIEVEMENT_B_WIN_20_RANKED_BATTLES</key>
+<title>Bringer of Death</title>
+</achievements>
+<achievements>
+<aesthetic>sashimono_multicolour_laced</aesthetic>
+<description>Win 25 land battles.</description>
+<key>ACHIEVEMENT_B_WIN_25_LAND_BATTLES</key>
+<title>The Army on the March</title>
+</achievements>
+<achievements>
+<aesthetic>shoulders_date_masamune</aesthetic>
+<description>Win 25 matchmade battles in multiplayer.</description>
+<key>ACHIEVEMENT_B_WIN_25_RANKED_BATTLES</key>
+<title>Claw of the Tiger</title>
+</achievements>
+<achievements>
+<aesthetic>legs_oda_nobunaga</aesthetic>
+<description>Win a multiplayer battle where more than 50% of your army is made up of matchlock units.</description>
+<key>ACHIEVEMENT_B_WIN_BATTLE_50_PERCENT_MATCHLOCK</key>
+<title>Swathed in Fire</title>
+</achievements>
+<achievements>
+<aesthetic>arms_date_masamune</aesthetic>
+<description>Win a battle using an army composed of at least one of every class of unit (sword infantry, cavalry, archer, matchlock, spear, naginata).</description>
+<key>ACHIEVEMENT_B_WIN_BATTLE_EVERY_TYPE_OF_UNIT</key>
+<title>Balanced Attacker</title>
+</achievements>
+<achievements>
+<aesthetic>helm_kato_kiyomasa</aesthetic>
+<description>Win a multiplayer battle using no cavalry units (excluding the general) in your army.</description>
+<key>ACHIEVEMENT_B_WIN_BATTLE_NO_CAVALRY</key>
+<title>The Gathering Storm</title>
+</achievements>
+<achievements>
+<aesthetic>legs_uesugi_kenshin</aesthetic>
+<description>Win a multiplayer battle using no ranged units in your army.</description>
+<key>ACHIEVEMENT_B_WIN_BATTLE_NO_RANGED</key>
+<title>Berserk Charge</title>
+</achievements>
+<achievements>
+<aesthetic>shoulders_uesugi_kenshin</aesthetic>
+<description>Win a multiplayer battle using no spear units in your army.</description>
+<key>ACHIEVEMENT_B_WIN_BATTLE_NO_SPEAR</key>
+<title>Fear No Horseman</title>
+</achievements>
+<achievements>
+<aesthetic>crest_hosokawa_tadaoki</aesthetic>
+<description>Win a defensive siege battle with the lady of the house, the Onna Bushi, as your general. (Single Player Only)</description>
+<key>ACHIEVEMENT_B_WIN_BATTLE_ONNA_BUGEISHA_AS_GENERAL</key>
+<title>Onna-Bugeisha</title>
+</achievements>
+<achievements>
+<aesthetic>crest_ach_army_colour_change</aesthetic>
+<description>Win your first multiplayer battle.</description>
+<key>ACHIEVEMENT_B_WIN_MP_BATTLE</key>
+<title>Forged in the Hottest Flame</title>
+</achievements>
+<achievements>
+<aesthetic>shoulders_hosokawa_tadaoki</aesthetic>
+<description>Win a multiplayer battle losing less than 15% of your starting troops.</description>
+<key>ACHIEVEMENT_B_WIN_MP_BATTLE_LESS_THAN_15_PERCENT_LOSSES</key>
+<title>Swift and Deadly</title>
+</achievements>
+<achievements>
+<aesthetic>crest_golden_scale_cuirass</aesthetic>
+<description>Completely wipe out an enemy unit.</description>
+<key>ACHIEVEMENT_B_WIPE_OUT_A_UNIT</key>
+<title>Unnecessary Force</title>
+</achievements>
+<achievements>
+<description>Playing as the Aizu, carry out 3 successful assassinations of generals in the same campaign using a shinsengumi. [Fall of the Samurai only]</description>
+<key>ACHIEVEMENT_C_3_ASSASSINATIONS_WITH_SHINSENGUMI</key>
+<title>Wolves of Mibu</title>
+</achievements>
+<achievements>
+<description>Playing as the Tosa, carry out 5 naval bombardments in the same campaign. [Fall of the Samurai only]</description>
+<key>ACHIEVEMENT_C_5_NAVAL_BOMBARDMENTS_WITH_TOSA</key>
+<title>Father of the Imperial Navy</title>
+</achievements>
+<achievements>
+<description>Obtain a maximum level agent of each type. [Fall of the Samurai only]</description>
+<key>ACHIEVEMENT_C_ATTAIN_MAX_LEVEL_ALL_AGENTS</key>
+<title>Thy Will Be Done</title>
+</achievements>
+<achievements>
+<description>Attain the maximum level of clan development. [Fall of the Samurai only]</description>
+<key>ACHIEVEMENT_C_ATTAIN_MAX_MODERNISATION</key>
+<title>Embrace the New</title>
+</achievements>
+<achievements>
+<aesthetic>helm_triple_hollyhock</aesthetic>
+<description>Achieve the ultimate goal and become Shogun in the grand campaign.</description>
+<key>ACHIEVEMENT_C_BECOME_SHOGUN</key>
+<title>Divine Right</title>
+</achievements>
+<achievements>
+<description>Carry out a bombardment with a French ironclad in your navy. [Fall of the Samurai only]  </description>
+<key>ACHIEVEMENT_C_BOMBARDMENT_WITH_FRENCH_IRONCLAD</key>
+<title>L'Ocean is Mine!</title>
+</achievements>
+<achievements>
+<description>Construct a railway between 2 provinces. [Fall of the Samurai only]</description>
+<key>ACHIEVEMENT_C_CONNECT_A_RAILWAY</key>
+<title>All Aboard!</title>
+</achievements>
+<achievements>
+<description>Playing as the Satsuma, construct a trade district and trade with a foreign power within the same campaign. [Fall of the Samurai only]</description>
+<key>ACHIEVEMENT_C_CONSTRUCT_3_TRADE_DISTRICTS_WITH_SATSUMA</key>
+<title>Gateway to the West</title>
+</achievements>
+<achievements>
+<aesthetic>thigh_hosokawa_tadaoki</aesthetic>
+<description>Control all the provinces on the island of Kyushu in the campaign.</description>
+<key>ACHIEVEMENT_C_CONTROL_KYUSHU</key>
+<title>Holder of Kyushu</title>
+</achievements>
+<achievements>
+<aesthetic>mask_hosokawa_tadaoki</aesthetic>
+<description>Control all the provinces on the island of Shikoku in the campaign.</description>
+<key>ACHIEVEMENT_C_CONTROL_SHIKOKU</key>
+<title>Holder of Shikoku</title>
+</achievements>
+<achievements>
+<description>Fight a drop-in battle.</description>
+<key>ACHIEVEMENT_C_FIGHT_DROP_IN_BATTLE</key>
+<title>The Duellist</title>
+</achievements>
+<achievements>
+<description>Gift your co-op partner an army or navy.</description>
+<key>ACHIEVEMENT_C_GIFT_ARMY_OR_NAVY_IN_COOP</key>
+<title>Gift-wrapped</title>
+</achievements>
+<achievements>
+<aesthetic>sashimono_hosokawa_tadaoki</aesthetic>
+<description>Wipe out the Hattori clan in the campaign.</description>
+<key>ACHIEVEMENT_C_IGA_CLAN</key>
+<title>Eradicate the Hattori</title>
+</achievements>
+<achievements>
+<description>Playing as the Choshu, incite 3 rebellions in the same campaign using an ishin shishi. [Fall of the Samurai only]</description>
+<key>ACHIEVEMENT_C_INCITE_3_REBELLIONS_WITH_ISHIN_SHISHI</key>
+<title>Agent Provocateur</title>
+</achievements>
+<achievements>
+<aesthetic>helm_uesugi_kenshin</aesthetic>
+<description>Collect 10,000 heads of enemy soldiers.</description>
+<key>ACHIEVEMENT_C_KILL_10000_ENEMY_SOLDIERS</key>
+<title>Head-Hunter</title>
+</achievements>
+<achievements>
+<aesthetic>mask_multicolour_laced</aesthetic>
+<description>Obtain a maximum level general in the campaign.</description>
+<key>ACHIEVEMENT_C_MAX_LEVEL_GENERAL</key>
+<title>Fearsome Commander of Men</title>
+</achievements>
+<achievements>
+<aesthetic>thigh_multicolour_laced</aesthetic>
+<description>Obtain a maximum level metsuke.</description>
+<key>ACHIEVEMENT_C_MAX_LEVEL_METSUKE</key>
+<title>Master Interrogator</title>
+</achievements>
+<achievements>
+<aesthetic>shoulder_multicolour_laced</aesthetic>
+<description>Obtain a maximum level missionary.</description>
+<key>ACHIEVEMENT_C_MAX_LEVEL_MISSIONARY</key>
+<title>Servant of God</title>
+</achievements>
+<achievements>
+<aesthetic>legs_multicolour_laced</aesthetic>
+<description>Obtain a maximum level monk.</description>
+<key>ACHIEVEMENT_C_MAX_LEVEL_MONK</key>
+<title>Legendary Sohei</title>
+</achievements>
+<achievements>
+<aesthetic>arms_multicolour_laced</aesthetic>
+<description>Obtain a maximum level ninja in the campaign.</description>
+<key>ACHIEVEMENT_C_MAX_LEVEL_NINJA</key>
+<title>Agent of the Stealthy Blade</title>
+</achievements>
+<achievements>
+<description>Win a defensive siege battle with your daimyo during any winter turn.</description>
+<key>ACHIEVEMENT_C_MIDWINTER</key>
+<title>Requiem of the Dead</title>
+</achievements>
+<achievements>
+<aesthetic>legs_toyotomi_hideyoshi</aesthetic>
+<description>Obtain 100 fame within 50 turns.</description>
+<key>ACHIEVEMENT_C_OBTAIN_100_FAME_IN_20_TURNS</key>
+<title>Soaring Fame</title>
+</achievements>
+<achievements>
+<aesthetic>helm_oda_nobunaga</aesthetic>
+<description>Obtain a unit of maximum rank in the grand campaign.</description>
+<key>ACHIEVEMENT_C_OBTAIN_MAX_LEVEL_UNIT</key>
+<title>Living for Battle</title>
+</achievements>
+<achievements>
+<aesthetic>shoulders_golden_scale_cuirass</aesthetic>
+<description>Control all the trade posts on the campaign map at the same time.</description>
+<key>ACHIEVEMENT_C_POSESS_ALL_TRADE_NODES</key>
+<title>Trade Route Monopoly</title>
+</achievements>
+<achievements>
+<description>Playing as the Nagaoka, research any eighth tier technology. [Fall of the Samurai only]</description>
+<key>ACHIEVEMENT_C_RESEARCH_8TH_TIER_TECH_WITH_NAGOKA</key>
+<title>One Hundred Sacks of Rice</title>
+</achievements>
+<achievements>
+<aesthetic>arms_hosokawa_tadaoki</aesthetic>
+<description>Be the first clan in the campaign to master the art of epic architecture.</description>
+<key>ACHIEVEMENT_C_RESEARCH_EPIC_ARCHITECTURE_FIRST</key>
+<title>Glittering Grand Cities</title>
+</achievements>
+<achievements>
+<aesthetic>mask_golden_scale_cuirass</aesthetic>
+<description>Be the first clan in the campaign to obtain gunpowder mastery.</description>
+<key>ACHIEVEMENT_C_RESEARCH_GUNPOWDER_TECH_FIRST</key>
+<title>Advanced Firearms</title>
+</achievements>
+<achievements>
+<aesthetic>shoulders_oda_nobunaga</aesthetic>
+<description>Be the first clan in the campaign to master the art of Shih.</description>
+<key>ACHIEVEMENT_C_RESEARCH_SHIH_TECH_FIRST</key>
+<title>Military Might</title>
+</achievements>
+<achievements>
+<aesthetic>thigh_golden_scale_cuirass</aesthetic>
+<description>Sink a nanban trade ship or the flagship vessel the Nihon Maru during a naval battle.</description>
+<key>ACHIEVEMENT_C_SINK_CARAVEL_OR_NIHON_MARU</key>
+<title>Belligerent Admiral</title>
+</achievements>
+<achievements>
+<description>Playing as the Jozai, win 3 ambush battles in the same campaign. [Fall of the Samurai only]</description>
+<key>ACHIEVEMENT_C_WIN_3_AMBUSH_BATTLES_WITH_JOZAI</key>
+<title>Hereditary Honour</title>
+</achievements>
+<achievements>
+<description>Win a battle with United States Marines in your army. [Fall of the Samurai only]</description>
+<key>ACHIEVEMENT_C_WIN_BATTLE_WITH_AMERICAN_MARINES</key>
+<title>Semper Fi</title>
+</achievements>
+<achievements>
+<description>Win a battle with British ships in your navy. [Fall of the Samurai only]</description>
+<key>ACHIEVEMENT_C_WIN_BATTLE_WITH_BRITISH_SHIPS</key>
+<title>Rule, Britannia!</title>
+</achievements>
+<achievements>
+<description>Declare your independence and complete a campaign. [Fall of the Samurai only]</description>
+<key>ACHIEVEMENT_C_WIN_CAMPAIGN_AFTER_DECLARING_INDEPENDENCE</key>
+<title>Ezo Republic</title>
+</achievements>
+<achievements>
+<aesthetic>thigh_oda_nobunaga</aesthetic>
+<description>Win a campaign as the Hojo clan.</description>
+<key>ACHIEVEMENT_C_WIN_CAMPAIGN_AS_HOJO</key>
+<title>Hojo Victory</title>
+</achievements>
+<achievements>
+<aesthetic>arms_toyotomi_hideyoshi</aesthetic>
+<description>Win a campaign as the Oda clan.</description>
+<key>ACHIEVEMENT_C_WIN_CAMPAIGN_AS_ODA</key>
+<title>Oda Victory</title>
+</achievements>
+<achievements>
+<aesthetic>shoulders_toyotomi_hideyoshi</aesthetic>
+<description>Win a campaign as the Takeda clan.</description>
+<key>ACHIEVEMENT_C_WIN_CAMPAIGN_AS_TAKEDA</key>
+<title>Takeda Victory</title>
+</achievements>
+<achievements>
+<aesthetic>thigh_toyotomi_hideyoshi</aesthetic>
+<description>Win a campaign as the Tokugawa clan.</description>
+<key>ACHIEVEMENT_C_WIN_CAMPAIGN_AS_TOKUGAWA</key>
+<title>Tokugawa Victory</title>
+</achievements>
+<achievements>
+<aesthetic>helm_date_masamune</aesthetic>
+<description>Win a campaign as the Chosokabe clan.</description>
+<key>ACHIEVEMENT_C_WIN_CHOSOKABE_CAMPAIGN</key>
+<title>Chosokabe Victory</title>
+</achievements>
+<achievements>
+<aesthetic>arms_tokugawa_ieyasu</aesthetic>
+<description>Win a campaign as the Date clan.</description>
+<key>ACHIEVEMENT_C_WIN_DATE_CAMPAIGN</key>
+<title>Date Victory</title>
+</achievements>
+<achievements>
+<aesthetic>crest_ach_1_naval_battle</aesthetic>
+<description>Win a campaign on easy difficulty.</description>
+<key>ACHIEVEMENT_C_WIN_EASY_CAMPAIGN</key>
+<title>A Promising Beginning</title>
+</achievements>
+<achievements>
+<aesthetic>legs_golden_scale_cuirass</aesthetic>
+<description>Win a campaign as a Christian daimyo.</description>
+<key>ACHIEVEMENT_C_WIN_GAME_AS_CHRISTIAN</key>
+<title>One Rule Under God</title>
+</achievements>
+<achievements>
+<aesthetic>sashimono_golden_scale_cuirass</aesthetic>
+<description>Win a campaign on hard difficulty.</description>
+<key>ACHIEVEMENT_C_WIN_HARD_CAMPAIGN</key>
+<title>Famed Shogun</title>
+</achievements>
+<achievements>
+<description>Win a campaign on legendary difficulty playing as either the Satsuma, the Tosa or the Choshu. [Fall of the Samurai only]</description>
+<key>ACHIEVEMENT_C_WIN_LEGENDARY_CAMPAIGN_IMPERIAL</key>
+<title>Hero of the Empire</title>
+</achievements>
+<achievements>
+<description>Win a campaign on legendary difficulty playing as either the Aizu, the Jozai or the Nagaoka. [Fall of the Samurai only]</description>
+<key>ACHIEVEMENT_C_WIN_LEGENDARY_CAMPAIGN_SHOGUNATE</key>
+<title>Hero of the Shogunate</title>
+</achievements>
+<achievements>
+<aesthetic>crest_ach_1_quick_battle</aesthetic>
+<description>Win a campaign on normal difficulty.</description>
+<key>ACHIEVEMENT_C_WIN_MEDIUM_CAMPAIGN</key>
+<title>A Respectable Rule</title>
+</achievements>
+<achievements>
+<aesthetic>thigh_tokugawa_ieyasu</aesthetic>
+<description>Win a campaign as the Mori clan.</description>
+<key>ACHIEVEMENT_C_WIN_MORI_CAMPAIGN</key>
+<title>Mori Victory</title>
+</achievements>
+<achievements>
+<aesthetic>chest_morning_glory</aesthetic>
+<description>Win a multiplayer co-op campaign.</description>
+<key>ACHIEVEMENT_C_WIN_MP_COOP_CAMPAIGN</key>
+<title>United in Conquest</title>
+</achievements>
+<achievements>
+<aesthetic>helm_morning_glory</aesthetic>
+<description>Win a multiplayer head to head campaign.</description>
+<key>ACHIEVEMENT_C_WIN_MP_VS_CAMPAIGN</key>
+<title>Japan Torn Asunder</title>
+</achievements>
+<achievements>
+<aesthetic>helm_multicolour_laced</aesthetic>
+<description>Win a multiplayer head to head campaign despite giving the other player 10,000 koku.</description>
+<key>ACHIEVEMENT_C_WIN_MP_VS_CAMPAIGN_GIVING_OTHER_PLAYER_GOLD</key>
+<title>Dishonoured Foe</title>
+</achievements>
+<achievements>
+<aesthetic>mask_tokugawa_ieyasu</aesthetic>
+<description>Win a campaign as the Shimazu clan.</description>
+<key>ACHIEVEMENT_C_WIN_SHIMAZU_CAMPAIGN</key>
+<title>Shimazu Victory</title>
+</achievements>
+<achievements>
+<aesthetic>sashimono_tokugawa_ieyasu</aesthetic>
+<description>Win a campaign as the Uesugi clan.</description>
+<key>ACHIEVEMENT_C_WIN_UESUGI_CAMPAIGN</key>
+<title>Uesugi Victory</title>
+</achievements>
+<achievements>
+<aesthetic>crest_ach_75_percent_all_drops</aesthetic>
+<description>Wipe out the Ikko-Ikki in the campaign.</description>
+<key>ACHIEVEMENT_C_WIPE_OUT_IKKO_IKKI</key>
+<title>Eradicate the Ikko-Ikki</title>
+</achievements>
+<achievements>
+<aesthetic>helm_legendary_kabuto_of_ykok</aesthetic>
+<description>Achieve the ultimate accolade and obtain rank 1 on the multiplayer Shogun Ladder.</description>
+<key>ACHIEVEMENT_RANK_1_SHOGUN_LADDER</key>
+<title>There Can Be Only One</title>
+</achievements>
+<achievements>
+<description>Your daimyo wins 3 consecutive land battles during the summer season.</description>
+<key>ACHIEVEMENT_STEAM_SUMMER_SALE</key>
+<title>Summer Son</title>
+</achievements>
+<achievements>
+<aesthetic>crest_tokugawa_ieyasu</aesthetic>
+<description>Win a campaign on very hard difficulty.</description>
+<key>ACHIEVEMENT_WIN_HARD_CAMPAIGN</key>
+<title>Stubborn Pursuer of Victory</title>
+</achievements>
+<achievements>
+<aesthetic>mask_toyotomi_hideyoshi</aesthetic>
+<description>Win a campaign on legendary difficulty.</description>
+<key>ACHIEVEMENT_WIN_LEGENDARY_CAMPAIGN</key>
+<title>Against All Odds</title>
+</achievements>
+</dataroot>

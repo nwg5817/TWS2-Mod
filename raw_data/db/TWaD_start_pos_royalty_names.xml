@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_start_pos_royalty_names>
+<root>
+  <edit_uuid>49ed83ad-26b2-47ec-a6d9-bd28729371c2</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>campaign</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>campaign_name</column_source_column>
+    <column_source_table>campaigns</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>name</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+    <column_source_column>id</column_source_column>
+    <column_source_column>name</column_source_column>
+    <column_source_column>faction</column_source_column>
+    <column_source_table>names_royalty</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>start_count</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+    <default_value>1</default_value>
+  </field>
+</root>

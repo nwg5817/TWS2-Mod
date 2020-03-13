@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_projectile_inflight_transition_enum>
+<root>
+  <edit_uuid>7d1f6af7-1180-4c44-b97d-9d4a37caadcf</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+</root>

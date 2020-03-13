@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_TExc_unrest_causes>
+<root>
+  <edit_uuid>5f6bd26b-7a1c-47e5-9a20-01178ebbbe0e</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>cause</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+  </field>
+</root>

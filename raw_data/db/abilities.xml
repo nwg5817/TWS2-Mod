@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Wed 24. Aug 12:23:54 2011" revision="2" export_branch="T:/branches/shogun2/patch/common/TWeak/Framework" export_user="Luke.Carter">
+<edit_uuid>ad69ca94-658d-428c-bb43-736f59bceec2</edit_uuid><abilities>
+<ability>Can_Hide_In_Woods</ability>
+<associated_attribute>command_land</associated_attribute>
+<associated_cursor_mode>normal</associated_cursor_mode>
+<effect_text>Enables hiding on the battlefield.</effect_text>
+<is_active>0</is_active>
+</abilities>
+<abilities>
+<ability>can_assassinate</ability>
+<associated_attribute>subterfuge</associated_attribute>
+<associated_cursor_mode>action</associated_cursor_mode>
+<effect_text>Can undertake assassination missions.</effect_text>
+<is_active>1</is_active>
+</abilities>
+<abilities>
+<ability>can_attack_land</ability>
+<associated_attribute>command_land</associated_attribute>
+<associated_cursor_mode>attack</associated_cursor_mode>
+<effect_text>Can instigate land battles.</effect_text>
+<is_active>1</is_active>
+</abilities>
+<abilities>
+<ability>can_attack_naval</ability>
+<associated_attribute>command_sea</associated_attribute>
+<associated_cursor_mode>attack</associated_cursor_mode>
+<effect_text>Can instigate naval battles.</effect_text>
+<is_active>1</is_active>
+</abilities>
+<abilities>
+<ability>can_bribe</ability>
+<associated_attribute>cunning</associated_attribute>
+<associated_cursor_mode>action</associated_cursor_mode>
+<effect_text>Can bribe enemy characters and castles.</effect_text>
+<is_active>1</is_active>
+</abilities>
+<abilities>
+<ability>can_build_fort</ability>
+<associated_attribute>command_land</associated_attribute>
+<associated_cursor_mode>normal</associated_cursor_mode>
+<effect_text>Can construct fort.</effect_text>
+<is_active>1</is_active>
+</abilities>
+<abilities>
+<ability>can_build_religious</ability>
+<associated_attribute>zeal</associated_attribute>
+<associated_cursor_mode>normal</associated_cursor_mode>
+<effect_text>Can construct mission.</effect_text>
+<is_active>1</is_active>
+</abilities>
+<abilities>
+<ability>can_convert</ability>
+<associated_attribute>zeal</associated_attribute>
+<associated_cursor_mode>normal</associated_cursor_mode>
+<effect_text>Enables religious conversion.</effect_text>
+<is_active>0</is_active>
+</abilities>
+<abilities>
+<ability>can_convert_character</ability>
+<associated_attribute>zeal</associated_attribute>
+<associated_cursor_mode>action</associated_cursor_mode>
+<effect_text>Can convert enemy agents.</effect_text>
+<is_active>1</is_active>
+</abilities>
+<abilities>
+<ability>can_demoralise_army</ability>
+<associated_attribute>zeal</associated_attribute>
+<associated_cursor_mode>action</associated_cursor_mode>
+<effect_text>Can demoralize enemy armies</effect_text>
+<is_active>1</is_active>
+</abilities>
+<abilities>
+<ability>can_distract_garrison</ability>
+<associated_attribute>cunning</associated_attribute>
+<associated_cursor_mode>action</associated_cursor_mode>
+<effect_text>PLACEHOLDER Can distract garrisons.</effect_text>
+<is_active>1</is_active>
+</abilities>
+<abilities>
+<ability>can_duel</ability>
+<associated_attribute>duelling_pistols</associated_attribute>
+<associated_cursor_mode>action</associated_cursor_mode>
+<effect_text>Enables duelling challenges.</effect_text>
+<is_active>1</is_active>
+</abilities>
+<abilities>
+<ability>can_exchange</ability>
+<associated_cursor_mode>exchange</associated_cursor_mode>
+<effect_text>Can merge with other pieces.</effect_text>
+<is_active>1</is_active>
+</abilities>
+<abilities>
+<ability>can_hunt_down</ability>
+<associated_attribute>cunning</associated_attribute>
+<associated_cursor_mode>action</associated_cursor_mode>
+<effect_text>Can apprehend and trial other agents.</effect_text>
+<is_active>1</is_active>
+</abilities>
+<abilities>
+<ability>can_incite_revolt</ability>
+<associated_attribute>zeal</associated_attribute>
+<associated_cursor_mode>action</associated_cursor_mode>
+<effect_text>Can incite a religious revolt in enemy territory.</effect_text>
+<is_active>1</is_active>
+</abilities>
+<abilities>
+<ability>can_receive_duel</ability>
+<associated_attribute>duelling_pistols</associated_attribute>
+<associated_cursor_mode>action</associated_cursor_mode>
+<effect_text>Can receive a duel challenge.</effect_text>
+<is_active>1</is_active>
+</abilities>
+<abilities>
+<ability>can_research</ability>
+<associated_attribute>research</associated_attribute>
+<associated_cursor_mode>normal</associated_cursor_mode>
+<effect_text>Can research technologies.</effect_text>
+<is_active>0</is_active>
+</abilities>
+<abilities>
+<ability>can_sabotage</ability>
+<associated_attribute>subterfuge</associated_attribute>
+<associated_cursor_mode>action</associated_cursor_mode>
+<effect_text>Can undertake sabotage missions.</effect_text>
+<is_active>1</is_active>
+</abilities>
+<abilities>
+<ability>can_sabotage_army</ability>
+<associated_attribute>subterfuge</associated_attribute>
+<associated_cursor_mode>action</associated_cursor_mode>
+<effect_text>Can sabotage an army.</effect_text>
+<is_active>1</is_active>
+</abilities>
+<abilities>
+<ability>can_seduce</ability>
+<associated_attribute>subterfuge</associated_attribute>
+<associated_cursor_mode>action</associated_cursor_mode>
+<effect_text>Can seduce enemy characters.</effect_text>
+<is_active>1</is_active>
+</abilities>
+<abilities>
+<ability>can_spy</ability>
+<associated_attribute>subterfuge</associated_attribute>
+<associated_cursor_mode>action</associated_cursor_mode>
+<effect_text>Can undertake spying missions.</effect_text>
+<is_active>1</is_active>
+</abilities>
+</dataroot>

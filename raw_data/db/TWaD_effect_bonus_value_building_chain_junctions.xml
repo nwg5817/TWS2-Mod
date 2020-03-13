@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_effect_bonus_value_building_chain_junctions>
+<root>
+  <edit_uuid>dac95bf2-20e4-4518-9ee8-6daecf3e657b</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>effect</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+    <column_source_column>effect</column_source_column>
+    <column_source_table>effects</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>bonus_value_id</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>campaign_bonus_value_ids_building_chain</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>building_chain</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>building_chains</column_source_table>
+  </field>
+</root>

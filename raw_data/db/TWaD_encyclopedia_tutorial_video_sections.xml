@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_encyclopedia_tutorial_video_sections>
+<root>
+  <edit_uuid>b7309a9d-0bfe-4eec-b051-64a2593eb2b8</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>video_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>encyclopedia_tutorial_videos</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>section_cue_point</name>
+    <field_type>integer</field_type>
+    <required>1</required>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>section_title</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>encyclopedia_tutorial_video_section_titles</column_source_table>
+  </field>
+</root>

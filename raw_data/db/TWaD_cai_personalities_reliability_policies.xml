@@ -1,0 +1,11 @@
+<!DOCTYPE TWaD_cai_personalities_reliability_policies>
+<root>
+<edit_uuid>0db562e3-0445-11e0-8001-6cf049ef02b0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+</root>

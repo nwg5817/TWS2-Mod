@@ -1,0 +1,43 @@
+<!DOCTYPE TWaD_character_experience_skill_tiers>
+<root>
+<edit_uuid>f3c7cec2-cc9d-11e0-8001-6cf049ef02b0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>agent_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>agents</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>skill_tier_level</name>
+    <field_type>integer</field_type>
+    <required>1</required>
+    <default_value>1</default_value>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>optional_campaign_key</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+    <column_source_column>campaign_name</column_source_column>
+    <column_source_table>campaigns</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>experience_threshold</name>
+    <field_type>integer</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>skill_points</name>
+    <field_type>integer</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+</root>

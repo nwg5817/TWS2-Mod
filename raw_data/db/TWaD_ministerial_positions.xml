@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_ministerial_positions>
+<root>
+  <edit_uuid>713ccc65-3a2a-4f57-9d77-3d3f03a2e58c</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>minister_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>rank</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+</root>

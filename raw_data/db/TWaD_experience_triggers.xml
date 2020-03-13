@@ -1,0 +1,41 @@
+<!DOCTYPE TWaD_experience_triggers>
+<root>
+<edit_uuid>740aa6c4-8b69-11df-8001-001fd02417f0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>trigger_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>event</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>event</column_source_column>
+    <column_source_table>trigger_events</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>experience_points</name>
+    <field_type>integer</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>condition</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>localised_description</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>255</max_length>
+  </field>
+</root>

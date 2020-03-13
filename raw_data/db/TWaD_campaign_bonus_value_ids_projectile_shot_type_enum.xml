@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_campaign_bonus_value_ids_projectile_shot_type_enum>
+<root>
+  <edit_uuid>a2cc4ef7-b3f2-4328-84b7-9512f887238e</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+</root>

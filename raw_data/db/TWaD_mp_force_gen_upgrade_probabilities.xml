@@ -1,0 +1,34 @@
+<!DOCTYPE TWaD_mp_force_gen_upgrade_probabilities>
+<root>
+<edit_uuid>f88d070e-bfdc-11df-8001-001fd02417f0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>unit_category</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>unit_category</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>armour_upgrade_probability</name>
+    <field_type>single</field_type>
+    <required>1</required>
+    <default_value>0.0</default_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>weapon_upgrade_probability</name>
+    <field_type>single</field_type>
+    <required>1</required>
+    <default_value>0.0</default_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>experience_upgrade_probability</name>
+    <field_type>single</field_type>
+    <required>1</required>
+    <default_value>1.0</default_value>
+  </field>
+</root>

@@ -1,0 +1,179 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaDFORMDESCR_buildings>
+<root>
+	<form_name>Building Chains</form_name>
+	<rows>
+		<row>
+			<columns>
+				<column>
+					<subform_table>
+						<table_name>building_chains</table_name>
+						<new_button/>
+						<base_node/>
+						<record_switching>true</record_switching>
+						<filter_field>key</filter_field>
+						<parent_table></parent_table>
+						<parent_field></parent_field>
+						<static_text_field>Chain</static_text_field>
+						<text_edit_field>key</text_edit_field>
+					</subform_table>
+				</column>
+				<column>
+					<subform_table>
+						<table_name>building_chain_to_slots</table_name>
+						<new_button/>
+						<record_switching>false</record_switching>
+						<filter_field>chain</filter_field>
+						<parent_table>building_chains</parent_table>
+						<parent_field>key</parent_field>
+						<static_text_field>Slots</static_text_field>
+						<edit_grid>
+							<edit_grid_column name="Slot">slot</edit_grid_column>				  
+						</edit_grid>
+					</subform_table>				
+				</column>
+			</columns>
+		</row>
+		<row>
+			<subform_table>
+				<!-- The field which all aspects of this subform relate to, the primary key -->
+				<!-- Also the field that links to the parent table if this is a child subform -->
+				<columns>				
+					<table_name>building_levels</table_name>
+					<new_button/>
+					<record_switching>true</record_switching>
+					<filter_field>chain</filter_field>
+					<parent_table>building_chains</parent_table>
+					<parent_field>key</parent_field>
+					<static_text_field>Level Name</static_text_field>
+					<text_edit_field>level_name</text_edit_field>
+					<static_text_field>Level</static_text_field>
+					<text_edit_field>level</text_edit_field>
+				</columns>
+				<columns>
+					<column>
+						<static_text_field>Condition</static_text_field>
+						<memo_edit_field>condition</memo_edit_field>
+					</column>
+					<column>
+						<rows>
+							<row>
+								<columns>
+									<column>
+										<static_text_field>Create Cost</static_text_field>
+										<text_edit_field>create_cost</text_edit_field>
+									</column>
+									<column>
+										<static_text_field>Upkeep</static_text_field>
+										<text_edit_field>upkeep_cost</text_edit_field>
+									</column>
+									<column>
+										<static_text_field>ZOC</static_text_field>
+										<text_edit_field>zoc</text_edit_field>
+									</column>
+								</columns>
+							</row>
+							<row>
+								<columns>
+									<column>
+										<static_text_field>Create Time</static_text_field>
+										<text_edit_field>create_time</text_edit_field>
+									</column>
+									<column>
+										<static_text_field>Demolition Cost</static_text_field>
+										<text_edit_field>demolition_cost</text_edit_field>
+									</column>
+								</columns>
+							</row>
+						</rows>
+					</column>
+				</columns>
+			</subform_table>
+		</row>
+		<row>
+			<columns>
+				<column>
+					<rows>
+						<subform_table>
+							<static_text_field>Upgrade From</static_text_field>
+							<table_name>building_upgrades_junction</table_name>
+							<new_button/>
+							<record_switching>false</record_switching>
+							<filter_field>to</filter_field>
+							<parent_table>building_levels</parent_table>
+							<parent_field>level_name</parent_field>
+							<edit_grid>
+								<edit_grid_column name="Upgrade From">from</edit_grid_column>
+							</edit_grid>
+						</subform_table>
+						<subform_table>
+							<static_text_field>Units Enabled</static_text_field>
+							<table_name>building_units_allowed</table_name>
+							<new_button/>
+							<record_switching>false</record_switching>
+							<filter_field>building</filter_field>
+							<parent_table>building_levels</parent_table>
+							<parent_field>level_name</parent_field>
+							<edit_grid>
+								<edit_grid_column name="Unit Key">unit</edit_grid_column>
+								<edit_grid_column name="XP">XP</edit_grid_column>
+								<memo_grid_column name="Conditions">conditions</memo_grid_column>
+							</edit_grid>
+						</subform_table>
+					</rows>
+					<rows>
+						<subform_table>
+							<static_text_field>Cultural Variants</static_text_field>
+							<table_name>building_culture_variants</table_name>
+							<new_button/>
+							<record_switching>false</record_switching>
+							<filter_field>building</filter_field>
+							<parent_table>building_levels</parent_table>
+							<parent_field>level_name</parent_field>
+							<edit_grid>
+								<edit_grid_column name="Culture">culture</edit_grid_column>
+								<edit_grid_column name="Onscreen Name">name</edit_grid_column>
+								<edit_grid_column name="Artpiece">artpiece</edit_grid_column>
+								<edit_grid_column name="Artpiece Anim">artpiece_animated</edit_grid_column>
+								<edit_grid_column name="Description Key">description</edit_grid_column>
+								<edit_grid_column name="Icon">icon</edit_grid_column>
+							</edit_grid>
+						</subform_table>
+						<subform_table>
+							<static_text_field>Cultural/Government Type Variants</static_text_field>
+							<table_name>building_culture_gov_type_variants</table_name>
+							<new_button/>
+							<record_switching>false</record_switching>
+							<filter_field>building</filter_field>
+							<parent_table>building_levels</parent_table>
+							<parent_field>level_name</parent_field>
+							<edit_grid>
+								<edit_grid_column name="Culture">culture</edit_grid_column>
+								<edit_grid_column name="Government Type">government_type</edit_grid_column>
+								<edit_grid_column name="Onscreen Name">name</edit_grid_column>
+								<edit_grid_column name="Artpiece">artpiece</edit_grid_column>
+								<edit_grid_column name="Artpiece Anim">artpiece_animated</edit_grid_column>
+								<edit_grid_column name="Description Key">description</edit_grid_column>
+								<edit_grid_column name="Icon">icon</edit_grid_column>
+							</edit_grid>
+						</subform_table>
+						<subform_table>
+							<static_text_field>Effects</static_text_field>
+							<table_name>building_effects_junction</table_name>
+							<new_button/>
+							<record_switching>false</record_switching>
+							<filter_field>building</filter_field>
+							<parent_table>building_levels</parent_table>
+							<parent_field>level_name</parent_field>
+							<edit_grid>
+								<edit_grid_column name="Effect">effect</edit_grid_column>
+								<edit_grid_column name="Value">value</edit_grid_column>
+							</edit_grid>
+						</subform_table>
+					</rows>
+				</column>
+			</columns>
+		</row>
+	</rows>
+</root>
+	

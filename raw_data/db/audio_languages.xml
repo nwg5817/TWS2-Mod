@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Mon 12. Sep 14:10:42 2011" revision="3" export_branch="C:/TW/branches/shogun2/boshin/common/TWeak/Framework" export_user="Jon.Raftery">
+<edit_uuid>151a1817-c4d8-4867-94d7-e75367e01bc0</edit_uuid><audio_languages>
+<key>UK</key>
+</audio_languages>
+<audio_languages>
+<key>cz</key>
+</audio_languages>
+<audio_languages>
+<key>de</key>
+</audio_languages>
+<audio_languages>
+<key>es</key>
+</audio_languages>
+<audio_languages>
+<key>fr</key>
+</audio_languages>
+<audio_languages>
+<key>it</key>
+</audio_languages>
+<audio_languages>
+<key>jp</key>
+</audio_languages>
+<audio_languages>
+<key>pl</key>
+</audio_languages>
+<audio_languages>
+<key>ru</key>
+</audio_languages>
+<audio_languages>
+<key>us</key>
+</audio_languages>
+</dataroot>

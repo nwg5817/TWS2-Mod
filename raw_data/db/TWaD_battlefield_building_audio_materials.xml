@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_battlefield_building_audio_materials>
+<root>
+  <edit_uuid>770b4438-e8bd-4482-a552-1ccece66cd03</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>audio_material</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+  </field>
+</root>

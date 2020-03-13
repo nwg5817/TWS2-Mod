@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Wed 31. Aug 10:26:08 2011" revision="8" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Dom.Starr">
+<edit_uuid>3ea41e2c-b9f8-4f48-93e6-dff2fde6a77a</edit_uuid><start_pos_calendars>
+<campaign>jap_boshin</campaign>
+<start_season>season_spring</start_season>
+<start_week_of_year>0</start_week_of_year>
+<start_year>1864</start_year>
+<turns_per_year>24</turns_per_year>
+</start_pos_calendars>
+<start_pos_calendars>
+<campaign>jap_gempei</campaign>
+<start_season>season_spring</start_season>
+<start_week_of_year>0</start_week_of_year>
+<start_year>1175</start_year>
+<turns_per_year>4</turns_per_year>
+</start_pos_calendars>
+<start_pos_calendars>
+<campaign>jap_shogun</campaign>
+<start_season>season_spring</start_season>
+<start_week_of_year>0</start_week_of_year>
+<start_year>1545</start_year>
+<turns_per_year>4</turns_per_year>
+</start_pos_calendars>
+<start_pos_calendars>
+<campaign>tut_shogun</campaign>
+<start_season>season_spring</start_season>
+<start_week_of_year>0</start_week_of_year>
+<start_year>1565</start_year>
+<turns_per_year>4</turns_per_year>
+</start_pos_calendars>
+</dataroot>

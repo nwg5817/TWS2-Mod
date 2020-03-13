@@ -1,0 +1,86 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaDFORMDESCR_agents>
+<root>
+	<form_name>Agent Types</form_name>
+	<rows>
+		<subform_table>
+			<columns>
+				<table_name>agents</table_name>
+				<new_button/>
+				<base_node/>
+				<record_switching>true</record_switching>
+				<filter_field>key</filter_field>
+				<parent_table></parent_table>
+				<parent_field></parent_field>
+				<static_text_field>Agent Type</static_text_field>
+				<text_edit_field>key</text_edit_field>
+				<static_text_field>Animation Set</static_text_field>
+				<text_edit_field>animation_set</text_edit_field>
+			</columns>
+			<columns>
+				<static_text_field>Move Points</static_text_field>
+				<text_edit_field>move_points</text_edit_field>
+				<static_text_field>Line of Sight</static_text_field>
+				<text_edit_field>line_of_sight</text_edit_field>
+				<static_text_field>Zone of Control</static_text_field>
+				<text_edit_field>zone_of_control</text_edit_field>
+				<static_text_field>Playable</static_text_field>
+				<check_box_field>playable</check_box_field>
+				<static_text_field>Portrait Override</static_text_field>
+				<text_edit_field>portrait_override</text_edit_field>
+			</columns>
+			<columns>
+				<static_text_field>Primary Attribute</static_text_field>
+				<combo_box_field>primary_attribute</combo_box_field>
+			</columns>
+		</subform_table>
+		<subform_table>
+			<static_text_field>Agent Culture Details</static_text_field>
+			<table_name>agent_culture_details</table_name>
+			<new_button/>
+			<record_switching>false</record_switching>
+			<filter_field>agent</filter_field>
+			<parent_table>agents</parent_table>
+			<parent_field>key</parent_field>
+			<edit_grid>
+				<edit_grid_column name="Culture">culture</edit_grid_column>
+				<edit_grid_column name="Onscreen Name">onscreen_name</edit_grid_column>
+				<edit_grid_column name="Model">model</edit_grid_column>
+				<edit_grid_column name="Generals Unit">generals_unit</edit_grid_column>
+			</edit_grid>
+		</subform_table>
+		<columns>
+			<rows>
+				<subform_table>
+					<static_text_field>Attributes</static_text_field>
+					<table_name>agent_to_agent_attributes</table_name>
+					<new_button/>
+					<record_switching>false</record_switching>
+					<filter_field>agent</filter_field>
+					<parent_table>agents</parent_table>
+					<parent_field>key</parent_field>
+					<edit_grid>
+						<edit_grid_column name="Attribute">attribute</edit_grid_column>
+						<edit_grid_column name="Default Value">default_value</edit_grid_column>
+						<edit_grid_column name="Visible">visible</edit_grid_column>
+					</edit_grid>
+				</subform_table>
+			</rows>
+			<rows>
+				<subform_table>
+					<static_text_field>Abilities</static_text_field>
+					<table_name>agent_to_agent_abilities</table_name>
+					<new_button/>
+					<record_switching>false</record_switching>
+					<filter_field>agent</filter_field>
+					<parent_table>agents</parent_table>
+					<parent_field>key</parent_field>
+					<edit_grid>
+						<edit_grid_column name="Ability">ability</edit_grid_column>
+						<edit_grid_column name="default_value">default_value</edit_grid_column>
+					</edit_grid>
+				</subform_table>
+			</rows>
+		</columns>
+	</rows>
+</root>

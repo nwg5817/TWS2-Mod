@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_fort_underlay_climate_jcts>
+<root>
+  <edit_uuid>022111ff-e1d2-4ed5-9e15-7c208e36f4d8</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>fort_name</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>battlefield_buildings</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>climate</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>climate_type</column_source_column>
+    <column_source_table>climates</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>snow_underlay</name>
+    <field_type>yesno</field_type>
+    <required>1</required>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>underlay</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>farm</column_source_column>
+    <column_source_table>battle_terrain_farms</column_source_table>
+  </field>
+</root>

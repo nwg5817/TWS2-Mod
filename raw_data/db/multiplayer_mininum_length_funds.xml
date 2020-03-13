@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Thu 3. Feb 16:57:16 2011" revision="3" export_branch="T:/branches/shogun2/patch/shogun2/binaries" export_user="James.Green">
+<edit_uuid>94a4d39f-1e04-430f-b4bf-230cebfb71d4</edit_uuid><multiplayer_mininum_length_funds>
+<description>Minimum land battle funds spent</description>
+<key>minimum_land_battle_funds_spent</key>
+<value>900</value>
+</multiplayer_mininum_length_funds>
+<multiplayer_mininum_length_funds>
+<description>Minimum land battle length in seconds</description>
+<key>minimum_land_battle_length</key>
+<value>150</value>
+</multiplayer_mininum_length_funds>
+<multiplayer_mininum_length_funds>
+<description>Minimum naval battle funds spent</description>
+<key>minimum_naval_battle_funds_spent</key>
+<value>1100</value>
+</multiplayer_mininum_length_funds>
+<multiplayer_mininum_length_funds>
+<description>Minimum naval battle length in seconds</description>
+<key>minimum_naval_battle_length</key>
+<value>150</value>
+</multiplayer_mininum_length_funds>
+</dataroot>

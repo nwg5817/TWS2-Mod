@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_avatar_unit_group_recruitment_limits>
+<root>
+  <edit_uuid>ec4434b7-5451-4254-a8bd-8008e5a385b9</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>unit_group</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>1024</max_length>
+    <column_source_column>group_id</column_source_column>
+    <column_source_table>avatar_unit_group_ids</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>string</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>random_localisation_strings</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>number_of_units</name>
+    <field_type>integer</field_type>
+    <required>1</required>
+  </field>
+</root>

@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_battlefield_snow_props>
+<root>
+  <edit_uuid>8ce3af0a-78a6-40ae-a48b-c850ac99dbb5</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>prop</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>battlefield_buildings</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>enable_for_snow</name>
+    <field_type>yesno</field_type>
+    <required>1</required>
+    <column_source_column>season</column_source_column>
+    <column_source_table>seasons</column_source_table>
+  </field>
+</root>

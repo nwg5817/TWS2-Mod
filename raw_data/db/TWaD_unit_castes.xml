@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_unit_castes>
+<root>
+  <edit_uuid>716b663e-e1cf-11df-8001-6cf049ef02b0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>caste</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>localised_name</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>20000</max_length>
+  </field>
+</root>

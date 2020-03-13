@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Wed 14. Sep 11:43:37 2011" revision="5" export_branch="C:/TW/branches/shogun2/boshin/shogun2/binaries" export_user="Will.OBrien">
+<edit_uuid>40f25d11-9346-453b-a625-d982d532d56a</edit_uuid><campaign_character_anim_status>
+<status>attack_trade</status>
+</campaign_character_anim_status>
+<campaign_character_anim_status>
+<status>battle_attacker</status>
+</campaign_character_anim_status>
+<campaign_character_anim_status>
+<status>battle_defender</status>
+</campaign_character_anim_status>
+<campaign_character_anim_status>
+<status>damaged</status>
+</campaign_character_anim_status>
+<campaign_character_anim_status>
+<status>damaged_out_of_ap</status>
+</campaign_character_anim_status>
+<campaign_character_anim_status>
+<status>normal</status>
+</campaign_character_anim_status>
+<campaign_character_anim_status>
+<status>normal_out_of_ap</status>
+</campaign_character_anim_status>
+<campaign_character_anim_status>
+<status>siege</status>
+</campaign_character_anim_status>
+<campaign_character_anim_status>
+<status>stealthy</status>
+</campaign_character_anim_status>
+<campaign_character_anim_status>
+<status>stealthy_out_of_ap</status>
+</campaign_character_anim_status>
+</dataroot>

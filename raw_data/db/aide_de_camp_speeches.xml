@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Fri 24. Feb 11:49:16 2012" revision="16" export_branch="C:/TW/branches/shogun2/boshin/shogun2/src" export_user="Dylan.Coughlan">
+<edit_uuid>a28ba4f2-b0a3-4f88-99a1-6a679329e0d3</edit_uuid><aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_allied_fleet_destroyed</key>
+<offset_angle>0</offset_angle>
+<offset_range>55</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>Bah! Our esteemed ally has turned about, leaving us to the mercy of our foes!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_allied_general_killed</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>Our ally has fallen to the enemy my lord! A terrible loss!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_building_captured</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>We have captured a building, my lord!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_enemy_admiral_killed</key>
+<offset_angle>0</offset_angle>
+<offset_range>55</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>Their general has fallen! A devastating loss for the enemy!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_enemy_allied_general_killed</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>The enemy has lost a vital ally, my lord!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_enemy_ally_destroyed</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text>Their ally has abandoned them! Now we have them!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_enemy_captured_building</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>They have captured a building, my lord!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_enemy_captured_strategic_point</key>
+<offset_angle>0</offset_angle>
+<offset_range>3</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text>They now control a key position, my lord!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_enemy_fort_about_to_be_captured</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>The fort is but moments from being ours, sir!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_enemy_fort_getting_captured</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>Onwards, sir, onwards, the fort is falling!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_enemy_gates_captured</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>The gates are ours!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_enemy_general_killed</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>My lord, their general has fallen! A cutting blow!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_enemy_has_gatling_guns</key>
+<offset_angle>0</offset_angle>
+<offset_range>3</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text>My Lord; the enemy army contains the deadly gatling gun weapon</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_enemy_hidden_unit_spotted</key>
+<offset_angle>0</offset_angle>
+<offset_range>20</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>Hidden units, my lord, treacherously meant to ambush us!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_enemy_naval_bombardment</key>
+<offset_angle>0</offset_angle>
+<offset_range>3</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text>Naval bombardment incoming!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_enemy_reinforcements</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>Beware! Enemy reinforcements have arrived my lord!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_enemy_tower_captured</key>
+<offset_angle>0</offset_angle>
+<offset_range>55</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>We have captured their tower, my lord!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_enemy_tower_destroyed</key>
+<offset_angle>0</offset_angle>
+<offset_range>55</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>Our weapons made short work of their tower!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_enemy_walls_breached</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>The walls are destroyed! Into the breach!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_losing</key>
+<offset_angle>0</offset_angle>
+<offset_range>55</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text>All hope is failing, my lord! The battle is almost done!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>1</circumvent_cooldown>
+<key>adc_own_admiral_attacked</key>
+<offset_angle>0</offset_angle>
+<offset_range>55</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>Our general is under threat, my lord! He is too important to lose!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>1</circumvent_cooldown>
+<key>adc_own_admiral_killed</key>
+<offset_angle>0</offset_angle>
+<offset_range>55</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>Our general has fallen, my lord! Our men are shaken by this terrible event!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_own_allied_hidden_unit_spotted</key>
+<offset_angle>0</offset_angle>
+<offset_range>3</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text>The enemy has discovered our ally's hidden troops!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_own_ally_attacked</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>Our allies are under attack!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_own_ally_destroyed</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text>My lord! Our ally has fled, abandoning us to the enemy!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_own_fort_about_to_be_captured</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>Sir! We cannot hold this position much longer!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_own_fort_getting_captured</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>Sir, our defences are breached and failing!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_own_gates_lost</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>Our gate has fallen to the enemy!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>1</circumvent_cooldown>
+<key>adc_own_general_attacked</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>Our general is in grave danger, my lord!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>1</circumvent_cooldown>
+<key>adc_own_general_injured</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>Our general has been injured, my lord! He lives, but must leave the battle!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>1</circumvent_cooldown>
+<key>adc_own_general_killed</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>This is a black day! Our general has fallen , my lord.</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_own_hidden_unit_spotted</key>
+<offset_angle>0</offset_angle>
+<offset_range>20</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>Our hidden units have been discovered my lord!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_own_naval_bombardment</key>
+<offset_angle>0</offset_angle>
+<offset_range>3</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text>Sir! The enemy have called in a bombardment. It may target our position!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_own_reinforcements</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>Reinforcements have arrived!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_own_ship lost</key>
+<offset_angle>0</offset_angle>
+<offset_range>55</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>Our ship has been destroyed! All hands are lost!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_own_ship surrendered</key>
+<offset_angle>0</offset_angle>
+<offset_range>55</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>One of our ships has chosen dishonour, my lord!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_own_ship_being_boarded</key>
+<offset_angle>0</offset_angle>
+<offset_range>55</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>Here they come! Prepare to repel boarders!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_own_ship_boom</key>
+<offset_angle>0</offset_angle>
+<offset_range>55</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text>Our ship has exploded!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_own_ship_demasted</key>
+<offset_angle>0</offset_angle>
+<offset_range>55</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>One of our ships has lost its sails! It may not last much longer in such a state!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_own_ship_on_fire</key>
+<offset_angle>0</offset_angle>
+<offset_range>3</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>Fire! One of our ships has been set ablaze!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_own_ship_routed</key>
+<offset_angle>0</offset_angle>
+<offset_range>55</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>One of our ships is withdrawing!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_own_ship_within_coastal_battery</key>
+<offset_angle>0</offset_angle>
+<offset_range>3</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text>Beware! Our ship is in range of a coastal battery</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_own_tower_destroyed</key>
+<offset_angle>0</offset_angle>
+<offset_range>55</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>Our tower has fallen to their fire!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_own_tower_lost</key>
+<offset_angle>0</offset_angle>
+<offset_range>55</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>The enemy have taken a tower!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_own_unit_exhausted</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>The men are fatigued, my lord, and some must rest!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_own_unit_line_of_sight_obstructed</key>
+<offset_angle>0</offset_angle>
+<offset_range>3</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text>We cannot see our targets but will try to hit them</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_own_unit_lost</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>Our entire unit has perished, my lord!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_own_unit_out_of_ammo</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>One of our units have used all its ammunition, my lord.</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_own_unit_routed</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>Our men are running from the battlefield: a shameful display!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_own_unit_suppressed</key>
+<offset_angle>0</offset_angle>
+<offset_range>3</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text>One of our units is under suppression fire!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_own_walls_breached</key>
+<offset_angle>0</offset_angle>
+<offset_range>11</offset_range>
+<picture_in_picture>1</picture_in_picture>
+<text>Our walls crumble under the pounding of their weapons!</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_player_is_attacker</key>
+<offset_angle>0</offset_angle>
+<offset_range>3</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text>My Lord, a friendly reminder that you are the attacker</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_player_is_defender</key>
+<offset_angle>0</offset_angle>
+<offset_range>3</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text>My Lord, a friendly reminder that you are the defender</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_torpedo_near</key>
+<offset_angle>0</offset_angle>
+<offset_range>3</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text>Beware! A torpedo approaches our fleet</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>0</circumvent_cooldown>
+<key>adc_weather_rain</key>
+<offset_angle>0</offset_angle>
+<offset_range>55</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text>The weather looks ominous, my lord! We should be wary of misfires.</text>
+</aide_de_camp_speeches>
+<aide_de_camp_speeches>
+<circumvent_cooldown>1</circumvent_cooldown>
+<key>adc_winning</key>
+<offset_angle>0</offset_angle>
+<offset_range>55</offset_range>
+<picture_in_picture>0</picture_in_picture>
+<text>My lord, a glorious victory will soon be yours!</text>
+</aide_de_camp_speeches>
+</dataroot>

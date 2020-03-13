@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_warscape_animated>
+<root>
+  <edit_uuid>ed370efe-94ec-48b6-9fc9-bea69fb2a280</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>texture_filename_base</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>category</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>warscape_categories</column_source_table>
+  </field>
+</root>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Tue 23. Aug 14:14:51 2011" revision="5" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Dom.Starr">
+<edit_uuid>c2825329-8d1a-4737-b97d-b34e5ece90ad</edit_uuid><campaigns>
+<campaign_name>jap_boshin</campaign_name>
+<campaign_order>0</campaign_order>
+<data_directory>world</data_directory>
+<description>Placeholder Boshin description</description>
+<display_location>bos_japan</display_location>
+<exportable>1</exportable>
+<is_grand>1</is_grand>
+<map_name>bos_japan</map_name>
+<onscreen_name>Fall of the Samurai</onscreen_name>
+</campaigns>
+<campaigns>
+<campaign_name>jap_gempei</campaign_name>
+<campaign_order>0</campaign_order>
+<data_directory>world</data_directory>
+<description>Placeholder Gempei description</description>
+<display_location>gem_japan</display_location>
+<exportable>1</exportable>
+<is_grand>1</is_grand>
+<map_name>gem_japan</map_name>
+<onscreen_name>Rise of the Samurai</onscreen_name>
+</campaigns>
+<campaigns>
+<campaign_name>jap_shogun</campaign_name>
+<campaign_order>0</campaign_order>
+<data_directory>world</data_directory>
+<description>Placeholder description</description>
+<display_location>sho_japan</display_location>
+<exportable>1</exportable>
+<is_grand>1</is_grand>
+<map_name>sho_japan</map_name>
+<onscreen_name>Shogun 2</onscreen_name>
+</campaigns>
+<campaigns>
+<campaign_name>tut_shogun</campaign_name>
+<campaign_order>1</campaign_order>
+<data_directory>world</data_directory>
+<description>Placeholder tutorial description</description>
+<display_location>sho_tut</display_location>
+<exportable>1</exportable>
+<is_grand>0</is_grand>
+<map_name>sho_tut</map_name>
+<onscreen_name>Shikoku</onscreen_name>
+</campaigns>
+</dataroot>

@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_campaign_character_anim_sets>
+<root>
+  <edit_uuid>431c1ba6-f736-44d8-9d69-7bf177556571</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>reference_pose</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>anim_reference_poses</column_source_table>
+  </field>
+</root>

@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_start_pos_faction_effects>
+<root>
+  <edit_uuid>7a23872d-8d14-4280-8114-ba24ab086126</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>start_pos_faction</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+    <column_source_column>ID</column_source_column>
+    <column_source_column>faction</column_source_column>
+    <column_source_column>campaign</column_source_column>
+    <column_source_table>start_pos_factions</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>effect</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>effect</column_source_column>
+    <column_source_table>effects</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>effect_value</name>
+    <field_type>single</field_type>
+    <required>1</required>
+  </field>
+</root>

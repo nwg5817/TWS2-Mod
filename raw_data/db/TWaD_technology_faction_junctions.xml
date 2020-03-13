@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_technology_faction_junctions>
+<root>
+  <edit_uuid>b6ef2227-7812-4d30-9de6-78fd689c37ad</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>technology_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>technologies</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>faction_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>factions</column_source_table>
+  </field>
+</root>

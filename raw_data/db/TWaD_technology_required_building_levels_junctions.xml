@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_technology_required_building_levels_junctions>
+<root>
+  <edit_uuid>687c8554-f3d5-4b3e-bd0a-582d6096f17b</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>technology</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>technologies</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>required_building_level</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>level_name</column_source_column>
+    <column_source_table>building_levels</column_source_table>
+  </field>
+</root>

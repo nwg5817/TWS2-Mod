@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_units_special_edition>
+<root>
+  <edit_uuid>83290295-3a04-440e-818b-a1266ac21751</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>units</column_source_table>
+  </field>
+</root>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Tue 12. Jul 10:50:13 2011" revision="7" export_branch="T:/branches/shogun2/patch/shogun2/binaries" export_user="James.Whitston">
+<edit_uuid>acdf4a14-a990-4289-aa17-495b2acaa106</edit_uuid><avatar_gempei_dojos>
+<chain>bow</chain>
+<key>bow</key>
+<level>1</level>
+<unit>Genpei_Inf_Missile_Samurai_Infantry_MP</unit>
+</avatar_gempei_dojos>
+<avatar_gempei_dojos>
+<chain>bow</chain>
+<key>bow</key>
+<level>2</level>
+<unit>Genpei_Cav_Missile_Samurai_Hero_MP</unit>
+</avatar_gempei_dojos>
+<avatar_gempei_dojos>
+<chain>cavalry</chain>
+<key>cavalry</key>
+<level>3</level>
+<unit>Genpei_Cav_Missile_Samurai_Cavalry_MP</unit>
+</avatar_gempei_dojos>
+<avatar_gempei_dojos>
+<chain>spear</chain>
+<key>spear</key>
+<level>2</level>
+<unit>Genpei_Cav_Missile_Onna_Bushi_Heroine_MP</unit>
+</avatar_gempei_dojos>
+</dataroot>

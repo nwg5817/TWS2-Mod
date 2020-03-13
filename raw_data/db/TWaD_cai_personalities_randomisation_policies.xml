@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_cai_personalities_randomisation_policies>
+<root>
+<edit_uuid>3f634424-9dc2-4a13-a4c3-ac4ba6025bb5</edit_uuid>
+<field>
+<field_uuid>{e383b4ad-3609-4e3d-b82c-d3ac9e0f66cf}</field_uuid>
+<primary_key>1</primary_key>
+<name>randomisation_policy_key</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>2000</max_length>
+</field>
+</root>

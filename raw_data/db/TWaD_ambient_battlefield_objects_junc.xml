@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_ambient_battlefield_objects_junc>
+<root>
+  <edit_uuid>bc7f2e28-d62f-4841-acd4-89e6da5ee981</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>climate</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>climate_type</column_source_column>
+    <column_source_table>climates</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>season</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>season</column_source_column>
+    <column_source_table>seasons</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>ambient_battlefield_object</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>ambient_battlefield_object</column_source_column>
+    <column_source_table>ambient_battlefield_objects</column_source_table>
+  </field>
+</root>

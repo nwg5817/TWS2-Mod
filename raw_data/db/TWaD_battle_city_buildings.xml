@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_battle_city_buildings>
+<root>
+  <edit_uuid>4599ca6a-757a-48af-b837-9bde4d433160</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>building</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>warscape_rigid</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>city</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>city</column_source_column>
+    <column_source_table>battle_cities</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>amount_in_town</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+    <default_value>-1</default_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>amount_in_city</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+    <default_value>-1</default_value>
+  </field>
+</root>

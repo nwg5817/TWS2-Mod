@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaDFORMDESCR_ancillary_triggers>
+<root>
+	<form_name>Ancillary Triggers</form_name>
+	<columns>
+	<rows>
+		<subform_table>
+			<columns>
+				<table_name>ancillary_triggers</table_name>
+				<new_button/>
+				<base_node/>
+				<record_switching>true</record_switching>
+				<filter_field>trigger</filter_field>
+				<parent_table></parent_table>
+				<parent_field></parent_field>
+				<static_text_field>Trigger</static_text_field>
+				<text_edit_field>trigger</text_edit_field>
+			</columns>
+			<columns>
+				<static_text_field>Event</static_text_field>
+				<combo_box_field>event</combo_box_field>
+			</columns>
+			<columns>
+				<static_text_field>Conditions</static_text_field>
+				<memo_edit_field>conditions</memo_edit_field>
+			</columns>
+		</subform_table>
+	</rows>
+	<rows>
+		<static_text_field>Add Ancillary</static_text_field>
+		<subform_table>
+			<table_name>ancillary_trigger_effects</table_name>
+			<new_button/>
+			<record_switching>false</record_switching>
+			<filter_field>trigger</filter_field>
+			<parent_table>ancillary_triggers</parent_table>
+			<parent_field>trigger</parent_field>
+			<edit_grid>
+				<edit_grid_column name="Ancillary">ancillary</edit_grid_column>
+				<edit_grid_column name="Chance (%)">chance</edit_grid_column>
+			</edit_grid>
+		</subform_table>
+	</rows>
+	<rows>
+		<static_text_field>Remove Ancillary</static_text_field>
+		<subform_table>
+			<table_name>ancillary_triggers_to_ancillary_removals</table_name>
+			<new_button/>
+			<record_switching>false</record_switching>
+			<filter_field>trigger</filter_field>
+			<parent_table>ancillary_triggers</parent_table>
+			<parent_field>trigger</parent_field>
+			<edit_grid>
+				<edit_grid_column name="Ancillary">ancillary</edit_grid_column>
+			</edit_grid>
+		</subform_table>
+	</rows>
+	</columns>
+</root>

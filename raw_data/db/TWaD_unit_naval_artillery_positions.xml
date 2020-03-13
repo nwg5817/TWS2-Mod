@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_unit_naval_artillery_positions>
+<root>
+  <edit_uuid>5d5343bc-de8e-47fc-9ed1-99fc22f97e96</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+</root>

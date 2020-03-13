@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Wed 30. Nov 14:33:36 2011" revision="41" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Chris.Gambold">
+<edit_uuid>336074d5-2dc1-4428-82d9-bd1e53f7898b</edit_uuid><trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not CharacterHasTrait(&quot;S2_boshin_general_protected&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterWoundedInAssassinationAttempt</event>
+<trigger>S2_boshin_all_blokes_maimed_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterTurnsAtHome() &gt;= 50 and CharacterStationaryForOneTurn() and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterTurnEnd</event>
+<trigger>S2_boshin_all_blokes_noodles_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>[CharacterType(&quot;boshin_veteran&quot;) or CharacterType(&quot;boshin_shinsengumi&quot;) or CharacterType(&quot;boshin_shinobi&quot;) or CharacterType(&quot;boshin_ishinshishi&quot;)] and CharacterInBuildingOfChain(&quot;bos_criminal&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterTurnEnd</event>
+<trigger>S2_boshin_all_blokes_womaniser_agent_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterInBuildingOfChain(&quot;bos_criminal&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterTurnEnd</event>
+<trigger>S2_boshin_all_blokes_womaniser_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>IsDaimyo() and InsurrectionCrushed() and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterBecomesDaimyo</event>
+<trigger>S2_boshin_daimyo_cruel_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>IsDaimyo() and [CharacterFactionName(&quot;bos_nagaoka&quot;) or CharacterFactionName(&quot;bos_aizu&quot;) or CharacterFactionName(&quot;bos_jozai&quot;) or CharacterFactionName(&quot;bos_sendai&quot;) or CharacterFactionName(&quot;bos_obama&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterBecomesDaimyo</event>
+<trigger>S2_boshin_daimyo_foreign_tastes_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterSurvivesAssassinationAttempt</event>
+<trigger>S2_boshin_daimyo_paranoia_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>DaimyoSignsPeaceTreaty</event>
+<trigger>S2_boshin_daimyo_peace_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterSurvivesAssassinationAttempt</event>
+<trigger>S2_boshin_daimyo_protected_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterBecomesDaimyo</event>
+<trigger>S2_boshin_daimyo_unjust_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;boshin_geisha&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterCreated</event>
+<trigger>S2_boshin_geisha_created_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;boshin_geisha&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterWoundedInAssassinationAttempt</event>
+<trigger>S2_boshin_geisha_maimed_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;boshin_geisha&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterSuccessfulSeduction</event>
+<trigger>S2_boshin_geisha_new_tricks_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterWonBattle() and CampaignPercentageOfOwnKilled() &gt;= 70 and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>S2_boshin_general_bloodthirsty_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CommanderFoughtInMelee() and not CharacterRouted() and not CharacterWithdrewFromBattle() and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>S2_boshin_general_brave_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasTrait(&quot;S2_boshin_general_new_toys&quot;) and not CharacterHasTrait(&quot;S2_boshin_general_nostalgic&quot;)</conditions>
+<event>CharacterCreated</event>
+<trigger>S2_boshin_general_conservative_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterRouted() and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>S2_boshin_general_coward_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterCreated</event>
+<trigger>S2_boshin_general_created_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterInBuildingChain(&quot;bos_criminal&quot;) and CampaignName(&quot;jap_boshin&quot;) and not CharacterHoldsPost()</conditions>
+<event>CharacterTurnEnd</event>
+<trigger>S2_boshin_general_drunkard_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterHoldsPost() and not CharacterHasTrait(&quot;S2_boshin_general_ambition&quot;) and not CharacterWifeHasTrait(&quot;S2_boshin_wife_ambition&quot;) and not IsDaimyo() and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterTurnEnd</event>
+<trigger>S2_boshin_general_loyal_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRelativeKilled</event>
+<trigger>S2_boshin_general_mad_grief_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterTurnsAtSea() &gt;= 30 and not CharacterHasTrait(&quot;S2_boshin_general_seasick&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterTurnEnd</event>
+<trigger>S2_boshin_general_mad_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasTrait(&quot;S2_boshin_general_conservative&quot;) and not CharacterHasTrait(&quot;S2_boshin_general_nostalgic&quot;)</conditions>
+<event>CharacterCreated</event>
+<trigger>S2_boshin_general_new_toys_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and IsNightBattle() and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>S2_boshin_general_nocturnal_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasTrait(&quot;S2_boshin_general_new_toys&quot;) and not CharacterHasTrait(&quot;S2_boshin_general_conservative&quot;)</conditions>
+<event>CharacterCreated</event>
+<trigger>S2_boshin_general_nostalgic_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not CharacterHasTrait(&quot;S2_boshin_general_protected&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterSurvivesAssassinationAttempt</event>
+<trigger>S2_boshin_general_paranoia_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not CharacterHasTrait(&quot;S2_boshin_general_paranoia&quot;) and not CharacterHasTrait(&quot;S2_boshin_all_blokes_maimed&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterSurvivesAssassinationAttempt</event>
+<trigger>S2_boshin_general_protected_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterTurnsAtSea() &gt;= 30 and not CharacterHasTrait(&quot;S2_boshin_general_mad&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterTurnEnd</event>
+<trigger>S2_boshin_general_seasick_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and [CharacterFactionName(&quot;bos_tosa&quot;) or CharacterFactionName(&quot;bos_choshu&quot;) or CharacterFactionName(&quot;bos_satsuma&quot;) or CharacterFactionName(&quot;bos_ueno&quot;) or CharacterFactionName(&quot;bos_saga&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterBecomesDaimyo</event>
+<trigger>S2_boshin_imperialist_daimyo_created_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;boshin_ishinshishi&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterCreated</event>
+<trigger>S2_boshin_ishin_shishi_created_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;boshin_ishinshishi&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterSuccessfulConvert</event>
+<trigger>S2_boshin_ishin_shishi_persuasive_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;boshin_shinobi&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterCreated</event>
+<trigger>S2_boshin_shinobi_created_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;boshin_shinobi&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>AssassinationAttemptCriticalSuccess</event>
+<trigger>S2_boshin_shinobi_vicious_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;boshin_shinsengumi&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterSuccessfulConvert</event>
+<trigger>S2_boshin_shinsengumi_bandit</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;boshin_shinsengumi&quot;) and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasTrait(&quot;S2_boshin_shinsengumi_noble&quot;)</conditions>
+<event>CharacterCreated</event>
+<trigger>S2_boshin_shinsengumi_cruel_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;boshin_shinsengumi&quot;) and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasTrait(&quot;S2_boshin_shinsengumi_cruel&quot;)</conditions>
+<event>CharacterCreated</event>
+<trigger>S2_boshin_shinsengumi_noble_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and [CharacterFactionName(&quot;bos_nagaoka&quot;) or CharacterFactionName(&quot;bos_aizu&quot;) or CharacterFactionName(&quot;bos_jozai&quot;) or CharacterFactionName(&quot;bos_sendai&quot;) or CharacterFactionName(&quot;bos_obama&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterBecomesDaimyo</event>
+<trigger>S2_boshin_shogunate_daimyo_created_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;boshin_veteran&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterCreated</event>
+<trigger>S2_boshin_veteran_created_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;boshin_veteran&quot;) and CharacterInBuildingChain(&quot;bos_criminal&quot;) and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasTrait(&quot;S2_boshin_veteran_teetotal&quot;)</conditions>
+<event>CharacterTurnEnd</event>
+<trigger>S2_boshin_veteran_drunkard_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;boshin_veteran&quot;) and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasTrait(&quot;S2_boshin_veteran_japanophobe&quot;)</conditions>
+<event>CharacterCreated</event>
+<trigger>S2_boshin_veteran_japanophile_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;boshin_veteran&quot;) and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasTrait(&quot;S2_boshin_veteran_japanophile&quot;)</conditions>
+<event>CharacterCreated</event>
+<trigger>S2_boshin_veteran_japanophobe_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not CharacterHasTrait(&quot;S2_trait_general_protected&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterWoundedInAssassinationAttempt</event>
+<trigger>S2_trait_all_blokes_maimed_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterTurnsAtHome() &gt;= 50 and CharacterStationaryForOneTurn() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterTurnEnd</event>
+<trigger>S2_trait_all_blokes_noodles_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterInBuildingOfChain(&quot;SHO_Stealth&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterTurnEnd</event>
+<trigger>S2_trait_all_blokes_womaniser_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterBecomesDaimyo</event>
+<trigger>S2_trait_daimyo_created_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>IsDaimyo() and InsurrectionCrushed() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterBecomesDaimyo</event>
+<trigger>S2_trait_daimyo_cruel_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>IsDaimyo() and CharacterFactionReligion(&quot;rel_catholic&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterBecomesDaimyo</event>
+<trigger>S2_trait_daimyo_foreign_tastes_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>IsDaimyo() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterSurvivesAssassinationAttempt</event>
+<trigger>S2_trait_daimyo_paranoia_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>IsDaimyo() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>DaimyoSignsPeaceTreaty</event>
+<trigger>S2_trait_daimyo_peace_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>IsDaimyo() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterSurvivesAssassinationAttempt</event>
+<trigger>S2_trait_daimyo_protected_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterBecomesDaimyo</event>
+<trigger>S2_trait_daimyo_unjust_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;geisha&quot;)</conditions>
+<event>CharacterWoundedInAssassinationAttempt</event>
+<trigger>S2_trait_geisha_maimed_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterWonBattle() and CampaignPercentageOfOwnKilled() &gt;= 70 and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>S2_trait_general_bloodthirsty_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CommanderFoughtInMelee() and not CharacterRouted() and not CharacterWithdrewFromBattle() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>S2_trait_general_brave_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterRouted() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>S2_trait_general_coward_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not CharacterFactionName(&quot;ikko_ikki&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterCreated</event>
+<trigger>S2_trait_general_created_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterInBuildingOfChain(&quot;SHO_Stealth&quot;) and not CharacterHoldsPost() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterTurnEnd</event>
+<trigger>S2_trait_general_drunkard_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterFactionName(&quot;ikko_ikki&quot;)</conditions>
+<event>CharacterCreated</event>
+<trigger>S2_trait_general_ikko_fanatic_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterFactionName(&quot;ikko_ikki&quot;)</conditions>
+<event>CharacterLootedSettlement</event>
+<trigger>S2_trait_general_ikko_looter</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterHoldsPost() and not CharacterHasTrait(&quot;S2_trait_general_ambition&quot;) and not CharacterWifeHasTrait(&quot;S2_trait_wife_ambition&quot;) and not IsDaimyo() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterTurnEnd</event>
+<trigger>S2_trait_general_loyal_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRelativeKilled</event>
+<trigger>S2_trait_general_mad_grief_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterTurnsAtSea() &gt;= 30 and not CharacterHasTrait(&quot;S2_trait_general_seasick&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterTurnEnd</event>
+<trigger>S2_trait_general_mad_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterFactionName(&quot;iga_ninja&quot;)</conditions>
+<event>CharacterComesOfAge</event>
+<trigger>S2_trait_general_nocturnal_2_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterFactionName(&quot;iga_ninja&quot;)</conditions>
+<event>CharacterCreated</event>
+<trigger>S2_trait_general_nocturnal_3_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and IsNightBattle() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterCompletedBattle</event>
+<trigger>S2_trait_general_nocturnal_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not CharacterHasTrait(&quot;S2_trait_general_protected&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterSurvivesAssassinationAttempt</event>
+<trigger>S2_trait_general_paranoia_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not CharacterFactionName(&quot;ikko_ikki&quot;)</conditions>
+<event>CharacterLootedSettlement</event>
+<trigger>S2_trait_general_plunder_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not CharacterHasTrait(&quot;S2_trait_general_paranoia&quot;) and not CharacterHasTrait(&quot;S2_trait_all_blokes_maimed&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterSurvivesAssassinationAttempt</event>
+<trigger>S2_trait_general_protected_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterTurnsAtSea() &gt;= 30 and not CharacterHasTrait(&quot;S2_trait_general_mad&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterTurnEnd</event>
+<trigger>S2_trait_general_seasick_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;metsuke&quot;) </conditions>
+<event>CharacterCreated</event>
+<trigger>S2_trait_metsuke_corrupt_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;metsuke&quot;) </conditions>
+<event>CharacterSuccessfulHuntDown</event>
+<trigger>S2_trait_metsuke_cruel_1_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;metsuke&quot;) and CharacterInBuildingOfChain(&quot;SHO_Stealth&quot;)</conditions>
+<event>CharacterTurnEnd</event>
+<trigger>S2_trait_metsuke_drunkard_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;metsuke&quot;) </conditions>
+<event>CharacterSurvivesAssassinationAttempt</event>
+<trigger>S2_trait_metsuke_paranoia_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;missionary&quot;)</conditions>
+<event>CharacterCreated</event>
+<trigger>S2_trait_missionary_corrupt_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;missionary&quot;) and CharacterInBuildingOfChain(&quot;SHO_Stealth&quot;) and not CharacterHasTrait(&quot;S2_trait_missionary_jaded&quot;)</conditions>
+<event>CharacterTurnEnd</event>
+<trigger>S2_trait_missionary_drunkard_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;missionary&quot;) and not CharacterHasTrait(&quot;S2_trait_missionary_drunkard&quot;)</conditions>
+<event>ConvertAttemptFailure</event>
+<trigger>S2_trait_missionary_jaded_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;)] and CharacterInBuildingOfChain(&quot;SHO_Stealth&quot;)</conditions>
+<event>CharacterTurnEnd</event>
+<trigger>S2_trait_monk_drunkard_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;)] </conditions>
+<event>CharacterSurvivesAssassinationAttempt</event>
+<trigger>S2_trait_monk_fighter_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;)] and CharacterTurnsInEnemyLands() &gt;= 30</conditions>
+<event>CharacterTurnEnd</event>
+<trigger>S2_trait_monk_unworldly_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;ninja&quot;) and CharacterInBuildingOfChain(&quot;SHO_Stealth&quot;)</conditions>
+<event>CharacterTurnEnd</event>
+<trigger>S2_trait_ninja_drunkard_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;ninja&quot;)</conditions>
+<event>AssassinationAttemptCriticalSuccess</event>
+<trigger>S2_trait_ninja_enjoys_it_trigger</trigger>
+</trait_triggers>
+<trait_triggers>
+<conditions>CharacterType(&quot;minister&quot;) and CharacterIsFemale() and CharacterOlderThan(16) and not CharacterOlderThan(40) and CharacterWifeHasTrait(&quot;S2_trait_wife_fertile&quot;) and CharacterNumberOfChildren() &gt; 1 and not CharacterHasTrait(&quot;S2_trait_wife_loyal&quot;) and not CharacterHasTrait(&quot;S2_trait_wife_beauty&quot;) and not CharacterHasTrait(&quot;S2_trait_wife_shrewish&quot;) and not CharacterHasTrait(&quot;S2_trait_wife_cunning&quot;) and not CharacterHasTrait(&quot;S2_trait_wife_moneylover&quot;) and not CharacterHasTrait(&quot;S2_trait_wife_fiscal_prudence&quot;) and not CharacterHasTrait(&quot;S2_trait_wife_diplomatic&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CharacterType(&quot;boshin_geisha&quot;)</conditions>
+<event>CharacterTurnStart</event>
+<trigger>S2_trait_wife_fertile_2_trigger</trigger>
+</trait_triggers>
+</dataroot>

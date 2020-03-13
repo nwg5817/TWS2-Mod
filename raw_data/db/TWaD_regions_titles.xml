@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_regions_titles>
+<root>
+  <edit_uuid>94cce8d5-8cde-4fb6-911e-59fb0b0df8c0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>region</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>regions</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>government</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>government_type</column_source_column>
+    <column_source_table>government_types</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>gender</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>gender</column_source_column>
+    <column_source_table>genders</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>title</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+</root>

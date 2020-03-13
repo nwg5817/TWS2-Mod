@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD__kv_special_ability_effects>
+<root>
+  <edit_uuid>978c8855-7ea7-11df-8001-001fd02417f0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>value</name>
+    <field_type>single</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>description</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>536870910</max_length>
+  </field>
+</root>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Tue 21. Sep 09:36:06 2010" revision="1" export_branch="C:/WINDOWS" export_user="Jack.Lusted">
+<edit_uuid>4727a923-12ab-42a1-b6a1-932c2b698494</edit_uuid><entity_training_levels>
+<max_offset_distance>0.3</max_offset_distance>
+<training_level>elite</training_level>
+</entity_training_levels>
+<entity_training_levels>
+<max_offset_distance>1.7</max_offset_distance>
+<training_level>mob</training_level>
+</entity_training_levels>
+<entity_training_levels>
+<max_offset_distance>0.8</max_offset_distance>
+<training_level>poorly_trained</training_level>
+</entity_training_levels>
+<entity_training_levels>
+<max_offset_distance>1</max_offset_distance>
+<training_level>rabble</training_level>
+</entity_training_levels>
+<entity_training_levels>
+<max_offset_distance>0.6</max_offset_distance>
+<training_level>trained</training_level>
+</entity_training_levels>
+<entity_training_levels>
+<max_offset_distance>0.4</max_offset_distance>
+<training_level>well_trained</training_level>
+</entity_training_levels>
+</dataroot>

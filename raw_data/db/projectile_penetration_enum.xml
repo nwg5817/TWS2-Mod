@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Thu 11. Aug 11:26:05 2011" revision="1" export_branch="T:/branches/shogun2/patch/common/TWeak/Framework" export_user="Luke.Carter">
+<edit_uuid>6261fdb0-37c1-4292-810e-93ad33d30e43</edit_uuid><projectile_penetration_enum>
+<key>ap</key>
+</projectile_penetration_enum>
+<projectile_penetration_enum>
+<key>body_piercing</key>
+</projectile_penetration_enum>
+<projectile_penetration_enum>
+<key>effective_range_based</key>
+</projectile_penetration_enum>
+<projectile_penetration_enum>
+<key>high</key>
+</projectile_penetration_enum>
+<projectile_penetration_enum>
+<key>low</key>
+</projectile_penetration_enum>
+<projectile_penetration_enum>
+<key>medium</key>
+</projectile_penetration_enum>
+</dataroot>

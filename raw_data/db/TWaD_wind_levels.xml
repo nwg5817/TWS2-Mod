@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_wind_levels>
+<root>
+  <edit_uuid>21505334-ef44-11e0-8001-6cf049ef02b0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>sea_surface</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>sea_surfaces</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>onscreen</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>magnitudeX</name>
+    <field_type>double</field_type>
+    <required>1</required>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>magnitudeY</name>
+    <field_type>double</field_type>
+    <required>1</required>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>sort_order</name>
+    <field_type>longinteger</field_type>
+    <required>0</required>
+  </field>
+</root>

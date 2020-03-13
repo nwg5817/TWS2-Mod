@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_entity_training_levels>
+<root>
+  <edit_uuid>dc3229b2-0693-4fab-85af-80edd25037ef</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>training_level</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>max_offset_distance</name>
+    <field_type>double</field_type>
+    <required>1</required>
+  </field>
+</root>

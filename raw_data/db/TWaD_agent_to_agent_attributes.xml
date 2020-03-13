@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_agent_to_agent_attributes>
+<root>
+  <edit_uuid>eb3dbb8e-3e6e-4058-b495-031e7a106a8e</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>attribute</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>agent_attributes</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>agent</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>agents</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>default_value</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>visible</name>
+    <field_type>yesno</field_type>
+    <required>1</required>
+    <default_value>Yes</default_value>
+  </field>
+</root>

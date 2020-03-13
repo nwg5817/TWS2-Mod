@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_trait_info>
+<root>
+  <edit_uuid>b4805ac4-cc9d-11df-8001-6cf049ef02b0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>trait</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>applicable_to</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <default_value>agent</default_value>
+    <max_length>50</max_length>
+    <column_source_fixed_value>agent</column_source_fixed_value>
+    <column_source_fixed_value>region</column_source_fixed_value>
+    <column_source_fixed_value>unit</column_source_fixed_value>
+  </field>
+</root>

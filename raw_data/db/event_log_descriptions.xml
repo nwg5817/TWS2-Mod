@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Wed 7. Dec 11:13:09 2011" revision="22" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Dom.Starr">
+<edit_uuid>47315b0f-f761-4374-af4b-e53fd0ab707d</edit_uuid><event_log_descriptions>
+<event_content>%S %S     -     Clan: %S</event_content>
+<event_key>assassination_successful</event_key>
+<event_title>Enemy Assassinated</event_title>
+<has_position>1</has_position>
+<icon>event_icon_character_death.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Target Last Name] [Target First Name]     -    Clan:[Clan Name]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S     -     Clan: %S</event_content>
+<event_key>assassination_successful</event_key>
+<event_title>Enemy Assassinated</event_title>
+<has_position>1</has_position>
+<icon>bos_event_icon_character_death_positive.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Target Last Name] [Target First Name]     -    Clan:[Clan Name]</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Versus: %S     Outcome: %S</event_content>
+<event_key>battle_fought</event_key>
+<event_title>Battle Fought!</event_title>
+<has_position>1</has_position>
+<icon>event_icon_army.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Province: [Province Name]     Versus: [Clan Name]     Outcome: [Battle Outcome]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Versus: %S     Outcome: %S</event_content>
+<event_key>battle_fought</event_key>
+<event_title>Battle Fought!</event_title>
+<has_position>1</has_position>
+<icon>bos_event_icon_conflict_positive.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Province: [Province Name]     Versus: [Clan Name]     Outcome: [Battle Outcome]</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Clan: %S</event_content>
+<event_key>bos_allegiance_NPC_emperor_to_shogun</event_key>
+<event_title>Clan Joins the Shogun's Cause!</event_title>
+<has_position>0</has_position>
+<icon>event_icon_generic_news.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Clan:[Clan Name] &gt; NPC clans only, must be known to the player</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Clan: %S</event_content>
+<event_key>bos_allegiance_NPC_emperor_to_shogun</event_key>
+<event_title>Clan Joins the Shogun's Cause!</event_title>
+<has_position>0</has_position>
+<icon>bos_event_icon_allegiance_shogun_positive.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Clan:[Clan Name] &gt; NPC clans only, must be known to the player</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Clan: %S</event_content>
+<event_key>bos_allegiance_NPC_shogun_to_emperor</event_key>
+<event_title>Clan Joins the Emperor's Cause!</event_title>
+<has_position>0</has_position>
+<icon>event_icon_generic_news.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Clan:[Clan Name] &gt; NPC clans only, must be known to the player</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Clan: %S</event_content>
+<event_key>bos_allegiance_NPC_shogun_to_emperor</event_key>
+<event_title>Clan Joins the Emperor's Cause!</event_title>
+<has_position>0</has_position>
+<icon>bos_event_icon_allegiance_imperial_positive.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Clan:[Clan Name] &gt; NPC clans only, must be known to the player</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>You have abandoned the Emperor and sworn allegiance to the Shogun.</event_content>
+<event_key>bos_allegiance_player_emperor_to_shogun</event_key>
+<event_title>For the Shogun!</event_title>
+<has_position>0</has_position>
+<icon>event_icon_generic_news.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Player clan only</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>You have abandoned the Emperor and sworn allegiance to the Shogun.</event_content>
+<event_key>bos_allegiance_player_emperor_to_shogun</event_key>
+<event_title>For the Shogun!</event_title>
+<has_position>0</has_position>
+<icon>bos_event_icon_allegiance_shogun_positive.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Player clan only</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>You have abandoned the Shogun and sworn allegiance to the Emperor.</event_content>
+<event_key>bos_allegiance_player_shogun_to_emperor</event_key>
+<event_title>For the Emperor!</event_title>
+<has_position>0</has_position>
+<icon>event_icon_generic_news.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Player clan only</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>You have abandoned the Shogun and sworn allegiance to the Emperor.</event_content>
+<event_key>bos_allegiance_player_shogun_to_emperor</event_key>
+<event_title>For the Emperor!</event_title>
+<has_position>0</has_position>
+<icon>bos_event_icon_allegiance_imperial_positive.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Player clan only</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Target province: %S     -     Owning clan: %S</event_content>
+<event_key>bos_bombardment_player_VS_enemy</event_key>
+<event_title>Bombarding the Enemy</event_title>
+<has_position>1</has_position>
+<icon>event_icon_generic_news.tga</icon>
+<is_region_position>1</is_region_position>
+<notes>* Target province: [Enemy province name]     -    Owning clan: [Enemy clan]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Target province: %S     -     Owning clan: %S</event_content>
+<event_key>bos_bombardment_player_VS_enemy</event_key>
+<event_title>Bombarding the Enemy</event_title>
+<has_position>1</has_position>
+<icon>bos_event_icon_bombard_positive.tga</icon>
+<is_region_position>1</is_region_position>
+<notes>* Target province: [Enemy province name]     -    Owning clan: [Enemy clan]</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Name: %S %S     -     %S     -     Clan: %S</event_content>
+<event_key>bos_character_NPC_killed</event_key>
+<event_title>Rival Killed!</event_title>
+<has_position>1</has_position>
+<icon>event_icon_generic_news.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Name: [Last Name] [First Name]     -     [Agent/Character Type]     -     Clan: %S</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Name: %S %S     -     %S     -     Clan: %S</event_content>
+<event_key>bos_character_NPC_killed</event_key>
+<event_title>Rival Killed!</event_title>
+<has_position>1</has_position>
+<icon>bos_event_icon_character_death_positive.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Name: [Last Name] [First Name]     -     [Agent/Character Type]     -     Clan: %S</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Name: %S %S     -     %S     -     Joined us from: %S</event_content>
+<event_key>bos_character_NPC_seduced</event_key>
+<event_title>Rival Enchanted by Your Geisha</event_title>
+<has_position>0</has_position>
+<icon>event_icon_generic_news.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Name: [Last Name] [First Name]     -     [Agent/Character Type]     -     Enchanted by: [Geisha Name]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Name: %S %S     -     %S     -     Joined us from: %S</event_content>
+<event_key>bos_character_NPC_seduced</event_key>
+<event_title>Rival Enchanted by Your Geisha</event_title>
+<has_position>0</has_position>
+<icon>bos_event_icon_geisha_positive.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Name: [Last Name] [First Name]     -     [Agent/Character Type]     -     Enchanted by: [Geisha Name]</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Name: %S %S     -     %S     -     Joined: %S</event_content>
+<event_key>bos_character_player_seduced</event_key>
+<event_title>Enchanted by a Rival Geisha!</event_title>
+<has_position>0</has_position>
+<icon>event_icon_generic_news.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Name: [Last Name] [First Name]     -     [Agent/Character Type]     -     Joined clan: [Clan Name]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Name: %S %S     -     %S     -     Joined: %S</event_content>
+<event_key>bos_character_player_seduced</event_key>
+<event_title>Enchanted by a Rival Geisha!</event_title>
+<has_position>0</has_position>
+<icon>bos_event_icon_geisha_negative.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Name: [Last Name] [First Name]     -     [Agent/Character Type]     -     Joined clan: [Clan Name]</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Established by clan: %S     -     Between: %S     -     %S</event_content>
+<event_key>bos_railway_NPC_first</event_key>
+<event_title>First Japanese Railway</event_title>
+<has_position>0</has_position>
+<icon>event_icon_generic_news.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Established by clan: [Clan Name]     -     Between: [Province One]     -     [Province Two]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Established by clan: %S     -     Between: %S     -     %S</event_content>
+<event_key>bos_railway_NPC_first</event_key>
+<event_title>First Japanese Railway</event_title>
+<has_position>0</has_position>
+<icon>bos_event_icon_modernisation_positive.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Established by clan: [Clan Name]     -     Between: [Province One]     -     [Province Two]</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>You have established Japan's first railway!</event_content>
+<event_key>bos_railway_player_first</event_key>
+<event_title>First Japanese Railway</event_title>
+<has_position>1</has_position>
+<icon>event_icon_generic_news.tga</icon>
+<is_region_position>1</is_region_position>
+<notes>* Player clan only</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>You have established Japan's first railway!</event_content>
+<event_key>bos_railway_player_first</event_key>
+<event_title>First Japanese Railway</event_title>
+<has_position>1</has_position>
+<icon>bos_event_icon_modernisation_positive.tga</icon>
+<is_region_position>1</is_region_position>
+<notes>* Player clan only</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>You have been appointed leader of the Imperial army against the Shogunate.</event_content>
+<event_key>bos_realm_divide_emperor</event_key>
+<event_title>The Imperial Army</event_title>
+<has_position>0</has_position>
+<icon>event_icon_generic_news.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Trigger following realm divide should the player choose to fight for the Emperor.</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>You have been appointed leader of the Imperial army against the Shogunate.</event_content>
+<event_key>bos_realm_divide_emperor</event_key>
+<event_title>The Imperial Army</event_title>
+<has_position>0</has_position>
+<icon>bos_event_icon_allegiance_imperial_positive.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Trigger following realm divide should the player choose to fight for the Emperor.</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>You have chosen to establish yourself as Japan's new figurehead.</event_content>
+<event_key>bos_realm_divide_self</event_key>
+<event_title>Independent Rule</event_title>
+<has_position>0</has_position>
+<icon>event_icon_generic_news.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Trigger following realm divide should the player choose to assume control for himself.</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>You have chosen to establish yourself as Japan's new figurehead.</event_content>
+<event_key>bos_realm_divide_self</event_key>
+<event_title>Independent Rule</event_title>
+<has_position>0</has_position>
+<icon>bos_event_icon_family.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Trigger following realm divide should the player choose to assume control for himself.</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>You have been appointed leader of the Shogunate army against the Imperialists.</event_content>
+<event_key>bos_realm_divide_shogun</event_key>
+<event_title>The Shogunate Army</event_title>
+<has_position>0</has_position>
+<icon>event_icon_generic_news.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Trigger following realm divide should the player choose to fight for the Shogun.</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>You have been appointed leader of the Shogunate army against the Imperialists.</event_content>
+<event_key>bos_realm_divide_shogun</event_key>
+<event_title>The Shogunate Army</event_title>
+<has_position>0</has_position>
+<icon>bos_event_icon_allegiance_shogun_positive.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Trigger following realm divide should the player choose to fight for the Shogun.</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Your clan is no more; your warriors feed the earth!</event_content>
+<event_key>campaign_lost</event_key>
+<event_title>Campaign Lost!</event_title>
+<has_position>0</has_position>
+<icon>event_icon_generic_news.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Nothing to see here!</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Your clan is no more; your warriors feed the earth!</event_content>
+<event_key>campaign_lost</event_key>
+<event_title>Campaign Lost!</event_title>
+<has_position>0</has_position>
+<icon>bos_event_icon_conquest_negative.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Nothing to see here!</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>All of Japan bows before your might!</event_content>
+<event_key>campaign_won</event_key>
+<event_title>Campaign Won!</event_title>
+<has_position>0</has_position>
+<icon>event_icon_conquest.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Nothing to see here!</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>All of Japan bows before your might!</event_content>
+<event_key>campaign_won</event_key>
+<event_title>Campaign Won!</event_title>
+<has_position>0</has_position>
+<icon>bos_event_icon_conquest_positive.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Nothing to see here!</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S     -     %S</event_content>
+<event_key>char_commits_seppuku</event_key>
+<event_title>General Commits Seppuku</event_title>
+<has_position>0</has_position>
+<icon>event_icon_character_death.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Last Name] [First Name]     -     [Agent/Character Type]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S     -     %S</event_content>
+<event_key>char_commits_seppuku</event_key>
+<event_title>General Commits Seppuku</event_title>
+<has_position>0</has_position>
+<icon>bos_event_icon_character_death_negative.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Last Name] [First Name]     -     [Agent/Character Type]</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S     -     Defected from: %S</event_content>
+<event_key>char_defects_theirs</event_key>
+<event_title>An Enemy General Joins Your Cause</event_title>
+<has_position>0</has_position>
+<icon>event_icon_character.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Last Name] [First Name]     -     Defected from: [Clan Name]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S     -     Defected from: %S</event_content>
+<event_key>char_defects_theirs</event_key>
+<event_title>An Enemy General Joins Your Cause</event_title>
+<has_position>0</has_position>
+<icon>bos_event_icon_character_positive.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Last Name] [First Name]     -     Defected from: [Clan Name]</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S     -     Defected to: %S</event_content>
+<event_key>char_defects_yours</event_key>
+<event_title>A General Betrays Your Cause!</event_title>
+<has_position>0</has_position>
+<icon>event_icon_character.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Last Name] [First Name]     -     Defected to: [Clan Name]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S     -     Defected to: %S</event_content>
+<event_key>char_defects_yours</event_key>
+<event_title>A General Betrays Your Cause!</event_title>
+<has_position>0</has_position>
+<icon>bos_event_icon_character_negative.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Last Name] [First Name]     -     Defected to: [Clan Name]</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S     -     %S</event_content>
+<event_key>char_dies_apprehended</event_key>
+<event_title>Apprehended!</event_title>
+<has_position>1</has_position>
+<icon>event_icon_character_death.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Last Name] [First Name]     -     [Agent/Character Type]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S     -     %S</event_content>
+<event_key>char_dies_assassin</event_key>
+<event_title>Assassinated!</event_title>
+<has_position>1</has_position>
+<icon>event_icon_character_death.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Last Name] [First Name]     -     [Agent/Character Type]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S     -     %S</event_content>
+<event_key>char_dies_assassin</event_key>
+<event_title>Assassinated!</event_title>
+<has_position>1</has_position>
+<icon>bos_event_icon_character_death_negative.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Last Name] [First Name]     -     [Agent/Character Type]</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S     -     %S</event_content>
+<event_key>char_dies_battle</event_key>
+<event_title>Struck Down in Battle!</event_title>
+<has_position>1</has_position>
+<icon>event_icon_character_death.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Last Name] [First Name]     -     [Agent/Character Type]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S     -     %S</event_content>
+<event_key>char_dies_battle</event_key>
+<event_title>Struck Down in Battle!</event_title>
+<has_position>1</has_position>
+<icon>bos_event_icon_character_death_negative.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Last Name] [First Name]     -     [Agent/Character Type]</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S     -     %S</event_content>
+<event_key>char_dies_executed</event_key>
+<event_title>Executed!</event_title>
+<has_position>1</has_position>
+<icon>event_icon_character_death.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Last Name] [First Name]     -     [Agent/Character Type]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S     -     %S</event_content>
+<event_key>char_dies_executed</event_key>
+<event_title>Executed!</event_title>
+<has_position>1</has_position>
+<icon>bos_event_icon_character_death_negative.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Last Name] [First Name]     -     [Agent/Character Type]</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S     -     %S</event_content>
+<event_key>char_dies_natural</event_key>
+<event_title>Died by Natural Causes</event_title>
+<has_position>0</has_position>
+<icon>event_icon_character_death.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Last Name] [First Name]     -     [Agent/Character Type]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S     -     %S</event_content>
+<event_key>char_dies_natural</event_key>
+<event_title>Died by Natural Causes</event_title>
+<has_position>0</has_position>
+<icon>bos_event_icon_character_death_negative.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Last Name] [First Name]     -     [Agent/Character Type]</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S     -     %S</event_content>
+<event_key>char_dies_persuaded</event_key>
+<event_title>Abandoned Your Cause!</event_title>
+<has_position>0</has_position>
+<icon>event_icon_character.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Last Name] [First Name]     -     [Agent/Character Type]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S     -      Succeeding: %S %S</event_content>
+<event_key>char_succession</event_key>
+<event_title>A New Daimyo</event_title>
+<has_position>0</has_position>
+<icon>event_icon_family.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Last Name] [First Name]     -     Succeeding: [Last Name] [First Name]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S     -      Succeeding: %S %S</event_content>
+<event_key>char_succession</event_key>
+<event_title>A New Daimyo</event_title>
+<has_position>0</has_position>
+<icon>bos_event_icon_family.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Last Name] [First Name]     -     Succeeding: [Last Name] [First Name]</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Restored by: %S %S</event_content>
+<event_key>clan_ashikaga_reinstated_shogun</event_key>
+<event_title>Ashikaga Shogunate Restored</event_title>
+<has_position>1</has_position>
+<icon>event_icon_generic_news.tga</icon>
+<is_region_position>1</is_region_position>
+<notes>* Restored by: [Last Name] [First Name]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Clan: %S</event_content>
+<event_key>clan_destroyed</event_key>
+<event_title>Clan Destroyed!</event_title>
+<has_position>1</has_position>
+<icon>event_icon_generic_news.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Clan: [Destroyed Clan's Name]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Clan: %S</event_content>
+<event_key>clan_destroyed</event_key>
+<event_title>Clan Destroyed!</event_title>
+<has_position>1</has_position>
+<icon>bos_event_icon_conquest_negative.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Clan: [Destroyed Clan's Name]</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S</event_content>
+<event_key>clan_development_civil</event_key>
+<event_title>Art Mastered</event_title>
+<has_position>0</has_position>
+<icon>event_icon_technology.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Civil Technology Name]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S</event_content>
+<event_key>clan_development_civil</event_key>
+<event_title>Civil Development</event_title>
+<has_position>0</has_position>
+<icon>bos_event_icon_modernisation_positive.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Civil Technology Name]</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S</event_content>
+<event_key>clan_development_military</event_key>
+<event_title>Art Mastered</event_title>
+<has_position>0</has_position>
+<icon>event_icon_technology.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Military Technology Name]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S</event_content>
+<event_key>clan_development_military</event_key>
+<event_title>Military Development</event_title>
+<has_position>0</has_position>
+<icon>bos_event_icon_modernisation_positive.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Military Technology Name]</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Clan: %S     -     Province: %S</event_content>
+<event_key>clan_emerges</event_key>
+<event_title>A Clan Arises</event_title>
+<has_position>1</has_position>
+<icon>event_icon_generic_news.tga</icon>
+<is_region_position>1</is_region_position>
+<notes>* Clan: [Emergent Clan's Name]     -     Province: [Target Province Name]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Clan: %S     -     Province: %S</event_content>
+<event_key>clan_emerges</event_key>
+<event_title>A Clan Arises</event_title>
+<has_position>1</has_position>
+<icon>bos_event_icon_conquest_positive.tga</icon>
+<is_region_position>1</is_region_position>
+<notes>* Clan: [Emergent Clan's Name]     -     Province: [Target Province Name]</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Word of your achievements has reached the imperial court.</event_content>
+<event_key>clan_fame_imperial_recognition</event_key>
+<event_title>Imperial Recognition</event_title>
+<has_position>0</has_position>
+<icon>event_icon_family.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Nothing to see here!</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Your exploits are talked of the length and breadth of Japan.</event_content>
+<event_key>clan_fame_national_renown</event_key>
+<event_title>National Renown</event_title>
+<has_position>0</has_position>
+<icon>event_icon_family.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Nothing to see here!</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Your ever-growing power troubles the shogun.</event_content>
+<event_key>clan_fame_shoguns_ire</event_key>
+<event_title>The Shogun's Ire</event_title>
+<has_position>0</has_position>
+<icon>event_icon_family.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Nothing to see here!</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S     -      Clan: %S</event_content>
+<event_key>clan_other_becomes_shogun</event_key>
+<event_title>Shogunate Usurped!</event_title>
+<has_position>1</has_position>
+<icon>event_icon_conquest.tga</icon>
+<is_region_position>1</is_region_position>
+<notes>* [Last Name] [First Name]     -     Clan: [Usurper's Clan Name]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S</event_content>
+<event_key>clan_player_becomes_shogun</event_key>
+<event_title>Your Daimyo Becomes Shogun!</event_title>
+<has_position>1</has_position>
+<icon>event_icon_conquest.tga</icon>
+<is_region_position>1</is_region_position>
+<notes>* [Last Name] [First Name]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>In response to your defiance of the Shogunate, an alliance has been formed against you.</event_content>
+<event_key>clan_realm_divide</event_key>
+<event_title>Realm Divide!</event_title>
+<has_position>1</has_position>
+<icon>event_icon_army.tga</icon>
+<is_region_position>1</is_region_position>
+<notes>* Nothing to see here!</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Province: %S      -     Clan: %S</event_content>
+<event_key>clan_region_taken</event_key>
+<event_title>Province Occupied</event_title>
+<has_position>1</has_position>
+<icon>event_icon_conquest.tga</icon>
+<is_region_position>1</is_region_position>
+<notes>* Province: [Province Name]     -     Clan: [Occupying Clan's Name]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Province: %S      -     Clan: %S</event_content>
+<event_key>clan_region_taken</event_key>
+<event_title>Province Occupied</event_title>
+<has_position>1</has_position>
+<icon>bos_event_icon_conquest_positive.tga</icon>
+<is_region_position>1</is_region_position>
+<notes>* Province: [Province Name]     -     Clan: [Occupying Clan's Name]</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S     -     %S</event_content>
+<event_key>diplo_alliance</event_key>
+<event_title>Alliance Forged</event_title>
+<has_position>0</has_position>
+<icon>event_icon_diplomacy.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [First Clan's Name]     -     [Second Clan's Name]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S     -     %S</event_content>
+<event_key>diplo_alliance_broken</event_key>
+<event_title>Alliance Broken!</event_title>
+<has_position>0</has_position>
+<icon>event_icon_diplomacy.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [First Clan's Name]     -     [Second Clan's Name]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S     -     %S</event_content>
+<event_key>diplo_alliance_broken</event_key>
+<event_title>Alliance Broken!</event_title>
+<has_position>0</has_position>
+<icon>bos_event_icon_diplomacy_negative.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [First Clan's Name]     -     [Second Clan's Name]</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S     -     %S</event_content>
+<event_key>diplo_alliance</event_key>
+<event_title>Alliance Forged</event_title>
+<has_position>0</has_position>
+<icon>bos_event_icon_diplomacy_positive.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [First Clan's Name]     -     [Second Clan's Name]</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Clan: %S</event_content>
+<event_key>diplo_clan_encountered</event_key>
+<event_title>Clan Encountered!</event_title>
+<has_position>1</has_position>
+<icon>event_icon_diplomacy.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Clan: [Encountered Clan's Name]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Clan: %S</event_content>
+<event_key>diplo_clan_encountered</event_key>
+<event_title>Clan Encountered!</event_title>
+<has_position>1</has_position>
+<icon>bos_event_icon_diplomacy_positive.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Clan: [Encountered Clan's Name]</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S    -     Clan: %S</event_content>
+<event_key>diplo_hostage_theirs_executed</event_key>
+<event_title>Rival Hostage Executed</event_title>
+<has_position>0</has_position>
+<icon>event_icon_diplomacy.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Last Name] [First Name]    -     Clan: [Clan Name]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S    -     Clan: %S</event_content>
+<event_key>diplo_hostage_theirs_executed</event_key>
+<event_title>Rival Hostage Executed</event_title>
+<has_position>0</has_position>
+<icon>bos_event_icon_diplomacy_negative.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Last Name] [First Name]    -     Clan: [Clan Name]</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S    -     Clan: %S</event_content>
+<event_key>diplo_hostage_theirs_released</event_key>
+<event_title>Hostage Released</event_title>
+<has_position>0</has_position>
+<icon>event_icon_diplomacy.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Last Name] [First Name]    -     Clan: [Clan Name]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S    -     Clan: %S</event_content>
+<event_key>diplo_hostage_theirs_released</event_key>
+<event_title>Hostage Released</event_title>
+<has_position>0</has_position>
+<icon>bos_event_icon_diplomacy_positive.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Last Name] [First Name]    -     Clan: [Clan Name]</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S    -     Clan: %S</event_content>
+<event_key>diplo_hostage_theirs_taken</event_key>
+<event_title>Hostage Taken</event_title>
+<has_position>0</has_position>
+<icon>event_icon_diplomacy.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Last Name] [First Name]    -     Clan: [Clan Name]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S    -     Clan: %S</event_content>
+<event_key>diplo_hostage_theirs_taken</event_key>
+<event_title>Hostage Taken</event_title>
+<has_position>0</has_position>
+<icon>bos_event_icon_diplomacy_positive.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Last Name] [First Name]    -     Clan: [Clan Name]</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S    -     Clan: %S</event_content>
+<event_key>diplo_hostage_yours_executed</event_key>
+<event_title>Our Hostage Executed!</event_title>
+<has_position>0</has_position>
+<icon>event_icon_diplomacy.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Last Name] [First Name]    -     Clan: [Clan Name]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S    -     Clan: %S</event_content>
+<event_key>diplo_hostage_yours_executed</event_key>
+<event_title>Our Hostage Executed!</event_title>
+<has_position>0</has_position>
+<icon>bos_event_icon_diplomacy_negative.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Last Name] [First Name]    -     Clan: [Clan Name]</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S    -     Clan: %S</event_content>
+<event_key>diplo_hostage_yours_given</event_key>
+<event_title>Hostage Given</event_title>
+<has_position>0</has_position>
+<icon>event_icon_diplomacy.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Last Name] [First Name]    -     Clan: [Clan Name]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S    -     Clan: %S</event_content>
+<event_key>diplo_hostage_yours_given</event_key>
+<event_title>Hostage Given</event_title>
+<has_position>0</has_position>
+<icon>bos_event_icon_diplomacy_positive.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Last Name] [First Name]    -     Clan: [Clan Name]</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S    -     Clan: %S</event_content>
+<event_key>diplo_hostage_yours_returned</event_key>
+<event_title>Hostage Returned</event_title>
+<has_position>0</has_position>
+<icon>event_icon_diplomacy.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Last Name] [First Name]    -     Clan: [Clan Name]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S    -     Clan: %S</event_content>
+<event_key>diplo_hostage_yours_returned</event_key>
+<event_title>Hostage Returned</event_title>
+<has_position>0</has_position>
+<icon>bos_event_icon_diplomacy_positive.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Last Name] [First Name]    -     Clan: [Clan Name]</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S    -     %S %S</event_content>
+<event_key>diplo_marriage</event_key>
+<event_title>Diplomatic Marriage</event_title>
+<has_position>0</has_position>
+<icon>event_icon_diplomacy.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Player character last name] [Player character second name]    -     [Other character last name] [Other character second name]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S    -     Married to a retainer from this clan: %S</event_content>
+<event_key>diplo_marriage_retainer_theirs</event_key>
+<event_title>Diplomatic Marriage</event_title>
+<has_position>0</has_position>
+<icon>event_icon_diplomacy.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Player character last name] [Player character first name]    -     Married a retainer from this clan: [Clan name]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S    -     Married to a retainer from this clan: %S</event_content>
+<event_key>diplo_marriage_retainer_theirs</event_key>
+<event_title>Diplomatic Marriage</event_title>
+<has_position>0</has_position>
+<icon>bos_event_icon_diplomacy_positive.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Player character last name] [Player character first name]    -     Married a retainer from this clan: [Clan name]</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S    -     Married to a retainer from your clan.</event_content>
+<event_key>diplo_marriage_retainer_yours</event_key>
+<event_title>Diplomatic Marriage</event_title>
+<has_position>0</has_position>
+<icon>event_icon_diplomacy.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Other character last name] [Other character first name]    -    Married a retainer from your clan.</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S    -     Married to a retainer from your clan.</event_content>
+<event_key>diplo_marriage_retainer_yours</event_key>
+<event_title>Diplomatic Marriage</event_title>
+<has_position>0</has_position>
+<icon>bos_event_icon_diplomacy_positive.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Other character last name] [Other character first name]    -    Married a retainer from your clan.</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S    -     %S %S</event_content>
+<event_key>diplo_marriage</event_key>
+<event_title>Diplomatic Marriage</event_title>
+<has_position>0</has_position>
+<icon>bos_event_icon_diplomacy_positive.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* [Player character last name] [Player character second name]    -     [Other character last name] [Other character second name]</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S     -     %S</event_content>
+<event_key>diplo_peace</event_key>
+<event_title>Peace Negotiated</event_title>
+<has_position>0</has_position>
+<icon>event_icon_diplomacy.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>first_time_agent_sensei</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S     -     %S</event_content>
+<event_key>diplo_peace</event_key>
+<event_title>Peace Negotiated</event_title>
+<has_position>0</has_position>
+<icon>bos_event_icon_diplomacy_positive.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>first_time_agent_sensei</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S     -     %S</event_content>
+<event_key>diplo_war</event_key>
+<event_title>War Declared!</event_title>
+<has_position>0</has_position>
+<icon>event_icon_army.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>first_time_unit</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S     -     %S</event_content>
+<event_key>diplo_war</event_key>
+<event_title>War Declared!</event_title>
+<has_position>0</has_position>
+<icon>bos_event_icon_conflict_negative.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>first_time_unit</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S     Province: %S</event_content>
+<event_key>disaster</event_key>
+<event_title>Disaster Strikes!</event_title>
+<has_position>1</has_position>
+<icon>event_icon_disaster.tga</icon>
+<is_region_position>1</is_region_position>
+<notes>first_time_europeans</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S %S    -    %S     -     Clan: %S</event_content>
+<event_key>first_time_agent_sensei</event_key>
+<event_title>First Sensei</event_title>
+<has_position>1</has_position>
+<icon>event_icon_character.tga</icon>
+<is_region_position>1</is_region_position>
+<notes>* [Last Name] [First Name]     -     [Agent Type]     -     Clan: [Achieving Clan Name]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Clan: %S     -     Province: %S</event_content>
+<event_key>first_time_europeans</event_key>
+<event_title>First European Trade Port Established</event_title>
+<has_position>1</has_position>
+<icon>event_icon_trade.tga</icon>
+<is_region_position>1</is_region_position>
+<notes>* [Unit Name]     -     Clan: [Achieving Clan Name]     -     Province: [Target Province Name]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S     -     Clan: %S     -     Province: %S</event_content>
+<event_key>first_time_legendary</event_key>
+<event_title>First Legendary Building Constructed</event_title>
+<has_position>1</has_position>
+<icon>event_icon_construction.tga</icon>
+<is_region_position>1</is_region_position>
+<notes>* Clan: [Achieving Clan Name]     -     Province: [Target Province Name]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Clan: %S     -     Province: %S</event_content>
+<event_key>first_time_unit</event_key>
+<event_title>First Matchlock Warriors Recruited</event_title>
+<has_position>1</has_position>
+<icon>event_icon_army.tga</icon>
+<is_region_position>1</is_region_position>
+<notes>* [Building Name]     -     Clan: [Achieving Clan Name]     -     Province: [Target Province Name]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Fearful of your strength and influence, the imperial family has declared you an enemy of the state.</event_content>
+<event_key>gem_clan_enemy_of_the_state</event_key>
+<event_title>Enemy of the State!</event_title>
+<has_position>0</has_position>
+<icon>event_icon_army.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Nothing to see here!</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Your worth and potential are now recognised by the people.</event_content>
+<event_key>gem_clan_fame_threshold_one</event_key>
+<event_title>Recognition</event_title>
+<has_position>0</has_position>
+<icon>event_icon_family.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Nothing to see here!</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>You have grown powerful indeed; all now fear your potential.</event_content>
+<event_key>gem_clan_fame_threshold_three</event_key>
+<event_title>Fear</event_title>
+<has_position>0</has_position>
+<icon>event_icon_family.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Nothing to see here!</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Word of your family's exploits has spread far and wide, uttered with awe and respect.</event_content>
+<event_key>gem_clan_fame_threshold_two</event_key>
+<event_title>Respect</event_title>
+<has_position>0</has_position>
+<icon>event_icon_family.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Nothing to see here!</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S     -     Province: %S</event_content>
+<event_key>rebel_crushed</event_key>
+<event_title>Rebellion Crushed!</event_title>
+<has_position>1</has_position>
+<icon>event_icon_rebellion.tga</icon>
+<is_region_position>1</is_region_position>
+<notes>* [Rebellion Type]     -     Province: [Rebelling Province]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S     -     Province: %S</event_content>
+<event_key>rebel_crushed</event_key>
+<event_title>Rebellion Crushed!</event_title>
+<has_position>1</has_position>
+<icon>bos_event_icon_rebellion_positive.tga</icon>
+<is_region_position>1</is_region_position>
+<notes>* [Rebellion Type]     -     Province: [Rebelling Province]</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S     -     Province: %S</event_content>
+<event_key>rebel_outbreak</event_key>
+<event_title>Rebellion!</event_title>
+<has_position>1</has_position>
+<icon>event_icon_rebellion.tga</icon>
+<is_region_position>1</is_region_position>
+<notes>* [Rebellion Type]     -     Province: [Rebelling Province]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>%S     -     Province: %S</event_content>
+<event_key>rebel_outbreak</event_key>
+<event_title>Rebellion!</event_title>
+<has_position>1</has_position>
+<icon>bos_event_icon_rebellion_negative.tga</icon>
+<is_region_position>1</is_region_position>
+<notes>* [Rebellion Type]     -     Province: [Rebelling Province]</notes>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Clan: %S</event_content>
+<event_key>rel_christianity_adopted</event_key>
+<event_title>Christianity Adopted</event_title>
+<has_position>0</has_position>
+<icon>event_icon_priest_positive.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Clan:[Clan Name]</notes>
+</event_log_descriptions>
+<event_log_descriptions>
+<event_content>Clan: %S</event_content>
+<event_key>rel_christianity_renounced</event_key>
+<event_title>Christianity Renounced</event_title>
+<has_position>0</has_position>
+<icon>event_icon_monk_positive.tga</icon>
+<is_region_position>0</is_region_position>
+<notes>* Clan:[Clan Name]</notes>
+</event_log_descriptions>
+</dataroot>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_avatar_product_lookups>
+<root>
+  <edit_uuid>9b10eb4c-f5e9-4edc-b89b-0de6860224ed</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>localised_string</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>2000</max_length>
+  </field>
+</root>

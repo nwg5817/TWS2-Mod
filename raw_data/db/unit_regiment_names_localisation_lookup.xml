@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Fri 27. May 10:24:48 2011" revision="3" export_branch="T:/branches/shogun2/patch/shogun2/binaries" export_user="Jeff.Woods">
+<edit_uuid>389dee7f-c0ed-4058-bebe-bce74f606604</edit_uuid><unit_regiment_names_localisation_lookup>
+<key>female_hero_1</key>
+<unit_name>Tomoe Gozen</unit_name>
+</unit_regiment_names_localisation_lookup>
+<unit_regiment_names_localisation_lookup>
+<key>female_hero_2</key>
+<unit_name>Hojo Masako</unit_name>
+</unit_regiment_names_localisation_lookup>
+<unit_regiment_names_localisation_lookup>
+<key>monk_hero_1</key>
+<unit_name>Benkei</unit_name>
+</unit_regiment_names_localisation_lookup>
+<unit_regiment_names_localisation_lookup>
+<key>monk_hero_2</key>
+<unit_name>Ichirai Hoshi</unit_name>
+</unit_regiment_names_localisation_lookup>
+<unit_regiment_names_localisation_lookup>
+<key>monk_hero_3</key>
+<unit_name>Gochin no Tajima</unit_name>
+</unit_regiment_names_localisation_lookup>
+<unit_regiment_names_localisation_lookup>
+<key>monk_hero_4</key>
+<unit_name>Tsutsui Jomyo Meishu</unit_name>
+</unit_regiment_names_localisation_lookup>
+<unit_regiment_names_localisation_lookup>
+<key>monk_hero_5</key>
+<unit_name>Enryaku-ji</unit_name>
+</unit_regiment_names_localisation_lookup>
+<unit_regiment_names_localisation_lookup>
+<key>monk_hero_6</key>
+<unit_name>Shunkan</unit_name>
+</unit_regiment_names_localisation_lookup>
+<unit_regiment_names_localisation_lookup>
+<key>samurai_hero_1</key>
+<unit_name>Imai Kanehira</unit_name>
+</unit_regiment_names_localisation_lookup>
+<unit_regiment_names_localisation_lookup>
+<key>samurai_hero_10</key>
+<unit_name>Nasu no Yoichi</unit_name>
+</unit_regiment_names_localisation_lookup>
+<unit_regiment_names_localisation_lookup>
+<key>samurai_hero_11</key>
+<unit_name>Yada Yoshiyasu</unit_name>
+</unit_regiment_names_localisation_lookup>
+<unit_regiment_names_localisation_lookup>
+<key>samurai_hero_2</key>
+<unit_name>Oba Kagechika</unit_name>
+</unit_regiment_names_localisation_lookup>
+<unit_regiment_names_localisation_lookup>
+<key>samurai_hero_3</key>
+<unit_name>Saito Sanemori</unit_name>
+</unit_regiment_names_localisation_lookup>
+<unit_regiment_names_localisation_lookup>
+<key>samurai_hero_4</key>
+<unit_name>Seno Kaneyasu</unit_name>
+</unit_regiment_names_localisation_lookup>
+<unit_regiment_names_localisation_lookup>
+<key>samurai_hero_5</key>
+<unit_name>Taguchi Shigeyoshi</unit_name>
+</unit_regiment_names_localisation_lookup>
+<unit_regiment_names_localisation_lookup>
+<key>samurai_hero_6</key>
+<unit_name>Hojo Tokimasa</unit_name>
+</unit_regiment_names_localisation_lookup>
+<unit_regiment_names_localisation_lookup>
+<key>samurai_hero_7</key>
+<unit_name>Kajiwara Kagetoki</unit_name>
+</unit_regiment_names_localisation_lookup>
+<unit_regiment_names_localisation_lookup>
+<key>samurai_hero_8</key>
+<unit_name>Kumagai Naozane</unit_name>
+</unit_regiment_names_localisation_lookup>
+<unit_regiment_names_localisation_lookup>
+<key>samurai_hero_9</key>
+<unit_name>Sasaki Moritsuna</unit_name>
+</unit_regiment_names_localisation_lookup>
+</dataroot>

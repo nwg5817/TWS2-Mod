@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_warscape_categories>
+<root>
+  <edit_uuid>2b603268-3ca7-4073-9850-ea528e8db077</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+  </field>
+</root>

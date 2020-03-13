@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Wed 18. Apr 10:27:55 2012" revision="1" export_branch="T:/branches/shogun2/boshin_dlc/shogun2/binaries" export_user="Jack.Lusted">
+<edit_uuid>665e23cb-554e-4e9b-8832-04f5b68f61d4</edit_uuid><mounts>
+<key>sh_horse</key>
+</mounts>
+<mounts>
+<key>shogun_horse_general</key>
+</mounts>
+<mounts>
+<key>shogun_horse_ronin</key>
+</mounts>
+<mounts>
+<key>shogun_horse_samurai</key>
+</mounts>
+</dataroot>

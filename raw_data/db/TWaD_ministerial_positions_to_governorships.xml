@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_ministerial_positions_to_governorships>
+<root>
+  <edit_uuid>28e4d468-18b0-4cb5-a4d7-c6a188dd6f96</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>ministerial_position</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>minister_key</column_source_column>
+    <column_source_table>ministerial_positions</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>governorship</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>governorship</column_source_column>
+    <column_source_table>governorships</column_source_table>
+  </field>
+</root>

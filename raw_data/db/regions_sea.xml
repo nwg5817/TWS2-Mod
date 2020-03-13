@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Fri 2. Sep 11:19:17 2011" revision="8" export_branch="C:/tw/branches/shogun2/boshin/common/TWeak/Framework" export_user="Alan.Blair">
+<edit_uuid>24052d00-7760-4788-ad29-888dc650a82e</edit_uuid><regions_sea>
+<onscreen_name>Akashi Strait</onscreen_name>
+<sea_region_key>bos_akashi_strait</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Aomori Bay</onscreen_name>
+<sea_region_key>bos_aomori_bay</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Ariake Sea</onscreen_name>
+<sea_region_key>bos_ariake_sea</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Bozo Peninsula</onscreen_name>
+<sea_region_key>bos_bozo_peninsula</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Bungo Channel</onscreen_name>
+<sea_region_key>bos_bungo_channel</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>East China Sea</onscreen_name>
+<sea_region_key>bos_east_china_sea</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>East Kanto Coast</onscreen_name>
+<sea_region_key>bos_east_kanto_coast</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Eastern Hokuriku Coast</onscreen_name>
+<sea_region_key>bos_eastern_hokuriku_coast</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Eastern San'in Coast</onscreen_name>
+<sea_region_key>bos_eastern_sanin_coast</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Eastern Seto Inland Sea</onscreen_name>
+<sea_region_key>bos_eastern_seto_inland_sea</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Eastern Tohoku Sea</onscreen_name>
+<sea_region_key>bos_eastern_tohoku_sea</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Edo Bay</onscreen_name>
+<sea_region_key>bos_edo_bay</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Akashi Strait</onscreen_name>
+<sea_region_key>bos_ford_akashi_strait</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Kanmon Strait</onscreen_name>
+<sea_region_key>bos_ford_kanmon_strait</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Naruto Strait</onscreen_name>
+<sea_region_key>bos_ford_naruto_strait</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Ise Bay</onscreen_name>
+<sea_region_key>bos_ise_bay</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Izu Peninsula</onscreen_name>
+<sea_region_key>bos_izu_peninsula</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Kagoshima Bay</onscreen_name>
+<sea_region_key>bos_kagoshima_bay</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Kanmon Strait</onscreen_name>
+<sea_region_key>bos_kanmon_strait</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Kii Channel</onscreen_name>
+<sea_region_key>bos_kii_channel</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Kitan Strait</onscreen_name>
+<sea_region_key>bos_kitan_strait</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Korea Strait</onscreen_name>
+<sea_region_key>bos_korea_strait</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Lake Biwa</onscreen_name>
+<sea_region_key>bos_lake_biwa</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Lake Kasumigaura</onscreen_name>
+<sea_region_key>bos_lake_kasumigaura</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Matsushima Islands</onscreen_name>
+<sea_region_key>bos_matsushima_islands</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Mikawa Bay</onscreen_name>
+<sea_region_key>bos_mikawa_bay</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Naruto Strait</onscreen_name>
+<sea_region_key>bos_naruto_strait</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Noto Peninsula</onscreen_name>
+<sea_region_key>bos_noto_peninsula</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Oki Strait</onscreen_name>
+<sea_region_key>bos_oki_strait</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Omura Bay</onscreen_name>
+<sea_region_key>bos_omura_bay</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Pacific Ocean</onscreen_name>
+<sea_region_key>bos_pacific_ocean</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Sado Island Coast</onscreen_name>
+<sea_region_key>bos_sado_island_coast</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Sagami Bay</onscreen_name>
+<sea_region_key>bos_sagami_bay</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Sea of Hyuga</onscreen_name>
+<sea_region_key>bos_sea_of_hyuga</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Sea of Japan</onscreen_name>
+<sea_region_key>bos_sea_of_japan</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Shikoku South Coast</onscreen_name>
+<sea_region_key>bos_shikoku_south_coast</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>South Tokai Coast</onscreen_name>
+<sea_region_key>bos_south_tokai_coast</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Suruga Bay</onscreen_name>
+<sea_region_key>bos_suruga_bay</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Tanegashima Straits</onscreen_name>
+<sea_region_key>bos_tanegashima_straits</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Toyama Bay</onscreen_name>
+<sea_region_key>bos_toyama_bay</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Tsugaru Strait</onscreen_name>
+<sea_region_key>bos_tsugaru_strait</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Tsushima Strait</onscreen_name>
+<sea_region_key>bos_tsushima_strait</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Wakasa Bay</onscreen_name>
+<sea_region_key>bos_wakasa_bay</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Western Hokkaido Coast</onscreen_name>
+<sea_region_key>bos_western_hokkaido_coast</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Western Hokuriku Coast</onscreen_name>
+<sea_region_key>bos_western_hokuriku_coast</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Western San'in Coast</onscreen_name>
+<sea_region_key>bos_western_sanin_coast</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Western Seto Inland Sea</onscreen_name>
+<sea_region_key>bos_western_seto_inland_sea</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Western Tohoku Sea</onscreen_name>
+<sea_region_key>bos_western_tohoku_sea</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>East</onscreen_name>
+<sea_region_key>east</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Island</onscreen_name>
+<sea_region_key>islands</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Akashi Strait</onscreen_name>
+<sea_region_key>jap_akashi_strait</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Aomori Bay</onscreen_name>
+<sea_region_key>jap_aomori_bay</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Ariake Sea</onscreen_name>
+<sea_region_key>jap_ariake_sea</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Biwa Lake</onscreen_name>
+<sea_region_key>jap_biwa_lake</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Bozo Peninsula</onscreen_name>
+<sea_region_key>jap_bozo_peninsula</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Bungo Channel</onscreen_name>
+<sea_region_key>jap_bungo_channel</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>East China Sea</onscreen_name>
+<sea_region_key>jap_east_china_sea</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>East Kanto Coast</onscreen_name>
+<sea_region_key>jap_east_kanto_coast</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Eastern Hokuriku Coast</onscreen_name>
+<sea_region_key>jap_eastern_hokuriku_coast</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Eastern San'in Coast</onscreen_name>
+<sea_region_key>jap_eastern_sanin_coast</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Eastern Seto Inland Sea</onscreen_name>
+<sea_region_key>jap_eastern_seto_inland_sea</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Eastern Tohoku Sea</onscreen_name>
+<sea_region_key>jap_eastern_tohoku_sea</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Edo Bay</onscreen_name>
+<sea_region_key>jap_edo_bay</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Akashi Strait</onscreen_name>
+<sea_region_key>jap_ford_akashi_strait</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Aomori Bay</onscreen_name>
+<sea_region_key>jap_ford_aomori_bay</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Bungo Channel</onscreen_name>
+<sea_region_key>jap_ford_bungo_channel</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Eastern Seto Inland Sea</onscreen_name>
+<sea_region_key>jap_ford_eastern_seto_inland_sea</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Kagoshima Bay</onscreen_name>
+<sea_region_key>jap_ford_kagoshima_bay</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Kanmon Strait</onscreen_name>
+<sea_region_key>jap_ford_kanmon_strait</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Kitan Strait</onscreen_name>
+<sea_region_key>jap_ford_kitan_strait</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Nanao Bay</onscreen_name>
+<sea_region_key>jap_ford_nanao_bay</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Naruto Strait</onscreen_name>
+<sea_region_key>jap_ford_naruto_strait</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Omura Bay</onscreen_name>
+<sea_region_key>jap_ford_omura_bay</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Tokyo Bay</onscreen_name>
+<sea_region_key>jap_ford_tokyo_bay</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Hoyo Strait</onscreen_name>
+<sea_region_key>jap_hoyo_strait</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Ise Bay</onscreen_name>
+<sea_region_key>jap_ise_bay</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Izu Peninsula</onscreen_name>
+<sea_region_key>jap_izu_peninsula</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Kagoshima Bay</onscreen_name>
+<sea_region_key>jap_kagoshima_bay</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Kanmon Strait</onscreen_name>
+<sea_region_key>jap_kanmon_strait</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Kii Channel</onscreen_name>
+<sea_region_key>jap_kii_channel</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Kitan Strait</onscreen_name>
+<sea_region_key>jap_kitan_strait</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Korea Strait</onscreen_name>
+<sea_region_key>jap_korea_strait</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Matsushima Islands</onscreen_name>
+<sea_region_key>jap_matsushima_islands</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Mikawa Bay</onscreen_name>
+<sea_region_key>jap_mikawa_bay</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Nanao Bay</onscreen_name>
+<sea_region_key>jap_nanao_bay</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Naruto Strait</onscreen_name>
+<sea_region_key>jap_naruto_strait</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Noto Peninsula</onscreen_name>
+<sea_region_key>jap_noto_peninsula</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Oki Strait</onscreen_name>
+<sea_region_key>jap_oki_strait</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Omura Bay</onscreen_name>
+<sea_region_key>jap_omura_bay</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Osumi Islands</onscreen_name>
+<sea_region_key>jap_osumi_islands</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Pacific Ocean</onscreen_name>
+<sea_region_key>jap_pacific_ocean</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Philippine Sea</onscreen_name>
+<sea_region_key>jap_philippine_sea</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Sado Island Coast</onscreen_name>
+<sea_region_key>jap_sado_island_coast</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Sagami Bay</onscreen_name>
+<sea_region_key>jap_sagami_bay</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Sea of Hyuga</onscreen_name>
+<sea_region_key>jap_sea_of_hyuga</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Sea of Japan</onscreen_name>
+<sea_region_key>jap_sea_of_japan</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Shikoku South Coast</onscreen_name>
+<sea_region_key>jap_shikoku_south_coast</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>South Tokai Coast</onscreen_name>
+<sea_region_key>jap_south_tokai_coast</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Suruga Bay</onscreen_name>
+<sea_region_key>jap_suruga_bay</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Tanegashima Straits</onscreen_name>
+<sea_region_key>jap_tanegashima_straits</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Toyama Bay</onscreen_name>
+<sea_region_key>jap_toyama_bay</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Tsugaru Strait</onscreen_name>
+<sea_region_key>jap_tsugaru_strait</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Tsushima Strait</onscreen_name>
+<sea_region_key>jap_tsushima_strait</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Wakasa Bay</onscreen_name>
+<sea_region_key>jap_wakasa_bay</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Western Hokuriku Coast</onscreen_name>
+<sea_region_key>jap_western_hokuriku_coast</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Western San'in Coast</onscreen_name>
+<sea_region_key>jap_western_sanin_coast</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Western Seto Inland Sea</onscreen_name>
+<sea_region_key>jap_western_seto_inland_sea</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>Western Tohoku Sea</onscreen_name>
+<sea_region_key>jap_western_tohoku_sea</sea_region_key>
+</regions_sea>
+<regions_sea>
+<onscreen_name>West</onscreen_name>
+<sea_region_key>west</sea_region_key>
+</regions_sea>
+</dataroot>

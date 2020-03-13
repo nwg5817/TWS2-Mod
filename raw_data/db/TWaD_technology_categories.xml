@@ -1,0 +1,32 @@
+<!DOCTYPE TWaD_technology_categories>
+<root>
+<edit_uuid>9e859512-9e78-11e0-8001-6cf049ef02b0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>position</name>
+    <field_type>integer</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>localised_name</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>tooltip</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>255</max_length>
+  </field>
+</root>

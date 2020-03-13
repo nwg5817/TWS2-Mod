@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="TExc_pack_files.xsd" generated="2010-02-15T19:27:31">
+<edit_uuid>3262fb15-9d3d-4a9e-87c7-afbe1d158adf</edit_uuid>
+<TExc_pack_files>
+<pack_file>anim.pack</pack_file>
+<notes>contains all the anim files used by the game.</notes>
+</TExc_pack_files>
+<TExc_pack_files>
+<pack_file>battleterrain.pack</pack_file>
+<notes></notes>
+</TExc_pack_files>
+<TExc_pack_files>
+<pack_file>boot.pack</pack_file>
+<notes></notes>
+</TExc_pack_files>
+<TExc_pack_files>
+<pack_file>main.pack</pack_file>
+</TExc_pack_files>
+<TExc_pack_files>
+<pack_file>models.pack</pack_file>
+<notes></notes>
+</TExc_pack_files>
+<TExc_pack_files>
+<pack_file>non-pack</pack_file>
+<notes></notes>
+</TExc_pack_files>
+<TExc_pack_files>
+<pack_file>test</pack_file>
+<notes></notes>
+</TExc_pack_files>
+</dataroot>
+

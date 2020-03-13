@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Thu 17. Nov 15:58:26 2011" revision="3" export_branch="C:/TW/branches/shogun2/boshin/shogun2/src" export_user="scott.backhouse">
+<edit_uuid>faf6a4f0-16d2-42a1-a21c-513e8b7ef74f</edit_uuid><advisors>
+<advisor_icon_path>PLACEHOLDER</advisor_icon_path>
+<advisor_name>Multiplayer_battle</advisor_name>
+</advisors>
+<advisors>
+<advisor_icon_path>Advisor_Inf_Battle_Advisor</advisor_icon_path>
+<advisor_name>battle_advisor</advisor_name>
+</advisors>
+<advisors>
+<advisor_icon_path>Advisor_Inf_Campaign_Advisor</advisor_icon_path>
+<advisor_name>campaign_advisor</advisor_name>
+</advisors>
+<advisors>
+<advisor_icon_path>Advisor_Inf_Battle_Advisor</advisor_icon_path>
+<advisor_name>naval_advisor</advisor_name>
+</advisors>
+<advisors>
+<advisor_icon_path>PLACEHOLDER</advisor_icon_path>
+<advisor_name>not applicable</advisor_name>
+</advisors>
+</dataroot>

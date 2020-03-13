@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_achievements>
+<root>
+  <edit_uuid>f27db8ba-ba86-11df-8001-001fd02417f0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>80</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>title</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>description</name>
+    <field_type>memo</field_type>
+    <required>1</required>
+    <max_length>536870910</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>aesthetic</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>avatar_aesthetics</column_source_table>
+  </field>
+</root>

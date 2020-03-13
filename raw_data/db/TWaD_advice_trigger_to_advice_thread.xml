@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_advice_trigger_to_advice_thread>
+<root>
+  <edit_uuid>64fa53c9-fe25-4da6-a220-c1c0ece9d1b3</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>trigger</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>advice_triggers</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>thread</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>thread</column_source_column>
+    <column_source_table>advice_threads</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>amount</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+</root>

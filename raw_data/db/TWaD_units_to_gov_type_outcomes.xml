@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_units_to_gov_type_outcomes>
+<root>
+  <edit_uuid>dc5478e9-f15a-424d-8822-a19bc43b7f53</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>units</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>gov_type</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>government_type</column_source_column>
+    <column_source_table>government_types</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>outcome</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>units_to_gov_type_outcomes_enum</column_source_table>
+  </field>
+</root>

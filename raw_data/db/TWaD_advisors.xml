@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_advisors>
+<root>
+  <edit_uuid>5d307a80-9566-4f81-afc1-a120e1e8717b</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>advisor_name</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>advisor_icon_path</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+</root>

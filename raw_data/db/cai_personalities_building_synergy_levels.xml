@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Thu 22. Sep 10:57:04 2011" revision="3" export_branch="C:/TW/branches/shogun2/boshin/shogun2/src" export_user="Tim.Gosling">
+<edit_uuid>2af80f06-952a-44cf-971c-25bf1bca49b9</edit_uuid><cai_personalities_building_synergy_levels>
+<absolute_effect>0</absolute_effect>
+<key>cai_bsl_high</key>
+<priority>300</priority>
+<relative_effect>1</relative_effect>
+</cai_personalities_building_synergy_levels>
+<cai_personalities_building_synergy_levels>
+<absolute_effect>0</absolute_effect>
+<key>cai_bsl_low</key>
+<priority>100</priority>
+<relative_effect>0.25</relative_effect>
+</cai_personalities_building_synergy_levels>
+<cai_personalities_building_synergy_levels>
+<absolute_effect>0</absolute_effect>
+<key>cai_bsl_medium</key>
+<priority>200</priority>
+<relative_effect>0.5</relative_effect>
+</cai_personalities_building_synergy_levels>
+<cai_personalities_building_synergy_levels>
+<absolute_effect>0</absolute_effect>
+<key>cai_bsl_negative_high</key>
+<priority>600</priority>
+<relative_effect>-2</relative_effect>
+</cai_personalities_building_synergy_levels>
+</dataroot>

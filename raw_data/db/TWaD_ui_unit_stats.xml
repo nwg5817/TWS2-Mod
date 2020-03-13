@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_ui_unit_stats>
+<root>
+  <edit_uuid>44e867ea-e803-11df-8001-6cf049ef02b0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>onscreen_name</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>max_value</name>
+    <field_type>integer</field_type>
+    <required>1</required>
+    <default_value>100</default_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>campaign_only</name>
+    <field_type>yesno</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>sort_order</name>
+    <field_type>integer</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>tooltip_text</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>1024</max_length>
+  </field>
+</root>

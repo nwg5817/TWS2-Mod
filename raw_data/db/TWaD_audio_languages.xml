@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_audio_languages>
+<root>
+<edit_uuid>4cc799f7-bfcd-431b-a1eb-de19a2abe24e</edit_uuid>
+<field>
+<primary_key>1</primary_key>
+<name>key</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+</field>
+</root>

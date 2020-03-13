@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_cdir_events_dilemma_choices>
+<root>
+  <edit_uuid>D2BA69DE-304B-11DF-A6D3-CFDD55D89593</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>choice_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+</root>

@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_empires_regions_junct>
+<root>
+  <edit_uuid>f4d6dac7-10d1-4482-925b-531495e3571e</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>region</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>regions</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>empire</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>empire_name</column_source_column>
+    <column_source_table>empires</column_source_table>
+  </field>
+</root>

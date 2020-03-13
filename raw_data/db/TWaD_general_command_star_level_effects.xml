@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_genders>
+<root>
+  <edit_uuid>ac79a5f2-dabb-11df-8001-6cf049ef02b0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>command_star_level</name>
+    <field_type>integer</field_type>
+    <required>1</required>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>alive_morale_bonus</name>
+    <field_type>integer</field_type>
+    <required>1</required>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>nearby_morale_bonus</name>
+    <field_type>integer</field_type>
+    <required>1</required>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>melee_attack_bonus</name>
+    <field_type>integer</field_type>
+    <required>1</required>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>melee_defence_bonus</name>
+    <field_type>integer</field_type>
+    <required>1</required>
+  </field>
+</root>

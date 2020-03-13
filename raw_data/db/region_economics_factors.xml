@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Fri 15. Oct 09:11:44 2010" revision="2" export_branch="C:/TW/campaign/dev/shogun2/binaries" export_user="Florian.Ziegler">
+<edit_uuid>78f47beb-4ecc-4124-91c5-fd77ee4eba2e</edit_uuid><region_economics_factors>
+<factor>base_gdp</factor>
+<positive_pip_path>data/ui/campaign ui/pips/population_subsistence.tga</positive_pip_path>
+<positive_tooltip>Subsistence agriculture</positive_tooltip>
+</region_economics_factors>
+<region_economics_factors>
+<factor>farm_gdp</factor>
+<positive_pip_path>data/ui/campaign ui/pips/agriculture.tga</positive_pip_path>
+<positive_tooltip>Farming</positive_tooltip>
+</region_economics_factors>
+<region_economics_factors>
+<factor>industry_gdp</factor>
+<positive_pip_path>data/ui/campaign ui/pips/eco-industry.tga</positive_pip_path>
+<positive_tooltip>Industry</positive_tooltip>
+</region_economics_factors>
+<region_economics_factors>
+<factor>metsuke_bonus_gdp</factor>
+<positive_pip_path>data\UI\Campaign UI\Pips\resource_cotton.tga</positive_pip_path>
+<positive_tooltip>Metsuke</positive_tooltip>
+</region_economics_factors>
+<region_economics_factors>
+<factor>mine_gdp</factor>
+<positive_pip_path>data/ui/campaign ui/pips/mining.tga</positive_pip_path>
+<positive_tooltip>Mining</positive_tooltip>
+</region_economics_factors>
+<region_economics_factors>
+<factor>port_gdp</factor>
+<positive_pip_path>data/ui/campaign ui/pips/trade_port.tga</positive_pip_path>
+<positive_tooltip>Port</positive_tooltip>
+</region_economics_factors>
+<region_economics_factors>
+<factor>town_wealth</factor>
+<positive_pip_path>data/ui/campaign ui/pips/eco-town_wealth.tga</positive_pip_path>
+<positive_tooltip>Town wealth</positive_tooltip>
+</region_economics_factors>
+<region_economics_factors>
+<factor>trade_commodity_coffee_gdp</factor>
+<positive_pip_path>data/ui/campaign ui/pips/coffee.tga</positive_pip_path>
+<positive_tooltip>Coffee exports</positive_tooltip>
+</region_economics_factors>
+<region_economics_factors>
+<factor>trade_commodity_cotton_gdp</factor>
+<positive_pip_path>data/ui/campaign ui/pips/cotton.tga</positive_pip_path>
+<positive_tooltip>Cotton exports</positive_tooltip>
+</region_economics_factors>
+<region_economics_factors>
+<factor>trade_commodity_furs_gdp</factor>
+<positive_pip_path>data/ui/campaign ui/pips/furs.tga</positive_pip_path>
+<positive_tooltip>Fur exports</positive_tooltip>
+</region_economics_factors>
+<region_economics_factors>
+<factor>trade_commodity_sho_cotton_gdp</factor>
+<positive_pip_path>data\UI\Campaign UI\Pips\resource_cotton.tga</positive_pip_path>
+<positive_tooltip>Cotton Trade</positive_tooltip>
+</region_economics_factors>
+<region_economics_factors>
+<factor>trade_commodity_sho_crafts_gdp</factor>
+<positive_pip_path>data\UI\Campaign UI\Pips\resource_craft_goods.tga</positive_pip_path>
+<positive_tooltip>Crafts Trade</positive_tooltip>
+</region_economics_factors>
+<region_economics_factors>
+<factor>trade_commodity_sho_horses_gdp</factor>
+<positive_pip_path>data\UI\Campaign UI\Pips\resource_warhorses.tga</positive_pip_path>
+<positive_tooltip>Horse Trade</positive_tooltip>
+</region_economics_factors>
+<region_economics_factors>
+<factor>trade_commodity_sho_iron_gdp</factor>
+<positive_pip_path>data\UI\Campaign UI\Pips\resource_iron.tga</positive_pip_path>
+<positive_tooltip>Iron Mines</positive_tooltip>
+</region_economics_factors>
+<region_economics_factors>
+<factor>trade_commodity_sho_medicine_gdp</factor>
+<positive_pip_path>data\UI\Campaign UI\Pips\resource_spices.tga</positive_pip_path>
+<positive_tooltip>Spice Trade</positive_tooltip>
+</region_economics_factors>
+<region_economics_factors>
+<factor>trade_commodity_sho_silk_gdp</factor>
+<positive_pip_path>data\UI\Campaign UI\Pips\resource_silk.tga</positive_pip_path>
+<positive_tooltip>Silk Trade</positive_tooltip>
+</region_economics_factors>
+<region_economics_factors>
+<factor>trade_commodity_sho_stone_gdp</factor>
+<positive_pip_path>data\UI\Campaign UI\Pips\resource_stone.tga</positive_pip_path>
+<positive_tooltip>Stone Production</positive_tooltip>
+</region_economics_factors>
+<region_economics_factors>
+<factor>trade_commodity_sho_wood_gdp</factor>
+<positive_pip_path>data\UI\Campaign UI\Pips\resource_cotton.tga</positive_pip_path>
+<positive_tooltip>Lumber Trade</positive_tooltip>
+</region_economics_factors>
+<region_economics_factors>
+<factor>trade_commodity_spices_gdp</factor>
+<positive_pip_path>data/ui/campaign ui/pips/spices.tga</positive_pip_path>
+<positive_tooltip>Spice exports</positive_tooltip>
+</region_economics_factors>
+<region_economics_factors>
+<factor>trade_commodity_sugar_gdp</factor>
+<positive_pip_path>data/ui/campaign ui/pips/sugar.tga</positive_pip_path>
+<positive_tooltip>Sugar exports</positive_tooltip>
+</region_economics_factors>
+<region_economics_factors>
+<factor>trade_commodity_tea_gdp</factor>
+<positive_pip_path>data/ui/campaign ui/pips/tea.tga</positive_pip_path>
+<positive_tooltip>Tea exports</positive_tooltip>
+</region_economics_factors>
+<region_economics_factors>
+<factor>trade_commodity_tobacco_gdp</factor>
+<positive_pip_path>data/ui/campaign ui/pips/tobacco.tga</positive_pip_path>
+<positive_tooltip>Tobacco exports</positive_tooltip>
+</region_economics_factors>
+</dataroot>

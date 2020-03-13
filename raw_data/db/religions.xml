@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Wed 19. Oct 10:53:38 2011" revision="11" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Dom.Starr">
+<edit_uuid>edb86bce-6e96-4ca7-a21b-d34b66b5c8dc</edit_uuid><religions>
+<convertibility>0</convertibility>
+<onscreen>Pro-Emperor</onscreen>
+<religion_key>inf_bos_imperial</religion_key>
+<ui_icon_path>data/ui/campaign ui/skins/bos_religion_imperial.tga</ui_icon_path>
+</religions>
+<religions>
+<convertibility>0</convertibility>
+<onscreen>Independent</onscreen>
+<religion_key>inf_bos_self</religion_key>
+<ui_icon_path>data/ui/campaign ui/skins/bos_religion_neutral.tga</ui_icon_path>
+</religions>
+<religions>
+<convertibility>0</convertibility>
+<onscreen>Pro-Shogun</onscreen>
+<religion_key>inf_bos_shogunate</religion_key>
+<ui_icon_path>data/ui/campaign ui/skins/bos_religion_shogonate.tga</ui_icon_path>
+</religions>
+<religions>
+<convertibility>0</convertibility>
+<onscreen>Fujiwara</onscreen>
+<religion_key>inf_gem_fujiwara</religion_key>
+<ui_icon_path>data/ui/campaign ui/skins/religion_fujiwara.tga</ui_icon_path>
+</religions>
+<religions>
+<convertibility>0</convertibility>
+<onscreen>Minamoto</onscreen>
+<religion_key>inf_gem_minamoto</religion_key>
+<ui_icon_path>data/ui/campaign ui/skins/religion_minamoto.tga</ui_icon_path>
+</religions>
+<religions>
+<convertibility>0</convertibility>
+<onscreen>Neutral</onscreen>
+<religion_key>inf_gem_neutral</religion_key>
+<ui_icon_path>data/ui/campaign ui/pips/nonconformism.tga</ui_icon_path>
+</religions>
+<religions>
+<convertibility>0</convertibility>
+<onscreen>Taira</onscreen>
+<religion_key>inf_gem_taira</religion_key>
+<ui_icon_path>data/ui/campaign ui/skins/religion_taira.tga</ui_icon_path>
+</religions>
+<religions>
+<convertibility>9</convertibility>
+<onscreen>Animism</onscreen>
+<religion_key>rel_animist</religion_key>
+<ui_icon_path>data/ui/campaign ui/pips/animism.tga</ui_icon_path>
+</religions>
+<religions>
+<convertibility>9</convertibility>
+<onscreen>Shinto-Buddhism</onscreen>
+<religion_key>rel_buddhist</religion_key>
+<ui_icon_path>data/ui/campaign ui/skins/religion_buddist.tga</ui_icon_path>
+</religions>
+<religions>
+<convertibility>9</convertibility>
+<onscreen>Christianity</onscreen>
+<religion_key>rel_catholic</religion_key>
+<ui_icon_path>data/ui/campaign ui/skins/religion_christian.tga</ui_icon_path>
+</religions>
+<religions>
+<convertibility>3</convertibility>
+<onscreen>Hinduism</onscreen>
+<religion_key>rel_hindu</religion_key>
+<ui_icon_path>data/ui/campaign ui/pips/hindu.tga</ui_icon_path>
+</religions>
+<religions>
+<convertibility>9</convertibility>
+<onscreen>Ikko</onscreen>
+<religion_key>rel_ikko</religion_key>
+<ui_icon_path>data/ui/campaign ui/skins/religion_jodo_shinshu.tga</ui_icon_path>
+</religions>
+<religions>
+<convertibility>2</convertibility>
+<onscreen>Islam</onscreen>
+<religion_key>rel_islamic</religion_key>
+<ui_icon_path>data/ui/campaign ui/pips/islamic.tga</ui_icon_path>
+</religions>
+<religions>
+<convertibility>2</convertibility>
+<onscreen>Nonconformism</onscreen>
+<religion_key>rel_nonconformist</religion_key>
+<ui_icon_path>data/ui/campaign ui/pips/nonconformism.tga</ui_icon_path>
+</religions>
+<religions>
+<convertibility>4</convertibility>
+<onscreen>Orthodox</onscreen>
+<religion_key>rel_orthodox</religion_key>
+<ui_icon_path>data/ui/campaign ui/pips/orthodox.tga</ui_icon_path>
+</religions>
+<religions>
+<convertibility>3</convertibility>
+<onscreen>Protestantism</onscreen>
+<religion_key>rel_protestant</religion_key>
+<ui_icon_path>data/ui/campaign ui/pips/protestant.tga</ui_icon_path>
+</religions>
+<religions>
+<convertibility>3</convertibility>
+<onscreen>Sikh</onscreen>
+<religion_key>rel_sikh</religion_key>
+<ui_icon_path>data/ui/campaign ui/pips/sikh.tga</ui_icon_path>
+</religions>
+</dataroot>

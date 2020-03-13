@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="projectile_weapons.xsd" generated="2010-02-15T19:20:23">
+<edit_uuid>98b9e7f6-edf8-4418-a6bd-7202ca7a57d8</edit_uuid>
+<projectile_weapons>
+<key>cannon</key>
+<s_ColLineage>kNOq8QEAAAA=
+</s_ColLineage>
+<s_Generation>1</s_Generation>
+<s_GUID>{76BA1AEE-DB53-4175-B8EE-4A108D2BB5C7}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</projectile_weapons>
+<projectile_weapons>
+<key>musket</key>
+<s_ColLineage>kNOq8QEAAAA=
+</s_ColLineage>
+<s_Generation>1</s_Generation>
+<s_GUID>{9ECCC020-A56A-4BA1-8E11-B2FDE6FE6635}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</projectile_weapons>
+</dataroot>
+

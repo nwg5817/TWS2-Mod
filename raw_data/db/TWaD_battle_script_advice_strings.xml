@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_battle_script_advice_strings>
+<root>
+  <edit_uuid>58a741a0-bcd0-11df-851a-0800200c9a66</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>memo</field_type>
+    <required>0</required>
+    <max_length>536870910</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>string</name>
+    <field_type>memo</field_type>
+    <required>0</required>
+    <max_length>536870910</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>advisor_name</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>advisor_name</column_source_column>
+    <column_source_table>advisors</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>title</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>536870910</max_length>
+  </field>
+</root>

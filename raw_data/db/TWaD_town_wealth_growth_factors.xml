@@ -1,0 +1,40 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_town_wealth_growth_factors>
+<root>
+  <edit_uuid>e664e33e-b788-46ae-a228-e7c95404a358</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>factor</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>positive_pip_path</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>100</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>positive_tooltip</name>
+    <field_type>memo</field_type>
+    <required>1</required>
+    <max_length>536870910</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>negative_pip_path</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>200</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>negative_tooltip</name>
+    <field_type>memo</field_type>
+    <required>0</required>
+    <max_length>536870910</max_length>
+  </field>
+</root>

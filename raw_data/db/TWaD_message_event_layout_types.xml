@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_message_event_layout_types>
+<root>
+  <edit_uuid>41e74542-bbf9-42c9-b3a2-791cbef3bd5f</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>Type</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>255</max_length>
+  </field>
+</root>

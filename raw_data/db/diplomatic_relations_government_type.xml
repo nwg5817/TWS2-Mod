@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Fri 10. Sep 17:47:50 2010" revision="1" export_branch="C:/WINDOWS" export_user="Janos.Gaspar">
+<edit_uuid>f5cd7e7f-9748-46ab-9968-7b40581e9b35</edit_uuid><diplomatic_relations_government_type>
+<attitude_on_change>0</attitude_on_change>
+<base_attitude>0</base_attitude>
+<government_type_from>gov_absolute_monarchy</government_type_from>
+<government_type_to>gov_absolute_monarchy</government_type_to>
+</diplomatic_relations_government_type>
+</dataroot>

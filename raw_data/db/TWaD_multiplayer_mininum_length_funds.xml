@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_multiplayer_mininum_length_funds>
+<root>
+  <edit_uuid>2c8638a8-4cd4-4376-8d24-1c9c45aaa6c9</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>value</name>
+    <field_type>double</field_type>
+    <required>1</required>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>description</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+</root>

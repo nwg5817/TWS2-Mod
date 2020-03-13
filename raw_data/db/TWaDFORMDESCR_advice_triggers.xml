@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaDFORMDESCR_advice_triggers>
+<root>
+	<form_name>Advice Triggers</form_name>
+	<rows>
+		<subform_table>
+			<columns>
+				<table_name>advice_triggers</table_name>
+				<new_button/>
+				<base_node/>
+				<record_switching>true</record_switching>
+				<filter_field>key</filter_field>
+				<parent_table></parent_table>
+				<parent_field></parent_field>
+				<static_text_field>Trigger</static_text_field>
+				<text_edit_field>key</text_edit_field>
+			</columns>
+			<columns>
+				<static_text_field>Test When</static_text_field>
+				<combo_box_field>test_when</combo_box_field>
+			</columns>
+			<columns>
+				<static_text_field>Condition Script</static_text_field>
+				<memo_edit_field>condition_script</memo_edit_field>
+			</columns>
+		</subform_table>
+	</rows>
+</root>

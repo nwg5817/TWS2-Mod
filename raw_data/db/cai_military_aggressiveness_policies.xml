@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Tue 12. Jul 12:29:09 2011" revision="4" export_branch="T:/branches/shogun2/patch/shogun2/binaries" export_user="Janos.Gaspar">
+<edit_uuid>1d55a715-a12b-43c4-9125-f0f83110ac69</edit_uuid><cai_military_aggressiveness_policies>
+<key>cai_pmap_default</key>
+</cai_military_aggressiveness_policies>
+<cai_military_aggressiveness_policies>
+<key>cai_pmap_high</key>
+</cai_military_aggressiveness_policies>
+<cai_military_aggressiveness_policies>
+<key>cai_pmap_low</key>
+</cai_military_aggressiveness_policies>
+<cai_military_aggressiveness_policies>
+<key>cai_pmap_low_to_high</key>
+</cai_military_aggressiveness_policies>
+<cai_military_aggressiveness_policies>
+<key>cai_pmap_low_to_medium</key>
+</cai_military_aggressiveness_policies>
+<cai_military_aggressiveness_policies>
+<key>cai_pmap_medium</key>
+</cai_military_aggressiveness_policies>
+<cai_military_aggressiveness_policies>
+<key>cai_pmap_medium_to_high</key>
+</cai_military_aggressiveness_policies>
+<cai_military_aggressiveness_policies>
+<key>cai_pmap_very_high</key>
+</cai_military_aggressiveness_policies>
+<cai_military_aggressiveness_policies>
+<key>cai_pmap_very_low</key>
+</cai_military_aggressiveness_policies>
+</dataroot>

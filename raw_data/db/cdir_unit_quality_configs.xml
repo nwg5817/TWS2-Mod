@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Wed 16. Nov 09:57:45 2011" revision="2" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Jack.Lusted">
+<edit_uuid>2305a62f-ca64-4e1d-8605-d74c38a91b6a</edit_uuid><cdir_unit_quality_configs>
+<key>boshin</key>
+</cdir_unit_quality_configs>
+<cdir_unit_quality_configs>
+<key>chosokabe</key>
+</cdir_unit_quality_configs>
+<cdir_unit_quality_configs>
+<key>date</key>
+</cdir_unit_quality_configs>
+<cdir_unit_quality_configs>
+<key>default</key>
+</cdir_unit_quality_configs>
+<cdir_unit_quality_configs>
+<key>oda</key>
+</cdir_unit_quality_configs>
+<cdir_unit_quality_configs>
+<key>shimazu</key>
+</cdir_unit_quality_configs>
+<cdir_unit_quality_configs>
+<key>takeda</key>
+</cdir_unit_quality_configs>
+<cdir_unit_quality_configs>
+<key>uesugi</key>
+</cdir_unit_quality_configs>
+</dataroot>

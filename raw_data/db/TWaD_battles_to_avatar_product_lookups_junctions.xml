@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_battles_to_avatar_product_lookups_junctions>
+<root>
+  <edit_uuid>e4cbc1b1-9d0d-4653-bf59-3e2897c01ec5</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>battle</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>battles</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>product</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>avatar_product_lookups</column_source_table>
+  </field>
+</root>

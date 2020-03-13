@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Mon 14. Nov 12:42:43 2011" revision="25" export_branch="D:/TW/branches/shogun2/boshin/shogun2/src" export_user="Richard.Langridge">
+<edit_uuid>a8e511e5-69a6-4ece-9703-567369f59143</edit_uuid><movie_event_strings>
+<culture>japanese</culture>
+<event>agent_geisha</event>
+<id>397</id>
+<movie>Training/Agent/UNL-XXX-UNLO-GEI-XXX-XXX.bik</movie>
+<title>Geisha</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>agent_metsuke</event>
+<id>403</id>
+<movie>Training/Agent/UNL-XXX-UNLO-MET-XXX-XXX.bik</movie>
+<title>Metsuke</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>agent_missionary</event>
+<id>422</id>
+<movie>Training/Agent/UNL-XXX-UNLO-PRI-XXX-XXX.bik</movie>
+<title>Missionary</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>agent_monk</event>
+<id>411</id>
+<movie>Training/Agent/UNL-XXX-UNLO-MON-XXX-XXX.bik</movie>
+<title>Monk</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>agent_ninja</event>
+<id>414</id>
+<movie>Training/Agent/UNL-XXX-UNLO-NIN-XXX-XXX.bik</movie>
+<title>Ninja</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>become_shogun_cho</event>
+<id>641</id>
+<movie>Faction/Event/DAI_SHO_CHO.bik</movie>
+<title>Shogun!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>become_shogun_dat</event>
+<id>638</id>
+<movie>Faction/Event/DAI_SHO_DAT.bik</movie>
+<title>Shogun!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>become_shogun_hoj</event>
+<id>631</id>
+<movie>Faction/Event/DAI_SHO_HOJ.bik</movie>
+<title>Shogun!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>become_shogun_iga</event>
+<id>622</id>
+<movie>Faction/Event/DAI_SHO_IGA.bik</movie>
+<title>Shogun!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>become_shogun_iko</event>
+<id>727</id>
+<movie>Faction/Event/DAI_SHO_IKO.bik</movie>
+<title>Shogun!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>become_shogun_mor</event>
+<id>617</id>
+<movie>Faction/Event/DAI_SHO_MOR.bik</movie>
+<title>Shogun!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>become_shogun_oda</event>
+<id>612</id>
+<movie>Faction/Event/DAI_SHO_ODA.bik</movie>
+<title>Shogun!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>become_shogun_shi</event>
+<id>611</id>
+<movie>Faction/Event/DAI_SHO_SHI.bik</movie>
+<title>Shogun!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>become_shogun_tak</event>
+<id>610</id>
+<movie>Faction/Event/DAI_SHO_TAK.bik</movie>
+<title>Shogun!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>become_shogun_tok</event>
+<id>607</id>
+<movie>Faction/Event/DAI_SHO_TOK.bik</movie>
+<title>Shogun!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>become_shogun_ues</event>
+<id>597</id>
+<movie>Faction/Event/DAI_SHO_UES.bik</movie>
+<title>Shogun!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>become_shogun</event>
+<id>62</id>
+<movie>Faction/Event/DAI_SHO.bik</movie>
+<title>Shogun!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>bos_allegiance_loss_emperor</event>
+<id>859</id>
+<movie>FallOfTheSamurai/FALL_LOSE_EMPEROR.bik</movie>
+<title>Fall of the Empire</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>bos_allegiance_loss_self</event>
+<id>852</id>
+<movie>FallOfTheSamurai/FALL_LOSE_SELF.bik</movie>
+<title>Fall of the Samurai</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>bos_allegiance_loss_shogun</event>
+<id>848</id>
+<movie>FallOfTheSamurai/FALL_LOSE_SHOGUN.bik</movie>
+<title>Fall of the Shogunate</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>bos_allegiance_win_emperor</event>
+<id>845</id>
+<movie>FallOfTheSamurai/FALL_WIN_EMPEROR.bik</movie>
+<title>Victory!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>bos_allegiance_win_self</event>
+<id>837</id>
+<movie>FallOfTheSamurai/FALL_WIN_SELF.bik</movie>
+<title>Victory!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>bos_allegiance_win_shogun</event>
+<id>836</id>
+<movie>FallOfTheSamurai/FALL_WIN_SHOGUN.bik</movie>
+<title>Victory!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>bos_defeat_enemy</event>
+<id>868</id>
+<movie>FallOfTheSamurai/FALL_DEFEAT_ENEMY.bik</movie>
+<title>Clan Defeated</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>bos_first_rail</event>
+<id>862</id>
+<movie>FallOfTheSamurai/FALL_FIRST_RAIL.bik</movie>
+<title>The First Railway</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>bos_realm_divide_emperor</event>
+<id>826</id>
+<movie>FallOfTheSamurai/FALL_REALMDIV_EMPEROR.bik</movie>
+<title>The Unification of Japan</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>bos_realm_divide_self</event>
+<id>822</id>
+<movie>FallOfTheSamurai/FALL_REALMDIV_SELF.bik</movie>
+<title>The Unification of Japan</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>bos_realm_divide_shogun</event>
+<id>821</id>
+<movie>FallOfTheSamurai/FALL_REALMDIV_SHOGUN.bik</movie>
+<title>The Unification of Japan</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>christianity</event>
+<id>188</id>
+<movie>Faction/Event/HIS_CHRIST.bik</movie>
+<title>Christianity</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_defeat_chosokabe</event>
+<id>475</id>
+<movie>Faction/Defeat/DEF_CHO.bik</movie>
+<title>Fall of the Chosokabe</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_defeat_date</event>
+<id>471</id>
+<movie>Faction/Defeat/DEF_DAT.bik</movie>
+<title>Fall of the Date</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_defeat_gem_fujiwara_hiraizumi</event>
+<id>758</id>
+<movie>Genpei/DEF_GEN.bik</movie>
+<title>Fall of the Hiraizumi</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_defeat_gem_fujiwara_kubota</event>
+<id>767</id>
+<movie>Genpei/DEF_GEN.bik</movie>
+<title>Fall of the Kubota</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_defeat_gem_minamoto_kamakura</event>
+<id>772</id>
+<movie>Genpei/DEF_GEN.bik</movie>
+<title>Fall of the Kamakura</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_defeat_gem_minamoto_kiso</event>
+<id>776</id>
+<movie>Genpei/DEF_GEN.bik</movie>
+<title>Fall of the Kiso</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_defeat_gem_taira_fukuhara</event>
+<id>781</id>
+<movie>Genpei/DEF_GEN.bik</movie>
+<title>Fall of the Fukuhara</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_defeat_gem_taira_yashima</event>
+<id>786</id>
+<movie>Genpei/DEF_GEN.bik</movie>
+<title>Fall of the Yashima</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_defeat_hojo</event>
+<id>466</id>
+<movie>Faction/Defeat/DEF_HOJ.bik</movie>
+<title>Fall of the Hojo</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_defeat_iga_ninja</event>
+<id>456</id>
+<movie>Faction/Defeat/DEF_IGA.bik</movie>
+<title>Fall of the Hattori</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_defeat_ikko_ikki</event>
+<id>702</id>
+<movie>Faction/Defeat/DEF_IKO.bik</movie>
+<title>Fall of the Ikko Ikki</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_defeat_mori</event>
+<id>450</id>
+<movie>Faction/Defeat/DEF_MOR.bik</movie>
+<title>Fall of the Mori</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_defeat_oda</event>
+<id>449</id>
+<movie>Faction/Defeat/DEF_ODA.bik</movie>
+<title>Fall of the Oda</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_defeat_shimazu</event>
+<id>439</id>
+<movie>Faction/Defeat/DEF_SHI.bik</movie>
+<title>Fall of the Shimazu</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_defeat_takeda</event>
+<id>435</id>
+<movie>Faction/Defeat/DEF_TAK.bik</movie>
+<title>Fall of the Takeda</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_defeat_tokugawa</event>
+<id>432</id>
+<movie>Faction/Defeat/DEF_TOK.bik</movie>
+<title>Fall of the Tokugawa</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_defeat_uesugi</event>
+<id>431</id>
+<movie>Faction/Defeat/DEF_UES.bik</movie>
+<title>Fall of the Uesugi</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_loss_chosokabe</event>
+<id>71</id>
+<movie>Faction/Lose/LOS_CHO.bik</movie>
+<title>Fall of the Chosokabe</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_loss_date</event>
+<id>73</id>
+<movie>Faction/Lose/LOS_DAT.bik</movie>
+<title>Fall of the Date</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_loss_gem_fujiwara_hiraizumi</event>
+<id>787</id>
+<movie>Genpei/LOS_GEN.bik</movie>
+<title>Fall of the Hiraizumi</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_loss_gem_fujiwara_kubota</event>
+<id>793</id>
+<movie>Genpei/LOS_GEN.bik</movie>
+<title>Fall of the Kubota</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_loss_gem_minamoto_kamakura</event>
+<id>800</id>
+<movie>Genpei/LOS_GEN.bik</movie>
+<title>Fall of the Kamakura</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_loss_gem_minamoto_kiso</event>
+<id>803</id>
+<movie>Genpei/LOS_GEN.bik</movie>
+<title>Fall of the Kiso</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_loss_gem_taira_fukuhara</event>
+<id>807</id>
+<movie>Genpei/LOS_GEN.bik</movie>
+<title>Fall of the Fukuhara</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_loss_gem_taira_yashima</event>
+<id>815</id>
+<movie>Genpei/LOS_GEN.bik</movie>
+<title>Fall of the Yashima</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_loss_hojo</event>
+<id>74</id>
+<movie>Faction/Lose/LOS_HOJ.bik</movie>
+<title>Fall of the Hojo</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_loss_iga_ninja</event>
+<id>75</id>
+<movie>Faction/Lose/LOS_IGA.bik</movie>
+<title>Fall of the Hattori</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_loss_ikko_ikki</event>
+<id>708</id>
+<movie>Faction/Lose/LOS_IKO.bik</movie>
+<title>Fall of the Ikko Ikki</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_loss_mori</event>
+<id>82</id>
+<movie>Faction/Lose/LOS_MOR.bik</movie>
+<title>Fall of the Mori</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_loss_oda</event>
+<id>87</id>
+<movie>Faction/Lose/LOS_ODA.bik</movie>
+<title>Fall of the Oda</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_loss_shimazu</event>
+<id>90</id>
+<movie>Faction/Lose/LOS_SHI.bik</movie>
+<title>Fall of the Shimazu</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_loss_takeda</event>
+<id>93</id>
+<movie>Faction/Lose/LOS_TAK.bik</movie>
+<title>Fall of the Takeda</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_loss_tokugawa</event>
+<id>98</id>
+<movie>Faction/Lose/LOS_TOK.bik</movie>
+<title>Fall of the Tokugawa</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_loss_uesugi</event>
+<id>108</id>
+<movie>Faction/Lose/LOS_UES.bik</movie>
+<title>Fall of the Uesugi</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_win_chosokabe</event>
+<id>113</id>
+<movie>Faction/Win/WIN_CHO.bik</movie>
+<title>Victory!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_win_date</event>
+<id>114</id>
+<movie>Faction/Win/WIN_DAT.bik</movie>
+<title>Victory!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_win_gem_fujiwara_hiraizumi</event>
+<id>733</id>
+<movie>Genpei/WIN_GEN.bik</movie>
+<title>Victory!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_win_gem_fujiwara_kubota</event>
+<id>740</id>
+<movie>Genpei/WIN_GEN.bik</movie>
+<title>Victory!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_win_gem_minamoto_kamakura</event>
+<id>741</id>
+<movie>Genpei/WIN_GEN.bik</movie>
+<title>Victory!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_win_gem_minamoto_kiso</event>
+<id>748</id>
+<movie>Genpei/WIN_GEN.bik</movie>
+<title>Victory!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_win_gem_taira_fukuhara</event>
+<id>749</id>
+<movie>Genpei/WIN_GEN.bik</movie>
+<title>Victory!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_win_gem_taira_yashima</event>
+<id>757</id>
+<movie>Genpei/WIN_GEN.bik</movie>
+<title>Victory!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_win_hojo</event>
+<id>117</id>
+<movie>Faction/Win/WIN_HOJ.bik</movie>
+<title>Victory!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_win_iga_ninja</event>
+<id>124</id>
+<movie>Faction/Win/WIN_IGA.bik</movie>
+<title>Victory!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_win_ikko_ikki</event>
+<id>716</id>
+<movie>Faction/Win/WIN_IKO.bik</movie>
+<title>Victory!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_win_mori</event>
+<id>129</id>
+<movie>Faction/Win/WIN_MOR.bik</movie>
+<title>Victory!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_win_oda</event>
+<id>139</id>
+<movie>Faction/Win/WIN_ODA.bik</movie>
+<title>Victory!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_win_shimazu</event>
+<id>148</id>
+<movie>Faction/Win/WIN_SHI.bik</movie>
+<title>Victory!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_win_takeda</event>
+<id>158</id>
+<movie>Faction/Win/WIN_TAK.bik</movie>
+<title>Victory!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_win_tokugawa</event>
+<id>163</id>
+<movie>Faction/Win/WIN_TOK.bik</movie>
+<title>Victory!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_win_tut_chosokabe</event>
+<id>865</id>
+<movie>Faction/Tut/TUT_OUT.bik</movie>
+<title>Victory!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>faction_win_uesugi</event>
+<id>167</id>
+<movie>Faction/Win/WIN_UES.bik</movie>
+<title>Victory!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>hero_bow</event>
+<id>380</id>
+<movie>Training/Hero/TRN_BOWSEN.bik</movie>
+<title>Bow Hero</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>hero_ikko_ikki_naginata_warrior_monk</event>
+<id>728</id>
+<movie>Training/Hero/TRN_NAGSEN.bik</movie>
+<title>Ikko Ikki Naginata Monk Hero</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>hero_katana</event>
+<id>384</id>
+<movie>Training/Hero/TRN_KATSEN.bik</movie>
+<title>Katana Hero</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>hero_naginata_monk</event>
+<id>390</id>
+<movie>Training/Hero/TRN_NAGSEN.bik</movie>
+<title>Naginata Warrior Monk Hero</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>hero_yari</event>
+<id>391</id>
+<movie>Training/Hero/TRN_YARSEN.bik</movie>
+<title>Yari Hero</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>nanban_trade</event>
+<id>176</id>
+<movie>Faction/Event/HIS_EURO.bik</movie>
+<title>Nanban Trade</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>realm_divide_cho</event>
+<id>530</id>
+<movie>Faction/Event/ENE_STA_CHO.bik</movie>
+<title>Realm Divide!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>realm_divide_dat</event>
+<id>537</id>
+<movie>Faction/Event/ENE_STA_DAT.bik</movie>
+<title>Realm Divide!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>realm_divide_hoj</event>
+<id>541</id>
+<movie>Faction/Event/ENE_STA_HOJ.bik</movie>
+<title>Realm Divide!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>realm_divide_iga</event>
+<id>551</id>
+<movie>Faction/Event/ENE_STA_IGA.bik</movie>
+<title>Realm Divide!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>realm_divide_iko</event>
+<id>723</id>
+<movie>Faction/Event/ENE_STA_IKO.bik</movie>
+<title>Realm Divide!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>realm_divide_mor</event>
+<id>560</id>
+<movie>Faction/Event/ENE_STA_MOR.bik</movie>
+<title>Realm Divide!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>realm_divide_oda</event>
+<id>570</id>
+<movie>Faction/Event/ENE_STA_ODA.bik</movie>
+<title>Realm Divide!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>realm_divide_shi</event>
+<id>574</id>
+<movie>Faction/Event/ENE_STA_SHI.bik</movie>
+<title>Realm Divide!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>realm_divide_tak</event>
+<id>578</id>
+<movie>Faction/Event/ENE_STA_TAK.bik</movie>
+<title>Realm Divide!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>realm_divide_tok</event>
+<id>587</id>
+<movie>Faction/Event/ENE_STA_TOK.bik</movie>
+<title>Realm Divide!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>realm_divide_ues</event>
+<id>593</id>
+<movie>Faction/Event/ENE_STA_UES.bik</movie>
+<title>Realm Divide!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>realm_divide</event>
+<id>186</id>
+<movie>Faction/Event/ENE_STATE.bik</movie>
+<title>Realm Divide!</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>season_autumn</event>
+<id>689</id>
+<movie>Environment/ENV_AUTUMN.bik</movie>
+<title>Autumn</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>season_cherry</event>
+<id>671</id>
+<movie>Environment/ENV_CHERRY.bik</movie>
+<title>Spring</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>season_harvest</event>
+<id>680</id>
+<movie>Environment/ENV_HARVST.bik</movie>
+<title>Harvest</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>season_snow</event>
+<id>662</id>
+<movie>Environment/ENV_SNOW.bik</movie>
+<title>Winter</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>ship_heavy_heavy</event>
+<id>336</id>
+<movie>Training/Sea/TRN_ATKBUN.bik</movie>
+<title>Heavy Bune</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>ship_heavy_nihon</event>
+<id>357</id>
+<movie>Training/Sea/TRN_NIHMAR.bik</movie>
+<title>Nihon Maru</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>ship_heavy_oataka</event>
+<id>319</id>
+<movie>Training/Sea/TRN_HEVBUN.bik</movie>
+<title>O Ataka Bune</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>ship_light_bow</event>
+<id>327</id>
+<movie>Training/Sea/TRN_BOWSHP.bik</movie>
+<title>Bow Kobaya</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>ship_light_firebomb</event>
+<id>334</id>
+<movie>Training/Sea/TRN_FIRESH.bik</movie>
+<title>Fire Bomb Kobaya</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>ship_light_matchlock</event>
+<id>344</id>
+<movie>Training/Sea/TRN_MATSHP.bik</movie>
+<title>Matchlock Kobaya</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>ship_medium_cannon</event>
+<id>330</id>
+<movie>Training/Sea/TRN_CANBUN.bik</movie>
+<title>Cannon Bune</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>ship_medium_medium</event>
+<id>350</id>
+<movie>Training/Sea/TRN_MEDBUN.bik</movie>
+<title>Medium Bune</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>ship_medium_sengoku</event>
+<id>370</id>
+<movie>Training/Sea/TRN_SENBUN.bik</movie>
+<title>Sengoku Bune</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>ship_medium_siege</event>
+<id>375</id>
+<movie>Training/Sea/TRN_TWRBUN.bik</movie>
+<title>Siege Tower Bune</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>ship_merchant_redseal</event>
+<id>366</id>
+<movie>Training/Sea/TRN_RDSSHP.bik</movie>
+<title>Red Seal  Ship</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>ship_merchant_trade</event>
+<id>373</id>
+<movie>Training/Sea/TRN_TRDSHP.bik</movie>
+<title>Trade Ship</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>unit_artillery_cannons</event>
+<id>207</id>
+<movie>Training/Land/TRN_CANON.bik</movie>
+<title>European Cannons</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>unit_artillery_mangonels</event>
+<id>263</id>
+<movie>Training/Land/TRN_MANGNL.bik</movie>
+<title>Fire Projecting Mangonels</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>unit_artillery_rockets</event>
+<id>294</id>
+<movie>Training/Land/TRN_ROCKET.bik</movie>
+<title>Fire Rockets</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>unit_ashigaru_bow</event>
+<id>189</id>
+<movie>Training/Land/TRN_BOWASH.bik</movie>
+<title>Bow Ashigaru</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>unit_ashigaru_katana</event>
+<id>247</id>
+<movie>Training/Land/TRN_KATASH.bik</movie>
+<title>Katana Ashigaru</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>unit_ashigaru_matchlock</event>
+<id>270</id>
+<movie>Training/Land/TRN_MATASH.bik</movie>
+<title>Matchlock Ashigaru</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>unit_ashigaru_yari</event>
+<id>304</id>
+<movie>Training/Land/TRN_YARASH.bik</movie>
+<title>Yari Ashigaru</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>unit_cavalry_bow</event>
+<id>217</id>
+<movie>Training/Land/TRN_CAVBOW.bik</movie>
+<title>Bow Cavalry</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>unit_cavalry_great_guard</event>
+<id>651</id>
+<movie>Training/Land/TRN_CAVSPR.bik</movie>
+<title>Great Guard</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>unit_cavalry_katana</event>
+<id>218</id>
+<movie>Training/Land/TRN_CAVKAT.bik</movie>
+<title>Katana Cavalry</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>unit_cavalry_light</event>
+<id>227</id>
+<movie>Training/Land/TRN_CAVLIG.bik</movie>
+<title>Light Cavalry</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>unit_cavalry_naginata_warrior_monk_cavalry</event>
+<id>657</id>
+<movie>Training/Land/TRN_NAGCAV.bik</movie>
+<title>Naginata Warrior Monk Cavalry</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>unit_cavalry_yari</event>
+<id>236</id>
+<movie>Training/Land/TRN_CAVYAR.bik</movie>
+<title>Yari Cavalry</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>unit_fire_bombers</event>
+<id>241</id>
+<movie>Training/Land/TRN_FIREPT.bik</movie>
+<title>Fire Bomb Throwers</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>unit_katana_ronin</event>
+<id>698</id>
+<movie>Training/Land/TRN_KATSAM.bik</movie>
+<title>Katana Ronin</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>unit_kisho_ninja</event>
+<id>256</id>
+<movie>Training/Land/TRN_KSHNIN.bik</movie>
+<title>Kisho Ninja</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>unit_monk_bow</event>
+<id>196</id>
+<movie>Training/Land/TRN_BOWMON.bik</movie>
+<title>Bow Warrior Monks</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>unit_monk_matchlock</event>
+<id>272</id>
+<movie>Training/Land/TRN_MATMON.bik</movie>
+<title>Matchlock Warrior Monks</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>unit_monk_naginata</event>
+<id>283</id>
+<movie>Training/Land/TRN_NAGMON.bik</movie>
+<title>Naginata Warrior Monks</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>unit_samurai_bow</event>
+<id>197</id>
+<movie>Training/Land/TRN_BOWSAM.bik</movie>
+<title>Bow Samurai</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>unit_samurai_katana</event>
+<id>255</id>
+<movie>Training/Land/TRN_KATSAM.bik</movie>
+<title>Katana Samurai</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>unit_samurai_matchlock</event>
+<id>279</id>
+<movie>Training/Land/TRN_MATSAM.bik</movie>
+<title>Matchlock Samurai</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>unit_samurai_naginata</event>
+<id>288</id>
+<movie>Training/Land/TRN_NAGSAM.bik</movie>
+<title>Naginata Samurai</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>unit_samurai_nodachi</event>
+<id>292</id>
+<movie>Training/Land/TRN_NDASAM.bik</movie>
+<title>No-Dachi Samurai</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>unit_samurai_yari</event>
+<id>313</id>
+<movie>Training/Land/TRN_YARSAM.bik</movie>
+<title>Yari Samurai</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>unit_warrior_nuns</event>
+<id>692</id>
+<movie>Training/Land/TRN_NUN.bik</movie>
+<title>Warrior Nuns</title>
+</movie_event_strings>
+<movie_event_strings>
+<culture>japanese</culture>
+<event>unit_yari_ronin</event>
+<id>693</id>
+<movie>Training/Land/TRN_YARSAM.bik</movie>
+<title>Yari Ronin</title>
+</movie_event_strings>
+</dataroot>

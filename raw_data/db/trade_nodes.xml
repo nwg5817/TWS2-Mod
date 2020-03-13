@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Thu 28. Jul 15:02:57 2011" revision="7" export_branch="T:/branches/shogun2/patch/shogun2/binaries" export_user="Jeff.Woods">
+<edit_uuid>f23f4eeb-c0fa-4a4c-a590-d207e2951e99</edit_uuid><trade_nodes>
+<base_quantity>20</base_quantity>
+<commodity>res_coffee</commodity>
+<display_name>Kandiye</display_name>
+<group>eur_mediterranean</group>
+<ID>eur_aegean_sea_01</ID>
+<maximum_percentage_increase>50</maximum_percentage_increase>
+<percentage_increase_per_agent>0.85</percentage_increase_per_agent>
+</trade_nodes>
+<trade_nodes>
+<base_quantity>8</base_quantity>
+<commodity>res_sho_medicine</commodity>
+<display_name>Trade with Annamese Warlords</display_name>
+<group>placeholder_group</group>
+<ID>gem_annam</ID>
+<maximum_percentage_increase>50</maximum_percentage_increase>
+<percentage_increase_per_agent>0.85</percentage_increase_per_agent>
+</trade_nodes>
+<trade_nodes>
+<base_quantity>12</base_quantity>
+<commodity>res_gem_scrolls</commodity>
+<display_name>Trade with Chinese Empire</display_name>
+<group>placeholder_group</group>
+<ID>gem_china</ID>
+<maximum_percentage_increase>50</maximum_percentage_increase>
+<percentage_increase_per_agent>0.85</percentage_increase_per_agent>
+</trade_nodes>
+<trade_nodes>
+<base_quantity>5</base_quantity>
+<commodity>res_gem_iron</commodity>
+<display_name>Trade with Ainu Villages</display_name>
+<group>placeholder_group</group>
+<ID>gem_hokkaido</ID>
+<maximum_percentage_increase>50</maximum_percentage_increase>
+<percentage_increase_per_agent>0.85</percentage_increase_per_agent>
+</trade_nodes>
+<trade_nodes>
+<base_quantity>8</base_quantity>
+<commodity>res_sho_medicine</commodity>
+<display_name>Trade with Indonesian Sultanates</display_name>
+<group>placeholder_group</group>
+<ID>gem_indonesia</ID>
+<maximum_percentage_increase>50</maximum_percentage_increase>
+<percentage_increase_per_agent>0.85</percentage_increase_per_agent>
+</trade_nodes>
+<trade_nodes>
+<base_quantity>5</base_quantity>
+<commodity>res_gem_wood</commodity>
+<display_name>Trade with Jurchen Tribes</display_name>
+<group>placeholder_group</group>
+<ID>gem_jurchen</ID>
+<maximum_percentage_increase>50</maximum_percentage_increase>
+<percentage_increase_per_agent>0.85</percentage_increase_per_agent>
+</trade_nodes>
+<trade_nodes>
+<base_quantity>12</base_quantity>
+<commodity>res_gem_scrolls</commodity>
+<display_name>Trade with Chinese Empire</display_name>
+<group>placeholder_group</group>
+<ID>gem_korea</ID>
+<maximum_percentage_increase>50</maximum_percentage_increase>
+<percentage_increase_per_agent>0.85</percentage_increase_per_agent>
+</trade_nodes>
+<trade_nodes>
+<base_quantity>8</base_quantity>
+<commodity>res_sho_medicine</commodity>
+<display_name>Trade with Annamese Warlords</display_name>
+<group>placeholder_group</group>
+<ID>jap_annam</ID>
+<maximum_percentage_increase>50</maximum_percentage_increase>
+<percentage_increase_per_agent>0.85</percentage_increase_per_agent>
+</trade_nodes>
+<trade_nodes>
+<base_quantity>12</base_quantity>
+<commodity>res_sho_silk</commodity>
+<display_name>Trade with Chinese Empire</display_name>
+<group>placeholder_group</group>
+<ID>jap_china</ID>
+<maximum_percentage_increase>50</maximum_percentage_increase>
+<percentage_increase_per_agent>0.85</percentage_increase_per_agent>
+</trade_nodes>
+<trade_nodes>
+<base_quantity>5</base_quantity>
+<commodity>res_sho_iron</commodity>
+<display_name>Trade with Ainu Villages</display_name>
+<group>placeholder_group</group>
+<ID>jap_hokkaido</ID>
+<maximum_percentage_increase>50</maximum_percentage_increase>
+<percentage_increase_per_agent>0.85</percentage_increase_per_agent>
+</trade_nodes>
+<trade_nodes>
+<base_quantity>8</base_quantity>
+<commodity>res_sho_medicine</commodity>
+<display_name>Trade with Indonesian Sultanates</display_name>
+<group>placeholder_group</group>
+<ID>jap_indonesia</ID>
+<maximum_percentage_increase>50</maximum_percentage_increase>
+<percentage_increase_per_agent>0.85</percentage_increase_per_agent>
+</trade_nodes>
+<trade_nodes>
+<base_quantity>5</base_quantity>
+<commodity>res_sho_horses</commodity>
+<display_name>Trade with Jurchen Tribes</display_name>
+<group>placeholder_group</group>
+<ID>jap_jurchen</ID>
+<maximum_percentage_increase>50</maximum_percentage_increase>
+<percentage_increase_per_agent>0.85</percentage_increase_per_agent>
+</trade_nodes>
+<trade_nodes>
+<base_quantity>12</base_quantity>
+<commodity>res_sho_cotton</commodity>
+<display_name>Trade with Korean Kingdom</display_name>
+<group>placeholder_group</group>
+<ID>jap_korea</ID>
+<maximum_percentage_increase>50</maximum_percentage_increase>
+<percentage_increase_per_agent>0.85</percentage_increase_per_agent>
+</trade_nodes>
+<trade_nodes>
+<base_quantity>12</base_quantity>
+<commodity>res_sho_silk</commodity>
+<display_name>Trade with Chinese Empire</display_name>
+<group>placeholder_group</group>
+<ID>jap_tut_china</ID>
+<maximum_percentage_increase>50</maximum_percentage_increase>
+<percentage_increase_per_agent>0.85</percentage_increase_per_agent>
+</trade_nodes>
+</dataroot>

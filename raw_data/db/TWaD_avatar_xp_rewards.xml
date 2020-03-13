@@ -1,0 +1,34 @@
+<!DOCTYPE TWaD_avatar_xp_rewards>
+<root>
+<edit_uuid>ad4cdf9b-adf0-11e0-8001-001fd0250702</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>xp_value</name>
+    <field_type>double</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>onscreen_description</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>65535</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>product</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>avatar_product_lookups</column_source_table>
+  </field>
+</root>

@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_mp_general_command_ratings>
+<root>
+  <edit_uuid>078c0d26-d223-4be9-a02a-ed4f8ec30164</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>unit_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>units</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>command_stars</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+  </field>
+</root>

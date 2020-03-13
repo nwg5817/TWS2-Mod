@@ -1,0 +1,34 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_mount_variants>
+<root>
+  <edit_uuid>dbfd0061-c631-11df-8001-001fd02417f0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>autonumber</field_type>
+    <required>1</required>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>mount_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>mounts</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>display_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>weight</name>
+    <field_type>double</field_type>
+    <required>1</required>
+    <default_value>1</default_value>
+  </field>
+</root>

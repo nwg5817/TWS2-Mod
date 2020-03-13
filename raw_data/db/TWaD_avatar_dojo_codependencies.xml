@@ -1,0 +1,31 @@
+<!DOCTYPE TWaD_avatar_dojo_codependencies>
+<root>
+<edit_uuid>ac4c5fb8-a6c6-11df-8001-001fd02417f0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>avatar_dojos</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>unit</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>units</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>codependency</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>codependency_key</column_source_column>
+    <column_source_table>avatar_dojos</column_source_table>
+  </field>
+</root>

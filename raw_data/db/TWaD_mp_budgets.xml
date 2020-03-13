@@ -1,0 +1,39 @@
+<!DOCTYPE TWaD_mp_budgets>
+<root>
+<edit_uuid>b3163bb5-a616-11df-8001-001fd02417f0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>budget_size_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>mp_budget_sizes</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>land</name>
+    <field_type>yesno</field_type>
+    <required>1</required>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>siege_defender</name>
+    <field_type>yesno</field_type>
+    <required>1</required>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>budget</name>
+    <field_type>integer</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+</root>

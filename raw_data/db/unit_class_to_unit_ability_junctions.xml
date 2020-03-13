@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Fri 25. Nov 14:01:16 2011" revision="4" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Jack.Lusted">
+<edit_uuid>249e8237-3f4e-42c1-af70-5742d59a7e3c</edit_uuid><unit_class_to_unit_ability_junctions>
+<unit_ability>kill_zone</unit_ability>
+<unit_class>artillery_foot</unit_class>
+</unit_class_to_unit_ability_junctions>
+<unit_class_to_unit_ability_junctions>
+<unit_ability>fire_volley</unit_ability>
+<unit_class>infantry_bow</unit_class>
+</unit_class_to_unit_ability_junctions>
+<unit_class_to_unit_ability_junctions>
+<unit_ability>fire_volley</unit_ability>
+<unit_class>infantry_elite</unit_class>
+</unit_class_to_unit_ability_junctions>
+<unit_class_to_unit_ability_junctions>
+<unit_ability>fire_volley</unit_ability>
+<unit_class>infantry_light</unit_class>
+</unit_class_to_unit_ability_junctions>
+<unit_class_to_unit_ability_junctions>
+<unit_ability>fire_volley</unit_ability>
+<unit_class>infantry_line</unit_class>
+</unit_class_to_unit_ability_junctions>
+<unit_class_to_unit_ability_junctions>
+<unit_ability>fire_volley</unit_ability>
+<unit_class>infantry_matchlock</unit_class>
+</unit_class_to_unit_ability_junctions>
+<unit_class_to_unit_ability_junctions>
+<unit_ability>fire_volley</unit_ability>
+<unit_class>infantry_militia</unit_class>
+</unit_class_to_unit_ability_junctions>
+</dataroot>

@@ -1,0 +1,29 @@
+<!DOCTYPE TWaD_mp_force_gen_upgrade_junctions>
+<root>
+<edit_uuid>42bb078d-a6c4-11df-8001-001fd02417f0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>template_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>mp_force_gen_templates</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>unit_mp_category_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>unit_category</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>priority</name>
+    <field_type>integer</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+</root>

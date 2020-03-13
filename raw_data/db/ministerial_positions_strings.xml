@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Thu 8. Sep 15:52:37 2011" revision="8" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Dom.Starr">
+<edit_uuid>c0e1ed72-cc76-4029-93a8-4a1be968ae1d</edit_uuid><ministerial_positions_strings>
+<key>bos_1_inspector_general</key>
+<on_screen>Inspector General</on_screen>
+</ministerial_positions_strings>
+<ministerial_positions_strings>
+<key>bos_2_comptroller</key>
+<on_screen>Comptroller</on_screen>
+</ministerial_positions_strings>
+<ministerial_positions_strings>
+<key>bos_3_chief_staff</key>
+<on_screen>Chief of Staff</on_screen>
+</ministerial_positions_strings>
+<ministerial_positions_strings>
+<key>bos_4_commander_chief</key>
+<on_screen>Commander-in-Chief</on_screen>
+</ministerial_positions_strings>
+<ministerial_positions_strings>
+<key>clan_development</key>
+<on_screen>Commissioner for Development</on_screen>
+</ministerial_positions_strings>
+<ministerial_positions_strings>
+<key>clan_finance</key>
+<on_screen>Commissioner for Finance</on_screen>
+</ministerial_positions_strings>
+<ministerial_positions_strings>
+<key>clan_leader</key>
+<on_screen>Daimyo</on_screen>
+</ministerial_positions_strings>
+<ministerial_positions_strings>
+<key>clan_supplies</key>
+<on_screen>Commissioner for Supply</on_screen>
+</ministerial_positions_strings>
+<ministerial_positions_strings>
+<key>clan_warfare</key>
+<on_screen>Commissioner for Warfare</on_screen>
+</ministerial_positions_strings>
+</dataroot>

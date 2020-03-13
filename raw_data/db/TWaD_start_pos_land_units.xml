@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_start_pos_land_units>
+<root>
+  <edit_uuid>3afc81c6-019e-42b8-9fcd-9a160a30060f</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>id</name>
+    <field_type>autonumber</field_type>
+    <required>1</required>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>unit_type</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>unit_stats_land</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>general</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+    <column_source_column>ID</column_source_column>
+    <column_source_column>Name</column_source_column>
+    <column_source_column>Surname</column_source_column>
+    <column_source_table>start_pos_characters</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>soldiers</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+</root>

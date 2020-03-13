@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_agent_to_agent_abilities>
+<root>
+  <edit_uuid>8bdd9d09-97f0-4adc-97b8-374dd207a5d2</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>agent</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>agents</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>ability</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>ability</column_source_column>
+    <column_source_table>abilities</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>default_value</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+    <default_value>1</default_value>
+  </field>
+</root>

@@ -1,0 +1,1459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Thu 19. Jan 16:00:44 2012" revision="54" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Chris.Gambold">
+<edit_uuid>639d7d55-8b70-42d6-9b8f-39606d6ce58e</edit_uuid><dilemmas>
+<generate>1</generate>
+<key>bos_intro_3_dilemma_research_field</key>
+<localised_description>Research is underway and we have been approached by numerous foreigners claiming to be experts in their field. We can exploit this to our advantage; should we seek to focus on civil or military development?</localised_description>
+<localised_first_choice_label>Despite tensions, conflict has yet to escalate; there may never be a better time to develop our infrastructure. We will seek the counsel of experts in civil technology.</localised_first_choice_label>
+<localised_first_choice_title>Civil</localised_first_choice_title>
+<localised_second_choice_label>This conflict has yet to escalate, but all-out war is inevitable. When that day comes we must have the advantage. We will seek the counsel of experts in military technology.</localised_second_choice_label>
+<localised_second_choice_title>Military</localised_second_choice_title>
+<localised_title>Setting Our Priorities</localised_title>
+<prioritized>1</prioritized>
+<ui_icon>bos_message_modernisation_positive_active.tga</ui_icon>
+<ui_image>bos_modernisation.TGA</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_ambitious_traders</key>
+<localised_description>Merchants operating at our ports have proposed increased trade between our clan and foreign nations. They have requested permission to invest in overseas trade opportunities.</localised_description>
+<localised_first_choice_label>Increased trade with prosperous nations will in turn boost our clan's economic fortunes. The merchants will be given the proper concessions.</localised_first_choice_label>
+<localised_first_choice_title>Foreign Priority</localised_first_choice_title>
+<localised_second_choice_label>Before looking to trade opportunities in far-away lands, we must concentrate on refining its practice within Japan.</localised_second_choice_label>
+<localised_second_choice_title>Domestic Priority</localised_second_choice_title>
+<localised_title>Ambitious Traders</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Merchants.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_auxiliary_supplies</key>
+<localised_description>Merchants serving our clan in neighbouring provinces have discovered an opportunity to procure a quantity of military equipment and supplies. Investment in this could prove beneficial to our war efforts.</localised_description>
+<localised_first_choice_label>These additional supplies will allow us to effectively equip a considerable number of men. We will invest in this opportunity immediately.</localised_first_choice_label>
+<localised_first_choice_title>Invest in Supplies</localised_first_choice_title>
+<localised_second_choice_label>We cannot afford to make such an investment at this time. We must rely on our existing resources to equip the troops.</localised_second_choice_label>
+<localised_second_choice_title>Rely On Our Own</localised_second_choice_title>
+<localised_title>Auxiliary Supplies</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Clan.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_better_agent_metsuke</key>
+<localised_description>The Shogunate's desire for order has resulted in their offer to bestow special authority upon our metsuke, as long as we are willing to offer tribute.</localised_description>
+<localised_first_choice_label>The shogun's authority will enable our metsuke to dispense justice more effectively. We accept his offer.</localised_first_choice_label>
+<localised_first_choice_title>Accept Offer</localised_first_choice_title>
+<localised_second_choice_label>We need not invest further in the support of our metsuke for the time being. We must decline the shogun's offer.</localised_second_choice_label>
+<localised_second_choice_title>Decline Offer</localised_second_choice_title>
+<localised_title>The Shogun's Authority</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Agents.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_better_agent_missionary</key>
+<localised_description>Impressed with our efforts to support Christianity across Japan, the Church has offered to grant us powers on behalf of the Pope himself, in return for tribute.  </localised_description>
+<localised_first_choice_label>The Pope's divine authority will allow the word of God to be spread more effectively. We accept the Church's offer.</localised_first_choice_label>
+<localised_first_choice_title>Accept Offer</localised_first_choice_title>
+<localised_second_choice_label>We have no need to further invest in the support of our missionaries for the time being. We decline the Church's offer.</localised_second_choice_label>
+<localised_second_choice_title>Decline Offer</localised_second_choice_title>
+<localised_title>Divine Authority</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Agents.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_better_agent_monk</key>
+<localised_description>An emissary has been dispatched to us by the Ikko-Ikki monshu. In recognition of our devotion to Buddhist tradition and in return for some small compensation, the league is offering to support our monks in their work.</localised_description>
+<localised_first_choice_label>With the fervent support of the Ikko-Ikki, our monks will be better able to disseminate the Buddha's teachings amongst the people. We accept the league's offer.</localised_first_choice_label>
+<localised_first_choice_title>Accept Offer</localised_first_choice_title>
+<localised_second_choice_label>We have no need to further invest in the support of our monks for the time being. We decline the Ikko-Ikki's offer.</localised_second_choice_label>
+<localised_second_choice_title>Decline Offer</localised_second_choice_title>
+<localised_title>Fervent Buddhists</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Agents.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_better_agent_ninja</key>
+<localised_description>My lord, a representative of the Hattori has approached us with a proposition. In return for a small tribute, they will be willing to share some of their expert knowledge of ninjutsu with us.</localised_description>
+<localised_first_choice_label>The Hattori are indeed masters of ninjutsu; their knowledge of the art will help us to improve our own subterfuge capabilities. We accept their offer.</localised_first_choice_label>
+<localised_first_choice_title>Accept Offer</localised_first_choice_title>
+<localised_second_choice_label>We need not invest further in the support of our ninja for the time being. We must decline the Hattori's offer.</localised_second_choice_label>
+<localised_second_choice_title>Decline Offer</localised_second_choice_title>
+<localised_title>Masters of Subterfuge</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Agents.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_bos_emperor_foreign_medic</key>
+<localised_description>William Willis, a British physician residing in Japan, seeks temporary employment and is offering his services as medical officer.</localised_description>
+<localised_first_choice_label>We need all the help we can get in this conflict. Engage him, may his skills help keep our men alive.</localised_first_choice_label>
+<localised_first_choice_title>Employ</localised_first_choice_title>
+<localised_second_choice_label>We have no need for his services.</localised_second_choice_label>
+<localised_second_choice_title>Decline</localised_second_choice_title>
+<localised_title>William Willis</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>bos_message_diplomacy_positive_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>0</generate>
+<key>d_bos_emperor_realm_divide</key>
+<localised_description>Conflict has escalated, and we have grown strong serving the Emperor. A decision must now be made: how best to unify the people of Japan once and for all?</localised_description>
+<localised_first_choice_label>The Emperor must lead his people to greatness. In his name, we will crush all who oppose us!</localised_first_choice_label>
+<localised_first_choice_title>Fight for the Emperor</localised_first_choice_title>
+<localised_second_choice_label>Enough of this! Never again will we submit to these so-called rulers. We must take the future into our own hands.</localised_second_choice_label>
+<localised_second_choice_title>Assume Personal Control</localised_second_choice_title>
+<localised_title>Realm Divide</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>bos_message_allegiance_imperial_positive_active.tga</ui_icon>
+<ui_image>bos_emperor.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_bos_emperor_ronin</key>
+<localised_description>A band of samurai, loyal to the Emperor and eager to serve, are seeking employment.</localised_description>
+<localised_first_choice_label>They will have their chance to serve the Emperor, employ them at once.</localised_first_choice_label>
+<localised_first_choice_title>Employ Them</localised_first_choice_title>
+<localised_second_choice_label>We currently have no need for their services, they will have to seek their fortune elsewhere.</localised_second_choice_label>
+<localised_second_choice_title>Turn Them Away</localised_second_choice_title>
+<localised_title>Ronin</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>bos_message_army_positive_active.tga</ui_icon>
+<ui_image>bos_army_victory.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_bos_gaijin_trouble</key>
+<localised_description>Foreign trade necessitates foreign contact. Westerners and their ways have caused numerous 'incidents' at one of our trade ports and the people are concerned. What would you have us do?</localised_description>
+<localised_first_choice_label>The happiness of our subects is paramount. We must better police the gaijin here; any attempts to resist will be dealt with severely.</localised_first_choice_label>
+<localised_first_choice_title>Take Action</localised_first_choice_title>
+<localised_second_choice_label>We cannot allow the concerns of a few locals to affect our good relations with the western powers. Take no action.</localised_second_choice_label>
+<localised_second_choice_title>Ignore the Issue</localised_second_choice_title>
+<localised_title>Gaijin Trouble</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>bos_message_diplomacy_negative_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_bos_guns_of_war</key>
+<localised_description>Now, more than ever, we rely on guns to achieve victory on the battlefield. Both firearms and artillery have a major role to play in warfare, and we should exploit them to suit our military ends.</localised_description>
+<localised_first_choice_label>Artillery allows us to strike our enemies from afar, leaving them vulnerable once we have closed in.</localised_first_choice_label>
+<localised_first_choice_title>Artillery Focus</localised_first_choice_title>
+<localised_second_choice_label>By concentrating on firearms training, we can ensure that we have the upper hand in battle.</localised_second_choice_label>
+<localised_second_choice_title>Firearms Focus</localised_second_choice_title>
+<localised_title>The Guns of War</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>bos_message_conquest_positive_active.tga</ui_icon>
+<ui_image>bos_army.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_bos_icarus_affair</key>
+<localised_description>Two crewmen from HMS Icarus, a British vessel moored at one of our trading ports, have been murdered by local anti-foreigner activists. The British are demanding we pay damages.</localised_description>
+<localised_first_choice_label>We cannot afford to damage trade relations with the West for the sake of a few murderers. We will pay damages and see that the culprits are punished.</localised_first_choice_label>
+<localised_first_choice_title>Compensate</localised_first_choice_title>
+<localised_second_choice_label>We cannot be held responsible for the consequences of foreign indiscretion, regardless of the severity.</localised_second_choice_label>
+<localised_second_choice_title>Do Nothing</localised_second_choice_title>
+<localised_title>The Icarus Affair</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>bos_message_diplomacy_negative_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_bos_koyosha_modern</key>
+<localised_description>You will remember mention of the Koyosha, my lord. Angered at our attempts to modernise at the expense of the samurai class, these militant traditionalists have taken to indiscriminately murdering clan and government officials.</localised_description>
+<localised_first_choice_label>Outrage! Do they not see how the people benefit from modernisation? These criminals must be hunted down! </localised_first_choice_label>
+<localised_first_choice_title>Take Action</localised_first_choice_title>
+<localised_second_choice_label>They are right to be angry. We have lost sight of traditional ways and values through excessive modernisation. We must temper our rate of modernisation.</localised_second_choice_label>
+<localised_second_choice_title>Appease</localised_second_choice_title>
+<localised_title>Koyosha</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>bos_message_character_negative_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_bos_koyosha_western</key>
+<localised_description>You will remember mention of the Koyosha, my lord. Angered at our dealings with the West, these militant isolationists have taken to indiscriminately murdering foreign traders throughout our ports.</localised_description>
+<localised_first_choice_label>Outrage! Do they not see how the people benefit from exposure to other cultures? These criminals must be brought to justice! </localised_first_choice_label>
+<localised_first_choice_title>Take Action</localised_first_choice_title>
+<localised_second_choice_label>They are right to be angry. Our constant dealings with the West has put our cultural identity in jeopardy. We must temper foreign relations.</localised_second_choice_label>
+<localised_second_choice_title>Appease</localised_second_choice_title>
+<localised_title>Koyosha</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>bos_message_character_negative_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_bos_military_focus</key>
+<localised_description>Strength in numbers and troop variety will ensure that we can rise to any challenge. Our navy can provide invaluable support to our armies, landing troops behind enemy lines and bombarding from afar. We should decide where to focus our military might.</localised_description>
+<localised_first_choice_label>We should work towards improving our armies.</localised_first_choice_label>
+<localised_first_choice_title>Army Focus</localised_first_choice_title>
+<localised_second_choice_label>We should work towards improving our navies.</localised_second_choice_label>
+<localised_second_choice_title>Naval Focus</localised_second_choice_title>
+<localised_title>Military Focus</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>bos_message_conflict_positive_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_bos_nanban_slavers</key>
+<localised_description>A Chinese man has appealed to us for aid. Having escaped from a nanban ship currently berthed in one of our harbours, he claims he and his companions were kidnapped for slavery and have been kept in appalling conditions.</localised_description>
+<localised_first_choice_label>This is an unfortunate situation, but we cannot be seen to interfere with the affairs of foreigners.</localised_first_choice_label>
+<localised_first_choice_title>Do Nothing</localised_first_choice_title>
+<localised_second_choice_label>Slavery is barbaric! We cannot stand idly by whilst such inhumanity persists on our shores.</localised_second_choice_label>
+<localised_second_choice_title>Intervene</localised_second_choice_title>
+<localised_title>Nanban Slavers</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>bos_message_diplomacy_negative_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_bos_rangaku</key>
+<localised_description>My lord, a man with a passion for rangaku - learning born of our dealings with the Dutch - has been promoting western ideals and technology, believing them to be key to our national development.</localised_description>
+<localised_first_choice_label>Western learning might benefit us greatly, even if we disapprove of the gaijin's crude and self-serving ways.</localised_first_choice_label>
+<localised_first_choice_title>Encourage</localised_first_choice_title>
+<localised_second_choice_label>The foreigners have caused us much turmoil of late and we will not have their misconceptions cloud the people's minds. He must be silenced!</localised_second_choice_label>
+<localised_second_choice_title>Assassinate Him</localised_second_choice_title>
+<localised_title>Rangaku</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>bos_message_modernisation_positive_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_bos_sakai_incident</key>
+<localised_description>Disturbing news, my lord. Twelve French seamen have been murdered in Sakai, near Osaka. It falls under our jurisdiction, and the French are demanding we pay damages.</localised_description>
+<localised_first_choice_label>We cannot afford to damage trade relations with the West for the sake of a few murderers. We will pay damages, see that the culprits are punished.</localised_first_choice_label>
+<localised_first_choice_title>Compensate</localised_first_choice_title>
+<localised_second_choice_label>We cannot be held responsible for the consequences of foreign indiscretion, regardless of the severity.</localised_second_choice_label>
+<localised_second_choice_title>Do Nothing</localised_second_choice_title>
+<localised_title>The Sakai Incident</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>bos_message_diplomacy_negative_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_bos_sensosai</key>
+<localised_description>Hoping to ease tensions within our domain, elders have requested that we invest in this years Sensosai in honour of our noble ancestors.</localised_description>
+<localised_first_choice_label>A wonderful idea; grand festivities will help ease the minds of the people, if only for a while.</localised_first_choice_label>
+<localised_first_choice_title>Invest</localised_first_choice_title>
+<localised_second_choice_label>We haven't the resources to spare at this time. Public order will have to be dealt with by other means.</localised_second_choice_label>
+<localised_second_choice_title>Ignore</localised_second_choice_title>
+<localised_title>Sensosai</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>bos_message_generic_positive_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_bos_shogun_foreign_artillery_expert</key>
+<localised_description>A French ordnance expert going by the name of Clateau is offering - for a price - to help improve our use of artillery.</localised_description>
+<localised_first_choice_label>We need all the help we can get in this conflict. Pay the man, may he show us his artillery skills.</localised_first_choice_label>
+<localised_first_choice_title>Engage</localised_first_choice_title>
+<localised_second_choice_label>We have no need for his services.</localised_second_choice_label>
+<localised_second_choice_title>Decline</localised_second_choice_title>
+<localised_title>Clateau</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>bos_message_diplomacy_positive_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_bos_shogun_province_security</key>
+<localised_description>Public order in this province is low, and Imperialist insurgents have been attempting to capitalise on the situation in order to promote anti-Shogunate dissent. It could be wise to invest in additional policing.</localised_description>
+<localised_first_choice_label>A wise plan. We will invest in security at once.</localised_first_choice_label>
+<localised_first_choice_title>Invest</localised_first_choice_title>
+<localised_second_choice_label>Nonsense! The Imperialists hold no sway over our people, we will deal their discontent in due course.</localised_second_choice_label>
+<localised_second_choice_title>Ignore</localised_second_choice_title>
+<localised_title>Security Matters</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>bos_message_army_negative_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>0</generate>
+<key>d_bos_shogun_realm_divide</key>
+<localised_description>Conflict has escalated, and our domain has grown strong serving the Shogun. A decision must now be made: how best to unify the people of Japan once and for all?</localised_description>
+<localised_first_choice_label>The Shogun must lead his people to greatness. In his name, we will crush all those who oppose us!</localised_first_choice_label>
+<localised_first_choice_title>Fight for the Shogun</localised_first_choice_title>
+<localised_second_choice_label>Enough of this! Never again will we submit to these so-called rulers. Let us take our people's future into our own hands.</localised_second_choice_label>
+<localised_second_choice_title>Assume Personal Control</localised_second_choice_title>
+<localised_title>Realm Divide</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>bos_message_allegiance_shogun_positive_active.tga</ui_icon>
+<ui_image>bos_shogun.TGA</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_bos_shogun_ronin</key>
+<localised_description>A band of samurai, loyal to the Shogun and eager to serve, are seeking employment.</localised_description>
+<localised_first_choice_label>They will have their chance to serve the Shogun; employ them at once.</localised_first_choice_label>
+<localised_first_choice_title>Employ Them</localised_first_choice_title>
+<localised_second_choice_label>We currently have no need for their services; they will have to seek their fortunes elsewhere.</localised_second_choice_label>
+<localised_second_choice_title>Turn Them Away</localised_second_choice_title>
+<localised_title>Ronin</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>bos_message_army_positive_active.tga</ui_icon>
+<ui_image>bos_army_victory.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_bos_shogun_shinsengumi</key>
+<localised_description>Kondo Isami, head of the shinsengumi - staunch enforcers of the Shogun's will - is seeking to strengthen his ranks. He is appealing to Shogunate loyalists to assist in his recruitment drive.</localised_description>
+<localised_first_choice_label>We will do whatever it takes to protect the Shogunate's interests. Let us assist him in his mission.</localised_first_choice_label>
+<localised_first_choice_title>Accept</localised_first_choice_title>
+<localised_second_choice_label>Unfortunately, we haven't the means to assist the shinsengumi at the moment.</localised_second_choice_label>
+<localised_second_choice_title>Decline</localised_second_choice_title>
+<localised_title>The Newly-selected Corps</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>bos_message_shinsengumi_positive_active.tga</ui_icon>
+<ui_image>bos_army.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_bos_student_exchange</key>
+<localised_description>There is an opportunity to send some of our subjects abroad to study under western scholars.</localised_description>
+<localised_first_choice_label>Here is a way to improve international relations and cultural exchange at the same time. We await word of their travels with baited breath!</localised_first_choice_label>
+<localised_first_choice_title>Send Students Abroad</localised_first_choice_title>
+<localised_second_choice_label>There are currently more pressing domestic issues needing our attention. Perhaps later?</localised_second_choice_label>
+<localised_second_choice_title>Do Nothing</localised_second_choice_title>
+<localised_title>Student Exchange</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>bos_message_diplomacy_positive_active.tga</ui_icon>
+<ui_image>bos_navy.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_bos_sword_abolishment</key>
+<localised_description>These are dark times, my lord. Murder abounds: murder of foreigners; murder over petty matters of class; murder for political ideals. It may be necessary to forbid the carrying of weapons amongst the people.</localised_description>
+<localised_first_choice_label>Agreed. See to it that none but those serving in the military may bear arms.</localised_first_choice_label>
+<localised_first_choice_title>Abolishment of Swords</localised_first_choice_title>
+<localised_second_choice_label>In troubled times such as these it is the right of all to bear arms in defence, to say nothing of tradition. We will take no such action.</localised_second_choice_label>
+<localised_second_choice_title>Do Nothing</localised_second_choice_title>
+<localised_title>Haitorei</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>bos_message_conflict_negative_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_bos_treaty_america_initial</key>
+<localised_description>We have been approached by the United States. They have offered to establish a military mission here to improve our military potential and improve trade relations. \n\nBy accepting we forego the opportunity to establish a military mission with other western powers.</localised_description>
+<localised_first_choice_label>Such a military understanding will be a great asset to our cause. We accept.</localised_first_choice_label>
+<localised_first_choice_title>Accept</localised_first_choice_title>
+<localised_second_choice_label>We need time to consider the options. Inform them that - for the time being at least - we decline.</localised_second_choice_label>
+<localised_second_choice_title>Defer</localised_second_choice_title>
+<localised_title>United States Military Mission</localised_title>
+<prioritized>1</prioritized>
+<ui_icon>bos_message_american_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_bos_treaty_american_repeat</key>
+<localised_description>Once more, the United States have offered to establish a military mission here to improve our military potential and improve trade relations. Should we decline again, I fear that they will not offer again.\n\nBy accepting we forego the opportunity to establish a military mission with other western powers.</localised_description>
+<localised_first_choice_label>Such a military understanding will be a great asset to our cause. We accept.</localised_first_choice_label>
+<localised_first_choice_title>Accept</localised_first_choice_title>
+<localised_second_choice_label>We cannot accept. Convey our regrets to the United States ambassador.</localised_second_choice_label>
+<localised_second_choice_title>Refuse</localised_second_choice_title>
+<localised_title>United States Military Mission</localised_title>
+<prioritized>1</prioritized>
+<ui_icon>bos_message_american_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_bos_treaty_britain_initial</key>
+<localised_description>We have been approached by the British. Staunch supporters of the Emperor, they have offered to establish a military mission here to improve our military potential and improve trade relations.\n\nBy accepting we forego the opportunity to establish a military mission with other western powers.</localised_description>
+<localised_first_choice_label>Such a military understanding will be a great asset to our cause. We accept.</localised_first_choice_label>
+<localised_first_choice_title>Accept</localised_first_choice_title>
+<localised_second_choice_label>We need time to consider the options. Inform them that - for the time being at least - we decline.</localised_second_choice_label>
+<localised_second_choice_title>Defer</localised_second_choice_title>
+<localised_title>British Military Mission</localised_title>
+<prioritized>1</prioritized>
+<ui_icon>bos_message_british_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_bos_treaty_britain_repeat</key>
+<localised_description>Once more, the British have offered to establish a military mission here to improve our military potential and improve trade relations. Should we decline again, I fear that they will not offer again.\n\nBy accepting we forego the opportunity to establish a military mission with other western powers.</localised_description>
+<localised_first_choice_label>Such a military understanding will be a great asset to our cause. We accept.</localised_first_choice_label>
+<localised_first_choice_title>Accept</localised_first_choice_title>
+<localised_second_choice_label>We cannot accept. Convey our regrets to the British ambassador.</localised_second_choice_label>
+<localised_second_choice_title>Refuse</localised_second_choice_title>
+<localised_title>British Military Mission</localised_title>
+<prioritized>1</prioritized>
+<ui_icon>bos_message_british_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_bos_treaty_france_initial</key>
+<localised_description>We have been approached by the French. Staunch supporters of the Shogun, they have offered to establish a military mission here to improve our military potential and improve trade relations.\n\nBy accepting we forego the opportunity to establish a military mission with other western powers.</localised_description>
+<localised_first_choice_label>Such a military understanding will be a great asset to our cause. We accept.</localised_first_choice_label>
+<localised_first_choice_title>Accept</localised_first_choice_title>
+<localised_second_choice_label>We need time to consider the options. Inform them that - for the time being at least - we decline.</localised_second_choice_label>
+<localised_second_choice_title>Defer</localised_second_choice_title>
+<localised_title>French Military Mission</localised_title>
+<prioritized>1</prioritized>
+<ui_icon>bos_message_french_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_bos_treaty_france_repeat</key>
+<localised_description>Once more, the French have offered to establish a military mission here to improve our military potential and improve trade relations. Should we decline again, I fear that they will not offer again.\n\nBy accepting we forego the opportunity to establish a military mission with other western powers.</localised_description>
+<localised_first_choice_label>Such a military understanding will be a great asset to our cause. We accept.</localised_first_choice_label>
+<localised_first_choice_title>Accept</localised_first_choice_title>
+<localised_second_choice_label>We cannot accept. Convey our regrets to the French ambassador.</localised_second_choice_label>
+<localised_second_choice_title>Refuse</localised_second_choice_title>
+<localised_title>French Military Mission</localised_title>
+<prioritized>1</prioritized>
+<ui_icon>bos_message_french_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_bos_western_economics</key>
+<localised_description>Despite the furore surrounding the opening of our ports to the West, we cannot deny the benefits of having access to their knowledge of economics.\n\nIn which area should we focus our research?</localised_description>
+<localised_first_choice_label>We should work towards boosting production.</localised_first_choice_label>
+<localised_first_choice_title>Production</localised_first_choice_title>
+<localised_second_choice_label>We should investigate improved methods of distribution.</localised_second_choice_label>
+<localised_second_choice_title>Distribution</localised_second_choice_title>
+<localised_title>Western Economics</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>bos_message_trade_positive_active.tga</ui_icon>
+<ui_image>bos_modernisation.TGA</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_bos_western_engineering</key>
+<localised_description>Despite the furore surrounding the opening of our ports to the West, we cannot deny the benefits of having access to their knowledge of engineering.\n\nIn which field should we focus our research?</localised_description>
+<localised_first_choice_label>Construction and development will benefit from a better understanding of civil engineering.</localised_first_choice_label>
+<localised_first_choice_title>Civil</localised_first_choice_title>
+<localised_second_choice_label>Our war effort will benefit from a better understanding of military engineering.</localised_second_choice_label>
+<localised_second_choice_title>Military</localised_second_choice_title>
+<localised_title>Western Engineering</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>bos_message_modernisation_positive_active.tga</ui_icon>
+<ui_image>bos_modernisation.TGA</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_bos_western_exploitation</key>
+<localised_description>I must speak with you, my lord. The unequal trade agreements established with the western powers have greatly harmed our economy; the people toil diligently, yet they receive little compensation. Is there nothing we can do?</localised_description>
+<localised_first_choice_label>This is a sad state of affairs. We will appeal to the westerners to improve the situation.</localised_first_choice_label>
+<localised_first_choice_title>Appeal to the Westerners</localised_first_choice_title>
+<localised_second_choice_label>By approaching them at this time we risk deterioration of important long-term relations with the West.</localised_second_choice_label>
+<localised_second_choice_title>Do Nothing</localised_second_choice_title>
+<localised_title>Unequal Treaties</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>bos_message_diplomacy_negative_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_bos_western_science</key>
+<localised_description>Despite the furore surrounding the opening of our ports to the West, we cannot deny the benefits of having access to their scientific knowledge.\n\nIn which field should we focus our research efforts?</localised_description>
+<localised_first_choice_label>Medical science benefits the lives of both civilians and the military alike. We should focus on western medicine.</localised_first_choice_label>
+<localised_first_choice_title>Medicine</localised_first_choice_title>
+<localised_second_choice_label>Improving the efficiency of industrial processes will benefit our economy. We should focus on western industrial science.</localised_second_choice_label>
+<localised_second_choice_title>Industry</localised_second_choice_title>
+<localised_title>Western Science</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>bos_message_resources_positive_active.tga</ui_icon>
+<ui_image>bos_modernisation.TGA</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_bos_westerners_attacked</key>
+<localised_description>My lord, a group of westerners - guests within our realm - were attacked in the night by known Imperialist elements. Nobody was harmed, but great offence has been taken.</localised_description>
+<localised_first_choice_label>We will capture those responsible and hand them over to the westerners for punishment.</localised_first_choice_label>
+<localised_first_choice_title>Turn Them Over</localised_first_choice_title>
+<localised_second_choice_label>We will obtain written apologies from those involved; no harm was done, and we will not have our people submit to western justice.</localised_second_choice_label>
+<localised_second_choice_title>Deal With Them Personally</localised_second_choice_title>
+<localised_title>Anti-western Aggression</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>bos_message_diplomacy_negative_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_bountiful_harvest</key>
+<localised_description>Favourable weather conditions this year have led to an abundant harvest, so the clan has a surplus of agricultural produce.</localised_description>
+<localised_first_choice_label>We have indeed been blessed! No mouth will go unfed this year;  the surplus will be distributed amongst the peasants.</localised_first_choice_label>
+<localised_first_choice_title>Distribute Surplus</localised_first_choice_title>
+<localised_second_choice_label>Stockpiling will allow us to safeguard against crop failure in the near future whilst contributing to our clan's growth.</localised_second_choice_label>
+<localised_second_choice_title>Stockpile</localised_second_choice_title>
+<localised_title>Bountiful Harvest</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Agriculture.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_conflict_beliefs_buddhist</key>
+<localised_description>A man has been found openly proselytising his Christian beliefs to the enlightened of this province. We can ill-afford the risk of religious schism should his teachings begin to influence the people of the clan.</localised_description>
+<localised_first_choice_label>We cannot allow the hearts and minds of our peasants corrupted by these antithetical beliefs. He must be executed at once.</localised_first_choice_label>
+<localised_first_choice_title>Execute Him!</localised_first_choice_title>
+<localised_second_choice_label>There is no need for religious persecution; spiritual harmony can be achieved through discourse and understanding.</localised_second_choice_label>
+<localised_second_choice_title>Allow Him to Preach</localised_second_choice_title>
+<localised_title>Conflict of Beliefs</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Religion.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_conflict_beliefs_christian</key>
+<localised_description>A man has been found openly speaking of his Buddhist beliefs amongst the good Christian people of this province. We can ill-afford the risk of religious schism should his teachings begin to influence the people of the clan.</localised_description>
+<localised_first_choice_label>We cannot have the hearts and minds of our peasants corrupted by these antithetical beliefs. He must be executed at once.</localised_first_choice_label>
+<localised_first_choice_title>Execute Him!</localised_first_choice_title>
+<localised_second_choice_label>We will not stoop to persecuting people for holding beliefs different from our own. Were we not once Buddhist ourselves?</localised_second_choice_label>
+<localised_second_choice_title>Allow Him to Preach</localised_second_choice_title>
+<localised_title>Conflict of Beliefs</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Religion.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_desecration</key>
+<localised_description>The people of this province are distraught at the behaviour of nanban missionaries in the area, who have desecrated sacred sites devoted to Buddha and the kami.</localised_description>
+<localised_first_choice_label>We may have embraced Christianity, but we cannot allow such an affront towards those who practice the old beliefs. The nanban will answer for their behaviour.</localised_first_choice_label>
+<localised_first_choice_title>Intervene</localised_first_choice_title>
+<localised_second_choice_label>The clan has benefited greatly from our relations with the nanban and our embrace of Christianity; the concerns of the people pale by comparison.</localised_second_choice_label>
+<localised_second_choice_title>Ignore</localised_second_choice_title>
+<localised_title>Desecration</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Religion.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_developmental_focus</key>
+<localised_description>Seeking to further the clan's mastery of the arts our retainers request guidance as to where they should focus their efforts.</localised_description>
+<localised_first_choice_label>The clan must have military superiority if we are to secure the shogunate. We will focus on military development.</localised_first_choice_label>
+<localised_first_choice_title>Military Focus</localised_first_choice_title>
+<localised_second_choice_label>What good is military might without the infrastructure to support and exploit it? We will focus on administrative development.</localised_second_choice_label>
+<localised_second_choice_title>Civil Focus</localised_second_choice_title>
+<localised_title>Developmental Focus</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Clan.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_disgruntled_vassal</key>
+<localised_description>A prominent retainer in this province has expressed his discontent that the centralisation of power has diminished his authority in the region.</localised_description>
+<localised_first_choice_label>This man has worked hard and achieved much for his province and his clan. We acknowledge his efforts; he shall be rewarded.</localised_first_choice_label>
+<localised_first_choice_title>Acknowledge Him</localised_first_choice_title>
+<localised_second_choice_label>Insolence will not be tolerated. I will have his head on a spike!</localised_second_choice_label>
+<localised_second_choice_title>Have Him Executed!</localised_second_choice_title>
+<localised_title>The Disgruntled Vassal</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Clan.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_francis_xavier</key>
+<localised_description>The nanban missionary Francis Xavier, having treated with other daimyo to propagate his Christian teachings in their domains, seeks permission for his missionaries to preach in ours.</localised_description>
+<localised_first_choice_label>This man must not be allowed to poison the people's spirits and sully ancient traditions with his false nanban teachings.</localised_first_choice_label>
+<localised_first_choice_title>Refuse Him</localised_first_choice_title>
+<localised_second_choice_label>The benefits of improved relations with the nanban, and, by extension, an increase of trade in goods and knowledge, cannot be ignored.</localised_second_choice_label>
+<localised_second_choice_title>Grant Permission</localised_second_choice_title>
+<localised_title>Francis Xavier</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Military_Crackdown.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_gaijin_trouble</key>
+<localised_description>The awkward customs of the nanban have led to an increased number of undesirable and regrettable incidents in this province.</localised_description>
+<localised_first_choice_label>Unrest is a small price to pay for the benefits of trade with the nanban. The people must deal with the matter themselves.</localised_first_choice_label>
+<localised_first_choice_title>Ignore the Issue</localised_first_choice_title>
+<localised_second_choice_label>Such behaviour cannot go unpunished. We will expel the offending gaijin and take steps to ensure that this does not happen again.</localised_second_choice_label>
+<localised_second_choice_title>Punish the Gaijin</localised_second_choice_title>
+<localised_title>Gaijin Trouble</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Culture.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_gem_developmental_focus</key>
+<localised_description>Seeking to further the clan's mastery of the arts our retainers request guidance as to where they should focus their efforts.</localised_description>
+<localised_first_choice_label>We must have military superiority if we are to prevail over our enemies. We will focus on military development.</localised_first_choice_label>
+<localised_first_choice_title>Military Focus</localised_first_choice_title>
+<localised_second_choice_label>What good is military might without the infrastructure to support and exploit it? We will focus on administrative development.</localised_second_choice_label>
+<localised_second_choice_title>Civil Focus</localised_second_choice_title>
+<localised_title>Developmental Focus</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Clan.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_gem_eiga_monogatari</key>
+<localised_description>A controversial request, my lord; our shirabyoshi seek to develop their repertoires through the Eiga Monogatari. The tale speaks highly of the Fujiwara, however, and its circulation will likely aid their cause.</localised_description>
+<localised_first_choice_label>Procure as you deem necessary; a shirabyoshi relies greatly on her repertoire, and there are important lessons to be learned from history.</localised_first_choice_label>
+<localised_first_choice_title>Procure Copies</localised_first_choice_title>
+<localised_second_choice_label>Foolishness! To abide such a request would be to empower our rivals! We will hear no more about it.</localised_second_choice_label>
+<localised_second_choice_title>Refuse</localised_second_choice_title>
+<localised_title>The Eiga Monogatari</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Culture.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_gem_eiga_monogatari_fujiwara</key>
+<localised_description>My lord, the Eiga Monogatari chronicles the exploits of Fujiwara Michinaga some hundred years past. By educating our shirabyoshi we improve their repertoire and foster greater interest in our own exploits.</localised_description>
+<localised_first_choice_label>A marvellous idea! See to it that each shirabyoshi is furnished with a copy.</localised_first_choice_label>
+<localised_first_choice_title>Procure Copies</localised_first_choice_title>
+<localised_second_choice_label>An interesting, if frivolous notion. There is no need; our present actions alone serve to promote our greatness.</localised_second_choice_label>
+<localised_second_choice_title>Refuse</localised_second_choice_title>
+<localised_title>The Eiga Monogatari</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Culture.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_gem_enchantress</key>
+<localised_description>My lord, one of our nobles speaks most favourably about a shirabyoshi who has recently entered into his service; by all accounts she is the most enchanting lady ever to have graced our lands.</localised_description>
+<localised_first_choice_label>Her charms could serve to inspire our generals or manipulate our enemies. Employ her at once.</localised_first_choice_label>
+<localised_first_choice_title>Employ Her</localised_first_choice_title>
+<localised_second_choice_label>It is a good thing that, despite the hardships of our time, our clansmen can find solace in beauty.</localised_second_choice_label>
+<localised_second_choice_title>Acknowledge</localised_second_choice_title>
+<localised_title>The Enchantress</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Culture.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_gem_enryakuji</key>
+<localised_description>Yamashiro province is home to numerous prominent temples. One such temple is the Enryakuji; commanding considerable wealth and home to proficient warrior monks, their support could greatly aid our cause. Alternatively, sacking the temple may provide a quick source of funds.</localised_description>
+<localised_first_choice_label>In these trying times, all assistance is welcome. Dispatch an envoy to Enryakuji at once.</localised_first_choice_label>
+<localised_first_choice_title>Request Aid</localised_first_choice_title>
+<localised_second_choice_label>We need no assistance from outsiders; we need only help ourselves! Dispatch a raiding party at once.</localised_second_choice_label>
+<localised_second_choice_title>Sack Temple</localised_second_choice_title>
+<localised_title>Enryakuji</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>GEM_Great_Temple.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_gem_enryakuji_plight</key>
+<localised_description>My lord, we have received an envoy from the Enryakuji temple. Currently embroiled in a feud with their sister temple - Miidera - they have requested financial support and urge you to remember the assistance that they gave so willingly in the past.</localised_description>
+<localised_first_choice_label>The Enryakuji monks are valued friends. We will help fund their struggle.</localised_first_choice_label>
+<localised_first_choice_title>Offer Aid</localised_first_choice_title>
+<localised_second_choice_label>We can ill-afford to waste precious funds when so much is at stake.</localised_second_choice_label>
+<localised_second_choice_title>Refuse Aid</localised_second_choice_title>
+<localised_title>Plight of the Enryakuji Temple</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>GEM_Great_Temple.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_gem_family_dues</key>
+<localised_description>A noble in your service will be throwing a lavish feast in the family's honour within the month. He knows you are burdened by duty, but hopes that you will in some way be able to participate in the event.</localised_description>
+<localised_first_choice_label>Duty calls and time is precious, but we will honour his gesture towards the family with a modest contribution.</localised_first_choice_label>
+<localised_first_choice_title>Contribute</localised_first_choice_title>
+<localised_second_choice_label>Our time will not be wasted on such frivolities.</localised_second_choice_label>
+<localised_second_choice_title>Ignore</localised_second_choice_title>
+<localised_title>Family Dues</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Clan.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_gem_hachiman_flock</key>
+<localised_description>A flight of doves has been seen circling the capital, my lord. Hachiman's flock brings divine blessings upon our clan!</localised_description>
+<localised_first_choice_label>Hachiman favours our war efforts and grants our warriors the blessings of Heaven!</localised_first_choice_label>
+<localised_first_choice_title>Warrior's Blessing</localised_first_choice_title>
+<localised_second_choice_label>Hachiman sends blessings that our fishermen might better reap the teeming seas!</localised_second_choice_label>
+<localised_second_choice_title>Fisherman's Blessing</localised_second_choice_title>
+<localised_title>Hachiman's Flock</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Omens.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_gem_heiji_monogatari_minamoto</key>
+<localised_description>A scholar seeks your endorsement, hoping to chronicle the events of the Heiji Rebellion, when Lord Yoshitomo sought to oust the corrupt cloistered Emperor but fell foul of Taira schemes.</localised_description>
+<localised_first_choice_label>The truth regarding Taira treachery must be known to all. We will sponsor this man.</localised_first_choice_label>
+<localised_first_choice_title>Endorse Him</localised_first_choice_title>
+<localised_second_choice_label>The tale is not yet ended. Once our family stands victorious over the Taira…that will be an epic tale!</localised_second_choice_label>
+<localised_second_choice_title>Dismiss Him</localised_second_choice_title>
+<localised_title>The Heiji Monogatari</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Culture.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_gem_heiji_monogatari_taira</key>
+<localised_description>A scholar seeks your endorsement, hoping to chronicle the events of the Heiji Rebellion, when Lord Kiyomori valiantly defended the cloistered Emperor against the ambitions of Minamoto warmongers.</localised_description>
+<localised_first_choice_label>Our just acts have brought the wrath of the Minamoto down upon us. Once the truth is known the loyalty of our people will be assured. We will sponsor his work.</localised_first_choice_label>
+<localised_first_choice_title>Endorse Him</localised_first_choice_title>
+<localised_second_choice_label>Once we have rid ourselves of the Minamoto scourge once and for all the tale can then be chronicled, but not before.</localised_second_choice_label>
+<localised_second_choice_title>Dismiss Him</localised_second_choice_title>
+<localised_title>The Heiji Monogatari</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Culture.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_gem_justice</key>
+<localised_description>My lord, our men have apprehended a notorious brigand who is guilty of violence against our subjects. He is awaiting sentence.</localised_description>
+<localised_first_choice_label>Although deserving of death, his unscrupulous talents could be put to use against our enemies. Inform him that he will serve us or die… slowly.</localised_first_choice_label>
+<localised_first_choice_title>Exploit Situation</localised_first_choice_title>
+<localised_second_choice_label>We must do justice to those whom this man has wronged. Bring me his head!</localised_second_choice_label>
+<localised_second_choice_title>Execute Him</localised_second_choice_title>
+<localised_title>Justice</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Military_Crackdown.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_gem_kofukuji</key>
+<localised_description>Yamato province is home to numerous prominent temples. One such temple is the Kofukuji; commanding considerable wealth and home to proficient warrior monks, their support could greatly aid our cause. Alternatively, sacking the temple may provide a quick source of funds.</localised_description>
+<localised_first_choice_label>In these trying times, all assistance is welcome. Dispatch an envoy to Kofukuji at once.</localised_first_choice_label>
+<localised_first_choice_title>Request Aid</localised_first_choice_title>
+<localised_second_choice_label>We need no assistance from outsiders; we need only help ourselves! Dispatch a raiding party at once.</localised_second_choice_label>
+<localised_second_choice_title>Sack Temple</localised_second_choice_title>
+<localised_title>Kofukuji</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>GEM_Great_Temple.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_gem_migrant_labourers</key>
+<localised_description>My lord, an increasing number of labourers from neighbouring provinces are seeking to settle in your domain, hoping to escape the hardships imposed by their lords.</localised_description>
+<localised_first_choice_label>We will benefit from the additional workers. Allow them to settle.</localised_first_choice_label>
+<localised_first_choice_title>Welcome Them</localised_first_choice_title>
+<localised_second_choice_label>We have little use for another lord's disgruntled peasantry: satisfying our own people's needs is trying enough. Send them on their way.</localised_second_choice_label>
+<localised_second_choice_title>Refuse Them</localised_second_choice_title>
+<localised_title>Migrant Workforce</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Disaffected.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_gem_miidera</key>
+<localised_description>Yamashiro province is home to numerous prominent temples. One such temple is the Miidera - commanding considerable wealth and home to proficient warrior monks, their support could greatly aid our cause. Alternatively, sacking the temple may provide a quick source of funds.</localised_description>
+<localised_first_choice_label>In these trying times, all assistance is welcome. Dispatch an envoy to Miidera at once.</localised_first_choice_label>
+<localised_first_choice_title>Request Aid</localised_first_choice_title>
+<localised_second_choice_label>We need no assistance from outsiders; we need only help ourselves! Dispatch a raiding party at once.</localised_second_choice_label>
+<localised_second_choice_title>Sack Temple</localised_second_choice_title>
+<localised_title>Miidera</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>GEM_Great_Temple.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_gem_miidera_plight</key>
+<localised_description>My lord, we have received an envoy from the Miidera temple. Currently embroiled in a feud with their sister temple - Enryakuji - they have requested financial support and urge you to remember the assistance that they gave so willingly in the past.</localised_description>
+<localised_first_choice_label>The Miidera monks are valued friends. We will help fund their struggle.</localised_first_choice_label>
+<localised_first_choice_title>Offer Aid</localised_first_choice_title>
+<localised_second_choice_label>We can ill-afford to waste precious funds when so much is at stake.</localised_second_choice_label>
+<localised_second_choice_title>Refuse Aid</localised_second_choice_title>
+<localised_title>Plight of the Miidera Temple</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>GEM_Great_Temple.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_gem_nine_tailed_gem_fox</key>
+<localised_description>Whilst surveying our domain, an astonishing sight was observed outside a shrine to Inari; a nine-tailed fox, sitting sentinel-like beneath a torii.</localised_description>
+<localised_first_choice_label>Inari favours our martial efforts and grants our warriors the blessings of heaven!</localised_first_choice_label>
+<localised_first_choice_title>Warrior's Blessing</localised_first_choice_title>
+<localised_second_choice_label>Inari's kitsune has come to bless our crops; a time of prosperity is at hand!</localised_second_choice_label>
+<localised_second_choice_title>Farmer's Blessing</localised_second_choice_title>
+<localised_title>Nine-tailed Fox</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Omens.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_gem_omen_fire</key>
+<localised_description>My lord! The monks speak of raging fires that cannot be quelled and believe this to be a sign sent by Kagutsuchi. They fear that the fire-god is displeased with our people and beseech you to appease him with a chinka-sai.</localised_description>
+<localised_first_choice_label>We will arrange a clan-wide chinka-sai at once; see to it that no expense is spared in the preparation of the rites and the festivities.</localised_first_choice_label>
+<localised_first_choice_title>Honour the Fire-God</localised_first_choice_title>
+<localised_second_choice_label>We have neither the time nor the money to squander on such superstitious frivolities.</localised_second_choice_label>
+<localised_second_choice_title>Ignore the Omens</localised_second_choice_title>
+<localised_title>Kagutsuchi's Warning</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Omens.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_gem_omen_mountains</key>
+<localised_description>My lord! The monks speak of a rumbling deep beneath the mountains and believe this to be a sign sent by Oyamatsumi. They fear the wrath of the earth and beseech you to appease the mountain-god.</localised_description>
+<localised_first_choice_label>Deference will be shown to the great kami of the mountains; see to it that no expense is spared in the preparation of the appropriate rites and festivities.</localised_first_choice_label>
+<localised_first_choice_title>Honour the Mountain-God</localised_first_choice_title>
+<localised_second_choice_label>We have neither the time nor the money to squander on such superstitious frivolities.</localised_second_choice_label>
+<localised_second_choice_title>Ignore the Omens</localised_second_choice_title>
+<localised_title>Oyamatsumi's Warning</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Omens.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_gem_omen_ocean</key>
+<localised_description>My lord! The monks speak of a gathering of great turtles upon our shores and believe this to be a sign sent by Owatatsumi. They fear ominous tides and beseech you to honour the sea-god.</localised_description>
+<localised_first_choice_label>We will arrange shiomatsuri in all provinces that sit upon the Owatatsumi's waters. See to it that no expense is spared in the preparations of the rites and the festivities.</localised_first_choice_label>
+<localised_first_choice_title>Honour the Sea-God</localised_first_choice_title>
+<localised_second_choice_label>We have neither the time nor the money to squander on such superstitious frivolities.</localised_second_choice_label>
+<localised_second_choice_title>Ignore the Omens</localised_second_choice_title>
+<localised_title>Owatatsumi's Warning</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Omens.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_gem_omen_wind</key>
+<localised_description>My lord! The monks speak of dark skies closing in above our lands and believe this to be an omen sent by Fujin. They fear a coming storm and beseech you to honour the wind-god.</localised_description>
+<localised_first_choice_label>We will arrange a clan-wide Fujin-sai at once; see to it that no expense is spared in the preparation of the appropriate rites and festivities.</localised_first_choice_label>
+<localised_first_choice_title>Honour the Wind-God</localised_first_choice_title>
+<localised_second_choice_label>We have neither the time nor the money to squander on such superstitious frivolities.</localised_second_choice_label>
+<localised_second_choice_title>Ignore the Omens</localised_second_choice_title>
+<localised_title>Fujin's Warning</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Omens.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_gem_three_legged_gem_crow</key>
+<localised_description>As you sit in a secluded shrine to Amaterasu, contemplating matters of Heaven and Earth, a three-legged crow perches upon a branch before you.</localised_description>
+<localised_first_choice_label>Amaterasu approves of our clan's great undertakings! Yatagarasu has come to lead us to victory!</localised_first_choice_label>
+<localised_first_choice_title>Amaterasu's Blessing</localised_first_choice_title>
+<localised_second_choice_label>Can Amaterasu be warning us of troubled times to come? We must remain cautious.</localised_second_choice_label>
+<localised_second_choice_title>Amaterasu's Warning</localised_second_choice_title>
+<localised_title>Three-legged Crow</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Omens.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_gem_todaiji</key>
+<localised_description>Yamato province is home to numerous prominent temples. One such temple is the Todaiji; commanding considerable wealth and home to proficient warrior monks, their support could greatly aid our cause. Alternatively, sacking the temple may provide a quick source of funds.</localised_description>
+<localised_first_choice_label>In these trying times, all assistance is welcome. Dispatch an envoy to Miidera at once.</localised_first_choice_label>
+<localised_first_choice_title>Request Aid</localised_first_choice_title>
+<localised_second_choice_label>We need no assistance from outsiders; we need only help ourselves! Dispatch a raiding party at once.</localised_second_choice_label>
+<localised_second_choice_title>Sack Temple</localised_second_choice_title>
+<localised_title>Todaiji</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>GEM_Great_Temple.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_gem_warrior_tax</key>
+<localised_description>The leader of a warrior band from this province seeks an audience, my lord. He and his men are distraught at the court's increasing levies upon the bushidan.</localised_description>
+<localised_first_choice_label>They owe the court nothing; they reside within our domain and their service to the clan is payment enough. We will see to it that they are no longer troubled by the court.</localised_first_choice_label>
+<localised_first_choice_title>Exempt Them</localised_first_choice_title>
+<localised_second_choice_label>They owe the court nothing; they are our subjects to tax as we see fit.</localised_second_choice_label>
+<localised_second_choice_title>Exploit Them</localised_second_choice_title>
+<localised_title>The Warrior's Plight</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Samurai_Daimyo.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_gem_young_thief</key>
+<localised_description>A young man has been apprehended by the guards, my lord. He was caught stealing supplies from the quartermaster's stores; claiming that he sought only to provide for his impoverished family.</localised_description>
+<localised_first_choice_label>It is impressive that this youth managed to inflitrate us beneath the guards' very noses! Release him to his family, and allow him as many supplies as he can carry.</localised_first_choice_label>
+<localised_first_choice_title>Sympathise</localised_first_choice_title>
+<localised_second_choice_label>How is it that this thief, barely a man, gained access to our stores? Throw him back on the street and bring me the guard captain; dereliction of duty will not be tolerated!</localised_second_choice_label>
+<localised_second_choice_title>Reprimand Guards</localised_second_choice_title>
+<localised_title>The Young Thief</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Military_Crackdown.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_hachiman_flock</key>
+<localised_description>A flight of doves has been seen circling the capital, my lord. Hachiman's flock brings divine blessings upon our clan!</localised_description>
+<localised_first_choice_label>Hachiman favours our war efforts and grants our warriors the blessings of Heaven!</localised_first_choice_label>
+<localised_first_choice_title>Warrior's Blessing</localised_first_choice_title>
+<localised_second_choice_label>Hachiman sends blessings that our fishermen might better reap the teeming seas!</localised_second_choice_label>
+<localised_second_choice_title>Fisherman's Blessing</localised_second_choice_title>
+<localised_title>Hachiman's Flock</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Omens.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_heralding_spring</key>
+<localised_description>Spring has come. The people have toiled throughout the winter to ensure that our coffers remain filled, reinforcing the strength of the clan.</localised_description>
+<localised_first_choice_label>In honour of their efforts and of the flowering of the cherry blossom, we will arrange festivities for the people.</localised_first_choice_label>
+<localised_first_choice_title>Reward Their Efforts</localised_first_choice_title>
+<localised_second_choice_label>Diligence is insufficient. It is their duty to push themselves to their limits for the good of the clan.</localised_second_choice_label>
+<localised_second_choice_title>Push Them Harder</localised_second_choice_title>
+<localised_title>Heralding the Spring</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Agriculture.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_imperial_new_year</key>
+<localised_description>The Imperial court is preparing for the new year's felicitations in honour of His Imperial Majesty. They seek tribute from his true and deferent lords so that due respect can be paid.</localised_description>
+<localised_first_choice_label>In honour of His Majesty and of his divine authority, we will send offerings for this year's choga.</localised_first_choice_label>
+<localised_first_choice_title>Send tribute</localised_first_choice_title>
+<localised_second_choice_label>We haven't the resources to spare given the more pressing matters of clan development and warfare at hand.</localised_second_choice_label>
+<localised_second_choice_title>Refuse tribute</localised_second_choice_title>
+<localised_title>The Imperial New Year</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Emperor.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_intoxication</key>
+<localised_description>As the war effort escalates, an increasing number of drunken incidents are being reported as people seek solace in their cups from the many hardships it has brought.</localised_description>
+<localised_first_choice_label>Heavy drinking is a base and shameful practice. All offenders will incur a fine and anyone behaving disgracefully will lose their head.</localised_first_choice_label>
+<localised_first_choice_title>Severe Response</localised_first_choice_title>
+<localised_second_choice_label>Times of conflict are trying times indeed. The people must be allowed some leeway, as long as no criminal offence is committed.</localised_second_choice_label>
+<localised_second_choice_title>Leniency</localised_second_choice_title>
+<localised_title>In Their Cups</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Clan.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_jizamurai</key>
+<localised_description>With so many provinces under our control, we have dominion over an increasing number of jizamurai. These minor land-holders are both excellent warriors and agricultural experts.</localised_description>
+<localised_first_choice_label>Their expertise in agrarian matters makes them invaluable to the economy; they will best serve their clan managing the land.</localised_first_choice_label>
+<localised_first_choice_title>Agrarian Focus</localised_first_choice_title>
+<localised_second_choice_label>In this time of war, we need as many able warriors in our ranks as possible; they will best serve the clan by fighting our enemies.</localised_second_choice_label>
+<localised_second_choice_title>Military Focus</localised_second_choice_title>
+<localised_title>Jizamurai</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Samurai.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_land_dispute</key>
+<localised_description>A landowner in this province has seized estates belonging to his neighbour. The victim demands justice, while the offending party claims that he will make better use of the soil for the good of the clan. </localised_description>
+<localised_first_choice_label>Justice must be served. The offender will be forcibly removed from the land and must return it to its rightful owner. If he resists, he will be executed.</localised_first_choice_label>
+<localised_first_choice_title>Justice</localised_first_choice_title>
+<localised_second_choice_label>The clan's best interests are paramount; we will allow him to keep the land and have it put to the best use - for a price.</localised_second_choice_label>
+<localised_second_choice_title>Extortion</localised_second_choice_title>
+<localised_title>Land Dispute</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Commoner_Daimyo.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_martial_priorities</key>
+<localised_description>In this time of conflict, our strategists are divided as to whether to invest the clan's military resources in the practice of either offensive or defensive techniques.</localised_description>
+<localised_first_choice_label>We will focus on attack so that we will have clear advantage over our enemies when pressing the offensive.</localised_first_choice_label>
+<localised_first_choice_title>Attack Focus</localised_first_choice_title>
+<localised_second_choice_label>We will bolster our defensive capabilities for the protection of our lands and our people.</localised_second_choice_label>
+<localised_second_choice_title>Defence Focus</localised_second_choice_title>
+<localised_title>Martial Priorities</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Military.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_master_archer</key>
+<localised_description>A reputable marksman has approached the clan, offering his services so that we might extend our reputation for skill with the bow. This man's mastery of ranged fighting knows no equal; for a price, he has offered to improve the proficiency of our archers.</localised_description>
+<localised_first_choice_label>The chance of further improving our archers cannot be ignored; this man will be employed at once.</localised_first_choice_label>
+<localised_first_choice_title>Employ Him</localised_first_choice_title>
+<localised_second_choice_label>He demands too much for his services; our own sensei are more than adequate for the training of archers.</localised_second_choice_label>
+<localised_second_choice_title>Dismiss Him</localised_second_choice_title>
+<localised_title>Marksmanship</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Bowman.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_master_cavalry</key>
+<localised_description>A renowned horseman has approached the clan, enticed by our reputation for optimum use of cavalry in the field. For a price, this master of horse and mounted combat has offered to help improve the skills of our cavalrymen.</localised_description>
+<localised_first_choice_label>A chance to field stronger cavalry cannot be ignored; this man will be employed at once.</localised_first_choice_label>
+<localised_first_choice_title>Employ Him</localised_first_choice_title>
+<localised_second_choice_label>He demands too much for his services; our own sensei are more than adequate for our cavalry training needs.</localised_second_choice_label>
+<localised_second_choice_title>Dismiss Him</localised_second_choice_title>
+<localised_title>Great Horsemanship</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_cavalry.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_master_gunner</key>
+<localised_description>A gaijin claiming to be a master of matchlock weaponry is offering - for a price - to instruct our clan's warriors in the use of firearms.</localised_description>
+<localised_first_choice_label>A chance at improving our newly-recruited gunmen cannot be ignored; this man will be employed at once.</localised_first_choice_label>
+<localised_first_choice_title>Employ Him</localised_first_choice_title>
+<localised_second_choice_label>We have no need for this gaijin's extortionate services. Our men need only aim and fire; mastery will surely follow in time.</localised_second_choice_label>
+<localised_second_choice_title>Dismiss Him</localised_second_choice_title>
+<localised_title>Nanban Firearms Expert</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Nanban.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_master_swordsman</key>
+<localised_description>Our inclination towards the use of close quarters fighters in battle has led to a master of kenjutsu approaching the clan and offering to improve our infantry's swordsmanship - for a price.</localised_description>
+<localised_first_choice_label>The chance of training finer swordsmen cannot be ignored; this man will be employed at once.</localised_first_choice_label>
+<localised_first_choice_title>Employ Him</localised_first_choice_title>
+<localised_second_choice_label>He demands too much for his services; our own sensei are more than capable of training our swordsmen.</localised_second_choice_label>
+<localised_second_choice_title>Dismiss Him</localised_second_choice_title>
+<localised_title>Sword Mastery</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Swordsman.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_merchant_accession</key>
+<localised_description>In spite of their low social status, traders and merchants have gained substantial influence of late as our clan's efforts in this sphere have increased.</localised_description>
+<localised_first_choice_label>The clan stands to benefit financially from these people. We will allow them to prosper, for now.</localised_first_choice_label>
+<localised_first_choice_title>Let Them Prosper</localised_first_choice_title>
+<localised_second_choice_label>These upstarts should not presume to tamper with the balance of society. They must know their place; as such, their influence will be tempered.</localised_second_choice_label>
+<localised_second_choice_title>Repress Them</localised_second_choice_title>
+<localised_title>Merchant Accession</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Merchants.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_misfortune_others</key>
+<localised_description>My lord, word has reached us that a rival clan has suffered following a terrible harvest. Their people are starving and their daimyo seeks aid from other clans. We may be at war, but does that mean that the toiling masses need suffer needlessly?</localised_description>
+<localised_first_choice_label>Wars are to be won with spears and swords, not with rice. We will send aid to our noble foe and his people.</localised_first_choice_label>
+<localised_first_choice_title>Dispatch aid</localised_first_choice_title>
+<localised_second_choice_label>This is war, and there can be only one victor. We must maintain our superiority even if that means exploiting our enemy's misfortunes.</localised_second_choice_label>
+<localised_second_choice_title>Ignore their plight</localised_second_choice_title>
+<localised_title>The Misfortune of Others</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Harvest_Poor.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_monopoly</key>
+<localised_description>As trade opportunities grow in this province, merchants and artisans have established trade guilds to secure monopolies over their trades. Independent artisans and traders are being put out of business.</localised_description>
+<localised_first_choice_label>As long as we are paid our dues, these trade guilds may continue as they please.</localised_first_choice_label>
+<localised_first_choice_title>Exploit</localised_first_choice_title>
+<localised_second_choice_label>Economic growth will be stifled as long as only a select few are allowed to hold the reins. Their power will be curbed.</localised_second_choice_label>
+<localised_second_choice_title>Intervene</localised_second_choice_title>
+<localised_title>Monopoly</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Merchants.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_nine_tailed_fox</key>
+<localised_description>Whilst surveying our domain, an astonishing sight was observed outside a shrine to Inari; a nine-tailed fox, sitting sentinel-like beneath a torii.</localised_description>
+<localised_first_choice_label>Inari favours our martial efforts and grants our warriors the blessings of heaven!</localised_first_choice_label>
+<localised_first_choice_title>Warrior's Blessing</localised_first_choice_title>
+<localised_second_choice_label>Inari's kitsune has come to bless our crops; a time of prosperity is at hand!</localised_second_choice_label>
+<localised_second_choice_title>Farmer's Blessing</localised_second_choice_title>
+<localised_title>Nine-tailed Fox</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Omens.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_omen_fire</key>
+<localised_description>My lord! The monks speak of raging fires that cannot be quelled and believe this to be a sign sent by Kagutsuchi. They fear that the fire-god is displeased with our people and beseech you to appease him with a chinka-sai.</localised_description>
+<localised_first_choice_label>We will arrange a clan-wide chinka-sai at once; see to it that no expense is spared in the preparation of the rites and the festivities.</localised_first_choice_label>
+<localised_first_choice_title>Honour the Fire-God</localised_first_choice_title>
+<localised_second_choice_label>We have neither the time nor the money to squander on such superstitious frivolities.</localised_second_choice_label>
+<localised_second_choice_title>Ignore the Omens</localised_second_choice_title>
+<localised_title>Kagutsuchi's Warning</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Omens.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_omen_mountains</key>
+<localised_description>My lord! The monks speak of a rumbling deep beneath the mountains and believe this to be a sign sent by Oyamatsumi. They fear the wrath of the earth and beseech you to appease the mountain-god.</localised_description>
+<localised_first_choice_label>Deference will be shown to the great kami of the mountains; see to it that no expense is spared in the preparation of the appropriate rites and festivities.</localised_first_choice_label>
+<localised_first_choice_title>Honour the Mountain-God</localised_first_choice_title>
+<localised_second_choice_label>We have neither the time nor the money to squander on such superstitious frivolities.</localised_second_choice_label>
+<localised_second_choice_title>Ignore the Omens</localised_second_choice_title>
+<localised_title>Oyamatsumi's Warning</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Omens.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_omen_ocean</key>
+<localised_description>My lord! The monks speak of a gathering of great turtles upon our shores and believe this to be a sign sent by Owatatsumi. They fear ominous tides and beseech you to honour the sea-god.</localised_description>
+<localised_first_choice_label>We will arrange shiomatsuri in all provinces that sit upon the Owatatsumi's waters. See to it that no expense is spared in the preparations of the rites and the festivities.</localised_first_choice_label>
+<localised_first_choice_title>Honour the Sea-God</localised_first_choice_title>
+<localised_second_choice_label>We have neither the time nor the money to squander on such superstitious frivolities.</localised_second_choice_label>
+<localised_second_choice_title>Ignore the Omens</localised_second_choice_title>
+<localised_title>Owatatsumi's Warning</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Omens.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_omen_wind</key>
+<localised_description>My lord! The monks speak of dark skies closing in above our lands and believe this to be an omen sent by Fujin. They fear a coming storm and beseech you to honour the wind-god.</localised_description>
+<localised_first_choice_label>We will arrange a clan-wide Fujin-sai at once; see to it that no expense is spared in the preparation of the appropriate rites and festivities.</localised_first_choice_label>
+<localised_first_choice_title>Honour the Wind-God</localised_first_choice_title>
+<localised_second_choice_label>We have neither the time nor the money to squander on such superstitious frivolities.</localised_second_choice_label>
+<localised_second_choice_title>Ignore the Omens</localised_second_choice_title>
+<localised_title>Fujin's Warning</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Omens.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_ronin_spears</key>
+<localised_description>Our forces have encountered a ronin band. Having lost their masters to the incessant warfare that has gripped the country, these yari samurai will fight for any daimyo willing to pay for their services. Left to their own devices, there is no telling what they might do.</localised_description>
+<localised_first_choice_label>We can exploit these masterless warriors to our own military ends. We will enlist them at once.</localised_first_choice_label>
+<localised_first_choice_title>Hire Them</localised_first_choice_title>
+<localised_second_choice_label>We have no need to enlist the bandit remnants of fallen clans. Send them on their way.</localised_second_choice_label>
+<localised_second_choice_title>Ignore Them</localised_second_choice_title>
+<localised_title>Ronin</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Ronin.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_ronin_swords</key>
+<localised_description>Our forces have encountered a ronin band. Having lost their masters to the incessant warfare that has gripped the country, these katana samurai will fight for any daimyo willing to pay for their services. Left to their own devices, there is no telling what they might do.</localised_description>
+<localised_first_choice_label>We can exploit these masterless warriors to our own military ends. We will enlist them at once.</localised_first_choice_label>
+<localised_first_choice_title>Hire Them</localised_first_choice_title>
+<localised_second_choice_label>We have no need to enlist the bandit remnants of fallen clans. Send them on their way.</localised_second_choice_label>
+<localised_second_choice_title>Ignore Them</localised_second_choice_title>
+<localised_title>Ronin</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Ronin.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_three_legged_crow</key>
+<localised_description>As you sit in a secluded shrine to Amaterasu, contemplating matters of Heaven and Earth, a three-legged crow perches upon a branch before you.</localised_description>
+<localised_first_choice_label>Amaterasu approves of our clan's great undertakings! Yatagarasu has come to lead us to victory!</localised_first_choice_label>
+<localised_first_choice_title>Amaterasu's Blessing</localised_first_choice_title>
+<localised_second_choice_label>Can Amaterasu be warning us of troubled times to come? We must remain cautious.</localised_second_choice_label>
+<localised_second_choice_title>Amaterasu's Warning</localised_second_choice_title>
+<localised_title>Three-legged Crow</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Omens.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_tribute_emperor</key>
+<localised_description>The Emperor has commissioned the construction of a grand new palace and has requested contributions from all the great clans towards this glorious undertaking.</localised_description>
+<localised_first_choice_label>The glory of Amaterasu's lineage must be honoured. See to it that the Emperor receives the tribute that he requires.</localised_first_choice_label>
+<localised_first_choice_title>Pay Tribute</localised_first_choice_title>
+<localised_second_choice_label>The needs of the clan far outweigh those of the emperor. We will give no tribute.</localised_second_choice_label>
+<localised_second_choice_title>Refuse to Pay</localised_second_choice_title>
+<localised_title>Imperial Tribute</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Emperor.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_tribute_shogun</key>
+<localised_description>The Shogun has demanded that, as a mark of dedication and of respect towards his supreme power, all great clans should pay tribute to the Shogunate.</localised_description>
+<localised_first_choice_label>We are currently in no position to draw the ire of Kyoto. We will acquiesce to the shogun's request - for now.</localised_first_choice_label>
+<localised_first_choice_title>Pay Tribute</localised_first_choice_title>
+<localised_second_choice_label>Who are we, to be cowed by this petty charlatan? Before long, he will be brought to his knees before the might of our clan. </localised_second_choice_label>
+<localised_second_choice_title>Refuse to Pay</localised_second_choice_title>
+<localised_title>Tribute to the Shogun</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Shogun.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_urban_migration</key>
+<localised_description>The uncertainty of the harvest and the increasing profitability of the life of the artisan is driving people away from the land and into the towns.</localised_description>
+<localised_first_choice_label>There will always be peasants to till the land. Our clan will benefit from the increase in trade brought about by such migration.</localised_first_choice_label>
+<localised_first_choice_title>Encourage Migration</localised_first_choice_title>
+<localised_second_choice_label>Nothing good may be said for merchants and tinkerers; it is the hard work of the farmer class on which the clan thrives.</localised_second_choice_label>
+<localised_second_choice_title>Prevent Migration</localised_second_choice_title>
+<localised_title>Urban Migration</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Agriculture.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_wako_threat_china</key>
+<localised_description>An increasing amount of wako activity is compromising our trade with China. As we are operating without the approval of the Ming Emperor, we cannot expect China to take any steps towards resolving this issue.</localised_description>
+<localised_first_choice_label>We will address this issue, lest our lucrative - if unsanctioned - trade deals suffer at the hands of the pirates.</localised_first_choice_label>
+<localised_first_choice_title>Deal With Them!</localised_first_choice_title>
+<localised_second_choice_label>We cannot spare the time nor the necessary resources for dealing with these petty pirates. We will leave them be, for the time being at least.</localised_second_choice_label>
+<localised_second_choice_title>Ignore Them</localised_second_choice_title>
+<localised_title>The Wako Threat</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Naval_Battle.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>d_wako_threat_korea</key>
+<localised_description>The amount of wako activity in the vicinity of Tsushima island has increased dramatically. These acts of piracy have compromised our prolific trade links with Korea and should be stopped at the first opportunity.</localised_description>
+<localised_first_choice_label>We must ensure that good trade relations with Korea are maintained. We will deal with the pirates at once.</localised_first_choice_label>
+<localised_first_choice_title>Deal With Them!</localised_first_choice_title>
+<localised_second_choice_label>We cannot spare the time nor the necessary resources for dealing with these petty pirates. We will leave them be, for the time being at least.</localised_second_choice_label>
+<localised_second_choice_title>Ignore Them</localised_second_choice_title>
+<localised_title>The Wako Threat</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Naval_Battle.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>0</generate>
+<key>s_adoption_no_heir</key>
+<localised_description>My lord, you are without a male heir. Should some misfortune befall you our great clan would be doomed to fall. This man has proved himself capable of great deeds; adopting him as your son will secure the clan's future whilst duly honouring his diligence.</localised_description>
+<localised_first_choice_label>We must assure the future of our clan, and this man has proved his dedication to our cause. We will adopt him as heir.</localised_first_choice_label>
+<localised_first_choice_title>Adopt him</localised_first_choice_title>
+<localised_second_choice_label>We are not prepared to adopt this man into our family. Heirs will be forthcoming.</localised_second_choice_label>
+<localised_second_choice_title>Do not adopt</localised_second_choice_title>
+<localised_title>Adoption Opportunity</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Samurai_Daimyo.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>0</generate>
+<key>s_adoption_young_heir</key>
+<localised_description>Your only male heir is young and inexperienced, my lord. Might I be so bold as to suggest adopting this worthy general, that he might lead the clan in your stead should some misfortune befall you before your son comes of age?</localised_description>
+<localised_first_choice_label>We must assure the future of our clan, and this man has proved his dedication to our cause. We will adopt him as heir.</localised_first_choice_label>
+<localised_first_choice_title>Adopt him</localised_first_choice_title>
+<localised_second_choice_label>The clan's future is already assured; our son will come of age and he will lead our people admirably.</localised_second_choice_label>
+<localised_second_choice_title>Do not adopt</localised_second_choice_title>
+<localised_title>Adoption Opportunity</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Samurai_Daimyo.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>0</generate>
+<key>s_bos_promotion_post_battle</key>
+<localised_description>My lord, one of our valiant warriors has proved his mettle in securing this victory for the clan. It is our belief that his talents are wasted in the rank-and-file and that he will best serve the clan leading our forces in battle.</localised_description>
+<localised_first_choice_label>An army needs leadership if it is to wage war effectively. We will exercise his martial prowess to further our military objectives.</localised_first_choice_label>
+<localised_first_choice_title>Promote Him</localised_first_choice_title>
+<localised_second_choice_label>This man’s ability is unquestionable, but we have no need of his services for the time being.</localised_second_choice_label>
+<localised_second_choice_title>Do Not Promote</localised_second_choice_title>
+<localised_title>Fit for Command</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>bos_message_character_negative_active.tga</ui_icon>
+<ui_image>bos_army_victory.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>0</generate>
+<key>s_bos_promotion_turn_start</key>
+<localised_description>My lord, the son of one of your most loyal subjects - a fine warrior, I am told -  desires to prove his worth to you and the clan. As such, he requests the opportunity to lead your glorious forces in battle.</localised_description>
+<localised_first_choice_label>An army needs leadership if it is to wage war effectively. We will give him the chance to prove his worth.</localised_first_choice_label>
+<localised_first_choice_title>Enlist Him</localised_first_choice_title>
+<localised_second_choice_label>This man’s eagerness to serve is admirable, but we do not require his services for the time being.</localised_second_choice_label>
+<localised_second_choice_title>Do Not Enlist</localised_second_choice_title>
+<localised_title>Eager to Serve</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>bos_message_character_negative_active.tga</ui_icon>
+<ui_image>bos_army_victory.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>s_disloyalty_major</key>
+<localised_description>If rumours regarding this man's loyalties are to be believed he is nothing but a traitor to the clan. Action must be taken, lest he be allowed to bring further shame upon or cause harm to the people.</localised_description>
+<localised_first_choice_label>He will commit seppuku immediately!</localised_first_choice_label>
+<localised_first_choice_title>Order Seppuku</localised_first_choice_title>
+<localised_second_choice_label>He may yet be of some use to us, so will be given the chance to redeem himself on this occasion.</localised_second_choice_label>
+<localised_second_choice_title>Chance for Redemption</localised_second_choice_title>
+<localised_title>Rumours of Treason</localised_title>
+<prioritized>1</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Military_Crackdown.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>0</generate>
+<key>s_disloyalty_minor</key>
+<localised_description>Rumours abound regarding this man's waning loyalty to us. We must be wary of such sedition lest it propagates and compromises the clan.</localised_description>
+<localised_first_choice_label>We will give him a chance to prove his loyalty to the clan and to preserve his honour by committing seppuku at once.</localised_first_choice_label>
+<localised_first_choice_title>Order Seppuku</localised_first_choice_title>
+<localised_second_choice_label>It is too early to tell. In due course we shall see where his true loyalties lie; for now we will make use of his talents.</localised_second_choice_label>
+<localised_second_choice_title>Wait and See</localised_second_choice_title>
+<localised_title>Rumours of Disloyalty</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Military_Crackdown.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>0</generate>
+<key>s_matter_of_honour_major</key>
+<localised_description>A disgrace to the clan, this man is not worthy to lead our armies in battle. His death is the only means by which the shame and dishonour he has brought upon the clan can be undone.</localised_description>
+<localised_first_choice_label>His continued violation of our clan's reputation ends here. Have him commit seppuku at once.</localised_first_choice_label>
+<localised_first_choice_title>Order Seppuku</localised_first_choice_title>
+<localised_second_choice_label>He will be kept alive to make amends for his repeated failure. The dishonour will be his punishment.</localised_second_choice_label>
+<localised_second_choice_title>Chance for Redemption</localised_second_choice_title>
+<localised_title>Death or Dishonour</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Samurai_Daimyo.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>s_matter_of_honour_minor</key>
+<localised_description>One of your subjects has been disgraced after repeatedly failing to serve the clan to the best of his ability on the battlefield. As a matter of honour, he beseeches you to allow his immediate suicide.</localised_description>
+<localised_first_choice_label>Honour and tradition must be maintained. He is to commit seppuku at once.</localised_first_choice_label>
+<localised_first_choice_title>Accept Request</localised_first_choice_title>
+<localised_second_choice_label>A samurai cannot serve the clan if he is dead. He will be allowed to atone for his misdeeds through service to his lord.</localised_second_choice_label>
+<localised_second_choice_title>Deny Request</localised_second_choice_title>
+<localised_title>A Matter of Honour</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Samurai_Daimyo.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>0</generate>
+<key>s_meritorious_action</key>
+<localised_description>This distinguished warrior has secured many victories for our clan since assuming the mantle of general. Such accomplishments surely deserve recognition?</localised_description>
+<localised_first_choice_label>We are grateful for this man's achievements; he shall be granted a fief for his efforts.</localised_first_choice_label>
+<localised_first_choice_title>Acknowledge Him</localised_first_choice_title>
+<localised_second_choice_label>This man has done no more than carry out his duties; we expect no less from our subjects.</localised_second_choice_label>
+<localised_second_choice_title>Do Nothing</localised_second_choice_title>
+<localised_title>Meritorious Action</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Samurai.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>s_nanban_trade_centre</key>
+<localised_description>Nanban traders have arrived at one of our ports, seeking permission to establish a trading post. Allowing this will give us access to new firearms. However, by doing so we run the risk of introducing undesirable nanban influences, such as Christianity, to the clan.</localised_description>
+<localised_first_choice_label>We welcome the opportunity to engage in material and cultural exchange with the nanban. We will build them a trading post.</localised_first_choice_label>
+<localised_first_choice_title>Accept Trade</localised_first_choice_title>
+<localised_second_choice_label>We have no need to engage in trade with the nanban at this time. Perhaps at a later time?</localised_second_choice_label>
+<localised_second_choice_title>Decline Trade</localised_second_choice_title>
+<localised_title>Nanban Trade</localised_title>
+<prioritized>1</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Europeans_Arrive.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>s_nanban_trade_east</key>
+<localised_description>Nanban traders have arrived at one of our ports, seeking permission to establish a trading post. Allowing this will give us access to new firearms. However, by doing so we run the risk of introducing undesirable nanban influences, such as Christianity, to the clan.</localised_description>
+<localised_first_choice_label>We welcome the opportunity to engage in material and cultural exchange with the nanban. We will build them a trading post.</localised_first_choice_label>
+<localised_first_choice_title>Accept Trade</localised_first_choice_title>
+<localised_second_choice_label>We have no need to engage in trade with the nanban at this time. Perhaps at a later time?</localised_second_choice_label>
+<localised_second_choice_title>Decline Trade</localised_second_choice_title>
+<localised_title>Nanban Trade</localised_title>
+<prioritized>1</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Europeans_Arrive.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>1</generate>
+<key>s_nanban_trade_west</key>
+<localised_description>Nanban traders have arrived at one of our ports, seeking permission to establish a trading post. Allowing this will give us access to new firearms. However, by doing so we run the risk of introducing undesirable nanban influences, such as Christianity, to the clan.</localised_description>
+<localised_first_choice_label>We welcome the opportunity to engage in material and cultural exchange with the nanban. We will build them a trading post.</localised_first_choice_label>
+<localised_first_choice_title>Accept Trade</localised_first_choice_title>
+<localised_second_choice_label>We have no need to engage in trade with the nanban at this time. Perhaps at a later time?</localised_second_choice_label>
+<localised_second_choice_title>Decline Trade</localised_second_choice_title>
+<localised_title>Nanban Trade</localised_title>
+<prioritized>1</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Europeans_Arrive.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>0</generate>
+<key>s_promotion_post_battle</key>
+<localised_description>My lord, one of our valiant warriors has proved his mettle in securing this victory for the clan. It is our belief that his talents are wasted in the rank-and-file and that he will best serve the clan leading our forces in battle.</localised_description>
+<localised_first_choice_label>An army needs leadership if it is to wage war effectively. We will exercise his martial prowess to further our military objectives.</localised_first_choice_label>
+<localised_first_choice_title>Promote Him</localised_first_choice_title>
+<localised_second_choice_label>This man’s ability is unquestionable, but we have no need of his services for the time being.</localised_second_choice_label>
+<localised_second_choice_title>Do Not Promote</localised_second_choice_title>
+<localised_title>Fit for Command</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Military.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>0</generate>
+<key>s_promotion_turn_start</key>
+<localised_description>My lord, the son of one of your most loyal subjects - a fine warrior, I am told -  desires to prove his worth to you and the clan. As such, he requests the opportunity to lead your glorious forces in battle.</localised_description>
+<localised_first_choice_label>An army needs leadership if it is to wage war effectively. We will give him the chance to prove his worth.</localised_first_choice_label>
+<localised_first_choice_title>Enlist Him</localised_first_choice_title>
+<localised_second_choice_label>This man’s eagerness to serve is admirable, but we do not require his services for the time being.</localised_second_choice_label>
+<localised_second_choice_title>Do Not Enlist</localised_second_choice_title>
+<localised_title>Eager to Serve</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Samurai_Daimyo.tga</ui_image>
+</dilemmas>
+<dilemmas>
+<generate>0</generate>
+<key>s_relief_effort</key>
+<localised_description>This province has recently been ravaged by the forces of nature. Many of our people have had their livelihoods ruined. The process of rebuilding all that was lost is an arduous affair.</localised_description>
+<localised_first_choice_label>We cannot stand idle while our people suffer. We shall fully occupy ourselves in the reconstruction effort, for the good of all.</localised_first_choice_label>
+<localised_first_choice_title>Dispatch Aid</localised_first_choice_title>
+<localised_second_choice_label>There are more pressing issues to attend to than the trivial problems faced by the peasantry.</localised_second_choice_label>
+<localised_second_choice_title>Ignore Their Plight</localised_second_choice_title>
+<localised_title>Relief Effort</localised_title>
+<prioritized>0</prioritized>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Relief_Effort.tga</ui_image>
+</dilemmas>
+</dataroot>

@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_diseases_culture_deaths>
+<root>
+  <edit_uuid>89bd5f0e-bc8d-45fd-978d-5a665439e78a</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>disease</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>diseases</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>culture</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>cultures</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>mortality_rate</name>
+    <field_type>double</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+</root>

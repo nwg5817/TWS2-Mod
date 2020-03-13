@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_character_skill_node_sets>
+<root>
+  <edit_uuid>d9e8bcf8-cc87-11df-8001-6cf049ef02b0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>faction_key</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>factions</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>campaign_key</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>255</max_length>
+    <column_source_column>campaign_name</column_source_column>
+    <column_source_table>campaigns</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>agent_key</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>agents</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>enc_title</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>1024</max_length>
+  </field>
+</root>

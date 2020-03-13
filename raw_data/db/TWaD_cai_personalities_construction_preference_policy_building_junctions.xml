@@ -1,0 +1,43 @@
+<!DOCTYPE TWaD_cai_personalities_construction_preference_policy_building_junctions>
+<root>
+<edit_uuid>006ccda0-0a1f-11e1-be50-0800200c9a66</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>policy_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>cai_personalities_construction_preference_policies</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>building_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>level_name</column_source_column>
+    <column_source_table>building_levels</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>bias_level</name>
+    <field_type>single</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>absolute_adjustment</name>
+    <field_type>single</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>building_discount_limit_adjustment</name>
+    <field_type>integer</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+</root>

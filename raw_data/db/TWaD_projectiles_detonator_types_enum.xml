@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_projectiles_detonator_types_enum>
+<root>
+  <edit_uuid>862a11d0-2f8c-4a34-b316-18fd274073c2</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>detonator_type</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+</root>

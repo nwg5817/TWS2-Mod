@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Mon 5. Jul 10:50:09 2010" revision="1" export_branch="C:/Documents and Settings/florian.ziegler/Desktop" export_user="Florian.Ziegler">
+<edit_uuid>72163d89-4a8b-490d-b9e2-0f44e2804027</edit_uuid><taxes_levels>
+<percentage>50</percentage>
+<tax_level>tax_extortionate</tax_level>
+</taxes_levels>
+<taxes_levels>
+<percentage>40</percentage>
+<tax_level>tax_high</tax_level>
+</taxes_levels>
+<taxes_levels>
+<percentage>20</percentage>
+<tax_level>tax_low</tax_level>
+</taxes_levels>
+<taxes_levels>
+<percentage>10</percentage>
+<tax_level>tax_minimal</tax_level>
+</taxes_levels>
+<taxes_levels>
+<percentage>30</percentage>
+<tax_level>tax_normal</tax_level>
+</taxes_levels>
+</dataroot>

@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Thu 19. Jan 16:27:50 2012" revision="53" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Chris.Gambold">
+<edit_uuid>cd02508d-93f1-489f-9399-9d9933eb7cd5</edit_uuid><encyclopedia_template_strings>
+<string_key>actions</string_key>
+<text>Actions</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>base_unit_stats</string_key>
+<text>Basic Unit Statistics (can be modified by difficulty level, arts, skills, traits and retainers)</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>basic_building_stats</string_key>
+<text>Basic Building Statistics (can be modified by difficulty level, arts, skills, traits and retainers)</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>boshin_arts_title</string_key>
+<text>Fall of the Samurai Arts</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>boshin_buildings_title</string_key>
+<text>Fall of the Samurai Buildings</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>boshin_characters_title</string_key>
+<text>Fall of the Samurai Characters</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>boshin_clans_title</string_key>
+<text>Fall of the Samurai Clans</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>boshin_regions_title</string_key>
+<text>Fall of the Samurai Provinces</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>boshin_specialities_title</string_key>
+<text>Fall of the Samurai Specialities</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>boshin_units_title</string_key>
+<text>Fall of the Samurai Units</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>buildings</string_key>
+<text>Buildings</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>buildings_intro</string_key>
+<text>Buildings are used for the recruitment of military units and also subterfuge and religious agents. They also have a range of effects, either on a clan’s economy or on the units and agents they produce. See each chain for details of how it can be used.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>campaign_selection_title</string_key>
+<text>Campaign Selection</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>characters</string_key>
+<text>Characters</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>clan_effects</string_key>
+<text>Clan Effects</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>clans</string_key>
+<text>Clans</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>effects</string_key>
+<text>Effects</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>enables</string_key>
+<text>Enables</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>first_to_build_effects</string_key>
+<text>If you are first to construct</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>gempei_arts_title</string_key>
+<text>Rise of the Samurai Arts</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>gempei_buildings_title</string_key>
+<text>Rise of the Samurai Buildings</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>gempei_characters_title</string_key>
+<text>Rise of the Samurai Characters</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>gempei_clans_title</string_key>
+<text>Rise of the Samurai Clans</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>gempei_units_title</string_key>
+<text>Rise of the Samurai Units</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_arts</string_key>
+<text>Arts are important technological and cultural developments that, when mastered, can give your clan the advantage over its rivals. They are divided into two categories: military and government.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_archery</string_key>
+<text>All bow-armed units can be recruited from this chain of buildings. Those buildings higher up the chain  improve the quality of archers and enable the recruitment of bow heroes. In combination with a temple, it is possible to recruit bow warrior monks from the archery chain. Archers are excellent for skirmishing but poor in melee. </text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_archery_label</string_key>
+<text>Archery Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_artillery</string_key>
+<text>This chain of buildings enables the production of artillery pieces and the recruitment of their crews.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_artillery_label</string_key>
+<text>Artillery Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_boshin_farm</string_key>
+<text>This chain of buildings increases both wealth and town growth within a province.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_boshin_farm_label</string_key>
+<text>Farming Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_boshin_gold_mining</string_key>
+<text>This chain of province speciality buildings is enabled when gold resources are present. Gold increases the wealth produced within a province, but the progression to advanced refining techniques causes reduced happiness due to modernisation.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_boshin_gold_mining_label</string_key>
+<text>Gold Mining Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_boshin_holy_site</string_key>
+<text>This chain of province speciality buildings increases the charge bonus of all traditional units recruited within a province.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_boshin_holy_site_label</string_key>
+<text>Holy Site Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_boshin_iron_mining</string_key>
+<text>This chain of province speciality buildings is enabled when iron resources are present. Iron reduces the cost of artillery recruited within a province, but the progression to advanced refining techniques causes reduced happiness due to modernisation.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_boshin_iron_mining_label</string_key>
+<text>Iron Mining Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_boshin_port</string_key>
+<text>This chain of buildings enables the construction of ships and the recruitment of their crews, as well as the recruitment of foreign veteran agents. You can branch out and specialise in trade or military ports further up the chain.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_boshin_port_label</string_key>
+<text>Port Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_boshin_region_specialtea</string_key>
+<text>This chain of province speciality buildings is enabled when tea resources are present in a province, providing a trade good that will always be in demand.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_boshin_region_specialtea_label</string_key>
+<text>Tea Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_boshin_region_specialty_clay</string_key>
+<text>This chain of province speciality buildings is enabled when clay resources are present in a province. Clay is used for the mass production of bricks and items of pottery, reducing the cost of building construction within a province.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_boshin_region_specialty_clay_label</string_key>
+<text>Clay Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_boshin_region_specialty_coal_mining</string_key>
+<text>This chain of province speciality buildings is enabled when coal resources are present. Coal extraction and refining produces a useful trade good, but also reduces happiness due to modernisation.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_boshin_region_specialty_coal_mining_label</string_key>
+<text>Coal Mining Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_boshin_region_specialty_copper_mining</string_key>
+<text>This chain of province speciality buildings is enabled when copper resources are present. Copper reduces the cost of and time required for the construction of copper-plated ships within a province.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_boshin_region_specialty_copper_mining_label</string_key>
+<text>Copper Mining Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_boshin_region_specialty_railroad</string_key>
+<text>This chain of province speciality buildings is enabled when the topography of a province is suitable for railway construction. Town growth is also increased as a result of railways.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_boshin_region_specialty_railroad_label</string_key>
+<text>Railway Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_boshin_region_specialty_silver_mining</string_key>
+<text>This chain of province speciality buildings is enabled when silver resources are present. Silver increases the wealth produced within a province, but the progression to advanced refining techniques causes reduced happiness due to modernisation.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_boshin_region_specialty_silver_mining_label</string_key>
+<text>Silver Mining Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_boshin_region_specialty_smugglers</string_key>
+<text>This chain of province speciality buildings improves the quality of geisha agents recruited in a province. Town growth is also increased.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_boshin_region_specialty_smugglers_label</string_key>
+<text>Smuggling Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_boshin_silk</string_key>
+<text>This chain of province speciality buildings is enabled when silk resources are present. Silk production is increased by each building in the chain.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_boshin_silk_label</string_key>
+<text>Silk Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_boshin_smith</string_key>
+<text>This chain of province speciality buildings is available in those provinces known for their smithing skills. The armour and missile accuracy of troops recruited here is improved, but the progression to advanced techniques causes reduced happiness due to modernisation.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_boshin_smith_label</string_key>
+<text>Smith Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_buddhist</string_key>
+<text>This chain of buildings enables the recruitment of both monk agents and, in combination with a yari or bow dojo, warrior monk units. As places of study, Buddhist buildings contribute to your mastery of the arts. Those buildings higher up the chain increase the happiness of the Buddhist population of a province, and can even convert non-Buddhists living there.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_buddhist_label</string_key>
+<text>Buddhist Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_buff</string_key>
+<text>This chain of buildings improves your recruitment and replenishment capabilities, and can be specialised to improve the statistics of specific units.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_buff_chain</string_key>
+<text>Improvement Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_castle</string_key>
+<text>This chain of buildings increases the movement speed and rate of replenishment of armies in its province. It also increases the line of sight of your agents and their chances of detecting hidden enemy agents.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_castle_label</string_key>
+<text>Castle Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_cavalry</string_key>
+<text>All cavalry units can be recruited from this chain of buildings. Better cavalry types require the warhorse commodity and corresponding weapon dojos.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_cavalry_label</string_key>
+<text>Cavalry Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_christian</string_key>
+<text>This chain of buildings enables the recruitment of missionary agents. The rigidly organised structure of Catholicism enables swifter mastery of the arts and much quicker conversion to their religion than their Buddhist counterparts can manage. The Christian chain promotes a more fluid society with the effect of increased economic growth.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_christian_label</string_key>
+<text>Christian Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_craftwork</string_key>
+<text>This chain of province speciality buildings produce the craftwork commodity that can be traded and is required for the construction of certain other buildings. The craftwork chain can also be used to improve the quality of bows, giving a bonus to all bow units recruited in the same province.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_craftwork_label</string_key>
+<text>Craftwork Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_criminal</string_key>
+<text>This chain of buildings, the result of a general population surge as society moves away from agriculture to industry and city life, increases wealth and happiness. It also enables the recruitment of geisha agents and increases their chances of success.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_criminal_label</string_key>
+<text>Business Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_defences</string_key>
+<text>This chain of buildings allows you to upgrade the tower defences of your castles independently from the castles themselves. All castles contain archer towers by default.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_defences_label</string_key>
+<text>Tower Defences Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_farm</string_key>
+<text>This chain of buildings provides food and is the principle source of income across your entire empire. Farms should be upgraded early in a campaign and often after that.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_farm_label</string_key>
+<text>Farming Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_foundation</string_key>
+<text>This chain of buildings provides the foundations for the expansion of your settlements. Each level of settlement opens up one extra building slot and improves tax income, but also reduces happiness due to modernisation.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_foundation_label</string_key>
+<text>Settlement Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_gempei_buddhist</string_key>
+<text>This chain of buildings enables the recruitment of sou agents and, in combination with a koryu dojo, warrior monk units. Those buildings higher up the chain provide warrior monks with greater experience and increase the happiness of a province’s population.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_gempei_buddhist_label</string_key>
+<text>Buddhist Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_gempei_buff</string_key>
+<text>This chain of buildings improves your recruitment and replenishment capabilities, and can be specialised to improve the statistics of specific units.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_gempei_buff_label</string_key>
+<text>Improvement Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_gempei_bushi</string_key>
+<text>This chain of buildings enables recruitment of the new samurai troop types, including samurai heroes, also producing samurai cavalry when used in combination with pastures.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_gempei_bushi_label</string_key>
+<text>Bushi Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_gempei_castle</string_key>
+<text>Each level of castle unlocks a new construction slot and fortification. It also increases the line of sight of your agents and their chances of detecting hidden enemy agents.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_gempei_castle_label</string_key>
+<text>Castle Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_gempei_clan</string_key>
+<text>The clan chain of buildings enables recruitment of shirabyoshi agents, increases taxation within its province, and spreads your family’s influence to nearby provinces.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_gempei_clan_label</string_key>
+<text>Clan Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_gempei_farm</string_key>
+<text>This chain of buildings provides food and is the principle source of income across your entire empire. Farms should be upgraded early in a campaign and often after that. Farms enable cavalry recruitment in the province when there are appropriate koryu or bushi buildings present.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_gempei_farm_label</string_key>
+<text>Farming Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_gempei_government</string_key>
+<text>This chain of buildings is the centre of government within a province. A government building cannot be demolished. There are two sub-chains within it: one focuses on public order and siege defence, the other recruitment and replenishment of armies.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_gempei_government_label</string_key>
+<text>Government Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_gempei_intellectual</string_key>
+<text>This chain of province speciality buildings reduces the time required to master arts. It is the provincial version of the state academy.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_gempei_intellectual_label</string_key>
+<text>Intellectual Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_gempei_koryu</string_key>
+<text>This chain of buildings enables recruitment of the old-style, mostly naginata-armed troop types, also producing warrior monks when used in combination with Buddhist buildings and naginata cavalry when combined with pastures. The highest level koryu buildings can also produce naginata hero, onna bushi, and tetsubo warrior monks.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_gempei_koryu_label</string_key>
+<text>Koryu Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_gempei_market</string_key>
+<text>This chain of buildings enables the recruitment of junsatsushi and provides a major contribution to province wealth. There are two sub-chains within it: one facilitates long-term growth, the other short to mid-term wealth.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_gempei_market_label</string_key>
+<text>Barter Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_gempei_silk</string_key>
+<text>This chain of buildings facilitates silk production within a province, also generating wealth.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_gempei_silk_label</string_key>
+<text>Silk Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_gempei_state_academy</string_key>
+<text>The state academy only exists within Kyoto. The centre of Chinese learning within Japan, the state academy reduces the time required to master arts. It cannot be upgraded or destroyed outright, but can be damaged.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_gempei_state_academy_label</string_key>
+<text>State Academy</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_gold</string_key>
+<text>This chain of province speciality buildings improves your clan’s income.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_gold_label</string_key>
+<text>Gold Mining Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_holy</string_key>
+<text>This chain of province speciality buildings improves the quality of all monk agents and warrior monk units recruited here, and is therefore of limited use to Christian clans.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_holy_label</string_key>
+<text>Holy Site Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_horse</string_key>
+<text>This chain of province speciality buildings provides the warhorse commodity required for better cavalry units, also improving all cavalry recruited in the same province.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_horse_label</string_key>
+<text>Warhorse Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_ikko_temple</string_key>
+<text>This chain of buildings enables the recruitment of both Ikko monk agents and, in combination with a yari dojo, bow dojo, and warhorse stables, both warrior monk infantry and cavalry. As places of study, Ikko Ikki buildings contribute to your mastery of the arts. Those buildings higher up the chain increase the happiness of the Ikko population of a province, can convert non-Ikko members of the population, and even spread the faith to neighbouring provinces.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_ikko_temple_label</string_key>
+<text>Ikko Ikki Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_industry</string_key>
+<text>This chain of buildings allows the specialisation in the cotton, crafts or silk industries, providing increases to both wealth and growth within a province.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_industry_label</string_key>
+<text>Industrial Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_infrastructure</string_key>
+<text>The castle is the heart of the population and public order's main controlling factor. Each level of castle building increases the size of its castle town: providing an additional slot on which to build, enabling the recruitment of basic ashigaru units and determining how many units can be recruited there in each turn. Larger castles are more difficult to assault and spawn a larger defence force of samurai retainers and women. They are also the chief consumer of food in a province, so if farm building levels are not in step with castle size there will be food shortages.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_infrastructure_label</string_key>
+<text>Infrastructure Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_intellectual</string_key>
+<text>This chain of province speciality buildings reduces the time required to master arts. The intellectual centre chain can also be used to produce improved metsuke, thereby reducing corruption and increasing income in a province.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_intellectual_label</string_key>
+<text>Intellectual Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_iron</string_key>
+<text>This chain of province speciality buildings produces income and reduces the cost of recruitment in the same province, also providing the iron commodity that can be traded.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_iron_label</string_key>
+<text>Iron Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_market</string_key>
+<text>This chain of buildings enables the recruitment of metsuke agents and is a major contributor to long-term wealth across your empire.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_market_label</string_key>
+<text>Market Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_modern</string_key>
+<text>This chain of buildings enables the development of modern, western methods of military training and units.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_modern_label</string_key>
+<text>Modern Military Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_naval</string_key>
+<text>This chain of province speciality buildings can be developed to either improve overseas trade income or increase the experience of locally-recruited ship crews.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_naval_label</string_key>
+<text>Naval Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_port</string_key>
+<text>This chain of buildings enables the recruitment of ships. Those buildings higher up the chain facilitate overseas trading, increase economic growth, and can allow foreign powers to negotiate the export of their new weapons and ideas to Japan.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_port_label</string_key>
+<text>Port Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_propaganda</string_key>
+<text>This chain of buildings allows you to set up a network for the spreading of Imperial or Shogunal influence throughout your territory. Shinsengumi and ishin shishi agents can be recruited here.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_propaganda_label</string_key>
+<text>Propaganda Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_region_specialty_ninja</string_key>
+<text>This chain of province speciality buildings either improves the quality of ninja or monomi agents recruited there and increases income, or increases the experience of kisho ninja units recruited there (not Rise of the Samurai).</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_region_specialty_ninja_label</string_key>
+<text>Assassin Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_siege</string_key>
+<text>This chain of buildings enables the recruitment of matchlock gun-armed units and siege weapons.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_siege_label</string_key>
+<text>Siege Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_smith</string_key>
+<text>This chain of province speciality buildings either improves the armour or melee attack statistics of certain locally-recruited units. The higher the level of building, the greater the number of troop types that can be improved.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_smith_label</string_key>
+<text>Smith Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_stealth</string_key>
+<text>This chain of buildings enables the recruitment of ninja agents and also kisho ninja units and also keeps your population happy through the many pleasures they offer. Some of the profits made here are skimmed-off and added to your treasury.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_stealth_label</string_key>
+<text>Stealth Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_stone</string_key>
+<text>This chain of province speciality buildings reduces the cost of buildings constructed in the same province, also providing the stone commodity required for some high level buildings.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_stone_label</string_key>
+<text>Stone Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_sword</string_key>
+<text>All katana-armed units can be recruited from this chain of buildings. Those buildings higher up the chain improve the quality of the swordsmen and enable the recruitment of katana heroes. All swordsmen are excellent attackers. </text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_sword_label</string_key>
+<text>Sword Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_timber</string_key>
+<text>This chain of province speciality buildings reduces the cost of locally-constructed ships and produces an income, also providing the lumber commodity that can be traded.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_timber_label</string_key>
+<text>Timber Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_traditional</string_key>
+<text>This chain of buildings enables the development of traditional Japanese methods of military training and units.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_traditional_label</string_key>
+<text>Traditional Military Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_yari</string_key>
+<text>All yari and naginata-armed units can be recruited from this chain of buildings. Those buildings higher up the chain improve the quality of yari and naginata troops and enable the recruitment of heroes. In combination with a temple, it is possible to recruit naginata warrior monks from the yari chain. Pole-armed units such as these are good defenders, especially against cavalry. </text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_buildings_chain_yari_label</string_key>
+<text>Yari Chain</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_clans</string_key>
+<text>Clans are the noble families and associated retainers of feudal Japan. Each clan has a unique starting position, traits and military specialities for maximum variety of game-play.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_skills</string_key>
+<text>Skills can be chosen for characters as they acquire experience points from performing their various functions, enabling you to fashion and enhance a character’s capabilities.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_skills_ikko_general</string_key>
+<text>Skill tree variant for generals of the Ikko Ikki:</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_units_chain_cavalry_general</string_key>
+<text>The general gives a large boost to the morale of nearby friendly units, but a huge penalty to it if he is killed. He is best kept close to the frontlines and protected at all times - remember that your general can also be your daimyo or even the shogun himself!</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_units_chain_cavalry_missile</string_key>
+<text>These units are excellent for harassing enemies from a distance but are poor in melee. As they are able to fire and re-position they are difficult to pin down but should always be kept away from concentrated enemy missile units.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_units_chain_cavalry_sword</string_key>
+<text>These units are extremely effective melee cavalry and are strong against all infantry except yari-armed units. They are vulnerable to missiles and yari cavalry.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_units_chain_cavalry_yari</string_key>
+<text>These units have a deadly charge but are vulnerable in prolonged melee. They are good in combat against other cavalry but generally weak when fighting yari infantry.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_units_chain_infantry_bow</string_key>
+<text>These units are fast-firing, long range missile units that are extremely vulnerable to cavalry and weak when in melee. On impact, arrows are more accurate but less damaging overall than matchlock balls.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_units_chain_infantry_heavy</string_key>
+<text>These units are highly versatile as they are excellent in melee and able to withstand cavalry attacks, although they are not as strong in melee as katana infantry or as good against cavalry as yari infantry.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_units_chain_infantry_matchlock</string_key>
+<text>These units are armed with slow-firing but deadly matchlock guns. They are vulnerable to cavalry charges and are generally weak in melee.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_units_chain_infantry_special</string_key>
+<text>These units perform very specialised tasks on the battlefield and are vulnerable to units who perform broader roles.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_units_chain_infantry_sword</string_key>
+<text>These units excel in close-quarters melee and are vulnerable to cavalry and bow or matchlock-armed units.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_units_chain_infantry_yari</string_key>
+<text>These units are excellent when fighting cavalry, due to the angle at which their weapons are held. They are vulnerable to attack by katana units and weak against bow or matchlock-armed units.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_units_chain_multiplayer</string_key>
+<text>All the units available in multiplayer are listed here by recruitment dojo.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_units_chain_multiplayer_title</string_key>
+<text>Multiplayer Units</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_units_chain_siege_artillery</string_key>
+<text>These crews operate advanced weapons designed for attacking castles and buildings. They are vulnerable to cavalry charges and are generally weak in melee.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>index_units_chain_siege_weapons</string_key>
+<text>These crews operate large engines designed for attacking castles and buildings. They are vulnerable to cavalry charges and are generally weak in melee.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>level</string_key>
+<text>Level %n</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>other_specialities</string_key>
+<text>Other Specialities</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>regions</string_key>
+<text>Provinces</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>required_arts</string_key>
+<text>Arts</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>required_buildings</string_key>
+<text>Buildings</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>required_religions</string_key>
+<text>Religions</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>required_resources</string_key>
+<text>Resources</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>required_units</string_key>
+<text>Units</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>requirements</string_key>
+<text>Requires</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>select_index_version_title</string_key>
+<text>Select Campaign Index:</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>shogun2_arts_title</string_key>
+<text>Shogun 2 Arts</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>shogun2_buildings_title</string_key>
+<text>Shogun 2 Buildings</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>shogun2_characters_title</string_key>
+<text>Shogun 2 Characters</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>shogun2_clans_title</string_key>
+<text>Shogun 2 Clans</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>shogun2_gempei_regions_title</string_key>
+<text>Shogun 2 &amp; Rise of the Samurai Provinces</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>shogun2_gempei_specialities_title</string_key>
+<text>Shogun 2 &amp; Rise of the Samurai Specialities</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>shogun2_units_title</string_key>
+<text>Shogun 2 Units</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>skills</string_key>
+<text>Character Skills</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>spawned_defense_forces</string_key>
+<text>Spawned Garrisons</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>specialities</string_key>
+<text>Specialities</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>speciality</string_key>
+<text>Speciality</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>starting_units_title</string_key>
+<text>Starting Units</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>strengths_and_weaknesses</string_key>
+<text>Strengths &amp; Weaknesses</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>techs</string_key>
+<text>Arts</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>title</string_key>
+<text>Total War Encyclopaedia</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>tutorials_title</string_key>
+<text>Tutorials</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>units</string_key>
+<text>Units</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>units_abilities</string_key>
+<text>(Click here to learn more about unit abilities)</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>units_intro</string_key>
+<text>Units are the constituent parts of armies and fleets, with the various types used in combination to achieve victory in battle. Their statistics are modified by difficulty level, arts, skills, traits and retainers.</text>
+</encyclopedia_template_strings>
+<encyclopedia_template_strings>
+<string_key>video_not_loaded</string_key>
+<text>Could not load video file, perhaps you do not have Fall of the Samurai installed?</text>
+</encyclopedia_template_strings>
+</dataroot>

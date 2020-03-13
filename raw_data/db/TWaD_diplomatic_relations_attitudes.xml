@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_diplomatic_relations_attitudes>
+<root>
+  <edit_uuid>a4ae4acd-fd94-4e7f-8eee-53432eb43300</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>attitude</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>value</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+</root>

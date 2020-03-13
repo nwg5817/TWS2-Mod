@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Mon 28. Nov 14:16:07 2011" revision="16" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Chris.Gambold">
+<edit_uuid>564d3596-96de-42cd-9a15-0ec12cd0e05b</edit_uuid><resources>
+<description>This enables construction of advanced railway buildings</description>
+<icon_filepath>data\UI\Campaign UI\Pips\bos_res_coal.tga</icon_filepath>
+<key>res_bos_coal</key>
+<onscreen_text>Coal</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>500</strategic_value>
+<trade_value>25</trade_value>
+<unit>tonnage</unit>
+</resources>
+<resources>
+<description>This enables construction of advanced port buildings</description>
+<icon_filepath>data\UI\Campaign UI\Pips\bos_res_copper.tga</icon_filepath>
+<key>res_bos_copper</key>
+<onscreen_text>Copper</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>500</strategic_value>
+<trade_value>35</trade_value>
+<unit>tonnage</unit>
+</resources>
+<resources>
+<description>This enables construction of advanced industrial buildings</description>
+<icon_filepath>data\UI\Campaign UI\Pips\bos_res_cotton.tga</icon_filepath>
+<key>res_bos_cotton</key>
+<onscreen_text>Cotton</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>500</strategic_value>
+<trade_value>30</trade_value>
+<unit>sacks</unit>
+</resources>
+<resources>
+<description>This enables construction of advanced port and speciality buildings</description>
+<icon_filepath>data\UI\Campaign UI\Pips\bos_res_iron.tga</icon_filepath>
+<key>res_bos_iron</key>
+<onscreen_text>Iron</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>1000</strategic_value>
+<trade_value>36</trade_value>
+<unit>tonnage</unit>
+</resources>
+<resources>
+<description>This enables construction of advanced speciality buildings</description>
+<icon_filepath>data\UI\Campaign UI\Pips\bos_res_machines.tga</icon_filepath>
+<key>res_bos_machines</key>
+<onscreen_text>Machines</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>500</strategic_value>
+<trade_value>40</trade_value>
+<unit>tonnage</unit>
+</resources>
+<resources>
+<description>This enables construction of advanced industrial and speciality buildings</description>
+<icon_filepath>data\UI\Campaign UI\Pips\bos_res_silk.tga</icon_filepath>
+<key>res_bos_silk</key>
+<onscreen_text>Silk</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>0</strategic_value>
+<trade_value>30</trade_value>
+<unit>sacks</unit>
+</resources>
+<resources>
+<description>This enables construction of advanced business buildings</description>
+<icon_filepath>data\UI\Campaign UI\Pips\bos_res_tea.tga</icon_filepath>
+<key>res_bos_tea</key>
+<onscreen_text>Tea</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>0</strategic_value>
+<trade_value>25</trade_value>
+<unit>sacks</unit>
+</resources>
+<resources>
+<description>placeholder</description>
+<icon_filepath>data\UI\Campaign UI\Pips\corn.tga</icon_filepath>
+<key>res_cattle</key>
+<onscreen_text>Cattle</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+</resources>
+<resources>
+<description>placeholder</description>
+<icon_filepath>data\UI\Campaign UI\Pips\coffee.tga</icon_filepath>
+<key>res_coffee</key>
+<onscreen_text>Coffee</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit>sacks</unit>
+</resources>
+<resources>
+<description>placeholder</description>
+<icon_filepath>data\UI\Campaign UI\Pips\corn.tga</icon_filepath>
+<key>res_corn</key>
+<onscreen_text>Corn</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>0</strategic_value>
+<trade_value>25</trade_value>
+</resources>
+<resources>
+<description>placeholder</description>
+<icon_filepath>data\UI\Campaign UI\Pips\cotton.tga</icon_filepath>
+<key>res_cotton</key>
+<onscreen_text>Cotton</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit>bales</unit>
+</resources>
+<resources>
+<description>placeholder</description>
+<icon_filepath>data\UI\Campaign UI\Pips\fish.tga</icon_filepath>
+<key>res_fish</key>
+<onscreen_text>Fish</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>0</strategic_value>
+<trade_value>25</trade_value>
+</resources>
+<resources>
+<description>placeholder</description>
+<icon_filepath>data\UI\Campaign UI\Pips\furs.tga</icon_filepath>
+<key>res_furs</key>
+<onscreen_text>Furs</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit>pelts</unit>
+</resources>
+<resources>
+<description>This enables construction of advanced market buildings.</description>
+<icon_filepath>data\UI\Campaign UI\Pips\resource_craft_goods.tga</icon_filepath>
+<key>res_gem_crafts</key>
+<onscreen_text>Crafts</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>0</strategic_value>
+<trade_value>35</trade_value>
+<unit>chests</unit>
+</resources>
+<resources>
+<description>This enables construction of advanced military and blacksmith buildings.</description>
+<icon_filepath>data\UI\Campaign UI\Pips\resource_iron.tga</icon_filepath>
+<key>res_gem_iron</key>
+<onscreen_text>Iron</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>1000</strategic_value>
+<trade_value>30</trade_value>
+<unit>bales</unit>
+</resources>
+<resources>
+<description>This enables construction of advanced educational and speciality buildings.</description>
+<icon_filepath>data\UI\Campaign UI\Pips\resource_chinese_texts.tga</icon_filepath>
+<key>res_gem_scrolls</key>
+<onscreen_text>Chinese Texts</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>0</strategic_value>
+<trade_value>30</trade_value>
+<unit>loaves</unit>
+</resources>
+<resources>
+<description>This enables construction of advanced smuggling and pirate buildings.</description>
+<icon_filepath>data\UI\Campaign UI\Pips\resource_silk.tga</icon_filepath>
+<key>res_gem_silk</key>
+<onscreen_text>Raw Silk</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>500</strategic_value>
+<trade_value>30</trade_value>
+<unit>sacks</unit>
+</resources>
+<resources>
+<description>This enables construction of advanced ports and castles.</description>
+<icon_filepath>data\UI\Campaign UI\Pips\resource_wood.tga</icon_filepath>
+<key>res_gem_wood</key>
+<onscreen_text>Wood</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>500</strategic_value>
+<trade_value>20</trade_value>
+<unit>tonnage</unit>
+</resources>
+<resources>
+<description>placeholder</description>
+<icon_filepath>data\UI\Campaign UI\Pips\gems.tga</icon_filepath>
+<key>res_gems</key>
+<onscreen_text>Gems</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>0</strategic_value>
+<trade_value>50</trade_value>
+</resources>
+<resources>
+<description>placeholder</description>
+<icon_filepath>data\UI\Campaign UI\Pips\gold.tga</icon_filepath>
+<key>res_gold</key>
+<onscreen_text>Gold</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>0</strategic_value>
+<trade_value>75</trade_value>
+</resources>
+<resources>
+<description>placeholder</description>
+<icon_filepath>data\UI\Campaign UI\Pips\iron.tga</icon_filepath>
+<key>res_iron</key>
+<onscreen_text>Iron</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>0</strategic_value>
+<trade_value>30</trade_value>
+</resources>
+<resources>
+<description>placeholder</description>
+<icon_filepath>data\UI\Campaign UI\Pips\ivory.tga</icon_filepath>
+<key>res_ivory</key>
+<onscreen_text>Ivory</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>0</strategic_value>
+<trade_value>50</trade_value>
+<unit>tusks</unit>
+</resources>
+<resources>
+<description>placeholder</description>
+<icon_filepath>data\UI\Campaign UI\Pips\rice.tga</icon_filepath>
+<key>res_rice</key>
+<onscreen_text>Rice</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>0</strategic_value>
+<trade_value>25</trade_value>
+</resources>
+<resources>
+<description>placeholder</description>
+<icon_filepath>data\UI\Campaign UI\Pips\sheep.tga</icon_filepath>
+<key>res_sheep</key>
+<onscreen_text>Sheep</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>0</strategic_value>
+<trade_value>25</trade_value>
+</resources>
+<resources>
+<description>This enables construction of a legendary yari school.</description>
+<icon_filepath>data\UI\Campaign UI\Pips\resource_cotton.tga</icon_filepath>
+<key>res_sho_cotton</key>
+<onscreen_text>Cotton</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>0</strategic_value>
+<trade_value>25</trade_value>
+<unit>bales</unit>
+</resources>
+<resources>
+<description>This enables construction of a kabunakama.</description>
+<icon_filepath>data\UI\Campaign UI\Pips\resource_craft_goods.tga</icon_filepath>
+<key>res_sho_crafts</key>
+<onscreen_text>Crafts</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>0</strategic_value>
+<trade_value>35</trade_value>
+<unit>chests</unit>
+</resources>
+<resources>
+<description>This enables construction of advanced cavalry buildings.</description>
+<icon_filepath>data\UI\Campaign UI\Pips\resource_warhorses.tga</icon_filepath>
+<key>res_sho_horses</key>
+<onscreen_text>Warhorses</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>1000</strategic_value>
+<trade_value>25</trade_value>
+<unit>loaves</unit>
+</resources>
+<resources>
+<description>This enables construction of advanced sword buildings.</description>
+<icon_filepath>data\UI\Campaign UI\Pips\resource_iron.tga</icon_filepath>
+<key>res_sho_iron</key>
+<onscreen_text>Iron</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>1000</strategic_value>
+<trade_value>30</trade_value>
+<unit>bales</unit>
+</resources>
+<resources>
+<description>This enables construction of legendary temples.</description>
+<icon_filepath>data\UI\Campaign UI\Pips\resource_spices.tga</icon_filepath>
+<key>res_sho_medicine</key>
+<onscreen_text>Incense</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>0</strategic_value>
+<trade_value>40</trade_value>
+<unit>pounds</unit>
+</resources>
+<resources>
+<description>This enables construction of legendary entertainment and bow buildings.</description>
+<icon_filepath>data\UI\Campaign UI\Pips\resource_silk.tga</icon_filepath>
+<key>res_sho_silk</key>
+<onscreen_text>Raw Silk</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>500</strategic_value>
+<trade_value>30</trade_value>
+<unit>sacks</unit>
+</resources>
+<resources>
+<description>This enables construction of Imperial roads and citadels.</description>
+<icon_filepath>data\UI\Campaign UI\Pips\resource_stone.tga</icon_filepath>
+<key>res_sho_stone</key>
+<onscreen_text>Stone</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>500</strategic_value>
+<trade_value>20</trade_value>
+<unit>tonnage</unit>
+</resources>
+<resources>
+<description>This enables construction of advanced ports and ships.</description>
+<icon_filepath>data\UI\Campaign UI\Pips\resource_wood.tga</icon_filepath>
+<key>res_sho_wood</key>
+<onscreen_text>Wood</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>500</strategic_value>
+<trade_value>20</trade_value>
+<unit>tonnage</unit>
+</resources>
+<resources>
+<description>placeholder</description>
+<icon_filepath>data\UI\Campaign UI\Pips\silver.tga</icon_filepath>
+<key>res_silver</key>
+<onscreen_text>Silver</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>0</strategic_value>
+<trade_value>50</trade_value>
+</resources>
+<resources>
+<description>placeholder</description>
+<icon_filepath>data\UI\Campaign UI\Pips\spices.tga</icon_filepath>
+<key>res_spices</key>
+<onscreen_text>Spices</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit>pounds</unit>
+</resources>
+<resources>
+<description>placeholder</description>
+<icon_filepath>data\UI\Campaign UI\Pips\sugar.tga</icon_filepath>
+<key>res_sugar</key>
+<onscreen_text>Sugar</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit>loaves</unit>
+</resources>
+<resources>
+<description>placeholder</description>
+<icon_filepath>data\UI\Campaign UI\Pips\tea.tga</icon_filepath>
+<key>res_tea</key>
+<onscreen_text>Tea</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit>chests</unit>
+</resources>
+<resources>
+<description>placeholder</description>
+<icon_filepath>data\UI\Campaign UI\Pips\timber.tga</icon_filepath>
+<key>res_timber</key>
+<onscreen_text>Timber</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>0</strategic_value>
+<trade_value>30</trade_value>
+</resources>
+<resources>
+<description>placeholder</description>
+<icon_filepath>data\UI\Campaign UI\Pips\tobacco.tga</icon_filepath>
+<key>res_tobacco</key>
+<onscreen_text>Tobacco</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit>barrels</unit>
+</resources>
+<resources>
+<description>placeholder</description>
+<icon_filepath>data\UI\Campaign UI\Pips\wheat.tga</icon_filepath>
+<key>res_wheat</key>
+<onscreen_text>Wheat</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>0</strategic_value>
+<trade_value>25</trade_value>
+</resources>
+<resources>
+<description>placeholder</description>
+<icon_filepath>data\UI\Campaign UI\Pips\wine.tga</icon_filepath>
+<key>res_wine</key>
+<onscreen_text>Wine</onscreen_text>
+<slot_bed>settlement</slot_bed>
+<strategic_value>0</strategic_value>
+<trade_value>30</trade_value>
+</resources>
+</dataroot>

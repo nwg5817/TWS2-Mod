@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_quotes>
+<root>
+  <edit_uuid>bbf4a684-2e8b-4cfd-abfa-54920d0a459c</edit_uuid>
+  <field>
+    <primary_key>0</primary_key>
+    <name>quote_onscreen</name>
+    <field_type>memo</field_type>
+    <required>0</required>
+    <max_length>536870910</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>quote_person</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+    <column_source_column>quote_person_key</column_source_column>
+    <column_source_table>quotes_people</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>autonumber</field_type>
+    <required>0</required>
+  </field>
+</root>

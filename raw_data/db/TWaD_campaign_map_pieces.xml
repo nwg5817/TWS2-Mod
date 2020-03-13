@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_campaign_map_pieces>
+<root>
+  <edit_uuid>646b323a-5503-4e9a-843a-5ff230316c6c</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>ID</name>
+    <field_type>autonumber</field_type>
+    <required>0</required>
+  </field>
+</root>

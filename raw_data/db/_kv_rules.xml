@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Tue 20. Dec 16:00:46 2011" revision="62" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="gabor.beressy">
+<edit_uuid>3ba5be94-3130-448a-a198-d455aee51581</edit_uuid><_kv_rules>
+<key>armour_melee_penetrating_divisor</key>
+<value>4</value>
+</_kv_rules>
+<_kv_rules>
+<key>armour_melee_piercing_divisor</key>
+<value>2</value>
+</_kv_rules>
+<_kv_rules>
+<key>armour_missile_penetrating_divisor</key>
+<value>4</value>
+</_kv_rules>
+<_kv_rules>
+<key>armour_missile_piercing_divisor</key>
+<value>2</value>
+</_kv_rules>
+<_kv_rules>
+<description>area of calibration target in square metres</description>
+<key>artillery_projectile_calibration_target_area</key>
+<value>35</value>
+</_kv_rules>
+<_kv_rules>
+<key>attackpower_extreme_range_multplier</key>
+<value>0.7</value>
+</_kv_rules>
+<_kv_rules>
+<key>attackpower_long_range_multiplier</key>
+<value>0.85</value>
+</_kv_rules>
+<_kv_rules>
+<description>the maximum distance the camera can move from the player's army</description>
+<key>battle_camera_max_distance_from_army</key>
+<value>200</value>
+</_kv_rules>
+<_kv_rules>
+<description>Using bayonets increases the attack stat of a unit</description>
+<key>bayonet_melee_attack_bonus</key>
+<value>0</value>
+</_kv_rules>
+<_kv_rules>
+<description>Using Ring bayonets increases the time needed to reload the musket/carbine</description>
+<key>bayonet_ring_reload_time_penalty</key>
+<value>0</value>
+</_kv_rules>
+<_kv_rules>
+<description>time after ships dock for bonus to be applied to attackers</description>
+<key>boarding_bonus_time</key>
+<value>60</value>
+</_kv_rules>
+<_kv_rules>
+<description>attack bonus for attackers during boarding</description>
+<key>boarding_melee_attack_bonus</key>
+<value>10</value>
+</_kv_rules>
+<_kv_rules>
+<description>defense bonus for attackers during boarding</description>
+<key>boarding_melee_defense_bonus</key>
+<value>10</value>
+</_kv_rules>
+<_kv_rules>
+<key>broadsides_accuracy_modifier</key>
+<value>0</value>
+</_kv_rules>
+<_kv_rules>
+<key>broadsides_damage_modifier</key>
+<value>1.5</value>
+</_kv_rules>
+<_kv_rules>
+<description>All projectile contributions to building ignition are multiplied by this amount when raining</description>
+<key>building_ignition_rain_multiplier</key>
+<value>0.25</value>
+</_kv_rules>
+<_kv_rules>
+<description>the damage caused by bullet projectiles to units designated as 'bulletproof'.</description>
+<key>bulletproof_projectile_damage</key>
+<value>0.7</value>
+</_kv_rules>
+<_kv_rules>
+<description>time over which to fade out charge bonus after charge complete</description>
+<key>charge_cool_down_time</key>
+<value>10</value>
+</_kv_rules>
+<_kv_rules>
+<description>chance of accidentally falling off wall per second - for ashigaru</description>
+<key>climbing_walls_fall_chance_ashigaru</key>
+<value>0.012</value>
+</_kv_rules>
+<_kv_rules>
+<description>chance of accidentally falling off wall per second - for samurai</description>
+<key>climbing_walls_fall_chance_samurai</key>
+<value>0.008</value>
+</_kv_rules>
+<_kv_rules>
+<description>minimum width in metres to search for climbing pipes</description>
+<key>climbing_walls_min_width</key>
+<value>20</value>
+</_kv_rules>
+<_kv_rules>
+<description>time after men reach top of walls to apply penalty</description>
+<key>climbing_walls_penalty_time</key>
+<value>5</value>
+</_kv_rules>
+<_kv_rules>
+<key>defense_melee_penetrating_divisor</key>
+<value>4</value>
+</_kv_rules>
+<_kv_rules>
+<key>defense_melee_piercing_divisor</key>
+<value>2</value>
+</_kv_rules>
+<_kv_rules>
+<key>defense_missile_penetrating_divisor</key>
+<value>4</value>
+</_kv_rules>
+<_kv_rules>
+<key>defense_missile_piercing_divisor</key>
+<value>2</value>
+</_kv_rules>
+<_kv_rules>
+<key>factor_attackdir_flankleft</key>
+<value>8</value>
+</_kv_rules>
+<_kv_rules>
+<key>factor_attackdir_flankright</key>
+<value>8</value>
+</_kv_rules>
+<_kv_rules>
+<key>factor_attackdir_front</key>
+<value>0</value>
+</_kv_rules>
+<_kv_rules>
+<key>factor_attackdir_rear</key>
+<value>25</value>
+</_kv_rules>
+<_kv_rules>
+<key>fire_and_advance_reload_modifier</key>
+<value>30</value>
+</_kv_rules>
+<_kv_rules>
+<key>fire_on_walls_accuracy_modifier</key>
+<value>10</value>
+</_kv_rules>
+<_kv_rules>
+<key>fire_on_walls_range_modifier</key>
+<value>10</value>
+</_kv_rules>
+<_kv_rules>
+<key>fire_on_walls_reload_modifier</key>
+<value>10</value>
+</_kv_rules>
+<_kv_rules>
+<description>area of calibration target in square metres</description>
+<key>fire_rocket_projectile_calibration_target_area</key>
+<value>30</value>
+</_kv_rules>
+<_kv_rules>
+<key>fire_volley_arrow_min_threshold</key>
+<value>0.1</value>
+</_kv_rules>
+<_kv_rules>
+<key>fire_volley_gun_min_threshold</key>
+<value>0.025</value>
+</_kv_rules>
+<_kv_rules>
+<key>fire_volley_max_aim_delay_ashigaru</key>
+<value>0.5</value>
+</_kv_rules>
+<_kv_rules>
+<key>fire_volley_max_aim_delay_samurai</key>
+<value>0.25</value>
+</_kv_rules>
+<_kv_rules>
+<key>firing_drill_improved_platoon_fire_reload_modifier</key>
+<value>50</value>
+</_kv_rules>
+<_kv_rules>
+<key>firing_drill_mass_fire_reload_modifier</key>
+<value>0</value>
+</_kv_rules>
+<_kv_rules>
+<key>firing_drill_platoon_fire_reload_modifier</key>
+<value>0</value>
+</_kv_rules>
+<_kv_rules>
+<key>firing_drill_rank_fire_reload_modifier</key>
+<value>0</value>
+</_kv_rules>
+<_kv_rules>
+<key>hnbonus_bayonet</key>
+<value>0</value>
+</_kv_rules>
+<_kv_rules>
+<description>melee bonus for cavalry vs infantry</description>
+<key>hnbonus_melee_cavalry_v_infantry</key>
+<value>5</value>
+</_kv_rules>
+<_kv_rules>
+<description>melee bonus for cavalry vs infantry in square formation</description>
+<key>hnbonus_melee_cavalry_v_squareinfantry</key>
+<value>0</value>
+</_kv_rules>
+<_kv_rules>
+<description>melee bonus against defenders in loose formation</description>
+<key>hnbonus_melee_loose_formation</key>
+<value>10</value>
+</_kv_rules>
+<_kv_rules>
+<description>area of calibration target in square metres</description>
+<key>land_mortar_projectile_calibration_target_area</key>
+<value>750</value>
+</_kv_rules>
+<_kv_rules>
+<description>accuracy penalty applied to a defending unit if it is in fight to the death.</description>
+<key>last_stand_siege_accuracy_penalty</key>
+<value>-10</value>
+</_kv_rules>
+<_kv_rules>
+<description>bonus an attacking unit in a siege will get to hit number against a defending unit in fight to the death.</description>
+<key>last_stand_siege_melee_attacker</key>
+<value>15</value>
+</_kv_rules>
+<_kv_rules>
+<description>penalty a defending unit in a siege will get to hit number if it is in fight to the death.</description>
+<key>last_stand_siege_melee_defender</key>
+<value>-10</value>
+</_kv_rules>
+<_kv_rules>
+<description>reload rate penalty applied to a defending unit if it is in fight to the death.</description>
+<key>last_stand_siege_reload_penalty</key>
+<value>-10</value>
+</_kv_rules>
+<_kv_rules>
+<description>% chance of ship magazine exploding once a hit registers</description>
+<key>magazine_explosion_interrupt_chance</key>
+<value>15</value>
+</_kv_rules>
+<_kv_rules>
+<key>magazine_explosion_radius</key>
+<value>25</value>
+</_kv_rules>
+<_kv_rules>
+<description>area of calibration target in square metres</description>
+<key>mangonel_projectile_calibration_target_area</key>
+<value>40</value>
+</_kv_rules>
+<_kv_rules>
+<key>melee_charge_factor_power_divisor</key>
+<value>1</value>
+</_kv_rules>
+<_kv_rules>
+<key>melee_entrenchement_level_multiplier</key>
+<value>3</value>
+</_kv_rules>
+<_kv_rules>
+<description>percentage of melee attack applied as a negative modifier when cav are fighting in forest</description>
+<key>melee_environment_forest_multiplier</key>
+<value>0.2</value>
+</_kv_rules>
+<_kv_rules>
+<key>melee_height_delta_max</key>
+<value>1.5</value>
+</_kv_rules>
+<_kv_rules>
+<key>melee_height_delta_min</key>
+<value>-1.5</value>
+</_kv_rules>
+<_kv_rules>
+<key>melee_hn_to_xholds_0_max</key>
+<value>-6</value>
+</_kv_rules>
+<_kv_rules>
+<key>melee_hn_to_xholds_1_max</key>
+<value>0</value>
+</_kv_rules>
+<_kv_rules>
+<key>melee_hn_to_xholds_2_max</key>
+<value>6</value>
+</_kv_rules>
+<_kv_rules>
+<key>melee_hn_to_xholds_3_max</key>
+<value>12</value>
+</_kv_rules>
+<_kv_rules>
+<key>melee_xholds_knockback_0</key>
+<value>70</value>
+</_kv_rules>
+<_kv_rules>
+<key>melee_xholds_knockback_1</key>
+<value>90</value>
+</_kv_rules>
+<_kv_rules>
+<key>melee_xholds_knockback_2</key>
+<value>110</value>
+</_kv_rules>
+<_kv_rules>
+<key>melee_xholds_knockback_3</key>
+<value>150</value>
+</_kv_rules>
+<_kv_rules>
+<key>melee_xholds_knockback_4</key>
+<value>200</value>
+</_kv_rules>
+<_kv_rules>
+<key>melee_xholds_knockdown_0</key>
+<value>30</value>
+</_kv_rules>
+<_kv_rules>
+<key>melee_xholds_knockdown_1</key>
+<value>50</value>
+</_kv_rules>
+<_kv_rules>
+<key>melee_xholds_knockdown_2</key>
+<value>60</value>
+</_kv_rules>
+<_kv_rules>
+<key>melee_xholds_knockdown_3</key>
+<value>80</value>
+</_kv_rules>
+<_kv_rules>
+<key>melee_xholds_knockdown_4</key>
+<value>100</value>
+</_kv_rules>
+<_kv_rules>
+<key>melee_xholds_stepback_0</key>
+<value>70</value>
+</_kv_rules>
+<_kv_rules>
+<key>melee_xholds_stepback_1</key>
+<value>90</value>
+</_kv_rules>
+<_kv_rules>
+<key>melee_xholds_stepback_2</key>
+<value>130</value>
+</_kv_rules>
+<_kv_rules>
+<key>melee_xholds_stepback_3</key>
+<value>185</value>
+</_kv_rules>
+<_kv_rules>
+<key>melee_xholds_stepback_4</key>
+<value>270</value>
+</_kv_rules>
+<_kv_rules>
+<description>Misfire of a cannon with matchlock</description>
+<key>misfire_cannon_flintlock</key>
+<value>0</value>
+</_kv_rules>
+<_kv_rules>
+<description>Misfire of a cannon with matchlock</description>
+<key>misfire_cannon_matchlock</key>
+<value>0</value>
+</_kv_rules>
+<_kv_rules>
+<description>Misfire of a musket with flintlock</description>
+<key>misfire_musket_flintlock</key>
+<value>0</value>
+</_kv_rules>
+<_kv_rules>
+<description>Misfire of a musket with matchlock ( 0.2 means a 20% chance of misfire)</description>
+<key>misfire_musket_matchlock</key>
+<value>0</value>
+</_kv_rules>
+<_kv_rules>
+<description>Misfire of a musket with percussion cap</description>
+<key>misfire_musket_percussion_cap</key>
+<value>0</value>
+</_kv_rules>
+<_kv_rules>
+<key>missile_cover_factor_excellent</key>
+<value>0</value>
+</_kv_rules>
+<_kv_rules>
+<key>missile_cover_factor_good</key>
+<value>0</value>
+</_kv_rules>
+<_kv_rules>
+<key>missile_cover_factor_none</key>
+<value>0</value>
+</_kv_rules>
+<_kv_rules>
+<key>missile_cover_factor_slight</key>
+<value>0</value>
+</_kv_rules>
+<_kv_rules>
+<key>missile_cover_factor_some</key>
+<value>0</value>
+</_kv_rules>
+<_kv_rules>
+<description>Projectile system: infantry calibration distance at which marksmanship = chance to hit calibration target</description>
+<key>missile_distance_for_half_chance_hit</key>
+<value>100</value>
+</_kv_rules>
+<_kv_rules>
+<description>Projectile system: artillery calibration distance at which marksmanship = chance to hit calibration target.</description>
+<key>missile_distance_for_half_chance_hit_artillery</key>
+<value>300</value>
+</_kv_rules>
+<_kv_rules>
+<description>Projectile system: naval gun calibration distance at which marksmanship = chance to hit calibration target.</description>
+<key>missile_distance_for_half_chance_hit_naval</key>
+<value>300</value>
+</_kv_rules>
+<_kv_rules>
+<description>visibility accuracy multiplier for heavy fog weather</description>
+<key>missile_heavy_fog_accuracy_multiplier</key>
+<value>0.7</value>
+</_kv_rules>
+<_kv_rules>
+<description>visibility accuracy multiplier for heavy rain weather</description>
+<key>missile_heavy_rain_accuracy_multiplier</key>
+<value>0.5</value>
+</_kv_rules>
+<_kv_rules>
+<description>visibility accuracy multiplier for heavy snow weather</description>
+<key>missile_heavy_snow_accuracy_multiplier</key>
+<value>0.7</value>
+</_kv_rules>
+<_kv_rules>
+<key>missile_hn_to_xholds_0_max</key>
+<value>-6</value>
+</_kv_rules>
+<_kv_rules>
+<key>missile_hn_to_xholds_1_max</key>
+<value>0</value>
+</_kv_rules>
+<_kv_rules>
+<key>missile_hn_to_xholds_2_max</key>
+<value>6</value>
+</_kv_rules>
+<_kv_rules>
+<key>missile_hn_to_xholds_3_max</key>
+<value>12</value>
+</_kv_rules>
+<_kv_rules>
+<description>visibility accuracy multiplier for light fog weather</description>
+<key>missile_light_fog_accuracy_multiplier</key>
+<value>0.7</value>
+</_kv_rules>
+<_kv_rules>
+<description>visibility accuracy multiplier for light rain weather</description>
+<key>missile_light_rain_accuracy_multiplier</key>
+<value>0.9</value>
+</_kv_rules>
+<_kv_rules>
+<description>visibility accuracy multiplier for light snow weather</description>
+<key>missile_light_snow_accuracy_multiplier</key>
+<value>0.7</value>
+</_kv_rules>
+<_kv_rules>
+<description>visibility accuracy multiplier for medium fog weather</description>
+<key>missile_medium_fog_accuracy_multiplier</key>
+<value>0.7</value>
+</_kv_rules>
+<_kv_rules>
+<description>visibility accuracy multiplier for medium rain weather</description>
+<key>missile_medium_rain_accuracy_multiplier</key>
+<value>0.7</value>
+</_kv_rules>
+<_kv_rules>
+<description>visibility accuracy multiplier for medium snow weather</description>
+<key>missile_medium_snow_accuracy_multiplier</key>
+<value>0.7</value>
+</_kv_rules>
+<_kv_rules>
+<key>missile_xholds_knockdown_0</key>
+<value>35</value>
+</_kv_rules>
+<_kv_rules>
+<key>missile_xholds_knockdown_1</key>
+<value>40</value>
+</_kv_rules>
+<_kv_rules>
+<key>missile_xholds_knockdown_2</key>
+<value>47</value>
+</_kv_rules>
+<_kv_rules>
+<key>missile_xholds_knockdown_3</key>
+<value>55</value>
+</_kv_rules>
+<_kv_rules>
+<key>missile_xholds_knockdown_4</key>
+<value>65</value>
+</_kv_rules>
+<_kv_rules>
+<key>naval_incendiary_projectile_chance_high</key>
+<value>40</value>
+</_kv_rules>
+<_kv_rules>
+<key>naval_incendiary_projectile_chance_low</key>
+<value>5</value>
+</_kv_rules>
+<_kv_rules>
+<key>naval_incendiary_projectile_chance_medium</key>
+<value>15</value>
+</_kv_rules>
+<_kv_rules>
+<key>naval_incendiary_projectile_chance_very_high</key>
+<value>80</value>
+</_kv_rules>
+<_kv_rules>
+<key>naval_incendiary_projectile_chance_very_low</key>
+<value>0.1</value>
+</_kv_rules>
+<_kv_rules>
+<description>area of calibration target in square metres</description>
+<key>naval_projectile_calibration_target_area</key>
+<value>9</value>
+</_kv_rules>
+<_kv_rules>
+<key>pike_wall_move_speed_modifier</key>
+<value>0.75</value>
+</_kv_rules>
+<_kv_rules>
+<description>area of calibration target in square metres</description>
+<key>projectile_calibration_target_area</key>
+<value>1</value>
+</_kv_rules>
+<_kv_rules>
+<description>Projectile rule system: multiplier to attacker accuracy (core marksmanship) before adding to kill chance</description>
+<key>projectile_damage_accuracy_multiplier</key>
+<value>0.25</value>
+</_kv_rules>
+<_kv_rules>
+<description>Projectile rule system: divisor for armour stat subtraction from kill chance</description>
+<key>projectile_damage_armour_divisor</key>
+<value>0.5</value>
+</_kv_rules>
+<_kv_rules>
+<description>Projectile rule system: base multiplier to projectile damage (kill chance) before applying other modifiers</description>
+<key>projectile_damage_base_multiplier</key>
+<value>60</value>
+</_kv_rules>
+<_kv_rules>
+<description>Projectile rule system: divisor for defence stat subtraction from kill chance</description>
+<key>projectile_damage_defense_divisor</key>
+<value>4</value>
+</_kv_rules>
+<_kv_rules>
+<description>Projectile rule system: multiplier applied to distance/range for subtraction from kill chance</description>
+<key>projectile_damage_distance_multiplier</key>
+<value>2</value>
+</_kv_rules>
+<_kv_rules>
+<description>Projectile rule system: divisor for shield stat subtraction from kill chance</description>
+<key>projectile_damage_shield_divisor</key>
+<value>1</value>
+</_kv_rules>
+<_kv_rules>
+<description>percentage of marksmanship applied as a negative modifier when targeting a unit in a forest</description>
+<key>projectile_environment_forest_multiplier</key>
+<value>0.2</value>
+</_kv_rules>
+<_kv_rules>
+<description>Projectile_rule_system: chance to cause fire on hit (divide by # of fragments)</description>
+<key>projectile_incendiary_chance_high</key>
+<value>0.003</value>
+</_kv_rules>
+<_kv_rules>
+<description>Projectile_rule_system: chance to cause fire on hit (divide by # of fragments)</description>
+<key>projectile_incendiary_chance_low</key>
+<value>0.001</value>
+</_kv_rules>
+<_kv_rules>
+<description>Projectile_rule_system: chance to cause fire on hit (divide by # of fragments)</description>
+<key>projectile_incendiary_chance_medium</key>
+<value>0.002</value>
+</_kv_rules>
+<_kv_rules>
+<key>relative_melee_experience_multiplier</key>
+<value>2</value>
+</_kv_rules>
+<_kv_rules>
+<key>relative_melee_height_delta_divisor</key>
+<value>0.04</value>
+</_kv_rules>
+<_kv_rules>
+<description>applied to all archer units in rain</description>
+<key>reload_rate_bow_modifier_rain</key>
+<value>0</value>
+</_kv_rules>
+<_kv_rules>
+<description>applied to all archer units in snow</description>
+<key>reload_rate_bow_modifier_snow</key>
+<value>0</value>
+</_kv_rules>
+<_kv_rules>
+<description>applied to all gunpowder units in rain</description>
+<key>reload_rate_gun_modifier_rain</key>
+<value>-6</value>
+</_kv_rules>
+<_kv_rules>
+<description>applied to all gunpowder units in snow</description>
+<key>reload_rate_gun_modifier_snow</key>
+<value>0</value>
+</_kv_rules>
+<_kv_rules>
+<key>ship_bonus_close_mod</key>
+<value>5</value>
+</_kv_rules>
+<_kv_rules>
+<key>ship_bonus_range</key>
+<value>0.2</value>
+</_kv_rules>
+<_kv_rules>
+<description>The probability of a projectile causing a fire is multiplied by this amount when raining</description>
+<key>ship_chance_of_fire_rain_multiplier</key>
+<value>0.5</value>
+</_kv_rules>
+<_kv_rules>
+<description>The rate of ship combustion is multiplied by this amount when raining</description>
+<key>ship_combustion_rain_multiplier</key>
+<value>2</value>
+</_kv_rules>
+<_kv_rules>
+<description>modifying the rate of combustion</description>
+<key>ship_on_fire_combustion_modifier</key>
+<value>0.5</value>
+</_kv_rules>
+<_kv_rules>
+<key>ship_on_fire_hit_points_per_second_multiplier</key>
+<value>0.01</value>
+</_kv_rules>
+<_kv_rules>
+<key>ship_penalty_far_mod</key>
+<value>1</value>
+</_kv_rules>
+<_kv_rules>
+<key>ship_penalty_range</key>
+<value>1</value>
+</_kv_rules>
+<_kv_rules>
+<description>from 0 to 1.0 a random amount up to this ratio will be deducted from the calculated damage.</description>
+<key>ship_ramming_damage_randomiser</key>
+<value>0</value>
+</_kv_rules>
+<_kv_rules>
+<description>max repair percentage</description>
+<key>ship_repair_max_percentage</key>
+<value>0.75</value>
+</_kv_rules>
+<_kv_rules>
+<description>percentage of repair each update</description>
+<key>ship_repair_percentage_per_update</key>
+<value>0.125</value>
+</_kv_rules>
+<_kv_rules>
+<description>repairs every x seconds related to the proportion of the marines, seamen and gunners</description>
+<key>ship_repair_rate</key>
+<value>4</value>
+</_kv_rules>
+<_kv_rules>
+<description>accuracy bonus for ships firing at static targets, currently only applied when firing at coastal batteries</description>
+<key>ship_static_target_accuracy_modifier</key>
+<value>2</value>
+</_kv_rules>
+</dataroot>

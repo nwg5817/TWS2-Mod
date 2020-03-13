@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_cai_personalities_building_synergy_levels>
+<root>
+<edit_uuid>12b26155-9d1d-4346-8699-d47746c9715f</edit_uuid>
+<field>
+<primary_key>1</primary_key>
+<name>key</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>2000</max_length>
+</field>
+<field>
+<primary_key>0</primary_key>
+<name>relative_effect</name>
+<field_type>single</field_type>
+<required>1</required>
+</field>
+<field>
+<primary_key>0</primary_key>
+<name>absolute_effect</name>
+<field_type>single</field_type>
+<required>1</required>
+</field>
+<field>
+<primary_key>0</primary_key>
+<name>priority</name>
+<field_type>integer</field_type>
+<required>1</required>
+</field>
+</root>

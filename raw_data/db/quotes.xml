@@ -1,0 +1,1768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Fri 7. Oct 12:07:10 2011" revision="11" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Chris.Gambold">
+<edit_uuid>1b10e05f-5f3e-4917-a2ca-da90bd49a3ef</edit_uuid><quotes>
+<key>1002</key>
+<quote_onscreen>Having been born into the house of a warrior, one's intentions should be to grasp the long and the short swords and to die.</quote_onscreen>
+<quote_person>kato_kiyomasa</quote_person>
+</quotes>
+<quotes>
+<key>1012</key>
+<quote_onscreen>The arts of peace and the arts of war are like two wheels of a cart which, lacking one, will have difficulty in standing.</quote_onscreen>
+<quote_person>kuroda_nagamasa</quote_person>
+</quotes>
+<quotes>
+<key>1017</key>
+<quote_onscreen>Do not seek to follow in the footsteps of the wise. Seek what they sought. </quote_onscreen>
+<quote_person>matsuo_basho</quote_person>
+</quotes>
+<quotes>
+<key>1027</key>
+<quote_onscreen>Every day is a journey, and the journey itself is home. </quote_onscreen>
+<quote_person>matsuo_basho</quote_person>
+</quotes>
+<quotes>
+<key>1032</key>
+<quote_onscreen>Cutting down the enemy is the way of strategy, and there is no need for many refinements of it.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1034</key>
+<quote_onscreen>When you have attained the way of strategy there will be nothing that you cannot understand. You will see the way in everything.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1043</key>
+<quote_onscreen>The way of the warrior is resolute acceptance of death.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1044</key>
+<quote_onscreen>As if with the nut and flower, the nut has become less than the flower...both those teaching and those learning are concerned with colouring and showing off their technique, trying to hasten the bloom of the flower.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1048</key>
+<quote_onscreen>The way of the farmer. Using agricultural instruments, he sees springs through to autumns with an eye on the changes of the season.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1057</key>
+<quote_onscreen>Second is the way of the merchant. The wine maker obtains his ingredients and puts them to use to make his living. The way of the merchant is always to live by taking profit.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1058</key>
+<quote_onscreen>Thirdly, the gentlemen warrior, carrying the weaponry of his way. The way of the warrior is to master the virtue of his weapons. If a gentlemen dislikes strategy he will not appreciate the benefit of weaponry, so must he not have a little taste for this?</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1060</key>
+<quote_onscreen>Fourthly, the way of the artisan. The way of the carpenter is to become proficient in the use of his tools, first to lay his plans with true measure and then perform his work according to plan. Thus he passes through life.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1066</key>
+<quote_onscreen>If you want to learn the craft of war, ponder over this book. The teacher is as a needle, the disciple is as thread. You must practice constantly.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1074</key>
+<quote_onscreen>The spirit of defeating a man is the same for ten million men. The strategist makes small things into big things, like building a great Buddha from a one foot model.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1083</key>
+<quote_onscreen>When you appreciate the power of nature, knowing the rhythm of any situation, you will be able to hit the enemy naturally and strike naturally.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1088</key>
+<quote_onscreen>This is truth: When you sacrifice your life, you must make fullest use of your weaponry. It is false not to do so, and to die with a weapon as yet undrawn.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1094</key>
+<quote_onscreen>It is not difficult to wield a sword in one hand; the Way to learn this is to train with two long swords, one in each hand. It will seem difficult at first, but everything is difficult at first.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1102</key>
+<quote_onscreen>The best use of the companion sword is in a confined space, or when you are engaged closely with an opponent. The long sword can be used effectively in all situations.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1105</key>
+<quote_onscreen>The halberd is inferior to the spear on the battlefield. With the spear you can take the initiative, the halberd is defensive.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1110</key>
+<quote_onscreen>The bow is tactically strong at the commencement of battle, especially battles on a moor, as it is possible to shoot quickly among the spearmen.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1114</key>
+<quote_onscreen>From inside fortifications, the gun has no equal among weapons. It is the supreme weapon on the field before the ranks clash, but once swords are crossed the gun becomes useless.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1123</key>
+<quote_onscreen>You should not have a favourite weapon. To become over-familiar with one weapon is as much a fault as not knowing it sufficiently well.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1132</key>
+<quote_onscreen>Also by training you will be able to freely control your own body, conquer men with your body, and with sufficient training you will be able to beat ten men with your spirit. When you have reached this point, will it not mean that you are invincible?</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1139</key>
+<quote_onscreen>If there is a Way involving the spirit of not being defeated, to help oneself and gain honour, it is the Way of Strategy.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1149</key>
+<quote_onscreen>Do not let your spirit be influenced by your body, or your body be influenced by your spirit. Be neither insufficiently spirited or over spirited. An elevated spirit is weak and a low spirit is weak. Do not let the enemy see your spirit.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1152</key>
+<quote_onscreen>Polish your wisdom: learn public justice, distinguish between good and evil, study the ways of different arts one by one.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1162</key>
+<quote_onscreen>When you cannot be deceived by men you will have realised the wisdom of strategy.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1171</key>
+<quote_onscreen>In strategy it is important to see distant things as if they were close and to take a distanced view of close things.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1174</key>
+<quote_onscreen>It is necessary in strategy to be able to look to both sides without moving the eyeballs. You cannot master this ability quickly.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1182</key>
+<quote_onscreen>When you take up a sword, you must feel intent on cutting up the enemy. As you cut an enemy you must not change your grip, and your hands must not cower.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1188</key>
+<quote_onscreen>To cut and slash are two different things. Cutting, whatever form of cutting it is, is decisive, with a resolute spirit. Slashing is nothing more than touching the enemy.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1190</key>
+<quote_onscreen>With your spirit calm, attack with a feeling of constantly crushing the enemy, from first to last. The spirit is to win in the depths of the enemy.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1193</key>
+<quote_onscreen>The important thing in strategy is to suppress the enemy's useful actions, but allow his useless actions.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1199</key>
+<quote_onscreen>'Crossing at a ford' occurs often in a man's lifetime. It means setting sail even though your friends stay in harbour, knowing the route, knowing the soundness of your ship and the favour of the day.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1208</key>
+<quote_onscreen>When the enemy starts to collapse you must pursue him without the chance of letting go. If you fail to take advantage of your enemies collapse, they may recover.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1215</key>
+<quote_onscreen>When you cannot see the enemy's position, indicate that you are about to attack strongly, to discover his resources.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1219</key>
+<quote_onscreen>You can frighten the enemy not just by what you present to their eyes, but by shouting, making a small force seem large, or by threatening them from the flank without warning.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1224</key>
+<quote_onscreen>What is called the spirit of the void is where there is nothing. It is not included in man's knowledge.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1227</key>
+<quote_onscreen>People in this world look at things mistakenly, and think that what they do not understand must be the void. This is not the true void. It is bewilderment.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1237</key>
+<quote_onscreen>In the void is virtue, and no evil. Wisdom has existence, principle has existence, the way has existence, spirit is nothingness.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1243</key>
+<quote_onscreen>The void is nothingness. By knowing things that exist, you can know that which does not exist. That is the void.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1252</key>
+<quote_onscreen>The gaze should be large and broad. This is the twofold gaze 'Perception and Sight'. Perception is strong and sight weak.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1259</key>
+<quote_onscreen>If we watch men of other skills discussing theory, and concentrating on techniques with the hands, even though they seem skilful to watch, they have not the slightest true spirit.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1261</key>
+<quote_onscreen>In strategy your spiritual bearing must not be any different from normal. Both in fighting and in everyday life you should be determined though calm. Meet the situation without tenseness yet not recklessly, your spirit settled yet unbiased.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1266</key>
+<quote_onscreen>When you decide to attack, keep calm and dash in quickly, forestalling the enemy. Or you can advance seemingly strongly but with a reserved spirit, forestalling him in advance.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1272</key>
+<quote_onscreen>In contests of strategy it is bad to be led about by the enemy. You must always be able to lead the enemy about.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1277</key>
+<quote_onscreen>Perceive that which cannot be seen with the eye.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1285</key>
+<quote_onscreen>You win battles by knowing the enemy's timing, and using a timing which the enemy does not expect. </quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1288</key>
+<quote_onscreen>Generally speaking, the way of the warrior is resolute acceptance of death.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1293</key>
+<quote_onscreen>If the enemy thinks of the mountains, attack like the sea; and if he thinks of the sea, attack like the mountains.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1297</key>
+<quote_onscreen>To master the virtue of the long sword is to govern the world and oneself, thus the long sword is the basis of strategy. If he attains the virtue of the long sword, one man can beat ten men. In my strategy, one man is the same as ten thousand, so this strategy is the complete warrior's craft.</quote_onscreen>
+<quote_person>miyamoto_musashi</quote_person>
+</quotes>
+<quotes>
+<key>1306</key>
+<quote_onscreen>Intelligence is the flower of discrimination. There are many examples of the flower blooming but not bearing fruit.</quote_onscreen>
+<quote_person>nabeshima_naoshige</quote_person>
+</quotes>
+<quotes>
+<key>1314</key>
+<quote_onscreen>Bushido is in being crazy to die. Fifty or more could not kill one such a man.</quote_onscreen>
+<quote_person>nabeshima_naoshige</quote_person>
+</quotes>
+<quotes>
+<key>1316</key>
+<quote_onscreen>Consider the minds of your underlings well, for it will be difficult to be wide of the mark when judging things in comparison from their standpoint.</quote_onscreen>
+<quote_person>nabeshima_naoshige</quote_person>
+</quotes>
+<quotes>
+<key>1322</key>
+<quote_onscreen>Encourage and listen well to the words of your subordinates. It is well known that gold lies hidden underground.</quote_onscreen>
+<quote_person>nabeshima_naoshige</quote_person>
+</quotes>
+<quotes>
+<key>1332</key>
+<quote_onscreen>No matter whether a person belongs to the upper or lower ranks, if he has not put his life on the line at least once he has cause for shame.</quote_onscreen>
+<quote_person>nabeshima_naoshige</quote_person>
+</quotes>
+<quotes>
+<key>1335</key>
+<quote_onscreen>The way of the samurai is found in death. When it comes to either/or, there is only the quick choice of death. It is not particularly difficult. Be determined and advance.</quote_onscreen>
+<quote_person>nabeshima_naoshige</quote_person>
+</quotes>
+<quotes>
+<key>1336</key>
+<quote_onscreen>Throughout your life advance daily, becoming more skilful than yesterday, more skilful than today. This is never-ending.</quote_onscreen>
+<quote_person>nabeshima_naoshige</quote_person>
+</quotes>
+<quotes>
+<key>1344</key>
+<quote_onscreen>Matters of great concern should be treated lightly.</quote_onscreen>
+<quote_person>nabeshima_naoshige</quote_person>
+</quotes>
+<quotes>
+<key>1351</key>
+<quote_onscreen>No matter if the enemy has thousands of men, there is fulfilment in simply standing them off and being determined to cut them all down, starting from one end.</quote_onscreen>
+<quote_person>nabeshima_naoshige</quote_person>
+</quotes>
+<quotes>
+<key>1358</key>
+<quote_onscreen>A real man does not think of victory or defeat. He plunges recklessly towards an irrational death. By doing this, you will awaken from your dreams.</quote_onscreen>
+<quote_person>nabeshima_naoshige</quote_person>
+</quotes>
+<quotes>
+<key>1368</key>
+<quote_onscreen>A samurai with no group and no horse is not a samurai at all.</quote_onscreen>
+<quote_person>nabeshima_naoshige</quote_person>
+</quotes>
+<quotes>
+<key>1371</key>
+<quote_onscreen>A man whose profession is the use of arms should think and then act upon not only his fame, but also that of his descendants. He should not scandalise his name forever by holding his one and only life too dear.</quote_onscreen>
+<quote_person>shiba_yoshimasa</quote_person>
+</quotes>
+<quotes>
+<key>1374</key>
+<quote_onscreen>Many men feel that they should act according to the time or the moment they are facing, and thus are in confusion when something goes beyond this and some difficulty arises.</quote_onscreen>
+<quote_person>shiba_yoshimasa</quote_person>
+</quotes>
+<quotes>
+<key>1380</key>
+<quote_onscreen>Deliberate tactical errors and minor losses are the means by which to bait the enemy.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>1382</key>
+<quote_onscreen>On both difficult and easy terrain, you must know the 'tenable' and 'fatal' ground. Occupy tenable ground and attack on fatal ground.</quote_onscreen>
+<quote_person>sun_bin</quote_person>
+</quotes>
+<quotes>
+<key>1386</key>
+<quote_onscreen>One's soldiers should not yell abuse at the enemy. An old saying goes: &quot;Arouse a bee and it will come at you with the force of a dragon.&quot;</quote_onscreen>
+<quote_person>takeda_nobushige</quote_person>
+</quotes>
+<quotes>
+<key>1389</key>
+<quote_onscreen>In the Wu Tzu it says: &quot;He who would save his life shall lose it, and he who would give up his life shall save it.&quot;</quote_onscreen>
+<quote_person>takeda_nobushige</quote_person>
+</quotes>
+<quotes>
+<key>1390</key>
+<quote_onscreen>One should not utter a word about his own inadequacies. In the Oxo it says: &quot;When a man lets out a single word, the long and short of him will be known.&quot;</quote_onscreen>
+<quote_person>takeda_nobushige</quote_person>
+</quotes>
+<quotes>
+<key>1392</key>
+<quote_onscreen>One must not be negligent in learning. In the Lun Yu it says: &quot;To study and not to think is darkness. To think without study is dangerous.&quot;</quote_onscreen>
+<quote_person>takeda_nobushige</quote_person>
+</quotes>
+<quotes>
+<key>1396</key>
+<quote_onscreen>One must never be perfidious to his master. In the Lun Yu it says: &quot;One should act according to the way even in times of haste. One should act according to the way even in times of danger. It says further: 'When one is serving his master, he should exert himself.&quot;</quote_onscreen>
+<quote_person>takeda_nobushige</quote_person>
+</quotes>
+<quotes>
+<key>1401</key>
+<quote_onscreen>One should not turn his back on reproof. In the words of the ancients: &quot;Good medicine is bitter to the mouth, but has an effect on the disease. Faithful words hurt one's ears, but have value for one's conduct.&quot;</quote_onscreen>
+<quote_person>takeda_nobushige</quote_person>
+</quotes>
+<quotes>
+<key>1410</key>
+<quote_onscreen>It is also said that: &quot;The man who hunts a deer does not gaze at the mountains.&quot;</quote_onscreen>
+<quote_person>takeda_nobushige</quote_person>
+</quotes>
+<quotes>
+<key>1416</key>
+<quote_onscreen>When one would make a surprise attack on the enemy, he should avoid the major roads and seek out the lesser ones. Then attack.</quote_onscreen>
+<quote_person>takeda_nobushige</quote_person>
+</quotes>
+<quotes>
+<key>1423</key>
+<quote_onscreen>A man with deep far-sightedness will survey both the beginning and the end of a situation and continually consider its every facet as important.</quote_onscreen>
+<quote_person>takeda_shingen</quote_person>
+</quotes>
+<quotes>
+<key>1428</key>
+<quote_onscreen>Learning is to a man as the leaves and branches are to a tree, and it can be said that he should simply not be without it.</quote_onscreen>
+<quote_person>takeda_shingen</quote_person>
+</quotes>
+<quotes>
+<key>1432</key>
+<quote_onscreen>Men with discrimination will be viewed as schemers; second, men with deep far-sightedness will be seen as cowards; and third, men with rough behaviour will be mistaken for real warriors.</quote_onscreen>
+<quote_person>takeda_shingen</quote_person>
+</quotes>
+<quotes>
+<key>1442</key>
+<quote_onscreen>When a flower is composed, it does not bloom all at once although the spring has come. Otherwise, yesterday's friend will become today's enemy, as yesterday's flower will become today's dust.</quote_onscreen>
+<quote_person>chinese_proverb</quote_person>
+</quotes>
+<quotes>
+<key>1449</key>
+<quote_onscreen>Take care of yourself so you can serve your master.</quote_onscreen>
+<quote_person>tale_heike</quote_person>
+</quotes>
+<quotes>
+<key>1450</key>
+<quote_onscreen>This life is inconsequential; I am merely concerned about your facing the evil paths in the next one.</quote_onscreen>
+<quote_person>tale_heike</quote_person>
+</quotes>
+<quotes>
+<key>1452</key>
+<quote_onscreen>How can a man commit acts of martial valour if he values his life?</quote_onscreen>
+<quote_person>torii_mototada</quote_person>
+</quotes>
+<quotes>
+<key>1456</key>
+<quote_onscreen>If you will take it into your mind to be sincere in throwing away your life for your master, you will not have the slightest fear or trembling even with the advent of innumerable impending calamities.</quote_onscreen>
+<quote_person>torii_mototada</quote_person>
+</quotes>
+<quotes>
+<key>1457</key>
+<quote_onscreen>I will stand off the forces of the entire country here…and die a resplendent death.</quote_onscreen>
+<quote_person>torii_mototada</quote_person>
+</quotes>
+<quotes>
+<key>1467</key>
+<quote_onscreen>The people of the various provinces are strictly forbidden to have in their possession any swords, short swords, bows, spears, firearms, or other types of arms.</quote_onscreen>
+<quote_person>toyotomi_hideyoshi</quote_person>
+</quotes>
+<quotes>
+<key>1468</key>
+<quote_onscreen>The possession of unnecessary implements makes difficult the collection of taxes and dues and tends to foment uprisings.</quote_onscreen>
+<quote_person>toyotomi_hideyoshi</quote_person>
+</quotes>
+<quotes>
+<key>1478</key>
+<quote_onscreen>Give my dream back raven! The moon you woke me to is misted over.</quote_onscreen>
+<quote_person>uejima_onitsura</quote_person>
+</quotes>
+<quotes>
+<key>1482</key>
+<quote_onscreen>A samurai will use a toothpick even though he has not eaten. Inside the skin of a dog, outside the hide of a tiger.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1486</key>
+<quote_onscreen>An affected laugh shows lack of self-respect in a man and lewdness in a woman</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1492</key>
+<quote_onscreen>It is carelessness to go about with one's hands inside the slits in the sides of his hakama.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1500</key>
+<quote_onscreen>Tether even a roasted chicken.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1501</key>
+<quote_onscreen>Continue to spur a running horse.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1511</key>
+<quote_onscreen>To ask when you already know is politeness. To ask when you don't know is the rule.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1518</key>
+<quote_onscreen>Go ahead and gamble a lie. A person who will not tell you seven lies within a hundred yards is useless as a man.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1528</key>
+<quote_onscreen>As long as people overlook matters, then inferiors can, without any fear, lead an easy and peaceful life.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1533</key>
+<quote_onscreen>When all your judgements are based on your own wisdom, you tend towards selfishness and fail by straying from the right path. </quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1542</key>
+<quote_onscreen>By bringing shame to a person, how could one expect to make him a better man?</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1545</key>
+<quote_onscreen>There is one transcending level, and this is the most excellent of all. This person is aware of the endlessness of entering deeply into a certain Way and never thinks of himself as having finished.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1554</key>
+<quote_onscreen>In the eyes of mercy, no one should have hateful thoughts. Feel pity for the man who is even more at fault. The area and size of mercy is limitless.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1564</key>
+<quote_onscreen>A person who is discreet in speaking will be useful during the good times and will avoid punishment during the bad.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1572</key>
+<quote_onscreen>If you are slain in battle, you should be resolved to have your corpse facing the enemy.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1580</key>
+<quote_onscreen>There is not a man who does not get senile by the time he reaches sixty. And when one thinks that he will not be senile, he is already so.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1588</key>
+<quote_onscreen>If one thinks only of winning, a sordid victory will be worse than a defeat. For the most part, it becomes a squalid defeat.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1593</key>
+<quote_onscreen>A person who knows but a little will put on an air of knowledge. This is a matter of inexperience. When someone knows something well, it will not be seen in this manner.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1594</key>
+<quote_onscreen>The basic meaning of etiquette is to be quick at both the beginning and end and tranquil in the middle.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1600</key>
+<quote_onscreen>As everything in this world is but a sham. Death is the only sincerity.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1606</key>
+<quote_onscreen>One should make his decisions within the space of seven breaths.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1613</key>
+<quote_onscreen>The end is important in all things.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1614</key>
+<quote_onscreen>It is a wretched thing that the young men today are so contriving and so proud of their material possessions. Men with contriving hearts are lacking in duty. Lacking in duty, they will have no self-respect.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1620</key>
+<quote_onscreen>When delivering something like an important letter or other written materials, grasp it firmly in your hand as you go and do not release it once, but hand it over directly to the recipient.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1624</key>
+<quote_onscreen>By inconsistency and frivolity we stray from the Way and show ourselves to be beginners. In this we do much harm.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1631</key>
+<quote_onscreen>It is better not to become acquainted with men about whom you have formerly had doubts. No matter what you do, they will be people by whom you will be tripped up or taken in.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1636</key>
+<quote_onscreen>The saying 'the arts aid the body' is for samurai of other regions. For samurai of the Nabeshima clan the arts bring ruin to the body.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1644</key>
+<quote_onscreen>The person who practices an art is an artist, not a samurai, and one should have the intention of being called a samurai.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1651</key>
+<quote_onscreen>It is said that one should not hesitate to correct himself when he has made a mistake. If he corrects himself without the least bit of delay, his mistakes will disappear.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1661</key>
+<quote_onscreen>You cannot tell whether a person is good or bad by his vicissitudes in life. Good and bad fortune are matters of fate.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1664</key>
+<quote_onscreen>When something out of the ordinary happens, it is ridiculous to say that it is a mystery or a portent of something to come….the mystery is created in (their) minds, and by waiting for disaster, it is from their very minds that it occurs.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1672</key>
+<quote_onscreen>A warrior should not say something fainthearted, even casually. He should set his mind to this beforehand. Even in trifling matters the depths of one's heart can be seen.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1675</key>
+<quote_onscreen>When someone is giving you his opinion, you should receive it with deep gratitude even though it is worthless. If you don't, he will not tell you the things that he has seen and heard about you again.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1678</key>
+<quote_onscreen>It is better to have some unhappiness while one is still young, for if a person does not experience some bitterness, his disposition will not settle down.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1683</key>
+<quote_onscreen>Be true to the thought of the moment and avoid distraction. Other than continuing to exert yourself, enter into nothing else, but go to the extent of living single thought by single thought.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1686</key>
+<quote_onscreen>One should be wary of talking on end about such subjects as learning, morality or folklore in front of elders or people of rank. It is disagreeable to listen to.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1692</key>
+<quote_onscreen>Even if one's head were to be suddenly cut off, he should be able to do one more action with certainty.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1700</key>
+<quote_onscreen>Covetousness, anger and foolishness are things to sort out well. When bad things happen in the world, if you look at them comparatively, they are not unrelated to these three things.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1705</key>
+<quote_onscreen>Looking comparatively at the good things, you will see that they are not excluded from wisdom, humanity and bravery.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>1711</key>
+<quote_onscreen>I do not strive for my salvation with weapons but with patience and humility, in accordance with the doctrine of Jesus Christ.</quote_onscreen>
+<quote_person>takayama_ukon</quote_person>
+</quotes>
+<quotes>
+<key>1712</key>
+<quote_onscreen>If one will fix his heart in such a way and assist the world and its people, he will have the devotion of the men who see and hear him.</quote_onscreen>
+<quote_person>hojo_shigetoki</quote_person>
+</quotes>
+<quotes>
+<key>1722</key>
+<quote_onscreen>In this world of uncertainty, ours should be a path of discipline.</quote_onscreen>
+<quote_person>shiba_yoshimasa</quote_person>
+</quotes>
+<quotes>
+<key>1731</key>
+<quote_onscreen>One should always be genteel in his speaking. A man shows his inmost self by a single word.</quote_onscreen>
+<quote_person>hojo_nagauji</quote_person>
+</quotes>
+<quotes>
+<key>1741</key>
+<quote_onscreen>A samurai may kill a member of the lower class who has behaved offensively to him. Authorities do not require notification, the samurai being given permission to cut down (the offender) and leave without further ado.</quote_onscreen>
+<quote_person>ieyasu_constitution_2</quote_person>
+</quotes>
+<quotes>
+<key>1751</key>
+<quote_onscreen>The peasant is the foundation of the state and must be governed with care. He must be allowed neither too much, nor too little, but just enough rice to live on and keep for seed in the following year. The remainder must be taken from him in tax.</quote_onscreen>
+<quote_person>honda_masanobu</quote_person>
+</quotes>
+<quotes>
+<key>1755</key>
+<quote_onscreen>Peasants are people without sense or forethought. Therefore, they must not give rice to their wives and children at harvest time, but must save food for the future. They should eat millet, vegetables, and other coarse food instead of rice. Even the fallen leaves of plants should be saved as food against famine.</quote_onscreen>
+<quote_person>keian_no_ofuregaki</quote_person>
+</quotes>
+<quotes>
+<key>1763</key>
+<quote_onscreen>Gold and silver are treasures more precious than life. A man whose wish to serve is so strong that he offers bribes for an appointment shows thereby that his intentions are loyal.</quote_onscreen>
+<quote_person>tanuma_okitsugu</quote_person>
+</quotes>
+<quotes>
+<key>1770</key>
+<quote_onscreen>To die by the sword; no finer honour exists; winter’s grip awaits.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1776</key>
+<quote_onscreen>Autumn blossom falls; death comes to all on swift wings; the warmth of life: gone.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1784</key>
+<quote_onscreen>The warmth of summer; an arrow floats on the breeze; bringing with it death.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1788</key>
+<quote_onscreen>Death now my master; cold as stone upon the field; I fall like blossom.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1792</key>
+<quote_onscreen>Through the autumn fields; his steed, swift as typhoon winds; the arrow, fleeter.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1793</key>
+<quote_onscreen>The depths of winter; the wolf stalks his prey by night; red blood on white snow.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1799</key>
+<quote_onscreen>Dreaded shikome! The winter of life revealed; my soul is now free.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1803</key>
+<quote_onscreen>Wounded and beaten; go without me my brothers; I leave my body here.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1808</key>
+<quote_onscreen>Winter’s first snow; bodies freeze upon the ground; remnants of battle.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1811</key>
+<quote_onscreen>I die triumphant; my soul soars above the snow; released at last.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1817</key>
+<quote_onscreen>Although I greet death; I do not fear its icy grip; my soul is at peace.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1826</key>
+<quote_onscreen>Camellia blossom; falling swiftly to the ground; my head follows after.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1828</key>
+<quote_onscreen>The crane soars higher; its wings brush cherry blossom; my soul flies with it.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1831</key>
+<quote_onscreen>In the ponds cool depths; the happy frog plays in spring; his life, a slow game.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1832</key>
+<quote_onscreen>Summer’s arid heat; the dry parched earth welcomes me; my blood nourishing.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1836</key>
+<quote_onscreen>Mount Fuji’s great peak; shrouded in tender spring rain; the lonely crane cries. </quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1841</key>
+<quote_onscreen>Blossom on the breeze; settles on the face of a corpse; beauty masking death.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1849</key>
+<quote_onscreen>Warm summer rain; probes my glassy lifeless eyes; its warmth abandoned.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1855</key>
+<quote_onscreen>Snowflakes in the air; a cold wind carries them on; to my sacred home.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1863</key>
+<quote_onscreen>A doll floats downstream; carrying with it prayers; spring has come at last. </quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1869</key>
+<quote_onscreen>Sheltering cherry; my last breath stirs your blossom; my soul ascends. Meh.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1877</key>
+<quote_onscreen>Autumn maple leaves; their colours, like the harvest; remind me of home. </quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1881</key>
+<quote_onscreen>A soul ship finds me; crystal waters call my name; I am dragged below.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1884</key>
+<quote_onscreen>Cold steel pierces flesh; a moment of clarity: death is not the end. </quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1887</key>
+<quote_onscreen>The sorrow of defeat; Too much to bear; The kind sword touches my cold flesh.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1895</key>
+<quote_onscreen>Noble enemy: I mourn your loss as I mourned; for my first-born son.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1902</key>
+<quote_onscreen>Shapes in the shadow; a glint of steel; the silence steals my happy life. </quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1911</key>
+<quote_onscreen>Cunning tanuki; he preys upon my humble soul; I have no defence. </quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1912</key>
+<quote_onscreen>The old carp is wise; he whispers his dark secrets; only the wind hears.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1918</key>
+<quote_onscreen>The dark tiger stalks; my soul quivers in the air; just for a moment.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1930</key>
+<quote_onscreen>With my last breath; I honour my great master; now I go to him.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1931</key>
+<quote_onscreen>Now I meet my end; warm blood washes my mouth; the tide coming forth. </quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1941</key>
+<quote_onscreen>My untimely death; plays like a noh tragedy; the masks are all wrong.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1949</key>
+<quote_onscreen>Sunset seduces; each step brings me no closer; the horizon flees.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1957</key>
+<quote_onscreen>A flash of lightning; illuminates man’s journey; then darkness returns.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1961</key>
+<quote_onscreen>Raindrops on the lake; a universe of ripples; centre touching all.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1964</key>
+<quote_onscreen>Leaves turn green to gold; not to end but to transform; as flesh rots to dust.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1968</key>
+<quote_onscreen>I grow old and hunch; as gnarled branches turn downwards; returning to roots.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1976</key>
+<quote_onscreen>Fish break the surface; and a reflection shatters; momentarily.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1985</key>
+<quote_onscreen>My acts mark the land; time makes ghosts of every deed; as snow hides footprints.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1993</key>
+<quote_onscreen>Flash of steel stills me; calmness mirrors the ocean; I await the waves.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>1997</key>
+<quote_onscreen>My wake leaves little; but as ripples reach the sea; they become great waves.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>2001</key>
+<quote_onscreen>I fall on my blade; crimson blossoms seed the earth; the spring buds drink deep.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>2003</key>
+<quote_onscreen>Autumn trees shed leaves; skinning the tree one by one; until it is bare.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>2013</key>
+<quote_onscreen>My eyes grow heavy; as blackened storm clouds grow near; engulfing the sun.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>2017</key>
+<quote_onscreen>Summer heat cracks dirt; weed tendrils escape and grab; dragging my bleached bones.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>2026</key>
+<quote_onscreen>Dripping morning dew; mimics the blood from a blade; it does not wake me.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>2034</key>
+<quote_onscreen>The death of blossoms; is not something to grieve on; but the way of things.</quote_onscreen>
+<quote_person>asakura_soteki</quote_person>
+</quotes>
+<quotes>
+<key>2042</key>
+<quote_onscreen>Melting icicles; once proud soldiers, lose all form; returning to streams.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>2043</key>
+<quote_onscreen>Gold arcs through the sky; as a breeze lifts fallen leaves; and I leave my dream.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>2046</key>
+<quote_onscreen>Everything grows cold; stillness like a frozen lake; there will be no thaw.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>2054</key>
+<quote_onscreen>Laying in the shade; dappled sunlight warms my face; a welcome farewell.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>2063</key>
+<quote_onscreen>Frost coats my body; a final suit of armour; buried in silver.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>2066</key>
+<quote_onscreen>Journeying westward; dried leaves crumble underfoot; blown by autumn wind.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>2068</key>
+<quote_onscreen>Lines etched in my face; are leafless winter branches; a map of my life. </quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>2077</key>
+<quote_onscreen>Memories fading; awakening from the dream; gone like morning dew. </quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>2080</key>
+<quote_onscreen>Covered by blossoms; I curl up to the dreaming; nature’s own blanket</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>2084</key>
+<quote_onscreen>Up into the sky; I kiss the falling snowflakes; as they pass me by</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>2086</key>
+<quote_onscreen>Twice I awaken; once at the first burst of spring; once in wintertime.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>2095</key>
+<quote_onscreen>Crossing the river; takes me from the familiar; to new adventures.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>2102</key>
+<quote_onscreen>Summer insects buzz; over new fragrant flowers; and fallen soldiers. </quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>2107</key>
+<quote_onscreen>Spring blinks and withers; sheds its skin then dons a cloak; of sunset gold.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>2115</key>
+<quote_onscreen>Willows slowly stoop; preparing to meet the ground; as autumn arrives.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>2124</key>
+<quote_onscreen>In the autumn time; you cannot catch every leaf; nor halt coming age</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>2131</key>
+<quote_onscreen>Heat haze of summer; obscures a man’s path ahead; an unclear future.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>2140</key>
+<quote_onscreen>A tree’s skeleton; exposed by autumn season; ready for new life</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>2144</key>
+<quote_onscreen>Spring stretches and bursts; spilling forth life – but not me; my spring was last year</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>2147</key>
+<quote_onscreen>A generous rain; it lands hard on eyes that; neither flinch nor blink.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>2148</key>
+<quote_onscreen>A cold, low whistle; accompanies my last breath; wind in sympathy.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>2151</key>
+<quote_onscreen>The new year begins; my eyes hunger for the sight; of my last sunrise.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>2160</key>
+<quote_onscreen>Turning the snow pink; in the absence of springtime; I create blossoms.</quote_onscreen>
+<quote_person>death_poem</quote_person>
+</quotes>
+<quotes>
+<key>2166</key>
+<quote_onscreen>The mighty are destroyed at the last, they are but as the dust before the wind.</quote_onscreen>
+<quote_person>tale_heike</quote_person>
+</quotes>
+<quotes>
+<key>2172</key>
+<quote_onscreen>I speak of the old Japan, because out of the ashes of the old Japan there has risen a new Japan.</quote_onscreen>
+<quote_person>shigeru_yoshida</quote_person>
+</quotes>
+<quotes>
+<key>2180</key>
+<quote_onscreen>We pray that henceforth not only Japan but all mankind may know the blessings of harmony and progress.</quote_onscreen>
+<quote_person>shigeru_yoshida</quote_person>
+</quotes>
+<quotes>
+<key>2185</key>
+<quote_onscreen>If war should break out between England and Japan, the latter would suffer much more than the former. </quote_onscreen>
+<quote_person>townsend_harris</quote_person>
+</quotes>
+<quotes>
+<key>2195</key>
+<quote_onscreen>No matter how many people wash the stones with their tears, these names will never vanish from the world.</quote_onscreen>
+<quote_person>matsudaira_katamori</quote_person>
+</quotes>
+<quotes>
+<key>2201</key>
+<quote_onscreen>We swear by the deities that if the Imperial Flag is once raised we will go through fire and water to ease the Emperor's mind.</quote_onscreen>
+<quote_person>loyalist_oath</quote_person>
+</quotes>
+<quotes>
+<key>2203</key>
+<quote_onscreen>If that double-bolted land, Japan, is ever to become hospitable, it is the whale-ship alone to whom the credit will be due; for already she is on the threshold.</quote_onscreen>
+<quote_person>herman_melville</quote_person>
+</quotes>
+<quotes>
+<key>2208</key>
+<quote_onscreen>It was an era where 100 people may hold 100 different arguments and you can't say who's wrong.</quote_onscreen>
+<quote_person>unknown</quote_person>
+</quotes>
+<quotes>
+<key>2216</key>
+<quote_onscreen>If you have one eye on your destination, then you have only one eye with which to find the way.</quote_onscreen>
+<quote_person>unknown</quote_person>
+</quotes>
+<quotes>
+<key>2217</key>
+<quote_onscreen>Nationalism is power hunger tempered by self-deception.</quote_onscreen>
+<quote_person>orwell</quote_person>
+</quotes>
+<quotes>
+<key>2220</key>
+<quote_onscreen>The backbone and real power of any navy are the vessels which, by due proportion of defensive and offensive powers, are capable of giving and taking hard knocks.</quote_onscreen>
+<quote_person>mahan</quote_person>
+</quotes>
+<quotes>
+<key>2224</key>
+<quote_onscreen>These are the only objects for which I have sent Commodore Perry, with a powerful squadron, to pay a visit to Your Imperial Majesty's renowned city of Edo: friendship, commerce, a supply of coal and provisions, and protection for our shipwrecked people.</quote_onscreen>
+<quote_person>millard_fillmore</quote_person>
+</quotes>
+<quotes>
+<key>2234</key>
+<quote_onscreen>In whatever situation a person finds himself, he should not abandon his favourite ways and his special abilities.</quote_onscreen>
+<quote_person>sakamoto_ryoma</quote_person>
+</quotes>
+<quotes>
+<key>2241</key>
+<quote_onscreen>A hero should go his own way!</quote_onscreen>
+<quote_person>sakamoto_ryoma</quote_person>
+</quotes>
+<quotes>
+<key>2249</key>
+<quote_onscreen>Anything can be accomplished if you take responsibility for doing at least 80 percent to 90 percent of it yourself. Pass the remaining 10-20 percent of responsibility on to others and give them all the credit.</quote_onscreen>
+<quote_person>sakamoto_ryoma</quote_person>
+</quotes>
+<quotes>
+<key>2253</key>
+<quote_onscreen>I never do verbal battle with others, since even if I win an argument I can't change the other person's way of life.</quote_onscreen>
+<quote_person>sakamoto_ryoma</quote_person>
+</quotes>
+<quotes>
+<key>2254</key>
+<quote_onscreen>I am a person who raises himself up to the next level, rather than becoming discouraged.</quote_onscreen>
+<quote_person>sakamoto_ryoma</quote_person>
+</quotes>
+<quotes>
+<key>2259</key>
+<quote_onscreen>If you are a man, even if you die in a ditch during battle, you will die pitching forward.</quote_onscreen>
+<quote_person>sakamoto_ryoma</quote_person>
+</quotes>
+<quotes>
+<key>2263</key>
+<quote_onscreen>The purpose of coming into the world is to accomplish one's duties.</quote_onscreen>
+<quote_person>sakamoto_ryoma</quote_person>
+</quotes>
+<quotes>
+<key>2273</key>
+<quote_onscreen>The orders of the Tycoon, received from Kyoto, are to the effect that the ports are to be closed and the foreigners driven out, because the people of the country do not desire intercourse with foreign countries.</quote_onscreen>
+<quote_person>ogasawara_dzusho</quote_person>
+</quotes>
+<quotes>
+<key>2283</key>
+<quote_onscreen>It is, in fact, a declaration of war by Japan itself against the whole of the Treaty Powers, and the consequences of which, if not at once arrested, it will have to expiate by the severest and most merited chastisement.</quote_onscreen>
+<quote_person>edward_neale</quote_person>
+</quotes>
+<quotes>
+<key>2287</key>
+<quote_onscreen>It would be a good thing if the boat carrying the mission members sank to the bottom of the ocean.</quote_onscreen>
+<quote_person>saigo_mission</quote_person>
+</quotes>
+<quotes>
+<key>2292</key>
+<quote_onscreen>All action takes place, so to speak, in a kind of twilight, which like a fog or moonlight, often tends to make things seem grotesque and larger than they really are. </quote_onscreen>
+<quote_person>clausewitz</quote_person>
+</quotes>
+<quotes>
+<key>2299</key>
+<quote_onscreen>If the leader is filled with high ambition and if he pursues his aims with audacity and strength of will, he will reach them in spite of all obstacles.</quote_onscreen>
+<quote_person>clausewitz</quote_person>
+</quotes>
+<quotes>
+<key>2306</key>
+<quote_onscreen>It is even better to act quickly and err than to hesitate until the time of action is past.</quote_onscreen>
+<quote_person>clausewitz</quote_person>
+</quotes>
+<quotes>
+<key>2308</key>
+<quote_onscreen>Politics is the womb in which war develops. </quote_onscreen>
+<quote_person>clausewitz</quote_person>
+</quotes>
+<quotes>
+<key>2315</key>
+<quote_onscreen>The backbone of surprise is fusing speed with secrecy. </quote_onscreen>
+<quote_person>clausewitz</quote_person>
+</quotes>
+<quotes>
+<key>2319</key>
+<quote_onscreen>The more a general is accustomed to place heavy demands on his soldiers, the more he can depend on their response.</quote_onscreen>
+<quote_person>clausewitz</quote_person>
+</quotes>
+<quotes>
+<key>2320</key>
+<quote_onscreen>To secure peace is to prepare for war.</quote_onscreen>
+<quote_person>clausewitz</quote_person>
+</quotes>
+<quotes>
+<key>2330</key>
+<quote_onscreen>War is not an independent phenomenon, but the continuation of politics by different means.</quote_onscreen>
+<quote_person>clausewitz</quote_person>
+</quotes>
+<quotes>
+<key>2340</key>
+<quote_onscreen>War is the domain of physical exertion and suffering.</quote_onscreen>
+<quote_person>clausewitz</quote_person>
+</quotes>
+<quotes>
+<key>2342</key>
+<quote_onscreen>War is the province of danger.</quote_onscreen>
+<quote_person>clausewitz</quote_person>
+</quotes>
+<quotes>
+<key>2345</key>
+<quote_onscreen>Pursue one great decisive aim with force and determination.</quote_onscreen>
+<quote_person>clausewitz</quote_person>
+</quotes>
+<quotes>
+<key>2352</key>
+<quote_onscreen>Two qualities are indispensable: first, an intellect that, even in the darkest hour, retains some glimmerings of the inner light which leads to truth; and second, the courage to follow this faint light wherever it may lead.</quote_onscreen>
+<quote_person>clausewitz</quote_person>
+</quotes>
+<quotes>
+<key>2362</key>
+<quote_onscreen>A government must not waiver once it has chosen it's course. It must not look to the left or right but go forward.</quote_onscreen>
+<quote_person>bismarck</quote_person>
+</quotes>
+<quotes>
+<key>2369</key>
+<quote_onscreen>Anyone who has ever looked into the glazed eyes of a soldier dying on the battlefield will think hard before starting a war.</quote_onscreen>
+<quote_person>bismarck</quote_person>
+</quotes>
+<quotes>
+<key>2379</key>
+<quote_onscreen>The great questions of the day will not be settled by means of speeches and majority decisions but by iron and blood.</quote_onscreen>
+<quote_person>bismarck</quote_person>
+</quotes>
+<quotes>
+<key>2388</key>
+<quote_onscreen>The main thing is to make history, not to write it.</quote_onscreen>
+<quote_person>bismarck</quote_person>
+</quotes>
+<quotes>
+<key>2395</key>
+<quote_onscreen>He was fearsome even when drinking. People would talk about whom they had killed today, and whom they were going to kill tomorrow. It was all so frightful. According to what I had heard, by that time Kondo had killed fifty or sixty men.</quote_onscreen>
+<quote_person>kondo_mistress</quote_person>
+</quotes>
+<quotes>
+<key>2400</key>
+<quote_onscreen>Though my body may decay on the island of Ezo, my spirit guards my lord in the east.</quote_onscreen>
+<quote_person>hijikata_toshizo</quote_person>
+</quotes>
+<quotes>
+<key>2406</key>
+<quote_onscreen>The Shogunate is run by a band of fools divorced from reality.</quote_onscreen>
+<quote_person>saigo_takamori</quote_person>
+</quotes>
+<quotes>
+<key>2410</key>
+<quote_onscreen>Submitting to the will of another; I have nothing to say this day; I value honour above life; Ah, the long flashing sword to which I readily surrender; and repay my lord's kindness with my life.</quote_onscreen>
+<quote_person>kondo_death_poem</quote_person>
+</quotes>
+<quotes>
+<key>2413</key>
+<quote_onscreen>He was a crafty scoundrel who committed evil for many years and killed a countless number of our men. But now he's been arrested and will die…</quote_onscreen>
+<quote_person>tani_tateki</quote_person>
+</quotes>
+<quotes>
+<key>2420</key>
+<quote_onscreen>His countenance was the same as always in the face of death, and he died with composure. Those watching shed tears of sorrow for Kondo. He was truly a great man, unequalled throughout the ages.</quote_onscreen>
+<quote_person>shimada_kai</quote_person>
+</quotes>
+<quotes>
+<key>2423</key>
+<quote_onscreen>Swords and spears will no longer be of any use in battle. They are simply no match for guns.</quote_onscreen>
+<quote_person>hijikata_toshizo</quote_person>
+</quotes>
+<quotes>
+<key>2431</key>
+<quote_onscreen>Revere the Emperor, expel the barbarians.</quote_onscreen>
+<quote_person>sonno_joi</quote_person>
+</quotes>
+<quotes>
+<key>439</key>
+<quote_onscreen>A man must not live under the same sky as one who has injured his lord or father.</quote_onscreen>
+<quote_person>ieyasu_constitution</quote_person>
+</quotes>
+<quotes>
+<key>446</key>
+<quote_onscreen>The way of the warrior is death. This means choosing death whenever there is a choice between life and death. It means nothing else.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>447</key>
+<quote_onscreen>The Four Oaths: Never be late with respect to the way of the warrior; be useful to the lord; be respectful to your parents; get beyond love and grief: exist for the good of man.</quote_onscreen>
+<quote_person>yamamoto_tsunetomo</quote_person>
+</quotes>
+<quotes>
+<key>455</key>
+<quote_onscreen>Dishonour is like a scar on a tree, which time, instead of effacing, only helps to enlarge.</quote_onscreen>
+<quote_person>bushido_maxim</quote_person>
+</quotes>
+<quotes>
+<key>458</key>
+<quote_onscreen>A little piece of gold may be highly valued, but if it gets in one's eye, the result will be darkness.</quote_onscreen>
+<quote_person>iwamizudera_monogatari</quote_person>
+</quotes>
+<quotes>
+<key>467</key>
+<quote_onscreen>Even if one has learned all the sayings of the sages and saints, he should not insist on them obstinately.</quote_onscreen>
+<quote_person>asakura_soteki</quote_person>
+</quotes>
+<quotes>
+<key>475</key>
+<quote_onscreen>A general of great merit should be said to be a man who has met with at least one great defeat.</quote_onscreen>
+<quote_person>asakura_soteki</quote_person>
+</quotes>
+<quotes>
+<key>482</key>
+<quote_onscreen>A dog is not considered a good dog because he is a good barker. A man is not considered a good man because he is a good talker. </quote_onscreen>
+<quote_person>buddha</quote_person>
+</quotes>
+<quotes>
+<key>490</key>
+<quote_onscreen>Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.</quote_onscreen>
+<quote_person>buddha</quote_person>
+</quotes>
+<quotes>
+<key>497</key>
+<quote_onscreen>The tongue like a sharp knife...kills without drawing blood.</quote_onscreen>
+<quote_person>buddha</quote_person>
+</quotes>
+<quotes>
+<key>504</key>
+<quote_onscreen>Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned. </quote_onscreen>
+<quote_person>buddha</quote_person>
+</quotes>
+<quotes>
+<key>513</key>
+<quote_onscreen>Even death is not to be feared by one who has lived wisely. </quote_onscreen>
+<quote_person>buddha</quote_person>
+</quotes>
+<quotes>
+<key>522</key>
+<quote_onscreen>You will not be punished for your anger, you will be punished by your anger.</quote_onscreen>
+<quote_person>buddha</quote_person>
+</quotes>
+<quotes>
+<key>532</key>
+<quote_onscreen>The whole secret of existence is to have no fear.</quote_onscreen>
+<quote_person>buddha</quote_person>
+</quotes>
+<quotes>
+<key>542</key>
+<quote_onscreen>Nothing ever exists entirely alone; everything is in relation to everything else.</quote_onscreen>
+<quote_person>buddha</quote_person>
+</quotes>
+<quotes>
+<key>548</key>
+<quote_onscreen>The foot feels the foot when it feels the ground.</quote_onscreen>
+<quote_person>buddha</quote_person>
+</quotes>
+<quotes>
+<key>554</key>
+<quote_onscreen>It is a man's own mind, not his enemy or foe, that lures him to evil ways.</quote_onscreen>
+<quote_person>buddha</quote_person>
+</quotes>
+<quotes>
+<key>560</key>
+<quote_onscreen>A flower falls, even though we love it; and a weed grows, even though we do not love it.</quote_onscreen>
+<quote_person>dogen_zenji</quote_person>
+</quotes>
+<quotes>
+<key>563</key>
+<quote_onscreen>When we discover that the truth is already in us, we are all at once our original selves.</quote_onscreen>
+<quote_person>dogen_zenji</quote_person>
+</quotes>
+<quotes>
+<key>573</key>
+<quote_onscreen>The colour of the mountains is Buddha's body; the sound of running water is his great speech.</quote_onscreen>
+<quote_person>dogen_zenji</quote_person>
+</quotes>
+<quotes>
+<key>578</key>
+<quote_onscreen>Do not think you will necessarily be aware of your own enlightenment.</quote_onscreen>
+<quote_person>dogen_zenji</quote_person>
+</quotes>
+<quotes>
+<key>584</key>
+<quote_onscreen>He will win who knows when to fight and when not to fight.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>587</key>
+<quote_onscreen>He will win who knows how to handle both superior and inferior forces.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>596</key>
+<quote_onscreen>He will win whose army is animated by the same spirit throughout all its ranks.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>603</key>
+<quote_onscreen>He will win who, prepared himself, waits to take the enemy unprepared.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>610</key>
+<quote_onscreen>He will win who has military capacity and is not interfered with by the sovereign.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>620</key>
+<quote_onscreen>Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>623</key>
+<quote_onscreen>There is no instance of a nation benefiting from prolonged warfare.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>633</key>
+<quote_onscreen>The skilful employer of men will employ the wise man, the brave man, the covetous man, and the stupid man.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>635</key>
+<quote_onscreen>Opportunities multiply as they are seized.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>640</key>
+<quote_onscreen>If you know your enemy and know yourself, you will not be imperilled by a hundred battles. If you do not know the others but do know yourself, you will win one and lose one. If you do not know the enemy and do not know yourselves you will be in danger in every battle.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>643</key>
+<quote_onscreen>Act after having made assessments. The one who first knows the measure of far and near wins — this is the rule of armed struggle.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>647</key>
+<quote_onscreen>To perceive victory when it is known to all is not really skilful… It does not take much strength to lift a hair, it does not take sharp eyes to see the sun and moon, it does not take sharp ears to hear the thunderclap.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>648</key>
+<quote_onscreen>All men can see these tactics whereby I conquer, but what none can see is the strategy out of which victory is evolved.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>653</key>
+<quote_onscreen>All warfare is based on deception.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>659</key>
+<quote_onscreen>Be extremely subtle, even to the point of formlessness. Be extremely mysterious, even to the point of soundlessness. Thereby you can be the director of the opponent's fate.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>667</key>
+<quote_onscreen>Can you imagine what I would do if I could do all I can?</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>670</key>
+<quote_onscreen>Confront them with annihilation, and they will then survive; plunge them into a deadly situation, and they will then live. When people fall into danger, they are then able to strive for victory.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>673</key>
+<quote_onscreen>For them to perceive the advantage of defeating the enemy, they must also have their rewards.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>678</key>
+<quote_onscreen>For to win one hundred victories in one hundred battles is not the acme of skill. To subdue the enemy without fighting is the acme of skill.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>684</key>
+<quote_onscreen>He who is prudent, and lies in wait for an enemy who is not, will be victorious.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>689</key>
+<quote_onscreen>He who knows when he can fight, and when he cannot, will be victorious.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>693</key>
+<quote_onscreen>Hence that general is skilful in attack whose opponent does not know what to defend; and he is skilful in defence whose opponent does not know what to attack.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>700</key>
+<quote_onscreen>If ignorant both of your enemy and yourself, you are certain to be in peril.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>703</key>
+<quote_onscreen>If our soldiers are not overburdened with money, it is not because they have a distaste for riches; if their lives are not unduly long, it is not because they are disinclined to longevity.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>704</key>
+<quote_onscreen>If you are far from the enemy, make him believe you are near.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>715</key>
+<quote_onscreen>In the practical art of war, the best thing of all is to take the enemy's country whole and intact; to shatter and destroy it is not so good.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>717</key>
+<quote_onscreen>Invincibility lies in the defence; the possibility of victory in the attack.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>723</key>
+<quote_onscreen>It is essential to seek out enemy agents who have come to conduct espionage against you and to bribe them to serve you. Give them instructions and care for them. Thus double agents are recruited and used.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>724</key>
+<quote_onscreen>It is only the enlightened ruler and the wise general who will use the highest intelligence of the army for the purposes of spying, and thereby they achieve great results.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>734</key>
+<quote_onscreen>Now the reason the enlightened prince and the wise general conquer the enemy whenever they move, and their achievements surpass those of ordinary men, is foreknowledge.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>736</key>
+<quote_onscreen>Of all those in the army close to the commander none is more intimate than the secret agent; of all rewards none more liberal than those given to secret agents; of all matters none is more confidential than those relating to secret operations.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>740</key>
+<quote_onscreen>Pretend inferiority and encourage his arrogance.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>747</key>
+<quote_onscreen>Prohibit the taking of omens, and do away with superstitious doubts. Then, until death itself comes, no calamity need be feared.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>750</key>
+<quote_onscreen>Regard your soldiers as your children, and they will follow you into the deepest valleys; look on them as your own beloved sons, and they will stand by you even unto death.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>751</key>
+<quote_onscreen>Secret operations are essential in war; upon them the army relies to make its every move.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>752</key>
+<quote_onscreen>Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>762</key>
+<quote_onscreen>Supreme excellence consists in breaking the enemy's resistance without fighting.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>766</key>
+<quote_onscreen>The enlightened ruler is heedful, and the good general full of caution.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>769</key>
+<quote_onscreen>The general who advances without coveting fame and retreats without fearing disgrace, whose only thought is to protect his country and do good service for his sovereign, is the jewel of the kingdom.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>774</key>
+<quote_onscreen>The general who wins the battle makes many calculations in his temple before the battle is fought. The general who loses makes but few calculations beforehand.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>784</key>
+<quote_onscreen>The good fighters of old first put themselves beyond the possibility of defeat, and then waited for an opportunity of defeating the enemy.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>794</key>
+<quote_onscreen>The opportunity to secure ourselves against defeat lies in our own hands, but the opportunity of defeating the enemy is provided by the enemy himself.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>795</key>
+<quote_onscreen>The quality of decision is like the well-timed swoop of a falcon which enables it to strike and destroy its victim.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>804</key>
+<quote_onscreen>The supreme art of war is to subdue the enemy without fighting.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>809</key>
+<quote_onscreen>Thus, what is of supreme importance in war is to attack the enemy's strategy.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>816</key>
+<quote_onscreen>To fight and conquer in all our battles is not supreme excellence; supreme excellence consists in breaking the enemy's resistance without fighting.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>825</key>
+<quote_onscreen>To see victory only when it is within the ken of the common herd is not the acme of excellence.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>830</key>
+<quote_onscreen>When envoys are sent with compliments in their mouths, it is a sign that the enemy wishes for a truce.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>833</key>
+<quote_onscreen>If fighting is sure to result in victory, then you must fight, even though the ruler forbid it; if fighting will not result in victory, then you must not fight even at the ruler's bidding.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>839</key>
+<quote_onscreen>Where the army is, prices are high; when prices rise the wealth of the people is exhausted.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>843</key>
+<quote_onscreen>The expert in battle seeks his victory from strategic advantage and does not demand it from his men.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>852</key>
+<quote_onscreen>Being unconquerable lies with yourself; being conquerable lies with your enemy.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>853</key>
+<quote_onscreen>One defends when his strength is inadequate, he attacks when it is abundant.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>855</key>
+<quote_onscreen>A leader leads by example, not by force.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>856</key>
+<quote_onscreen>If words of command are not clear and distinct, if orders are not thoroughly understood, the general is to blame. But if his orders are clear, and the soldiers nevertheless disobey, then it is the fault of their officers.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>860</key>
+<quote_onscreen>Bestow rewards without respect to customary practice; publish orders without respect to precedent. Thus you may employ the entire army as you would one man.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>870</key>
+<quote_onscreen>Speed is the essence of war. Take advantage of the enemy's unpreparedness; travel by unexpected routes and strike him where he has taken no precautions.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>872</key>
+<quote_onscreen>Too frequent rewards indicate that the general is at the end of his resources; too frequent punishments that he is in acute distress.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>882</key>
+<quote_onscreen>To a surrounded enemy, you must leave a way of escape.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>891</key>
+<quote_onscreen>Subtle and insubstantial, the expert leaves no trace; divinely mysterious, he is inaudible. Thus he is master of his enemy's fate.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>892</key>
+<quote_onscreen>The ultimate in disposing one's troops is to be without ascertainable shape. Then the most penetrating spies cannot pry in nor can the wise lay plans against you.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>893</key>
+<quote_onscreen>The art of giving orders is not to try to rectify the minor blunders and not be swayed by petty doubts.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>895</key>
+<quote_onscreen>When torrential water tosses boulders, it is because of its momentum. When the strike of a hawk breaks the body of its prey, it is because of timing.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>902</key>
+<quote_onscreen>What the ancients called a clever fighter is one who not only wins, but excels in winning with ease.</quote_onscreen>
+<quote_person>sun_tzu</quote_person>
+</quotes>
+<quotes>
+<key>905</key>
+<quote_onscreen>It is truly regrettable that a person will treat a man who is valuable to him well, and a man who is worthless to him poorly.</quote_onscreen>
+<quote_person>hojo_shigetoki</quote_person>
+</quotes>
+<quotes>
+<key>908</key>
+<quote_onscreen>One should have insight into this world of dreams that passes in the twinkling of an eye.</quote_onscreen>
+<quote_person>hojo_shigetoki</quote_person>
+</quotes>
+<quotes>
+<key>917</key>
+<quote_onscreen>Death refuses to wait for the space of a breath; life is more evanescent than a mayfly or a lightning flash.</quote_onscreen>
+<quote_person>tale_heike</quote_person>
+</quotes>
+<quotes>
+<key>920</key>
+<quote_onscreen>If thou knowest only what it is to conquer, and knowest not what it is to be defeated, woe unto thee; it will fare ill with thee.</quote_onscreen>
+<quote_person>tokugawa_ieyasu</quote_person>
+</quotes>
+<quotes>
+<key>923</key>
+<quote_onscreen>There are seven emotions: joy, anger, anxiety, adoration, grief, fear, and hate, and if a man does not give way to these he can be called patient.</quote_onscreen>
+<quote_person>tokugawa_ieyasu</quote_person>
+</quotes>
+<quotes>
+<key>928</key>
+<quote_onscreen>One should not be envious of someone who has prospered by unjust deeds. Nor should he disdain someone who has fallen while adhering to the path of righteousness.</quote_onscreen>
+<quote_person>imagawa_sadayo</quote_person>
+</quotes>
+<quotes>
+<key>929</key>
+<quote_onscreen>Just as water will conform to the shape of the vessel that contains it, so will a man follow the good and evil of his companions.</quote_onscreen>
+<quote_person>imagawa_sadayo</quote_person>
+</quotes>
+<quotes>
+<key>935</key>
+<quote_onscreen>Without knowledge of learning, one will ultimately have no military victories.</quote_onscreen>
+<quote_person>imagawa_sadayo</quote_person>
+</quotes>
+<quotes>
+<key>937</key>
+<quote_onscreen>Beginning is easy - Continuing is hard. </quote_onscreen>
+<quote_person>japanese_proverb</quote_person>
+</quotes>
+<quotes>
+<key>939</key>
+<quote_onscreen>One kind word can warm three winter months.</quote_onscreen>
+<quote_person>japanese_proverb</quote_person>
+</quotes>
+<quotes>
+<key>943</key>
+<quote_onscreen>The reverse side also has a reverse side.</quote_onscreen>
+<quote_person>japanese_proverb</quote_person>
+</quotes>
+<quotes>
+<key>951</key>
+<quote_onscreen>The stake that sticks out gets hammered down.</quote_onscreen>
+<quote_person>japanese_proverb</quote_person>
+</quotes>
+<quotes>
+<key>957</key>
+<quote_onscreen>If you do not enter the tiger's cave, you will not catch its cub.</quote_onscreen>
+<quote_person>japanese_proverb</quote_person>
+</quotes>
+<quotes>
+<key>966</key>
+<quote_onscreen>Even monkeys fall from trees.</quote_onscreen>
+<quote_person>japanese_proverb</quote_person>
+</quotes>
+<quotes>
+<key>970</key>
+<quote_onscreen>The clever hawk hides its claws.</quote_onscreen>
+<quote_person>japanese_proverb</quote_person>
+</quotes>
+<quotes>
+<key>979</key>
+<quote_onscreen>It is said that the inferior seek to emulate the superior. Thus, if a general slackens only a little, those beneath him will be greatly negligent.</quote_onscreen>
+<quote_person>kato_kiyomasa</quote_person>
+</quotes>
+<quotes>
+<key>980</key>
+<quote_onscreen>One should not be negligent in the way of the retainer. One should rise at four in the morning, practice sword technique, eat one's meal, and train with the bow, the gun, and the horse.</quote_onscreen>
+<quote_person>kato_kiyomasa</quote_person>
+</quotes>
+<quotes>
+<key>989</key>
+<quote_onscreen>As for the decorum at the time of a campaign, one must be mindful that he is a samurai. A person who loves beautification where it is unnecessary is fit for punishment.</quote_onscreen>
+<quote_person>kato_kiyomasa</quote_person>
+</quotes>
+<quotes>
+<key>999</key>
+<quote_onscreen>If a man does not investigate into the matter of bushido daily, it will be difficult for him to die a brave and manly death.</quote_onscreen>
+<quote_person>kato_kiyomasa</quote_person>
+</quotes>
+</dataroot>

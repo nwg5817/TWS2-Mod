@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Tue 5. Oct 10:40:15 2010" revision="1" export_branch="C:/WINDOWS" export_user="Dom.Starr">
+<edit_uuid>8c085913-5b68-4ef1-9e05-132441603ff8</edit_uuid><stances>
+<key>allied</key>
+<onscreen>Allied</onscreen>
+</stances>
+<stances>
+<key>neutral</key>
+<onscreen>Neutral</onscreen>
+</stances>
+<stances>
+<key>patron</key>
+<onscreen>Overlord</onscreen>
+</stances>
+<stances>
+<key>protectorate</key>
+<onscreen>Vassal</onscreen>
+</stances>
+<stances>
+<key>war</key>
+<onscreen>War</onscreen>
+</stances>
+</dataroot>

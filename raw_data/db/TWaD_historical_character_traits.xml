@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_historical_character_traits>
+<root>
+  <edit_uuid>18886e1c-9efc-4055-bf7d-353d873bc2a5</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>character</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>historical_characters</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>trait</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>character_trait_levels</column_source_table>
+  </field>
+</root>

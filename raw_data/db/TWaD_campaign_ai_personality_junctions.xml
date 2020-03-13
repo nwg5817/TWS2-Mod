@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_campaign_ai_personality_junctions>
+<root>
+  <edit_uuid>a7edc867-3a8d-4218-a65f-9287cc05e3ef</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>personality</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>personality</column_source_column>
+    <column_source_table>campaign_ai_personalities</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>property</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>property</column_source_column>
+    <column_source_table>campaign_ai_personality_properties</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>property_value</name>
+    <field_type>single</field_type>
+    <required>1</required>
+  </field>
+</root>

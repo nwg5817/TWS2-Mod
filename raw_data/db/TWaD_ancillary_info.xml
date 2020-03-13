@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_ancillary_info>
+<root>
+  <edit_uuid>fd79d30e-745f-4c6b-8d1d-dfb88c4c8bb7</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>ancillary</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>historical_example</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>author</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>comment</name>
+    <field_type>memo</field_type>
+    <required>0</required>
+    <max_length>536870910</max_length>
+  </field>
+</root>

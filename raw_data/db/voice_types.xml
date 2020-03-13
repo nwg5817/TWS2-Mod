@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Thu 22. Apr 14:22:29 2010">
+<edit_uuid>c7690a6d-c58a-11df-8001-001fd02417f0</edit_uuid>
+<voice_types>
+<key>generic</key>
+</voice_types>
+<voice_types>
+<key>is_commanding_officer</key>
+</voice_types>
+<voice_types>
+<key>is_hero</key>
+</voice_types>
+</dataroot>

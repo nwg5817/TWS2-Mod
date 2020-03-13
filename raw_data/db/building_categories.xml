@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="building_categories.xsd" generated="2010-02-15T18:46:30">
+<edit_uuid>63d7b407-507d-41b9-bfc5-38ef1a3988ec</edit_uuid>
+<building_categories>
+<key>industry_ironworks</key>
+<s_ColLineage>kNOq8QEAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{7EBE8008-D6E1-403C-B0DF-5792673B50EE}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</building_categories>
+<building_categories>
+<key>industry_textiles</key>
+<s_ColLineage>kNOq8QEAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9E1E3CF6-E7B0-4405-AD9B-280921CE1DB2}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</building_categories>
+<building_categories>
+<key>mining</key>
+<s_ColLineage>kNOq8QEAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{CBC88173-4F0E-45F2-9888-67178E583890}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</building_categories>
+</dataroot>
+

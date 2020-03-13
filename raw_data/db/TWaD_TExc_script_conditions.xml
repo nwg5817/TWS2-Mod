@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_TExc_script_conditions>
+<root>
+  <edit_uuid>03fe88b6-47be-4781-a5db-a0089d855c7b</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>Condition</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>100</max_length>
+  </field>
+</root>

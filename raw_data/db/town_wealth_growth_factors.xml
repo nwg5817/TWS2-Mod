@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Wed 24. Aug 17:08:09 2011" revision="3" export_branch="T:/branches/shogun2/patch/common/TWeak/Framework" export_user="Luke.Carter">
+<edit_uuid>9641b70b-281b-4ea7-a9e0-ae17ba7884c7</edit_uuid><town_wealth_growth_factors>
+<factor>bankruptcy</factor>
+<negative_pip_path>data/ui/campaign ui/pips/bankruptcy-unhappy.tga</negative_pip_path>
+<negative_tooltip>Bankruptcy: %S ||To replenish your wealth you could disband units or try conquering new regions.||Alternatively you could make valuable trade agreements with economically powerful nations.</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/bankruptcy-unhappy.tga</positive_pip_path>
+<positive_tooltip>s</positive_tooltip>
+</town_wealth_growth_factors>
+<town_wealth_growth_factors>
+<factor>discontent</factor>
+<negative_pip_path>data/ui/campaign ui/pips/rebellion-unhappy.tga</negative_pip_path>
+<negative_tooltip>Discontent: %S ||Protests and dissatisfaction are harming economic growth.</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/rebellion-unhappy.tga</positive_pip_path>
+</town_wealth_growth_factors>
+<town_wealth_growth_factors>
+<factor>education</factor>
+<negative_pip_path>(placeholder)</negative_pip_path>
+<positive_pip_path>data/ui/campaign ui/pips/town_education.tga</positive_pip_path>
+<positive_tooltip>Education: %S ||Increase this by developing your educational buildings such as universities and schools.</positive_tooltip>
+</town_wealth_growth_factors>
+<town_wealth_growth_factors>
+<factor>events</factor>
+<negative_pip_path>(placeholder)</negative_pip_path>
+<negative_tooltip>(placeholder)</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/town_research.tga</positive_pip_path>
+<positive_tooltip>Enlightenment: %S ||Researching certain technologies increases economic growth.</positive_tooltip>
+</town_wealth_growth_factors>
+<town_wealth_growth_factors>
+<factor>global_food</factor>
+<negative_pip_path>(placeholder)</negative_pip_path>
+<negative_tooltip>Global Food Supply: %S ||Upgrade your farms to supply your castle towns with food</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/taxes-unhappy.tga</positive_pip_path>
+<positive_tooltip>Global Food Supply: %S ||Ensure you have enough farms to supply your upgraded castles</positive_tooltip>
+</town_wealth_growth_factors>
+<town_wealth_growth_factors>
+<factor>government</factor>
+<negative_pip_path>data/ui/campaign ui/pips/government-unhappy.tga</negative_pip_path>
+<negative_tooltip>Government: %S ||Your government type can harm economic growth.</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/government-happy.tga</positive_pip_path>
+<positive_tooltip>Government: %S||Your government type encourages economic growth.</positive_tooltip>
+</town_wealth_growth_factors>
+<town_wealth_growth_factors>
+<factor>industry</factor>
+<negative_pip_path>(placeholder)</negative_pip_path>
+<positive_pip_path>data/ui/campaign ui/pips/industry.tga</positive_pip_path>
+<positive_tooltip>Industry: %S ||Increase this by developing your industrial buildings such as workshops and factories.</positive_tooltip>
+</town_wealth_growth_factors>
+<town_wealth_growth_factors>
+<factor>ministers</factor>
+<negative_pip_path>data/ui/campaign ui/pips/minister_traits-unhappy.tga</negative_pip_path>
+<negative_tooltip>Government: %S ||Your corrupt ministers harm economic growth.</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/minister_traits-happy.tga</positive_pip_path>
+<positive_tooltip>Ministers: %S||Your ministers encourage economic growth.</positive_tooltip>
+</town_wealth_growth_factors>
+<town_wealth_growth_factors>
+<factor>modernisation</factor>
+<negative_pip_path>data/ui/campaign ui/pips/bankruptcy-unhappy.tga</negative_pip_path>
+<negative_tooltip>(PLACEHOLDER Underdevelopment: %S ||You are modernising too slow. The populace is craving for it. Try to build modern buildings.</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/taxes-unhappy.tga</positive_pip_path>
+<positive_tooltip>(PLACEHOLDER) Stable Development: %S ||Maintain the balance of traditions and modernisation.</positive_tooltip>
+</town_wealth_growth_factors>
+<town_wealth_growth_factors>
+<factor>port</factor>
+<negative_pip_path>(placeholder)</negative_pip_path>
+<positive_pip_path>data/ui/campaign ui/pips/eco-trade_harbour.tga</positive_pip_path>
+<positive_tooltip>Ports: %S ||Increase this by developing your trading ports and fisheries.</positive_tooltip>
+</town_wealth_growth_factors>
+<town_wealth_growth_factors>
+<factor>roads</factor>
+<negative_pip_path>(placeholder)</negative_pip_path>
+<positive_pip_path>data/ui/campaign ui/pips/eco-trade_route.tga</positive_pip_path>
+<positive_tooltip>Roads: %S ||Increase this by developing your roads, which will improve trading.||Upgrade roads on the infrastructure tab at your region capital.</positive_tooltip>
+</town_wealth_growth_factors>
+<town_wealth_growth_factors>
+<factor>tax</factor>
+<negative_pip_path>data/ui/campaign ui/pips/taxes-unhappy.tga</negative_pip_path>
+<negative_tooltip>Tax: %S ||Tax rates are slowing economic growth.||Reduce this by lowering tax rates.</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/taxes-unhappy.tga</positive_pip_path>
+</town_wealth_growth_factors>
+<town_wealth_growth_factors>
+<factor>technologies</factor>
+<negative_pip_path>(placeholder)</negative_pip_path>
+<negative_tooltip>(placeholder)</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/town_research.tga</positive_pip_path>
+<positive_tooltip>Enlightenment: %S ||Researching certain technologies increases economic growth.</positive_tooltip>
+</town_wealth_growth_factors>
+<town_wealth_growth_factors>
+<factor>traditionalism</factor>
+<negative_pip_path>data/ui/campaign ui/pips/bankruptcy-unhappy.tga</negative_pip_path>
+<negative_tooltip>(PLACEHOLDER) Overdevelopment: %S ||You are modernising too fast. The populace is not ready for it. Try to accumulate more modernisation.</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/taxes-unhappy.tga</positive_pip_path>
+<positive_tooltip>(PLACEHOLDER) Stable Development: %S ||Maintain the balance of traditions and modernisation.</positive_tooltip>
+</town_wealth_growth_factors>
+</dataroot>

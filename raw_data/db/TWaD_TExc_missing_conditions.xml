@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_TExc_missing_conditions>
+<root>
+  <edit_uuid>39f72f48-207b-4cf1-8965-866c92934b01</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>ID</name>
+    <field_type>autonumber</field_type>
+    <required>0</required>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>exported_script</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>condition</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>255</max_length>
+  </field>
+</root>

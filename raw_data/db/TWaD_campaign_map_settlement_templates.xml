@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_campaign_map_settlement_templates>
+<root>
+  <edit_uuid>e0c5610d-faa6-4b0d-b9d4-c8217835326e</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>template_name</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>slot_total</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+</root>

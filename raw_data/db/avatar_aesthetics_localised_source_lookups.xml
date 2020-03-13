@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Wed 22. Jun 12:01:03 2011" revision="12" export_branch="T:/branches/shogun2/patch/shogun2/binaries" export_user="James.Whitston">
+<edit_uuid>531f935b-2c94-4f28-b91d-bd09b203338e</edit_uuid><avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Achievement Without Honour</description>
+<key>achievement_achievement_without_honour</key>
+<second_description>ACHIEVEMENT_C_WIN_EASY_CAMPAIGN</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Advanced Firearms</description>
+<key>achievement_advanced_firearms</key>
+<second_description>ACHIEVEMENT_C_RESEARCH_GUNPOWDER_TECH_FIRST</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Against All Odds</description>
+<key>achievement_against_all_odds</key>
+<second_description>ACHIEVEMENT_WIN_LEGENDARY_CAMPAIGN</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Agent of the Stealthy Blade</description>
+<key>achievement_agent_stealthy_blade</key>
+<second_description>ACHIEVEMENT_C_MAX_LEVEL_NINJA</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: The Army on the March</description>
+<key>achievement_army_on_the_march</key>
+<second_description>ACHIEVEMENT_B_WIN_25_LAND_BATTLES</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Balanced Attacker</description>
+<key>achievement_balanced_attacker</key>
+<second_description>ACHIEVEMENT_B_WIN_BATTLE_EVERY_TYPE_OF_UNIT</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Battlefield Dominance</description>
+<key>achievement_battlefield_dominance</key>
+<second_description>ACHIEVEMENT_B_HOLD_ALL_KEY_BUILDINGS_2_MINS</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Belligerent Admiral</description>
+<key>achievement_belligerent_admiral</key>
+<second_description>ACHIEVEMENT_C_SINK_CARAVEL_OR_NIHON_MARU</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Berserk Charge</description>
+<key>achievement_berserk_charge</key>
+<second_description>ACHIEVEMENT_B_WIN_BATTLE_NO_RANGED</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Bringer of Death</description>
+<key>achievement_bringer_of_death</key>
+<second_description>ACHIEVEMENT_B_WIN_20_RANKED_BATTLES</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Carve a Path</description>
+<key>achievement_carve_a_path</key>
+<second_description>ACHIEVEMENT_A_CAPTURE_15_AVATAR_CAMPAIGN_REGIONS</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Castle-Stormer</description>
+<key>achievement_castle_stormer</key>
+<second_description>ACHIEVEMENT_B_WIN_10_ATTACKING_SIEGES</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Chosokabe Victory</description>
+<key>achievement_chosokabe_victory</key>
+<second_description>ACHIEVEMENT_C_WIN_CHOSOKABE_CAMPAIGN</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Claw of the Tiger</description>
+<key>achievement_claw_of_the_tiger</key>
+<second_description>ACHIEVEMENT_B_WIN_25_RANKED_BATTLES</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Commander of Commoners</description>
+<key>achievement_commander_of_commoners</key>
+<second_description>ACHIEVEMENT_B_4_ASHIGARU_UNITS_WHOLE_BATTLE</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Date Victory</description>
+<key>achievement_date_victory</key>
+<second_description>ACHIEVEMENT_C_WIN_DATE_CAMPAIGN</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Dishonoured Foe</description>
+<key>achievement_dishonoured_foe</key>
+<second_description>ACHIEVEMENT_C_WIN_MP_VS_CAMPAIGN_GIVING_OTHER_PLAYER_GOLD</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Divine Right</description>
+<key>achievement_divine_right</key>
+<second_description>ACHIEVEMENT_C_BECOME_SHOGUN</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: The Dragon of Japan</description>
+<key>achievement_dragon_of_japan</key>
+<second_description>ACHIEVEMENT_B_WIN_100_RANKED_BATTLES</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Elusive Strikeforce</description>
+<key>achievement_elusive_strikeforce</key>
+<second_description>ACHIEVEMENT_B_ALL_UNITS_HIDDEN</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Eradicate the Iga</description>
+<key>achievement_eradicate_the_iga</key>
+<second_description>ACHIEVEMENT_C_IGA_CLAN</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Eradicate the Ikko-Ikki</description>
+<key>achievement_eradicate_the_ikko_ikki</key>
+<second_description>ACHIEVEMENT_C_WIPE_OUT_IKKO_IKKI</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Exceptional Warriors</description>
+<key>achievement_exceptional_warriors</key>
+<second_description>ACHIEVEMENT_A_VETERAN_UNIT_LEVEL_5</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Experienced Taisho</description>
+<key>achievement_experienced_taisho</key>
+<second_description>ACHIEVEMENT_B_PLAY_10_BATTLES</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Famed Shogun</description>
+<key>achievement_famed_shogun</key>
+<second_description>ACHIEVEMENT_C_WIN_HARD_CAMPAIGN</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Fear No Horseman</description>
+<key>achievement_fear_no_horseman</key>
+<second_description>ACHIEVEMENT_B_WIN_BATTLE_NO_SPEAR</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Fearsome Commander of Men</description>
+<key>achievement_fearsome_commander_of_men</key>
+<second_description>ACHIEVEMENT_C_MAX_LEVEL_GENERAL</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Forged in the Hottest Flame</description>
+<key>achievement_forged_in_the_hottest_flame</key>
+<second_description>ACHIEVEMENT_B_WIN_MP_BATTLE</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: The Gathering Storm</description>
+<key>achievement_gathering_storm</key>
+<second_description>ACHIEVEMENT_B_WIN_BATTLE_NO_CAVALRY</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Glittering Grand Cities</description>
+<key>achievement_glittering_grand_cities</key>
+<second_description>ACHIEVEMENT_C_RESEARCH_EPIC_ARCHITECTURE_FIRST</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Headhunter</description>
+<key>achievement_headhunter</key>
+<second_description>ACHIEVEMENT_C_KILL_10000_ENEMY_SOLDIERS</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Heroic Warriors</description>
+<key>achievement_heroic_warriors</key>
+<second_description>ACHIEVEMENT_A_VETERAN_UNIT_LEVEL_10</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Hojo Victory</description>
+<key>achievement_hojo_victory</key>
+<second_description>ACHIEVEMENT_C_WIN_CAMPAIGN_AS_HOJO</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Holder of Kyushu</description>
+<key>achievement_holder_of_kyushu</key>
+<second_description>ACHIEVEMENT_C_CONTROL_KYUSHU</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Holder of Shikoku</description>
+<key>achievement_holder_of_shikoku</key>
+<second_description>ACHIEVEMENT_C_CONTROL_SHIKOKU</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Inspiring Counterattack</description>
+<key>achievement_inspiring_counterattack</key>
+<second_description>ACHIEVEMENT_B_RALLY_5_UNITS</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Japan Torn Assunder</description>
+<key>achievement_japan_torn_assunder</key>
+<second_description>ACHIEVEMENT_C_WIN_MP_VS_CAMPAIGN</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Legendary Force</description>
+<key>achievement_legendary_force</key>
+<second_description>ACHIEVEMENT_B_FIELD_ENTIRELY_HEROES</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Legendary Sohei</description>
+<key>achievement_legendary_sohei</key>
+<second_description>ACHIEVEMENT_C_MAX_LEVEL_MONK</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Living for Battle</description>
+<key>achievement_living_for_battle</key>
+<second_description>ACHIEVEMENT_C_OBTAIN_MAX_LEVEL_UNIT</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Loyal to the Clan</description>
+<key>achievement_loyal_to_the_clan</key>
+<second_description>ACHIEVEMENT_A_EARN_20_CLAN_TOKENS</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Man the Defences</description>
+<key>achievement_man_the_defences</key>
+<second_description>ACHIEVEMENT_B_WIN_10_DEFENDING_SIEGES</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Master Interrogator</description>
+<key>achievement_master_interrogator</key>
+<second_description>ACHIEVEMENT_C_MAX_LEVEL_METSUKE</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Master of the Waves</description>
+<key>achievement_master_of_the_waves</key>
+<second_description>ACHIEVEMENT_B_WIN_20_NAVAL_BATTLES</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Military Might</description>
+<key>achievement_military_might</key>
+<second_description>ACHIEVEMENT_C_RESEARCH_SHIH_TECH_FIRST</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Mori Victory</description>
+<key>achievement_mori_victory</key>
+<second_description>ACHIEVEMENT_C_WIN_MORI_CAMPAIGN</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Oda Victory</description>
+<key>achievement_oda_victory</key>
+<second_description>ACHIEVEMENT_C_WIN_CAMPAIGN_AS_ODA</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: One Rule Under God</description>
+<key>achievement_one_rule_under_god</key>
+<second_description>ACHIEVEMENT_C_WIN_GAME_AS_CHRISTIAN</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Onna-Bugeisha</description>
+<key>achievement_onna_bugeisha</key>
+<second_description>ACHIEVEMENT_B_WIN_BATTLE_ONNA_BUGEISHA_AS_GENERAL</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Path of the Leader</description>
+<key>achievement_path_of_the_leader</key>
+<second_description>ACHIEVEMENT_A_MAX_OUT_AVATAR_SKILLS_TREE</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: A Respectable Rule</description>
+<key>achievement_respectable_rule</key>
+<second_description>ACHIEVEMENT_C_WIN_MEDIUM_CAMPAIGN</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Servant of God</description>
+<key>achievement_servant_of_god</key>
+<second_description>ACHIEVEMENT_C_MAX_LEVEL_MISSIONARY</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Serve with Honour</description>
+<key>achievement_serve_with_honour</key>
+<second_description>ACHIEVEMENT_A_JOIN_A_CLAN</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Shimazu Victory</description>
+<key>achievement_shimazu_victory</key>
+<second_description>ACHIEVEMENT_C_WIN_SHIMAZU_CAMPAIGN</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Soaring Fame</description>
+<key>achievement_soaring_fame</key>
+<second_description>ACHIEVEMENT_C_OBTAIN_100_FAME_IN_20_TURNS</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Spreading Like Wildfire</description>
+<key>achievement_spreading_like_wildfire</key>
+<second_description>ACHIEVEMENT_B_BEAT_CA_STAFF_VIRAL</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Stranglehold</description>
+<key>achievement_stranglehold</key>
+<second_description>ACHIEVEMENT_A_5_CLAN_REGIONS_SIMULTANEOUSLY_OWNED</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Stubborn Pursuer of Victory</description>
+<key>achievement_stubborn_pursuer_of_victory</key>
+<second_description>ACHIEVEMENT_WIN_HARD_CAMPAIGN</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Swathed in Fire</description>
+<key>achievement_swathed_in_fire</key>
+<second_description>ACHIEVEMENT_B_WIN_BATTLE_50_PERCENT_MATCHLOCK</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Swift and Deadly</description>
+<key>achievement_swift_and_deadly</key>
+<second_description>ACHIEVEMENT_B_WIN_MP_BATTLE_LESS_THAN_15_PERCENT_LOSSES</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Takeda Victory</description>
+<key>achievement_takeda_victory</key>
+<second_description>ACHIEVEMENT_C_WIN_CAMPAIGN_AS_TAKEDA</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: There Can Be Only One</description>
+<key>achievement_there_can_be_only_one</key>
+<second_description>ACHIEVEMENT_RANK_1_SHOGUN_LADDER</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Tokugawa Victory</description>
+<key>achievement_tokugawa_victory</key>
+<second_description>ACHIEVEMENT_C_WIN_CAMPAIGN_AS_TOKUGAWA</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Trade Route Monopoly</description>
+<key>achievement_trade_route_monopoly</key>
+<second_description>ACHIEVEMENT_C_POSESS_ALL_TRADE_NODES</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Uesugi Victory</description>
+<key>achievement_uesugi_victory</key>
+<second_description>ACHIEVEMENT_C_WIN_UESUGI_CAMPAIGN</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: United in Conquest</description>
+<key>achievement_united_in_conquest</key>
+<second_description>ACHIEVEMENT_C_WIN_MP_COOP_CAMPAIGN</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Uniter of Japan</description>
+<key>achievement_uniter_of_japan</key>
+<second_description>ACHIEVEMENT_A_CAPTURE_ALL_AVATAR_CAMPAIGN_REGIONS</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Unnecessary Force</description>
+<key>achievement_unnecessary_force</key>
+<second_description>ACHIEVEMENT_B_WIPE_OUT_A_UNIT</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Complete Achievement: Zen-like Dedication</description>
+<key>achievement_zenlike_dedication</key>
+<second_description>ACHIEVEMENT_B_WIN_200_MULTIPLAYER_BATTLES</second_description>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Armour Set</description>
+<key>armour_set</key>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Random Post-Battle Drop</description>
+<key>battle</key>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Avatar Campaign Map Region</description>
+<key>campaign</key>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Your clan must achieve promotion to a new clan competition tier to unlock this item.</description>
+<key>clan_comp_promotion</key>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Your clan must achieve promotion to tier 1 of the clan competition to unlock this item.</description>
+<key>clan_comp_tier_1_promotion</key>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Your clan must win tier 1 of the clan competition to unlock this item.</description>
+<key>clan_comp_winner</key>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Purchase the Ikko-Ikki DLC</description>
+<key>ikko_ikki_pdlc_source</key>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>placeholder</description>
+<key>placeholder</key>
+</avatar_aesthetics_localised_source_lookups>
+<avatar_aesthetics_localised_source_lookups>
+<description>Starting Equipment</description>
+<key>starting</key>
+</avatar_aesthetics_localised_source_lookups>
+</dataroot>

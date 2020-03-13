@@ -1,0 +1,31 @@
+<!DOCTYPE TWaD_cai_agent_type_distribution_profile_junctions>
+<root>
+<edit_uuid>72ec2b80-89cf-11df-8003-001fd02417f0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>distribution_profile_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>cai_agent_distribution_profiles</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>agent_type_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>cai_agent_types</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>distribution_type_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>cai_agent_distribution_types</column_source_table>
+  </field>
+</root>

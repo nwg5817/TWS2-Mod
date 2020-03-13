@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_video_types>
+<root>
+  <edit_uuid>a47aba3a-b80c-4bb0-9fd0-1adcd9a6c564</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>video_type</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+</root>

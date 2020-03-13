@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Wed 24. Aug 09:20:10 2011" revision="5" export_branch="T:/branches/shogun2/patch/common/TWeak/Framework" export_user="Luke.Carter">
+<edit_uuid>37ff9ac5-b7b6-4292-b7bb-9b97495515b2</edit_uuid><avatar_dojo_chains>
+<key>artillery</key>
+<onscreen_name>Artillery Workshop</onscreen_name>
+<product>boshin</product>
+<recruitment_requirement_description>To unlock this unit, you must have explored %n provinces containing an Artillery Workshop on the conquest map.</recruitment_requirement_description>
+</avatar_dojo_chains>
+<avatar_dojo_chains>
+<key>bow</key>
+<onscreen_name>Archery Dojo</onscreen_name>
+<product>shogun2</product>
+<recruitment_requirement_description>To unlock this unit, you must have explored %n provinces containing an Archery Dojo on the conquest map.</recruitment_requirement_description>
+</avatar_dojo_chains>
+<avatar_dojo_chains>
+<key>cavalry</key>
+<onscreen_name>Stables</onscreen_name>
+<product>shogun2</product>
+<recruitment_requirement_description>To unlock this unit, you must have explored %n provinces containing a Stables on the conquest map.</recruitment_requirement_description>
+</avatar_dojo_chains>
+<avatar_dojo_chains>
+<key>dock</key>
+<onscreen_name>Military Dock</onscreen_name>
+<product>boshin</product>
+<recruitment_requirement_description>To unlock this unit, you must have explored %n provinces containing a Military Dock on the conquest map.</recruitment_requirement_description>
+</avatar_dojo_chains>
+<avatar_dojo_chains>
+<key>emporium</key>
+<onscreen_name>Emporium</onscreen_name>
+<product>boshin</product>
+<recruitment_requirement_description>To unlock this unit, you must have explored %n provinces containing an Emporium on the conquest map.</recruitment_requirement_description>
+</avatar_dojo_chains>
+<avatar_dojo_chains>
+<key>gun</key>
+<onscreen_name>Teppo Range</onscreen_name>
+<product>shogun2</product>
+<recruitment_requirement_description>To unlock this unit, you must have explored %n provinces containing a Teppo Range on the conquest map.</recruitment_requirement_description>
+</avatar_dojo_chains>
+<avatar_dojo_chains>
+<key>imperial_armoury</key>
+<onscreen_name>Imperial Armoury</onscreen_name>
+<product>boshin</product>
+<recruitment_requirement_description>To unlock this unit, you must have explored %n provinces containing an Imperial Armoury on the conquest map.</recruitment_requirement_description>
+</avatar_dojo_chains>
+<avatar_dojo_chains>
+<key>naval_emporium</key>
+<onscreen_name>Naval Emporium</onscreen_name>
+<product>boshin</product>
+<recruitment_requirement_description>To unlock this unit, you must have explored %n provinces containing a Naval Emporium on the conquest map.</recruitment_requirement_description>
+</avatar_dojo_chains>
+<avatar_dojo_chains>
+<key>port</key>
+<onscreen_name>Military Port</onscreen_name>
+<product>shogun2</product>
+<recruitment_requirement_description>To unlock this unit, you must have explored %n provinces containing a Military Port on the conquest map.</recruitment_requirement_description>
+</avatar_dojo_chains>
+<avatar_dojo_chains>
+<key>shogunate_armoury</key>
+<onscreen_name>Shogunate Armoury</onscreen_name>
+<product>boshin</product>
+<recruitment_requirement_description>To unlock this unit, you must have explored %n provinces containing a Shogunate Armoury on the conquest map.</recruitment_requirement_description>
+</avatar_dojo_chains>
+<avatar_dojo_chains>
+<key>shogunate_barrack</key>
+<onscreen_name>Shogunate Barracks</onscreen_name>
+<product>boshin</product>
+<recruitment_requirement_description>To unlock this unit, you must have explored %n provinces containing a Shogunate Barracks on the conquest map.</recruitment_requirement_description>
+</avatar_dojo_chains>
+<avatar_dojo_chains>
+<key>siege</key>
+<onscreen_name>Workshop</onscreen_name>
+<product>shogun2</product>
+<recruitment_requirement_description>To unlock this unit, you must have explored %n provinces containing a Workshop on the conquest map.</recruitment_requirement_description>
+</avatar_dojo_chains>
+<avatar_dojo_chains>
+<key>spear</key>
+<onscreen_name>Yari Drill Yard</onscreen_name>
+<product>shogun2</product>
+<recruitment_requirement_description>To unlock this unit, you must have explored %n provinces containing a Yari Drill Yard on the conquest map.</recruitment_requirement_description>
+</avatar_dojo_chains>
+<avatar_dojo_chains>
+<key>stealth</key>
+<onscreen_name>Sake Den</onscreen_name>
+<product>shogun2</product>
+<recruitment_requirement_description>To unlock this unit, you must have explored %n provinces containing a Sake Den on the conquest map.</recruitment_requirement_description>
+</avatar_dojo_chains>
+<avatar_dojo_chains>
+<key>sword</key>
+<onscreen_name>Sword School</onscreen_name>
+<product>shogun2</product>
+<recruitment_requirement_description>To unlock this unit, you must have explored %n provinces containing a Sword School on the conquest map.</recruitment_requirement_description>
+</avatar_dojo_chains>
+<avatar_dojo_chains>
+<key>temple</key>
+<onscreen_name>Buddhist Temple</onscreen_name>
+<product>shogun2</product>
+</avatar_dojo_chains>
+</dataroot>

@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_trait_categories>
+<root>
+  <edit_uuid>b797eef7-c2bc-4b06-b94a-8b1342845938</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>category</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>icon_path</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>100</max_length>
+  </field>
+</root>

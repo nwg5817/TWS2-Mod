@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_cdir_unit_balance_template_junctions>
+<root>
+  <edit_uuid>837dae18-3993-48fb-a093-86eb7344cd77</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>config_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>template_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>priority</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+  </field>
+</root>

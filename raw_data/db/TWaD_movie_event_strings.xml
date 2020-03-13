@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_movie_event_strings>
+<root>
+  <edit_uuid>ac1c7780-c7e1-11df-bd3b-0800200c9a66</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>event</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>culture</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>cultures</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>title</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>movie</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>id</name>
+    <field_type>autonumber</field_type>
+    <required>0</required>
+  </field>
+</root>

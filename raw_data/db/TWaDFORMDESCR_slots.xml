@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaDFORMDESCR_slots>
+<root>
+	<form_name>Slots</form_name>
+	<rows>
+		<subform_table>
+			<columns>
+				<table_name>slots</table_name>
+				<new_button/>
+				<base_node/>
+				<record_switching>true</record_switching>
+				<filter_field>slot</filter_field>
+				<parent_table></parent_table>
+				<parent_field></parent_field>
+				<static_text_field>Slot</static_text_field>
+				<text_edit_field>slot</text_edit_field>
+			</columns>
+		</subform_table>
+		<subform_table>
+			<static_text_field>Building Chains</static_text_field>
+			<table_name>building_chain_to_slots</table_name>
+			<new_button/>
+			<record_switching>false</record_switching>
+			<filter_field>slot</filter_field>
+			<parent_table>slots</parent_table>
+			<parent_field>slot</parent_field>
+			<edit_grid>
+				<edit_grid_column name="Key">chain</edit_grid_column>
+			</edit_grid>
+		</subform_table>
+		<subform_table>
+			<static_text_field>Resources Generated</static_text_field>
+			<table_name>resources</table_name>
+			<new_button/>
+			<record_switching>false</record_switching>
+			<filter_field>slot_bed</filter_field>
+			<parent_table>slots</parent_table>
+			<parent_field>slot</parent_field>
+			<edit_grid>
+				<edit_grid_column name="Key">key</edit_grid_column>
+				<edit_grid_column name="Onscreen Text">onscreen_text</edit_grid_column>
+			</edit_grid>
+		</subform_table>
+	</rows>
+</root>

@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_preset_colours>
+<root>
+  <edit_uuid>ac31c780-3e9e-4aec-bfa1-520a8e71e87d</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>Key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>red</name>
+    <field_type>double</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>green</name>
+    <field_type>double</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>blue</name>
+    <field_type>double</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+</root>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="campaign_bonus_value_ids_projectile_shot_type_enum.xsd" generated="2010-02-15T18:55:58">
+<edit_uuid>45617cab-58d7-4b79-af9d-bf1376545c4e</edit_uuid>
+<campaign_bonus_value_ids_projectile_shot_type_enum>
+<key>enable</key>
+<s_ColLineage>kNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3086F06E-B9B9-463F-96EB-52D8BB8ECDE5}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_bonus_value_ids_projectile_shot_type_enum>
+</dataroot>
+

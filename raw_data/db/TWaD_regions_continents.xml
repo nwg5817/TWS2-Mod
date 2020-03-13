@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_regions_continents>
+<root>
+  <edit_uuid>c73d1cd1-224a-4be2-a44f-d6087f41cf7d</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>continent</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+</root>

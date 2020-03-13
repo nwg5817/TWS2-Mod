@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_movement_types>
+<root>
+  <edit_uuid>543bc01b-72d7-480a-a283-a71bc8ed1e70</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>type</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+</root>

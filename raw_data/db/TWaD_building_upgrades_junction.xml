@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_building_upgrades_junction>
+<root>
+  <edit_uuid>1ce2624e-7d5c-40d1-916b-dff7fa24506d</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>from</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>level_name</column_source_column>
+    <column_source_table>building_levels</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>to</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>level_name</column_source_column>
+    <column_source_table>building_levels</column_source_table>
+  </field>
+</root>

@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_ancillary_to_excluded_ancillaries>
+<root>
+  <edit_uuid>cd19c5ae-651b-45c3-aea1-09f046f98298</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>ancillary</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>ancillary</column_source_column>
+    <column_source_table>ancillary_info</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>excluded_ancillary</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>ancillary</column_source_column>
+    <column_source_table>ancillary_info</column_source_table>
+  </field>
+</root>

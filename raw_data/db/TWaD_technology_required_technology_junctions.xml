@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_technology_required_technology_junctions>
+<root>
+  <edit_uuid>41cf6326-fc15-40e5-a00c-7b91ecd8f0f7</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>technology</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>technologies</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>required_technology</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>technologies</column_source_table>
+  </field>
+</root>

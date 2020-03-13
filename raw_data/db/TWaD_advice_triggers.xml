@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_advice_triggers>
+<root>
+  <edit_uuid>dad485a0-c0ec-11df-851a-0800200c9a66</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>test_when</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>event</column_source_column>
+    <column_source_table>trigger_events</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>condition_script</name>
+    <field_type>memo</field_type>
+    <required>0</required>
+    <max_length>536870910</max_length>
+  </field>
+</root>

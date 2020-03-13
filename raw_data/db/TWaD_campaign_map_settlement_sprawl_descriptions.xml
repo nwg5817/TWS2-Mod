@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_campaign_map_settlement_sprawl_descriptions>
+<root>
+  <edit_uuid>5fc6315a-55cd-4954-8dab-9d8664598c99</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>settlement</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+	<column_source_column>settlement_id</column_source_column>
+	<column_source_table>campaign_map_settlements</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>sprawl_desc</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>2000</max_length>
+  </field>
+</root>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Fri 9. Sep 09:02:38 2011" revision="4" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Janos.Gaspar">
+<edit_uuid>c4116602-cb60-47d4-a444-aa8d58e343ff</edit_uuid><cdir_campaign_junctions>
+<key>all</key>
+</cdir_campaign_junctions>
+<cdir_campaign_junctions>
+<campaign>jap_boshin</campaign>
+<key>jap_boshin</key>
+</cdir_campaign_junctions>
+<cdir_campaign_junctions>
+<campaign>jap_gempei</campaign>
+<key>jap_gempei</key>
+</cdir_campaign_junctions>
+<cdir_campaign_junctions>
+<campaign>jap_shogun</campaign>
+<key>jap_shogun</key>
+</cdir_campaign_junctions>
+<cdir_campaign_junctions>
+<campaign>tut_shogun</campaign>
+<key>tut_shogun</key>
+</cdir_campaign_junctions>
+</dataroot>

@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Thu 2. Feb 12:26:26 2012" revision="70" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="gabor.beressy">
+<edit_uuid>9d9014c2-19bb-4e12-9794-22626cd1a6f0</edit_uuid><_kv_special_ability_effects>
+<description>Bonus to charge when using active hiding (aka assassinate)</description>
+<key>special_ability_bonus_active_hide_charge_attack</key>
+<value>14</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Bonus to melee attack when using active hiding (aka assassinate)</description>
+<key>special_ability_bonus_active_hide_melee_attack</key>
+<value>5</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Spotting ranges against a ninja unit using active hiding are reduced to this percentage whilst the ability is active. e.g. 0.4 means 40% spotting range.</description>
+<key>special_ability_bonus_active_hide_spot_range</key>
+<value>0.200000002980232</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>boost is applied to the unit's core marksmanship</description>
+<key>special_ability_bonus_artillery_accuracy</key>
+<value>40</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>boost is applied to the unit's core loading skill</description>
+<key>special_ability_bonus_artillery_rof</key>
+<value>60</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>TODO</description>
+<key>special_ability_bonus_banzai_charge_attack</key>
+<value>8</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>TODO</description>
+<key>special_ability_bonus_banzai_melee_attack</key>
+<value>3</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Speed bonus applied to a unit during Banzai's bonus phase. A value of 0.4 would mean a 40% speed bonus.</description>
+<key>special_ability_bonus_banzai_move_speed</key>
+<value>0.600000023841858</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>TODO</description>
+<key>special_ability_bonus_banzai_naval_melee_attack</key>
+<value>2</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>TODO</description>
+<key>special_ability_bonus_banzai_naval_melee_defence</key>
+<value>2</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Speed bonus applied to a unit during the faster rowing bonus phase. A value of 0.4 would mean a 40% speed bonus.</description>
+<key>special_ability_bonus_battle_speed_naval_move_speed</key>
+<value>0.400000005960464</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>stat bonus applied to unit's marksmanship when in cantabrian circle order</description>
+<key>special_ability_bonus_cantabrian_circle_marksmanship</key>
+<value>30</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>stat boost is applied to the unit's core loading skill</description>
+<key>special_ability_bonus_cantabrian_circle_reload_rate</key>
+<value>20</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Bonus to crews' (all types) marksmanship</description>
+<key>special_ability_bonus_encourage_fleet_marksmanship</key>
+<value>50</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Bonus to crews' (all types) melee attack</description>
+<key>special_ability_bonus_encourage_fleet_melee_attack</key>
+<value>6</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Bonus to crews' (all types) melee defence</description>
+<key>special_ability_bonus_encourage_fleet_melee_defence</key>
+<value>6</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Bonus to crews' (all types) reload rate</description>
+<key>special_ability_bonus_encourage_fleet_reload_rate</key>
+<value>50</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>TODO</description>
+<key>special_ability_bonus_faster_reload_reload_rate</key>
+<value>40</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Speed bonus applied to a unit during the faster rowing bonus phase. A value of 0.4 would mean a 40% speed bonus.</description>
+<key>special_ability_bonus_faster_rowing_move_speed</key>
+<value>0.5</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Bonus to everyone's accuracy when ganbatte is active</description>
+<key>special_ability_bonus_ganbatte_accuracy</key>
+<value>10</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Bonus to everyone's melee attack when ganbatte is active</description>
+<key>special_ability_bonus_ganbatte_melee_attack</key>
+<value>2</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Bonus to everyone's morale when ganbatte is active</description>
+<key>special_ability_bonus_ganbatte_morale</key>
+<value>2</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Bonus to everyone's reload when ganbatte is active</description>
+<key>special_ability_bonus_ganbatte_reload</key>
+<value>10</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>The reductino in total fatigue applied when this ability is activated</description>
+<key>special_ability_bonus_heroic_assault_fatigue_reduction</key>
+<value>-8000</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>The increase in morale that's applied</description>
+<key>special_ability_bonus_heroic_assault_morale</key>
+<value>4</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Speed bonus applied to a unit during heroic assault. A value of 0.4 would mean a 40% speed bonus.</description>
+<key>special_ability_bonus_heroic_assault_speed</key>
+<value>0.550000011920929</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>stat bonus applied to unit's reload skill when inspired</description>
+<key>special_ability_bonus_inspire_unit_marksmanship</key>
+<value>15</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>stat bonus applied to unit's melee attack when inspired</description>
+<key>special_ability_bonus_inspire_unit_melee_attack</key>
+<value>3</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>inspires unit</description>
+<key>special_ability_bonus_inspire_unit_morale</key>
+<value>10</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>The bonus inspire gives to unit's relaod rate when inspired</description>
+<key>special_ability_bonus_inspire_unit_reload_rate</key>
+<value>10</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Bonus to accuracy for the kill zone ability</description>
+<key>special_ability_bonus_kill_zone_accuracy</key>
+<value>30</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>The increase to add to the speed scalar</description>
+<key>special_ability_bonus_overcharge_engines_move_speed</key>
+<value>0.800000011920929</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>rally max</description>
+<key>special_ability_bonus_rally_max</key>
+<value>2</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>rally min</description>
+<key>special_ability_bonus_rally_min</key>
+<value>2</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Score to bring the ship's morale up by [Naval]</description>
+<key>special_ability_bonus_rally_naval_non_routing</key>
+<value>1</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>for routing ships; the target morale to change to [Naval] </description>
+<key>special_ability_bonus_rally_naval_routing_threshold</key>
+<value>6</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Bonus to be given to non-routing units</description>
+<key>special_ability_bonus_rally_non_routing</key>
+<value>1</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Routing units will be given a rally bonus to bring their morale score to this value</description>
+<key>special_ability_bonus_rally_routing_threshold</key>
+<value>6</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Bonus to speed when ramming 3.0 means 300% increase speed.</description>
+<key>special_ability_bonus_ramming_speed_move_speed</key>
+<value>1</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>When a unit's 'increase range' ability is activated, their range stat is increased by this amount (hard value)</description>
+<key>special_ability_bonus_range_increase_max_range</key>
+<value>25</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>TODO</description>
+<key>special_ability_bonus_rapid_advance_charge_attack</key>
+<value>1</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>SPECIAL CASE (scalar) : the amount added to the modifier for speed</description>
+<key>special_ability_bonus_rapid_advance_speed</key>
+<value>1.39999997615814</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>boost is applied to the unit's core loading skill</description>
+<key>special_ability_bonus_rapid_volley_reload_rate</key>
+<value>15</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>the amount of fatigue reduction per entity when this ability is activated</description>
+<key>special_ability_bonus_second_wind_fatigue_reduction</key>
+<value>-11000</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>SPECIAL CASE (scalar): whenever a unit has an ability to increase their speed, this factor is applied</description>
+<key>special_ability_bonus_speed_increase</key>
+<value>1</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>TODO</description>
+<key>special_ability_bonus_stand_firm_melee_defence</key>
+<value>3</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Bonus to reloading for suppression fire</description>
+<key>special_ability_bonus_suppression_fire_reload</key>
+<value>20</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Scalar bonus to the reload rate of the tower</description>
+<key>special_ability_bonus_tower_faster_firing_reload_rate</key>
+<value>-0.5</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Scalar bonus to the reload rate of the tower</description>
+<key>special_ability_bonus_tower_faster_reload_rate</key>
+<value>-0.5</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>The amount to change the reload scalar rate by</description>
+<key>special_ability_bonus_tower_rapid_volley_reload_rate</key>
+<value>-0.5</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Bonus to melee attack when under the effect of We Stand And Fight! special ability</description>
+<key>special_ability_bonus_we_stand_and_fight_melee_attack</key>
+<value>2</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Bonus to reloading rate when under the effect of We Stand And Fight! special ability</description>
+<key>special_ability_bonus_we_stand_and_fight_reload_rate</key>
+<value>5</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Penalty applied to enemy units when anti rally is used</description>
+<key>special_ability_penalty_anti_rally</key>
+<value>-1</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>TODO</description>
+<key>special_ability_penalty_banzai_charge_attack</key>
+<value>0</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>TODO</description>
+<key>special_ability_penalty_banzai_melee_attack</key>
+<value>0</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Speed debuff applied during Banzai's debuff period. Scalar. A value of -0.6 would mean a 60% penalty (so the unit moves at 40% speed).</description>
+<key>special_ability_penalty_banzai_move_speed</key>
+<value>0</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>penalty is applied to the unit's core marksmanship</description>
+<key>special_ability_penalty_blinding_grenade_accuracy</key>
+<value>-75</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>the amount of melee penalty the unit takes when hit by blinding grenades</description>
+<key>special_ability_penalty_blinding_grenade_melee_attack</key>
+<value>-10</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>the amount of time that an individual blinding grenade explosion tracks when it hit a unit (so it can total up the number of men hit over time)</description>
+<key>special_ability_penalty_blinding_grenade_tracking_duration</key>
+<value>8</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>TODO</description>
+<key>special_ability_penalty_faster_reload_reload_rate</key>
+<value>-20</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>TODO</description>
+<key>special_ability_penalty_overcharge_engines_move_speed</key>
+<value>-0.699999988079071</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Penalty to turn rate when ramming -0.8 means you are down to 20% normal turn rate.</description>
+<key>special_ability_penalty_ramming_speed_turn_rate</key>
+<value>-0.800000011920929</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Speed penalty applied to units under the effect of Stand Firm. Scalar. A value of -0.6 would mean a 60% penalty (so the unit moves at 40% speed).</description>
+<key>special_ability_penalty_stand_firm_move_speed</key>
+<value>0</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Penalty to accuracy for suppression fire</description>
+<key>special_ability_penalty_suppression_fire_accuracy</key>
+<value>-20</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Penalty to a unit's morale if hit by suppressive shots</description>
+<key>special_ability_penalty_suppression_fire_morale</key>
+<value>-4</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Speed penalty applied to units under the effect of Suppression. Scalar. A value of -0.6 would mean a 60% penalty (so the unit moves at 40% speed).</description>
+<key>special_ability_penalty_suppression_fire_move_speed</key>
+<value>0.5</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Scalar penalty to the reload rate of a tower</description>
+<key>special_ability_penalty_tower_faster_firing_reload_rate</key>
+<value>5</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>The amount of defence a unit will lose when under a negative influence</description>
+<key>special_ability_penalty_warcry_melee_defence</key>
+<value>-2</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>The penalty amount the warcry effect has</description>
+<key>special_ability_penalty_warcry_morale</key>
+<value>-4</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>The ratio of movement speed once affected by this ability. -0.2 would mean a 20% penalty (so 80% move speed).</description>
+<key>special_ability_penalty_warcry_move_speed</key>
+<value>-0.349999994039536</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Penalty to opposing crews' melee attacks</description>
+<key>special_ability_penalty_warcry_naval_melee_attack</key>
+<value>-15</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Penalty to opposing crews' melee defence</description>
+<key>special_ability_penalty_warcry_naval_melee_defence</key>
+<value>-15</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Penalty is applied to the unit's base melee attack</description>
+<key>special_ability_penalty_whistling_arrows_melee_attack</key>
+<value>-3</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Amount to take away from a unit's morale if hit by whistling arrows</description>
+<key>special_ability_penalty_whistling_arrows_morale</key>
+<value>-4</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Penalty to melee attack if attacked by whistlnig arrows [Naval]</description>
+<key>special_ability_penalty_whistling_arrows_naval_melee_attack</key>
+<value>-3</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>morale penalty for being hit by whistling arrows [Naval]</description>
+<key>special_ability_penalty_whistling_arrows_naval_morale</key>
+<value>-18</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Penalty to reload rate if attacked by whistlnig arrows [Naval]</description>
+<key>special_ability_penalty_whistling_arrows_naval_reload_rate</key>
+<value>-35</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>Penatly is applied to the unit's core reload skill</description>
+<key>special_ability_penalty_whistling_arrows_reload_rate</key>
+<value>-35</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>The amount of time that a unit will be affected by whistling arrows' detrimental effect</description>
+<key>special_ability_penalty_whistling_arrows_tracking_duration</key>
+<value>25</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>The percentage of men that needs to be hit in a unit (by blinding grenades) for the full effect of the ability</description>
+<key>special_ability_unary_blinding_grenade_amount_for_full_effect</key>
+<value>0.5</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>The minimum percentage of men that needs to be hit in a unit (by blinding grenades) for the ability to have any affect</description>
+<key>special_ability_unary_blinding_grenade_min_amount_for_effect</key>
+<value>0.100000001490116</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>TODO</description>
+<key>special_ability_unary_faster_reload_detrimental_effect</key>
+<value>0.5</value>
+</_kv_special_ability_effects>
+<_kv_special_ability_effects>
+<description>The chance a ship will explode after overcharging</description>
+<key>special_ability_unary_overcharge_explode_chance</key>
+<value>0.0500000007450581</value>
+</_kv_special_ability_effects>
+</dataroot>

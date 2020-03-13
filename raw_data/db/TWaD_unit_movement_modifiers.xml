@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_unit_movement_modifiers>
+<root>
+  <edit_uuid>31596ef7-d2de-4cf1-87db-76ef138105d8</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+    <column_source_column>type</column_source_column>
+    <column_source_table>ground_types</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>artillery</name>
+    <field_type>double</field_type>
+    <required>0</required>
+    <default_value>0</default_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>artillery_horse</name>
+    <field_type>double</field_type>
+    <required>0</required>
+    <default_value>0</default_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>cavalry</name>
+    <field_type>double</field_type>
+    <required>0</required>
+    <default_value>0</default_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>infantry</name>
+    <field_type>double</field_type>
+    <required>0</required>
+    <default_value>0</default_value>
+  </field>
+</root>

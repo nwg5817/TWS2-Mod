@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_diplomacy_negotiation_string_options>
+<root>
+  <edit_uuid>c829f4c9-4359-42d8-ae38-06d752ed1cde</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>culture</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+	<column_source_column>key</column_source_column>
+    <column_source_table>cultures</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>government_type</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+	<column_source_column>government_type</column_source_column>
+    <column_source_table>government_types</column_source_table>
+  </field>
+</root>

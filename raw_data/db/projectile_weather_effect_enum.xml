@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="projectile_weather_effect_enum.xsd" generated="2010-02-15T19:20:28">
+<edit_uuid>1dadcfcd-2bd7-4f3a-b053-9b1e995793f4</edit_uuid>
+<projectile_weather_effect_enum>
+<key>high</key>
+<s_ColLineage>kNOq8QEAAAA=
+</s_ColLineage>
+<s_Generation>1</s_Generation>
+<s_GUID>{409B66A3-EE96-4AA9-AEEC-C7E00F77DA6B}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</projectile_weather_effect_enum>
+<projectile_weather_effect_enum>
+<key>low</key>
+<s_ColLineage>kNOq8QEAAAA=
+</s_ColLineage>
+<s_Generation>1</s_Generation>
+<s_GUID>{B40F0AAA-D726-45DC-998A-59E2F53FD9D4}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</projectile_weather_effect_enum>
+<projectile_weather_effect_enum>
+<key>medium</key>
+<s_ColLineage>kNOq8QEAAAA=
+</s_ColLineage>
+<s_Generation>1</s_Generation>
+<s_GUID>{A06E1E9A-FDB3-49DD-8988-02F960352E5E}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</projectile_weather_effect_enum>
+</dataroot>
+

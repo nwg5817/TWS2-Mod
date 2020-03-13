@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Wed 16. Nov 17:36:07 2011" revision="17" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Richard.Aldridge">
+<edit_uuid>973d8648-7fdb-40b0-8925-2f9568c7c384</edit_uuid><avatar_ancillaries_localised_source_lookups>
+<key>achievement_shogun</key>
+<localised_source_text>Complete achievement: Shogun</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_akechi_mitsuharu</key>
+<localised_source_text>Complete armour set: Akechi Mitsuharu</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_blade_master</key>
+<localised_source_text>Complete armour set: Blade Master</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_bosh_american_1</key>
+<localised_source_text>Complete armour set: American Uniform 1</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_bosh_american_2</key>
+<localised_source_text>Complete armour set: American Uniform 2</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_bosh_british_1</key>
+<localised_source_text>Complete armour set: British Uniform</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_bosh_french_1</key>
+<localised_source_text>Complete armour set: French Uniform</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_bosh_late_samurai_1</key>
+<localised_source_text>Complete armour set: Late Samurai Uniform 1</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_bosh_late_samurai_2</key>
+<localised_source_text>Complete armour set: Late Samurai Uniform 2</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_bosh_late_samurai_3</key>
+<localised_source_text>Complete armour set: Late Samurai Uniform 3</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_bosh_modern_2</key>
+<localised_source_text>Complete armour set: Modern Uniform 2</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_bosh_modern_3</key>
+<localised_source_text>Complete armour set: Modern Uniform 3</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_bosh_modern_4</key>
+<localised_source_text>Complete armour set: Modern Uniform 4</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_bosh_officer_1</key>
+<localised_source_text>Complete armour set: Officer Uniform 1</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_bosh_officer_2</key>
+<localised_source_text>Complete armour set: Officer Uniform 1</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_bosh_shinsengumi_1</key>
+<localised_source_text>Complete armour set: Shinsengumi Uniform 1</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_bosh_shinsengumi_2</key>
+<localised_source_text>Complete armour set: Shinsengumi Uniform 2</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_catfish_tail</key>
+<localised_source_text>Complete armour set: Catfish Tail</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_date_masamune</key>
+<localised_source_text>Complete armour set: Date Masamune</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_golden_scale_cuirass</key>
+<localised_source_text>Complete armour set: Golden Scale Cuirass</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_goldfish_scale</key>
+<localised_source_text>Complete armour set: Goldfish Scale</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_honda_tadakatsu</key>
+<localised_source_text>Complete armour set: Honda Tadakatsu</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_hosokawa_tadakoi</key>
+<localised_source_text>Complete armour set: Hosokawa Tadakoi</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_ichinotani</key>
+<localised_source_text>Complete armour set: Ichinotani</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_itakura_katsushiga</key>
+<localised_source_text>Complete armour set: Itakura Katsushiga</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_kato_kiyomasa</key>
+<localised_source_text>Complete armour set: Kato Kiyomasa</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_kawari_kabuto</key>
+<localised_source_text>Complete armour set: Kawari Kabuto</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_maeda_toshiw</key>
+<localised_source_text>Complete armour set: Maeda Toshie</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_morning_glory</key>
+<localised_source_text>Complete armour set: Morning Glory</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_multicolour_laced</key>
+<localised_source_text>Complete armour set: Multicolour Laced</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_naoe_kanetsugu</key>
+<localised_source_text>Complete armour set: Naoe Kanetsugu</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_oda_nobunaga</key>
+<localised_source_text>Complete armour set: Oda Nobunaga</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_robes_of_the_ikko_ikki</key>
+<localised_source_text>Complete armour set: Robes of the Ikko Ikki</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_scale_cuirass</key>
+<localised_source_text>Complete armour set: Scale Cuirass</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_silver_scale_cuirass</key>
+<localised_source_text>Complete armour set: Silver Scale Cuirass</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_sparse_point_laced</key>
+<localised_source_text>Complete armour set: Sparse Point Laced</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_tokugawa_ieyasu</key>
+<localised_source_text>Complete armour set: Tokugawa Ieyasu</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_toyotomi_hideyoshi</key>
+<localised_source_text>Complete armour set: Toyotomi Hideyoshi</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_triple_hollyhock</key>
+<localised_source_text>Complete armour set: Triple Hollyhock</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_uesugi_kenshin</key>
+<localised_source_text>Complete armour set: Uesugi Kenshin</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>armour_western_style</key>
+<localised_source_text>Complete armour set: Western Style</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>battle</key>
+<localised_source_text>Source: Random post-battle drop</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>bosh_clan_imperial</key>
+<localised_source_text>Become a member of a clan specialising in modern Imperial units.</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>bosh_clan_shogunate</key>
+<localised_source_text>Become a member of a clan specialising in modern Shogunate units.</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>campaign</key>
+<localised_source_text>Source: Avatar conquest map region</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>clan_bow</key>
+<localised_source_text>Become a member of a clan specialising in bow infantry</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>clan_horse</key>
+<localised_source_text>Become a member of a clan specialising in cavalry</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>clan_spear</key>
+<localised_source_text>Become a member of a clan specialising in spear infantry</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>clan_sword</key>
+<localised_source_text>Become a member of a clan specialising in sword infantry</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>dojo_bow</key>
+<localised_source_text>Source: Archery Dojo building chain</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>dojo_cavalry</key>
+<localised_source_text>Source: Stables building chain</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>dojo_gun</key>
+<localised_source_text>Source: Teppo Range building chain</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>dojo_stealth</key>
+<localised_source_text>Source: Sake Den building chain</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>dojo_sword</key>
+<localised_source_text>Source: Sword School building chain</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>dojo_workshop</key>
+<localised_source_text>Source: Workshop building chain</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>gempei</key>
+<localised_source_text>You must own the Rise of the Samurai DLC in order to use this retainer.</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>gempei_battle_drop</key>
+<localised_source_text>Source: Random post-battle drop \n \n You must own the Rise of the Samurai DLC in order to use this retainer.</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>gempei_mon</key>
+<localised_source_text>You must own the Rise of the Samurai DLC in order to use this mon.</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>ikko_ikki</key>
+<localised_source_text>You must own the Ikko-Ikki DLC in order to use this retainer.</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>ikko_ikki_battle_drop</key>
+<localised_source_text>Source: Random post-battle drop \n \n You must own the Ikko-Ikki DLC in order to use this retainer.</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>placeholder</key>
+<localised_source_text>placeholder</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>promotion_mon</key>
+<localised_source_text>Your clan must achieve promotion to unlock this mon.</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>promotion_tier_1_mon</key>
+<localised_source_text>Your clan must achieve promotion to tier 1 to unlock this mon.</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>starting</key>
+<localised_source_text>Your avatar starts the game with this retainer.</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+<avatar_ancillaries_localised_source_lookups>
+<key>winner_mon</key>
+<localised_source_text>Your clan must win tier 1 to unlock this mon.</localised_source_text>
+</avatar_ancillaries_localised_source_lookups>
+</dataroot>

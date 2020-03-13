@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_unit_class_to_unit_ability_junctions>
+<root>
+  <edit_uuid>a579b277-88e3-47fb-8177-494a23c12d5f</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>unit_class</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>unit_class</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>unit_ability</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>unit_abilities</column_source_table>
+  </field>
+</root>

@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_avatar_skill_chain_lookups>
+<root>
+  <edit_uuid>b1d77b10-e69b-11df-8001-6cf049ef02b0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>skill_chain</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+
+    <primary_key>0</primary_key>
+
+    <name>localised_string</name>
+
+    <field_type>text</field_type>
+
+    <required>1</required>
+
+    <max_length>20000</max_length>
+
+  </field>
+</root>

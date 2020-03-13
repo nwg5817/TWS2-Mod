@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Tue 4. Oct 12:39:44 2011" revision="27" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="gabor.beressy">
+<edit_uuid>30be54b7-7bd8-4b09-8ad0-b85352ae33a8</edit_uuid><ui_unit_stats>
+<campaign_only>0</campaign_only>
+<key>ammo</key>
+<max_value>80</max_value>
+<onscreen_name>Ammunition</onscreen_name>
+<sort_order>10</sort_order>
+<tooltip_text>The amount of ammunition this unit can carry into battle.||Once this has been used up the unit will be forced to switch to melee mode for any more fighting.||After the battle ammunition will be fully replenished.</tooltip_text>
+</ui_unit_stats>
+<ui_unit_stats>
+<campaign_only>0</campaign_only>
+<key>armour</key>
+<max_value>15</max_value>
+<onscreen_name>Armour</onscreen_name>
+<sort_order>6</sort_order>
+<tooltip_text>This shows how resistant a unit is to missile fire and melee attacks.</tooltip_text>
+</ui_unit_stats>
+<ui_unit_stats>
+<campaign_only>0</campaign_only>
+<key>charge_bonus</key>
+<max_value>50</max_value>
+<onscreen_name>Charge Bonus</onscreen_name>
+<sort_order>4</sort_order>
+<tooltip_text>This increases a unit's melee attack when charging in.</tooltip_text>
+</ui_unit_stats>
+<ui_unit_stats>
+<campaign_only>0</campaign_only>
+<key>marksmanship</key>
+<max_value>100</max_value>
+<onscreen_name>Accuracy</onscreen_name>
+<sort_order>9</sort_order>
+<tooltip_text>This reflects the likelihood of hitting the enemy by fire.||Gaining experience in battle will improve this value.</tooltip_text>
+</ui_unit_stats>
+<ui_unit_stats>
+<campaign_only>0</campaign_only>
+<key>melee_attack</key>
+<max_value>35</max_value>
+<onscreen_name>Melee Attack</onscreen_name>
+<sort_order>2</sort_order>
+<tooltip_text>This determines the chance of a successful hit on the enemy when the unit is engaged in melee.||Battle hardened troops will gain experience in melee and this skill will increase.</tooltip_text>
+</ui_unit_stats>
+<ui_unit_stats>
+<campaign_only>0</campaign_only>
+<key>melee_bonus_vs_cav</key>
+<max_value>30</max_value>
+<onscreen_name>Bonus vs Cavalry</onscreen_name>
+<sort_order>5</sort_order>
+<tooltip_text>This shows the melee bonus this unit receives when fighting against cavalry units.</tooltip_text>
+</ui_unit_stats>
+<ui_unit_stats>
+<campaign_only>0</campaign_only>
+<key>melee_defence</key>
+<max_value>35</max_value>
+<onscreen_name>Melee Defence</onscreen_name>
+<sort_order>3</sort_order>
+<tooltip_text>This determines the chance of your unit getting hit while in melee.||Unfortunately this is only for melee mode and will provide no protection from projectiles!</tooltip_text>
+</ui_unit_stats>
+<ui_unit_stats>
+<campaign_only>0</campaign_only>
+<key>morale</key>
+<max_value>50</max_value>
+<onscreen_name>Morale</onscreen_name>
+<sort_order>1</sort_order>
+<tooltip_text>A unit with high morale is less likely to rout in the face of danger.||Gaining experience on the battlefield will improve morale for this unit.</tooltip_text>
+</ui_unit_stats>
+<ui_unit_stats>
+<campaign_only>0</campaign_only>
+<key>range</key>
+<max_value>650</max_value>
+<onscreen_name>Range</onscreen_name>
+<sort_order>7</sort_order>
+<tooltip_text>A long range enables you to hit enemies from a distance, but weapons still tend to be more accurate at shorter ranges. </tooltip_text>
+</ui_unit_stats>
+<ui_unit_stats>
+<campaign_only>0</campaign_only>
+<key>reload_skill</key>
+<max_value>100</max_value>
+<onscreen_name>Reload Skill</onscreen_name>
+<sort_order>8</sort_order>
+<tooltip_text>This is the speed this unit can reload.||This will be raised by gaining experience in battle.</tooltip_text>
+</ui_unit_stats>
+<ui_unit_stats>
+<campaign_only>0</campaign_only>
+<key>ship_cannon_range</key>
+<max_value>1000</max_value>
+<onscreen_name>Cannon Range</onscreen_name>
+<sort_order>8</sort_order>
+<tooltip_text>This shows the effective range for this ship.</tooltip_text>
+</ui_unit_stats>
+<ui_unit_stats>
+<campaign_only>0</campaign_only>
+<key>ship_cannons</key>
+<max_value>30</max_value>
+<onscreen_name>Cannons</onscreen_name>
+<sort_order>9</sort_order>
+<tooltip_text>This shows the number of cannons for this ship.</tooltip_text>
+</ui_unit_stats>
+<ui_unit_stats>
+<campaign_only>0</campaign_only>
+<key>ship_hull_strength</key>
+<max_value>10000</max_value>
+<onscreen_name>Hull Strength</onscreen_name>
+<sort_order>2</sort_order>
+<tooltip_text>The hull strength determines how much damage this ship will receive when hit.</tooltip_text>
+</ui_unit_stats>
+<ui_unit_stats>
+<campaign_only>0</campaign_only>
+<key>ship_manouverability</key>
+<max_value>10</max_value>
+<onscreen_name>Manoeuvrability</onscreen_name>
+<sort_order>3</sort_order>
+<tooltip_text>This determines the speed this ship can change course.</tooltip_text>
+</ui_unit_stats>
+<ui_unit_stats>
+<campaign_only>0</campaign_only>
+<key>ship_missile_troop_marksmanship</key>
+<max_value>100</max_value>
+<onscreen_name>Missile Accuracy</onscreen_name>
+<sort_order>5</sort_order>
+<tooltip_text>This reflects the likelihood of hitting the enemy by fire.</tooltip_text>
+</ui_unit_stats>
+<ui_unit_stats>
+<campaign_only>0</campaign_only>
+<key>ship_missile_troop_range</key>
+<max_value>200</max_value>
+<onscreen_name>Missile Range</onscreen_name>
+<sort_order>4</sort_order>
+<tooltip_text>A long range enables you to hit enemies from a distance, but weapons still tend to be more accurate at shorter ranges.</tooltip_text>
+</ui_unit_stats>
+<ui_unit_stats>
+<campaign_only>0</campaign_only>
+<key>ship_soldier_melee_attack</key>
+<max_value>30</max_value>
+<onscreen_name>Melee Attack</onscreen_name>
+<sort_order>6</sort_order>
+<tooltip_text>This determines the chance of a successful hit on the enemy when the unit is engaged in melee.||Battle hardened troops will gain experience in melee and this skill will increase.</tooltip_text>
+</ui_unit_stats>
+<ui_unit_stats>
+<campaign_only>0</campaign_only>
+<key>ship_soldier_melee_defence</key>
+<max_value>30</max_value>
+<onscreen_name>Melee Defence</onscreen_name>
+<sort_order>7</sort_order>
+<tooltip_text>This determines the chance of your unit getting hit while in melee.||Unfortunately this is only for melee mode and will provide no protection from projectiles!</tooltip_text>
+</ui_unit_stats>
+</dataroot>

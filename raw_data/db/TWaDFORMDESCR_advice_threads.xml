@@ -1,0 +1,98 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaDFORMDESCR_advice_threads>
+<root>
+	<form_name>Advice Threads</form_name>
+	<rows>
+		<columns>
+			<subform_table>
+				<table_name>advice_threads</table_name>
+				<new_button/>
+				<base_node/>
+				<record_switching>true</record_switching>
+				<filter_field>thread</filter_field>
+				<parent_table></parent_table>
+				<parent_field></parent_field>
+				<static_text_field>Thread</static_text_field>
+				<text_edit_field>thread</text_edit_field>
+			</subform_table>
+		</columns>
+		<columns>
+			<rows>
+				<subform_table>
+					<columns>
+						<table_name>advice_levels</table_name>
+						<new_button/>
+						<record_switching>true</record_switching>
+						<filter_field>advice_thread</filter_field>
+						<parent_table>advice_threads</parent_table>
+						<parent_field>thread</parent_field>
+						<static_text_field>Advice Thread Level</static_text_field>
+						<text_edit_field>advice_thread_level</text_edit_field>
+						<static_text_field>Onscreen Title</static_text_field>
+						<text_edit_field>advice_item_title</text_edit_field>
+					</columns>
+					<columns>
+						<static_text_field>Onscreen Text</static_text_field>
+						<memo_edit_field>onscreen_text</memo_edit_field>
+					</columns>
+					<columns>
+						<static_text_field>Points Needed</static_text_field>
+						<text_edit_field>points_needed</text_edit_field>
+						<static_text_field>Game Area</static_text_field>
+						<text_edit_field>game_area</text_edit_field>
+						<static_text_field>Category</static_text_field>
+						<text_edit_field>category</text_edit_field>
+					</columns>
+					<columns>
+						<static_text_field>Sub Category</static_text_field>
+						<text_edit_field>sub_category</text_edit_field>
+						<static_text_field>Max Repeat Count</static_text_field>
+						<text_edit_field>max_repeat_count</text_edit_field>
+						<static_text_field>Repeat Interval</static_text_field>
+						<text_edit_field>repeat_interval</text_edit_field>
+					</columns>
+					<columns>
+						<static_text_field>Priority level</static_text_field>
+						<text_edit_field>priority_level</text_edit_field>
+						<static_text_field>Parameter</static_text_field>
+						<text_edit_field>parameter</text_edit_field>
+						<static_text_field>Audio Clip</static_text_field>
+						<text_edit_field>audio_clip</text_edit_field>
+					</columns>
+					<columns>
+						<static_text_field>Pause Battle?</static_text_field>
+						<check_box_field>pause_battle</check_box_field>
+						<static_text_field>Suppressible?</static_text_field>
+						<check_box_field>suppressible</check_box_field>
+						<static_text_field>Uninhibitable?</static_text_field>
+						<check_box_field>uninhibitable</check_box_field>
+					</columns>
+					<columns>
+						<static_text_field>On Display Script</static_text_field>
+						<memo_edit_field>on_display_script</memo_edit_field>
+					</columns>
+					<columns>
+						<static_text_field>Advisor Name</static_text_field>
+						<combo_box_field>advisor_name</combo_box_field>
+						<static_text_field>Appears In Loading Screens?</static_text_field>
+						<check_box_field>for_loading_screen</check_box_field>
+					</columns>	
+				</subform_table>
+			</rows>
+			<rows>
+				<subform_table>
+					<table_name>advice_trigger_to_advice_thread</table_name>
+					<new_button/>
+					<record_switching>false</record_switching>
+					<filter_field>thread</filter_field>
+					<parent_table>advice_threads</parent_table>
+					<parent_field>thread</parent_field>
+					<edit_grid>
+						<edit_grid_column name="Trigger">trigger</edit_grid_column>
+						<edit_grid_column name="Amount">amount</edit_grid_column>
+					</edit_grid>
+				</subform_table>
+			</rows>
+		</columns>
+	</rows>
+</root>

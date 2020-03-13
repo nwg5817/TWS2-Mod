@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_videos>
+<root>
+  <edit_uuid>3c3cd46f-cbfa-4cbe-b5a2-1a47eccb30c3</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>video_name</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>video_type</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>video_type</column_source_column>
+    <column_source_table>video_types</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>audio_tracks</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+    <default_value>1</default_value>
+  </field>
+</root>

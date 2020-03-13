@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_bribe_actions>
+<root>
+  <edit_uuid>d0a1f93b-0338-4c26-b36c-0a70fbe7b4d7</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>action</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>onscreen</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+</root>

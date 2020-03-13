@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Thu 15. Dec 14:30:01 2011" revision="4" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Jack.Lusted">
+<edit_uuid>89ff2575-c6a0-4317-8cf8-0228f3514b94</edit_uuid><unit_castes>
+<caste>ashigaru</caste>
+<localised_name>Ashigaru</localised_name>
+</unit_castes>
+<unit_castes>
+<caste>female_hero</caste>
+<localised_name>Female Hero</localised_name>
+</unit_castes>
+<unit_castes>
+<caste>generic</caste>
+<localised_name>Generic</localised_name>
+</unit_castes>
+<unit_castes>
+<caste>modern</caste>
+<localised_name>Modern</localised_name>
+</unit_castes>
+<unit_castes>
+<caste>monk_hero</caste>
+<localised_name>Monk Hero</localised_name>
+</unit_castes>
+<unit_castes>
+<caste>naval</caste>
+<localised_name>Ship</localised_name>
+</unit_castes>
+<unit_castes>
+<caste>samurai</caste>
+<localised_name>Samurai</localised_name>
+</unit_castes>
+<unit_castes>
+<caste>samurai_hero</caste>
+<localised_name>Samurai Hero</localised_name>
+</unit_castes>
+<unit_castes>
+<caste>special</caste>
+</unit_castes>
+<unit_castes>
+<caste>traditional</caste>
+<localised_name>Traditional</localised_name>
+</unit_castes>
+</dataroot>

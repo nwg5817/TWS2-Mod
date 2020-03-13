@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Fri 14. Oct 11:49:53 2011" revision="2" export_branch="C:/TW/branches/shogun2/boshin/shogun2/src" export_user="Tim.Gosling">
+<edit_uuid>64920570-4ad2-4b92-945e-b15b11f9c228</edit_uuid><cai_personalities_randomisation_policies>
+<randomisation_policy_key>cai_prpt_never</randomisation_policy_key>
+</cai_personalities_randomisation_policies>
+<cai_personalities_randomisation_policies>
+<randomisation_policy_key>cai_prpt_on_faction_leader_death</randomisation_policy_key>
+</cai_personalities_randomisation_policies>
+<cai_personalities_randomisation_policies>
+<randomisation_policy_key>cai_prpt_on_initilisation</randomisation_policy_key>
+</cai_personalities_randomisation_policies>
+<cai_personalities_randomisation_policies>
+<randomisation_policy_key>cai_prpt_on_initilisation_and_faction_leader_death</randomisation_policy_key>
+</cai_personalities_randomisation_policies>
+</dataroot>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Thu 12. Jan 10:02:45 2012" revision="3" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="James.Whitston">
+<edit_uuid>90a26324-dc75-4a55-a0c2-60f217698410</edit_uuid><avatar_unit_group_recruitment_limits>
+<number_of_units>1</number_of_units>
+<string>fe_recruitment_card_tooltip_category_clamp_reached</string>
+<unit_group>bosh_arty</unit_group>
+</avatar_unit_group_recruitment_limits>
+<avatar_unit_group_recruitment_limits>
+<number_of_units>8</number_of_units>
+<string>fe_recruitment_card_tooltip_cap_reached_bosh_cav</string>
+<unit_group>bosh_cav_all</unit_group>
+</avatar_unit_group_recruitment_limits>
+<avatar_unit_group_recruitment_limits>
+<number_of_units>8</number_of_units>
+<string>fe_recruitment_card_tooltip_cap_reached_bosh_sword</string>
+<unit_group>bosh_sword_inf</unit_group>
+</avatar_unit_group_recruitment_limits>
+<avatar_unit_group_recruitment_limits>
+<number_of_units>1</number_of_units>
+<string>fe_recruitment_card_tooltip_category_clamp_reached</string>
+<unit_group>siege</unit_group>
+</avatar_unit_group_recruitment_limits>
+</dataroot>

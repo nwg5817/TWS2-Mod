@@ -1,0 +1,11 @@
+<!DOCTYPE TWaD_campaign_ai_character_skill_tree_agent_managers>
+<root>
+<edit_uuid>fdca6109-9a46-11df-8001-001fd02417f0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+</root>

@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_ancillary_triggers_to_ancillary_removals>
+<root>
+  <edit_uuid>b17b4e40-f789-4504-8c95-f6b81ee678d5</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>id</name>
+    <field_type>autonumber</field_type>
+    <required>1</required>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>trigger</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+    <column_source_column>trigger</column_source_column>
+    <column_source_table>ancillary_triggers</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>ancillary</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>ancillary</column_source_column>
+    <column_source_table>ancillary_info</column_source_table>
+  </field>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_start_pos_family_relationships>
+<root>
+  <edit_uuid>7a874d40-6ef3-11df-be2b-0800200c9a66</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>character</name>
+    <field_type>integer</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+    <column_source_column>ID</column_source_column>
+    <column_source_column>Name</column_source_column>
+    <column_source_column>Surname</column_source_column>
+    <column_source_table>start_pos_characters</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>related_to</name>
+    <field_type>integer</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+    <column_source_column>ID</column_source_column>
+    <column_source_column>Name</column_source_column>
+    <column_source_column>Surname</column_source_column>
+    <column_source_table>start_pos_characters</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>relationship</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>relationship_type</column_source_column>
+    <column_source_table>family_relationship_types</column_source_table>
+  </field>
+</root>

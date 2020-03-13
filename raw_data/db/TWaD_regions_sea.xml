@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_regions_sea>
+<root>
+  <edit_uuid>616a553e-67c5-4a6e-a2cd-b1fa6c277895</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>sea_region_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>onscreen_name</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <default_value>"PLACEHOLDER"</default_value>
+    <max_length>50</max_length>
+  </field>
+</root>

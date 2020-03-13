@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_battle_sequences>
+<root>
+  <edit_uuid>e517fbc0-5826-11df-9879-0800200c9a66</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>battle</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_column>localised_name</column_source_column>
+    <column_source_table>battles</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>unlock_order</name>
+    <field_type>longinteger</field_type>
+    <required>0</required>
+  </field>
+</root>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Mon 21. May 15:00:42 2012" revision="7" export_branch="T:/branches/shogun2/boshin_dlc/shogun2/binaries" export_user="Richard.Aldridge">
+<edit_uuid>e79e6097-ac53-458d-9dc7-28d91d508227</edit_uuid><avatar_product_lookups>
+<key>boshin</key>
+<localised_string>You must purchase the Fall of the Samurai dlc in order to access this content</localised_string>
+</avatar_product_lookups>
+<avatar_product_lookups>
+<key>common</key>
+<localised_string>n/a</localised_string>
+</avatar_product_lookups>
+<avatar_product_lookups>
+<key>gempei</key>
+<localised_string>You must purchase the Rise of the Samurai dlc in order to access this content</localised_string>
+</avatar_product_lookups>
+<avatar_product_lookups>
+<key>ikko_ikki</key>
+<localised_string>You must purchase the Ikko Ikki dlc in order to access this content</localised_string>
+</avatar_product_lookups>
+<avatar_product_lookups>
+<key>shogun2</key>
+<localised_string>blah</localised_string>
+</avatar_product_lookups>
+<avatar_product_lookups>
+<key>unit_pack_1</key>
+<localised_string>You must have the Sengoku Jidai Unit Pack dlc installed to recruit this unit.</localised_string>
+</avatar_product_lookups>
+<avatar_product_lookups>
+<key>unit_pack_2</key>
+<localised_string>You must have the Saints &amp; Heroes Unit Pack dlc installed to recruit this unit.</localised_string>
+</avatar_product_lookups>
+</dataroot>

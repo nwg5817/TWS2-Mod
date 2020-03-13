@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_battle_bridge_subculture_jcts>
+<root>
+  <edit_uuid>6723bb1d-7a98-4366-bd0a-1d54462805a7</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>subculture</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>subculture</column_source_column>
+    <column_source_table>cultures_subcultures</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>simple_bridge</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>battlefield_buildings</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>refined_bridge</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>battlefield_buildings</column_source_table>
+  </field>
+</root>

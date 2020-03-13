@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaDFORMDESCR_trait_triggers>
+<root>
+	<form_name>Trait Triggers</form_name>
+	<columns>
+		<rows>
+			<subform_table>
+				<table_name>trait_triggers</table_name>
+				<new_button/>
+				<base_node/>
+				<record_switching>true</record_switching>
+				<filter_field>trigger</filter_field>
+				<parent_table></parent_table>
+				<parent_field></parent_field>
+				<columns>
+					<static_text_field>Trigger</static_text_field>
+					<text_edit_field>trigger</text_edit_field>
+				</columns>
+				<columns>
+					<static_text_field>Event</static_text_field>
+					<combo_box_field>event</combo_box_field>
+				</columns>
+				<static_text_field>Conditions</static_text_field>
+				<memo_edit_field>conditions</memo_edit_field>
+			</subform_table>
+		</rows>
+		<rows>
+			<static_text_field>Add Trait Points</static_text_field>
+			<subform_table>
+				<table_name>trigger_effects</table_name>
+				<new_button/>
+				<record_switching>false</record_switching>
+				<filter_field>trigger</filter_field>
+				<parent_table>trait_triggers</parent_table>
+				<parent_field>trigger</parent_field>
+				<edit_grid>
+					<edit_grid_column name="Trait">trait</edit_grid_column>
+					<edit_grid_column name="Points">value</edit_grid_column>
+					<edit_grid_column name="Chance (%)">chance</edit_grid_column>
+				</edit_grid>
+			</subform_table>
+		</rows>
+	</columns>
+</root>

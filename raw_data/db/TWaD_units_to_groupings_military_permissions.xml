@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_units_to_groupings_military_permissions>
+<root>
+  <edit_uuid>ef3f8578-88f0-4544-9ebe-b745f7d7b41f</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>unit</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>units</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>military_group</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>military_group</column_source_column>
+    <column_source_table>groupings_military</column_source_table>
+  </field>
+</root>

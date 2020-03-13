@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_groupings>
+<root>
+  <edit_uuid>7761b087-902d-4e3b-a414-f4c5a8d6bfb6</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>group_name</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+</root>

@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_unit_regiment_names>
+<root>
+  <edit_uuid>c99f3a8a-8226-11e0-8001-6cf049ef02b0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>name_group</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+    <column_source_column>ID</column_source_column>
+    <column_source_table>names_groups</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>unit_caste</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+    <column_source_column>caste</column_source_column>
+    <column_source_table>unit_castes</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>unit_name</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>unit_regiment_names_localisation_lookup</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>name_order</name>
+    <field_type>longinteger</field_type>
+    <required>0</required>
+    <default_value>0</default_value>
+  </field>
+</root>

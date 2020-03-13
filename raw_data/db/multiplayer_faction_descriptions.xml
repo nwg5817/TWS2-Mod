@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Wed 9. Nov 15:48:43 2011" revision="11" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Jack.Lusted">
+<edit_uuid>432c8a55-8fc5-437a-b794-cd9f9d34df66</edit_uuid><multiplayer_faction_descriptions>
+<faction>bos_cb_aizu</faction>
+<land_description>Shogunate supporting faction with lots of unique units.</land_description>
+<naval_description>Standard ships.</naval_description>
+</multiplayer_faction_descriptions>
+<multiplayer_faction_descriptions>
+<faction>bos_cb_choshu</faction>
+<land_description>Imperial supporting faction.</land_description>
+<naval_description>Standard ships.</naval_description>
+</multiplayer_faction_descriptions>
+<multiplayer_faction_descriptions>
+<faction>bos_cb_jozai</faction>
+<land_description>Shogunate supporting faction.</land_description>
+<naval_description>Standard ships.</naval_description>
+</multiplayer_faction_descriptions>
+<multiplayer_faction_descriptions>
+<faction>bos_cb_nagaoka</faction>
+<land_description>Shogunate supporting faction.</land_description>
+<naval_description>Standard ships.</naval_description>
+</multiplayer_faction_descriptions>
+<multiplayer_faction_descriptions>
+<faction>bos_cb_obama</faction>
+<land_description>Shogunate supporting faction.</land_description>
+<naval_description>Standard ships.</naval_description>
+</multiplayer_faction_descriptions>
+<multiplayer_faction_descriptions>
+<faction>bos_cb_saga</faction>
+<land_description>Imperial supporting faction.</land_description>
+<naval_description>Standard ships.</naval_description>
+</multiplayer_faction_descriptions>
+<multiplayer_faction_descriptions>
+<faction>bos_cb_satsuma</faction>
+<land_description>Imperial supporting faction.</land_description>
+<naval_description>Standard ships.</naval_description>
+</multiplayer_faction_descriptions>
+<multiplayer_faction_descriptions>
+<faction>bos_cb_sendai</faction>
+<land_description>Shogunate supporting faction.</land_description>
+<naval_description>Standard ships.</naval_description>
+</multiplayer_faction_descriptions>
+<multiplayer_faction_descriptions>
+<faction>bos_cb_tosa</faction>
+<land_description>Imperial supporting faction.</land_description>
+<naval_description>Standard ships.</naval_description>
+</multiplayer_faction_descriptions>
+<multiplayer_faction_descriptions>
+<faction>bos_cb_ueno</faction>
+<land_description>Imperial supporting faction.</land_description>
+<naval_description>Standard ships.</naval_description>
+</multiplayer_faction_descriptions>
+<multiplayer_faction_descriptions>
+<faction>bos_imperial</faction>
+<land_description>Imperial supporting faction.</land_description>
+<naval_description>Standard ships.</naval_description>
+</multiplayer_faction_descriptions>
+<multiplayer_faction_descriptions>
+<faction>bos_shogunate</faction>
+<land_description>Shogunate supporting faction.</land_description>
+<naval_description>Standard ships.</naval_description>
+</multiplayer_faction_descriptions>
+<multiplayer_faction_descriptions>
+<faction>chosokabe</faction>
+<land_description>Superior bow infantry.</land_description>
+<naval_description>Standard ships.</naval_description>
+</multiplayer_faction_descriptions>
+<multiplayer_faction_descriptions>
+<faction>date</faction>
+<land_description>Superior no-dachi samurai.</land_description>
+<naval_description>Standard ships.</naval_description>
+</multiplayer_faction_descriptions>
+<multiplayer_faction_descriptions>
+<faction>gem_fujiwara_hiraizumi</faction>
+<land_description>Standard land units.</land_description>
+<naval_description>Standard ships.</naval_description>
+</multiplayer_faction_descriptions>
+<multiplayer_faction_descriptions>
+<faction>gem_fujiwara_kubota</faction>
+<land_description>Standard land units.</land_description>
+<naval_description>Standard ships.</naval_description>
+</multiplayer_faction_descriptions>
+<multiplayer_faction_descriptions>
+<faction>gem_minamoto_kamakura</faction>
+<land_description>Standard land units.</land_description>
+<naval_description>Standard ships.</naval_description>
+</multiplayer_faction_descriptions>
+<multiplayer_faction_descriptions>
+<faction>gem_minamoto_kiso</faction>
+<land_description>Standard land units.</land_description>
+<naval_description>Standard ships.</naval_description>
+</multiplayer_faction_descriptions>
+<multiplayer_faction_descriptions>
+<faction>gem_taira_fukuhara</faction>
+<land_description>Standard land units.</land_description>
+<naval_description>Standard ships.</naval_description>
+</multiplayer_faction_descriptions>
+<multiplayer_faction_descriptions>
+<faction>gem_taira_yashima</faction>
+<land_description>Standard land units.</land_description>
+<naval_description>Standard ships.</naval_description>
+</multiplayer_faction_descriptions>
+<multiplayer_faction_descriptions>
+<faction>hojo</faction>
+<land_description>Superior siege weapons.</land_description>
+<naval_description>Standard ships.</naval_description>
+</multiplayer_faction_descriptions>
+<multiplayer_faction_descriptions>
+<faction>iga_ninja</faction>
+<land_description>Superior kisho ninja units.\n\nAshigaru and samurai can deploy outside of deployment area.</land_description>
+<naval_description>Standard ships.</naval_description>
+</multiplayer_faction_descriptions>
+<multiplayer_faction_descriptions>
+<faction>ikko_ikki</faction>
+<land_description>Unique unit naginata warrior monk cavalry.\n\nAshigaru have superior morale but lower melee and ranged stats.\n\nNo samurai units.</land_description>
+<naval_description>Standard ships.</naval_description>
+</multiplayer_faction_descriptions>
+<multiplayer_faction_descriptions>
+<faction>mori</faction>
+<land_description>Standard land units.</land_description>
+<naval_description>Superior ships.</naval_description>
+</multiplayer_faction_descriptions>
+<multiplayer_faction_descriptions>
+<faction>oda</faction>
+<land_description>Superior ashigaru.</land_description>
+<naval_description>Standard ships.</naval_description>
+</multiplayer_faction_descriptions>
+<multiplayer_faction_descriptions>
+<faction>shimazu</faction>
+<land_description>Superior katana samurai.\n\nSuperior katana heroes.</land_description>
+<naval_description>Standard ships.</naval_description>
+</multiplayer_faction_descriptions>
+<multiplayer_faction_descriptions>
+<faction>takeda</faction>
+<land_description>Superior cavalry.</land_description>
+<naval_description>Standard ships.</naval_description>
+</multiplayer_faction_descriptions>
+<multiplayer_faction_descriptions>
+<faction>tokugawa</faction>
+<land_description>Superior kisho ninja units.</land_description>
+<naval_description>Standard ships.</naval_description>
+</multiplayer_faction_descriptions>
+<multiplayer_faction_descriptions>
+<faction>uesugi</faction>
+<land_description>Superior warrior monks.</land_description>
+<naval_description>Standard ships.</naval_description>
+</multiplayer_faction_descriptions>
+</dataroot>

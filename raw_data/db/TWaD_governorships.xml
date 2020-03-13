@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_governorships>
+<root>
+  <edit_uuid>1ccc0ac1-d437-4a00-97b4-679d2fdc2721</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>governorship</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>onscreen</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+</root>

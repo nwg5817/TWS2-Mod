@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_start_pos_calendars>
+<root>
+  <edit_uuid>86bf33cb-1057-4fb4-bf5f-8a7b89c00a52</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>campaign</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+    <max_length>50</max_length>
+    <column_source_column>campaign_name</column_source_column>
+    <column_source_column>onscreen_name</column_source_column>
+    <column_source_table>campaigns</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>start_year</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+    <default_value>1700</default_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>start_season</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>season</column_source_column>
+    <column_source_column>onscreen</column_source_column>
+    <column_source_table>seasons</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>turns_per_year</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+    <default_value>2</default_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>start_week_of_year</name>
+    <field_type>integer</field_type>
+    <required>1</required>
+  </field>
+</root>

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_groupings_military>
+<root>
+  <edit_uuid>1e997fec-b779-4771-81a9-836e8bc64b17</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>military_group</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+</root>

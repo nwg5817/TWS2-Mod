@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_names_titles_by_agent>
+<root>
+  <edit_uuid>ea0765b0-d478-4291-8b59-4df363f51ca6</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>agent_type</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>agents</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>highest_title</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+</root>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Thu 10. Jun 10:14:15 2010">
+<edit_uuid>019fa7e2-1222-460a-b938-dc61d27ae5e7</edit_uuid><government_types>
+<active_lower_class>upper</active_lower_class>
+<active_upper_class>upper</active_upper_class>
+<elected_ministers>0</elected_ministers>
+<government_type>gov_absolute_monarchy</government_type>
+<hereditary_ministers>1</hereditary_ministers>
+<onscreen>Absolute Monarchy</onscreen>
+<rank>3</rank>
+</government_types>
+<government_types>
+<active_lower_class>middle</active_lower_class>
+<active_upper_class>upper</active_upper_class>
+<elected_ministers>0</elected_ministers>
+<government_type>gov_constitutional_monarchy</government_type>
+<hereditary_ministers>0</hereditary_ministers>
+<onscreen>Constitutional Monarchy</onscreen>
+<rank>2</rank>
+</government_types>
+<government_types>
+<active_lower_class>lower</active_lower_class>
+<active_upper_class>middle</active_upper_class>
+<elected_ministers>0</elected_ministers>
+<government_type>gov_empire</government_type>
+<hereditary_ministers>1</hereditary_ministers>
+<onscreen>Empire</onscreen>
+<rank>0</rank>
+</government_types>
+<government_types>
+<active_lower_class>lower</active_lower_class>
+<active_upper_class>lower</active_upper_class>
+<elected_ministers>0</elected_ministers>
+<government_type>gov_jap_clan</government_type>
+<hereditary_ministers>0</hereditary_ministers>
+<onscreen>Clan</onscreen>
+<rank>4</rank>
+</government_types>
+<government_types>
+<active_lower_class>lower</active_lower_class>
+<active_upper_class>lower</active_upper_class>
+<elected_ministers>0</elected_ministers>
+<government_type>gov_jap_shogunate</government_type>
+<hereditary_ministers>0</hereditary_ministers>
+<onscreen>Shogunate</onscreen>
+<rank>0</rank>
+</government_types>
+<government_types>
+<active_lower_class>lower</active_lower_class>
+<active_upper_class>middle</active_upper_class>
+<elected_ministers>1</elected_ministers>
+<government_type>gov_republic</government_type>
+<hereditary_ministers>0</hereditary_ministers>
+<onscreen>Republic</onscreen>
+<rank>1</rank>
+</government_types>
+</dataroot>

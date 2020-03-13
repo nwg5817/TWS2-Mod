@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Wed 29. Sep 11:37:26 2010" revision="3" export_branch="C:/TW/Tim.Gosling_TRISTAN_MOBILE/campaign/dev/shogun2/src" export_user="Tim.Gosling">
+<edit_uuid>399734d4-2c48-4ca2-bc23-da2222780566</edit_uuid><cai_personalities_religious_conversion_policies>
+<key>cai_prcp_buddhist_fanatic</key>
+</cai_personalities_religious_conversion_policies>
+<cai_personalities_religious_conversion_policies>
+<key>cai_prcp_christian_fanatic</key>
+</cai_personalities_religious_conversion_policies>
+<cai_personalities_religious_conversion_policies>
+<key>cai_prcp_evasive</key>
+</cai_personalities_religious_conversion_policies>
+</dataroot>

@@ -1,0 +1,34 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_start_pos_victory_conditions>
+<root>
+  <edit_uuid>ebaa8f6d-fa17-47d9-9104-e52f61980249</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>start_pos_faction</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+    <column_source_column>ID</column_source_column>
+    <column_source_column>faction</column_source_column>
+    <column_source_column>campaign</column_source_column>
+    <column_source_table>start_pos_factions</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>region</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>regions</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>victory_type</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>victory_type</column_source_column>
+    <column_source_table>victory_types</column_source_table>
+  </field>
+</root>

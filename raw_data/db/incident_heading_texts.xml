@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Thu 29. Apr 14:33:53 2010">
+<edit_uuid>20e0d7d4-678a-478a-9057-ca9b778035fc</edit_uuid><incident_heading_texts>
+<key>PLACEHOLDER</key>
+<localised_heading_text>PLACEHOLDER</localised_heading_text>
+</incident_heading_texts>
+<incident_heading_texts>
+<key>i_con_vengeful_son_heading</key>
+<localised_heading_text>Vengeful Son</localised_heading_text>
+</incident_heading_texts>
+<incident_heading_texts>
+<key>i_dis_earthquake_heading</key>
+<localised_heading_text>Earthquake!</localised_heading_text>
+</incident_heading_texts>
+<incident_heading_texts>
+<key>i_dis_taifun_heading</key>
+<localised_heading_text>Taifun!</localised_heading_text>
+</incident_heading_texts>
+<incident_heading_texts>
+<key>i_dis_tsunami_heading</key>
+<localised_heading_text>Tsunami!</localised_heading_text>
+</incident_heading_texts>
+<incident_heading_texts>
+<key>i_dis_volcano</key>
+<localised_heading_text>Volcano!</localised_heading_text>
+</incident_heading_texts>
+</dataroot>

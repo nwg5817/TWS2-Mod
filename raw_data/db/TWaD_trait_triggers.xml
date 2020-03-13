@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_trait_triggers>
+<root>
+  <edit_uuid>7d50c4b9-94cc-4c98-97b6-05355f9b805a</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>trigger</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>event</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>event</column_source_column>
+    <column_source_table>trigger_events</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>conditions</name>
+    <field_type>memo</field_type>
+    <required>1</required>
+    <max_length>536870910</max_length>
+  </field>
+</root>

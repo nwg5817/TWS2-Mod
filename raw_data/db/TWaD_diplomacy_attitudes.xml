@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_diplomacy_attitudes>
+<root>
+  <edit_uuid>2fde34b0-6e68-11df-be2b-0800200c9a66</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>attitude</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>cap</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>drift</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>value</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+  </field>
+</root>

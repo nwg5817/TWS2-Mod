@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_battlefield_building_transformations>
+<root>
+  <edit_uuid>12e5942c-3a51-4c9c-b098-a6e6c4da94bc</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>transformation</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>description</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>255</max_length>
+  </field>
+</root>

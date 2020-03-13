@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_agent_spawning>
+<root>
+  <edit_uuid>a7a08be4-7029-4d5f-93b0-08a93fd92e18</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>agent</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>agents</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>base_chance</name>
+    <field_type>double</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+</root>

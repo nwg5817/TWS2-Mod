@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_unit_movement_modifiers_original_system>
+<root>
+  <edit_uuid>99168156-f14f-4b29-9402-ac2663379da5</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>autonumber</field_type>
+    <required>1</required>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>unit type</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>type</column_source_column>
+    <column_source_table>unit_types</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>movement_type</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>type</column_source_column>
+    <column_source_table>movement_types</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>ground_type</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>type</column_source_column>
+    <column_source_table>ground_types</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>ground_condition_type</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>type</column_source_column>
+    <column_source_table>ground_condition_types</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>modifier</name>
+    <field_type>double</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+</root>

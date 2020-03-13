@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Thu 1. Sep 15:09:34 2011" revision="2" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Jeff.Woods">
+<edit_uuid>001b06ee-7fdd-4fde-9f3e-55ba4e10d205</edit_uuid><effect_bonus_value_shot_type_junctions>
+<bonus_value_id>enable</bonus_value_id>
+<effect>bos_tech_ability_enable_advanced_segment_shell</effect>
+<shot_type>segment_shell_improved</shot_type>
+</effect_bonus_value_shot_type_junctions>
+<effect_bonus_value_shot_type_junctions>
+<bonus_value_id>enable</bonus_value_id>
+<effect>bos_tech_ability_enable_common_shell</effect>
+<shot_type>common_shell</shot_type>
+</effect_bonus_value_shot_type_junctions>
+<effect_bonus_value_shot_type_junctions>
+<bonus_value_id>enable</bonus_value_id>
+<effect>bos_tech_ability_enable_segment_shell</effect>
+<shot_type>segment_shell</shot_type>
+</effect_bonus_value_shot_type_junctions>
+<effect_bonus_value_shot_type_junctions>
+<bonus_value_id>enable</bonus_value_id>
+<effect>bos_tech_ability_enable_torpedo</effect>
+<shot_type>torpedo</shot_type>
+</effect_bonus_value_shot_type_junctions>
+</dataroot>

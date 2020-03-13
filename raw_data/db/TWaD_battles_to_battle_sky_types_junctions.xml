@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_battles_to_battle_sky_types_junctions>
+<root>
+  <edit_uuid>de1703c3-a72d-47ae-98ac-83bae5727de3</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>battle_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>battles</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>battle_sky_type_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>battle_sky_types</column_source_table>
+  </field>
+</root>

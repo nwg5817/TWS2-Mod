@@ -1,0 +1,41 @@
+<!DOCTYPE TWaD_unit_voice_events_junctions>
+<root>
+<edit_uuid>0f10e769-c58a-11df-8001-001fd02417f0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>unit_voice_category_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>unit_voice_categories</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>voice_type_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <default_value>generic</default_value>
+    <column_source_column>key</column_source_column>
+    <column_source_table>voice_types</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>voice_event_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>name</column_source_column>
+    <column_source_table>voice_events</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>sound_event_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>name</column_source_column>
+    <column_source_table>sound_events</column_source_table>
+  </field>
+</root>

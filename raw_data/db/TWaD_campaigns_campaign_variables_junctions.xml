@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_campaigns_campaign_variables_junctions>
+<root>
+  <edit_uuid>9efcd447-b920-11e0-8001-6cf049ef02b0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>variable_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>variable_key</column_source_column>
+    <column_source_table>campaign_variables</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>campaign_name</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>campaign_name</column_source_column>
+    <column_source_table>campaigns</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>value</name>
+    <field_type>double</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>optional_difficulty_level</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>20000</max_length>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>optional_campaign_type</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>20000</max_length>
+  </field>
+</root>

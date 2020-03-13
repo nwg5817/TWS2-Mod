@@ -1,0 +1,27 @@
+<!DOCTYPE TWaD_mp_force_gen_army_sizes_by_budgets>
+<root>
+<edit_uuid>46ac736c-c72b-11df-8001-001fd02417f0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>budget_size</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>mp_budget_sizes</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>minimum_unit_count</name>
+    <field_type>integer</field_type>
+    <required>1</required>
+    <default_value>1</default_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>maximum_unit_count</name>
+    <field_type>integer</field_type>
+    <required>1</required>
+    <default_value>20</default_value>
+  </field>
+</root>

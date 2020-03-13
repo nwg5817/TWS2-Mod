@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Fri 15. Oct 16:03:57 2010" revision="5" export_branch="C:/TW/battle/dev/shogun2/src" export_user="Julian.McKinlay">
+<edit_uuid>73dfdaaf-ffb6-4f74-abd9-51265d994c2e</edit_uuid><_kv_experience_bonuses>
+<description>For capturing a key building (applied to all units involved)</description>
+<key>captured_key_building</key>
+<value>80</value>
+</_kv_experience_bonuses>
+<_kv_experience_bonuses>
+<description>For capturing the victory location (applied to all units involved)</description>
+<key>captured_victory_location</key>
+<value>160</value>
+</_kv_experience_bonuses>
+<_kv_experience_bonuses>
+<description>For being the first unit to enter an enemy castle</description>
+<key>first_to_enter_enemy_fort</key>
+<value>200</value>
+</_kv_experience_bonuses>
+<_kv_experience_bonuses>
+<description>For killing the enemy commander (not given for brigadiers)</description>
+<key>killed_enemy_commander_base</key>
+<value>200</value>
+</_kv_experience_bonuses>
+<_kv_experience_bonuses>
+<description>Additional bonus for killing the commander, per command star</description>
+<key>killed_enemy_commander_per_star</key>
+<value>50</value>
+</_kv_experience_bonuses>
+<_kv_experience_bonuses>
+<description>For killing the enemy faction leader</description>
+<key>killed_enemy_faction_leader</key>
+<value>500</value>
+</_kv_experience_bonuses>
+<_kv_experience_bonuses>
+<description>For killing an enemy family member that is not the faction leader</description>
+<key>killed_enemy_family_member</key>
+<value>200</value>
+</_kv_experience_bonuses>
+</dataroot>

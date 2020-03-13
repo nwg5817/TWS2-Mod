@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_avatar_ancillaries_to_categories_juncs>
+<root>
+  <edit_uuid>12818710-82c2-11e0-8001-6cf049ef02b0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>2000</max_length>
+    <column_source_column>ancillary</column_source_column>
+    <column_source_table>ancillary_info</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>retainer_category</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>2000</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>avatar_ancillaries_categories_lookups</column_source_table>
+  </field>
+</root>

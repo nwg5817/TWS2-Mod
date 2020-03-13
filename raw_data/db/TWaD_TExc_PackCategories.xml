@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_TExc_PackCategories>
+<root>
+  <edit_uuid>5e37239f-a15d-41fb-8e23-742b89030f57</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>pack_category</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>script_name</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>pack_file</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>localisation_file</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>locked</name>
+    <field_type>yesno</field_type>
+    <required>0</required>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>locked_by</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+  </field>
+</root>

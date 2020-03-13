@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_campaign_character_anim_walk_anim_junctions>
+<root>
+  <edit_uuid>3c85eb05-f2c2-403e-b147-cd416f645d82</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>autonumber</field_type>
+    <required>1</required>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>character_anim_set</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>campaign_character_anim_sets</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>walk_anim_set</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>campaign_walk_anim_sets</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>anim_status</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>status</column_source_column>
+    <column_source_table>campaign_character_anim_status</column_source_table>
+  </field>
+</root>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Thu 15. Jul 15:35:38 2010" revision="1" export_branch="C:/TW/campaign/dev/shogun2/src" export_user="Tim.Gosling">
+<edit_uuid>fa52b534-792d-4d8e-9573-c44d65af4d92</edit_uuid><cai_agent_recruitment_types>
+<key>cai_art_blocked</key>
+</cai_agent_recruitment_types>
+<cai_agent_recruitment_types>
+<key>cai_art_prefered</key>
+</cai_agent_recruitment_types>
+<cai_agent_recruitment_types>
+<key>cai_art_unbiased</key>
+</cai_agent_recruitment_types>
+</dataroot>

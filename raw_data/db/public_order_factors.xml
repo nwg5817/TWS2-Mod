@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Wed 16. May 15:13:38 2012" revision="46" export_branch="T:/branches/shogun2/boshin_dlc/shogun2/binaries" export_user="Jeff.Woods">
+<edit_uuid>9753d3dd-4b16-420b-a137-33a05ddf052a</edit_uuid><public_order_factors>
+<factor>happiness_allegiance</factor>
+<negative_pip_path>data/ui/campaign ui/pips/events-unhappy.tga</negative_pip_path>
+<negative_tooltip>Religious unrest: %S||Counter this by converting this province to your clan's religion.</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/events-happy.tga</positive_pip_path>
+<positive_tooltip>Religious happiness: %S||Increase this by converting this province to your clan's religion.</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_bankruptcy</factor>
+<negative_pip_path>data/ui/campaign ui/pips/taxes-unhappy.tga</negative_pip_path>
+<negative_tooltip>Bankruptcy:%S||You have recently gone bankrupt. Ensure your income is greater than your costs.||Raise taxes and reduce standing armies to balance your budget.</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/taxes-unhappy.tga</positive_pip_path>
+<positive_tooltip>Bankruptcy:%S||You have recently gone bankrupt. Ensure your income is greater than your costs.||Raise taxes and reduce standing armies to balance your budget.</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_buildings</factor>
+<negative_pip_path>data/ui/campaign ui/pips/bos_underdevelopment_traditional_unhappy.tga</negative_pip_path>
+<negative_tooltip>Buildings: %S||Buildings in this province are causing unrest amongst the populace</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/buildings_repression.tga</positive_pip_path>
+<positive_tooltip>Buildings: %S||Buildings in this province have helped improve happiness amongst the populace.</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_characters</factor>
+<negative_pip_path>data/ui/campaign ui/pips/gentlemen-unhappy.tga</negative_pip_path>
+<negative_tooltip>Characters: %S||Enemy characters are causing unrest in this province; use a metsuke agent to root them out.</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/gentlemen-happy.tga</positive_pip_path>
+<positive_tooltip>Characters: %S||Your own (or allied) characters are agitating against opposition elements in the settlement, improving your control over the province.</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_characters</factor>
+<negative_pip_path>data/ui/campaign ui/pips/bos_character_unhappy.tga</negative_pip_path>
+<negative_tooltip>Characters: %S||Enemy characters are causing unrest in this province; deploy agents to deal with them.</negative_tooltip>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+<positive_pip_path>data/ui/campaign ui/pips/bos_character_happy.tga</positive_pip_path>
+<positive_tooltip>Characters: %S||Your own (or allied) characters are agitating against opposition elements in the settlement, improving your control over the province.</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_culture</factor>
+<negative_pip_path>data/ui/campaign ui/pips/culture-happy.tga</negative_pip_path>
+<negative_tooltip>Cultural differences: %S</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/culture-happy.tga</positive_pip_path>
+<positive_tooltip>Culture: %S ||Increase this by developing your cultural buildings such as Sake Dens.</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_culture</factor>
+<negative_pip_path>data/ui/campaign ui/pips/bos_culture_happy.tga</negative_pip_path>
+<negative_tooltip>Cultural differences: %S</negative_tooltip>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+<positive_pip_path>data/ui/campaign ui/pips/bos_culture_happy.tga</positive_pip_path>
+<positive_tooltip>Culture: %S ||Increase this by developing your cultural buildings such as Sake Dens.</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_daimyo_honour</factor>
+<negative_pip_path>data/ui/campaign ui/pips/daimyo_honour-unhappy.tga</negative_pip_path>
+<negative_tooltip>Dishonourable Daimyo: %S||Your daimyo's dishonourable ways have brought shame upon the people.||Restore his honour to improve happiness in the province.</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/daimyo_honour_happy.tga</positive_pip_path>
+<positive_tooltip>Daimyo honour: %S||Your daimyo's honorable reputation has filled the people with pride and joy.</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_devastation</factor>
+<negative_pip_path>data/ui/campaign ui/pips/devastation-unhappy.tga</negative_pip_path>
+<negative_tooltip>Devastation: %S||Repair damaged buildings in the province to improve happiness.</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/devastation-unhappy.tga</positive_pip_path>
+<positive_tooltip>Devastation: %S</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_events</factor>
+<negative_pip_path>data/ui/campaign ui/pips/events-unhappy.tga</negative_pip_path>
+<negative_tooltip>Recent events: %S||Disasters and other events have a negative effect on happiness.</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/events-happy.tga</positive_pip_path>
+<positive_tooltip>Recent events: %S</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_food_shortage</factor>
+<negative_pip_path>data/ui/campaign ui/pips/food_shortage-unhappy.tga</negative_pip_path>
+<negative_tooltip>Food shortages: %S||Construct and improve new farms to increase food supplies.</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/food_shortage-unhappy.tga</positive_pip_path>
+<positive_tooltip>Food shortages: %S</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_gentlemen</factor>
+<negative_pip_path>data/ui/campaign ui/pips/gentlemen-unhappy.tga</negative_pip_path>
+<negative_tooltip>Characters: %S||Enemy characters are causing unrest in this province; deploy agents to deal with them.</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/gentlemen-happy.tga</positive_pip_path>
+<positive_tooltip>Characters: %S||Your own (or allied) characters are agitating against opposition elements in the settlement, improving your control over the province.</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_global_modernisation</factor>
+<negative_pip_path>data/ui/campaign ui/pips/bos_underdevelopment_traditional_unhappy.tga</negative_pip_path>
+<negative_tooltip>Samurai: %S ||Samurai across your domain are angered by your disregard for traditional values.</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/bos_balanced_development_happy.tga</positive_pip_path>
+<positive_tooltip>Samurai: %S ||Samurai across your domain are satisfied by your adherence to traditional values.</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_gov_type</factor>
+<negative_pip_path>data/ui/campaign ui/pips/culture-happy.tga</negative_pip_path>
+<negative_tooltip>Mastery of Arts: %S</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/culture-happy.tga</positive_pip_path>
+<positive_tooltip>Mastery of the Arts: %S</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_gov_type</factor>
+<negative_pip_path>data/ui/campaign ui/pips/bos_overdevelopment_modern_unhappy.tga</negative_pip_path>
+<negative_tooltip>Clan Development: %S</negative_tooltip>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+<positive_pip_path>data/ui/campaign ui/pips/bos_culture_happy.tga</positive_pip_path>
+<positive_tooltip>Clan Development: %S</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_industrialisation</factor>
+<negative_pip_path>data/ui/campaign ui/pips/devastation-unhappy.tga</negative_pip_path>
+<negative_tooltip>Disaster: %S||The people in this province are distraught at the recent natural disaster.</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/devastation-unhappy.tga</positive_pip_path>
+<positive_tooltip>Disaster: %S||The people in this province are distraught at the recent natural disaster.</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_local_modernisation</factor>
+<negative_pip_path>data/ui/campaign ui/pips/bos_underdevelopment_traditional_unhappy.tga</negative_pip_path>
+<negative_tooltip>Modernisation: %S ||Traditionalists in this province are angered at your endeavours to modernise clan infrastructure.</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/bos_balanced_development_happy.tga</positive_pip_path>
+<positive_tooltip>Modernisation: %S ||The people in this province are satisfied by your efforts to modernise clan infrastructure.</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_non_state_allegiance_unrest</factor>
+<negative_pip_path>data/ui/campaign ui/pips/unrest-unhappy.tga</negative_pip_path>
+<negative_tooltip>Non-clan allegiance: %S||Counter this by converting this region to your clan's allegiance.</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/unrest-unhappy.tga</positive_pip_path>
+<positive_tooltip>Non-clan allegiance: %S</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_non_state_religion_unrest</factor>
+<negative_pip_path>data/ui/campaign ui/pips/religion-unhappy.tga</negative_pip_path>
+<negative_tooltip>Non-clan religion: %S||Counter this by converting this region to your clan's religion.</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/religion-unhappy.tga</positive_pip_path>
+<positive_tooltip>Non-clan religion: %S</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_reform</factor>
+<negative_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</negative_pip_path>
+<negative_tooltip>Clamour for reform: %S ||As your nation becomes more advanced and educated, your population will demand political change.</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</positive_pip_path>
+<positive_tooltip>Political change: %S||Political changes have had a positive effect on public order.</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_religion</factor>
+<negative_pip_path>data/ui/campaign ui/pips/religion-unhappy.tga</negative_pip_path>
+<negative_tooltip>Religious unrest: %S||Counter this by converting this province to your clan's religion.</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/religion-happy.tga</positive_pip_path>
+<positive_tooltip>Religious happiness: %S||Increase this by converting this province to your clan's religion.</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_resistance</factor>
+<negative_pip_path>data/ui/campaign ui/pips/resistance-unhappy.tga</negative_pip_path>
+<negative_tooltip>Resistance to invaders: %S||Some of the population remain loyal to the former clan.||This will reduce over time. Garrison more troops in the area to increase repression, or exempt the region from tax.||You can do this on the province details panel.</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/resistance-happy.tga</positive_pip_path>
+<positive_tooltip>Resistance to invaders: %S</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_tax_rate</factor>
+<negative_pip_path>data/ui/campaign ui/pips/taxes-unhappy.tga</negative_pip_path>
+<negative_tooltip>Tax burden: %S||To lessen the tax burden on your population simply lower taxes.||You can do this on the Finance panel.</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/taxes-unhappy.tga</positive_pip_path>
+<positive_tooltip>Tax burden: %S||To lessen the tax burden on your population simply lower taxes.||You can do this on the Finance panel.</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_war</factor>
+<negative_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</negative_pip_path>
+<negative_tooltip>War weariness (enemy raids): %S||War weariness is a result of enemy rampaging in our province.</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</positive_pip_path>
+<positive_tooltip>War fervour: %S</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>population_growth_base</factor>
+<negative_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</negative_pip_path>
+<positive_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</positive_pip_path>
+<positive_tooltip>Subsistence agriculture: %S||This is the background level of food production in the province.</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>population_growth_buildings</factor>
+<negative_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</negative_pip_path>
+<positive_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</positive_pip_path>
+<positive_tooltip>Agriculture: %S||Increase this by developing your farms and mastering arts.</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>population_growth_food_shortages</factor>
+<negative_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</negative_pip_path>
+<positive_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</positive_pip_path>
+<positive_tooltip>Food shortages: %S||Increase food production by building or upgrading current farm buildings. ||Research into agricultural technologies will also be beneficial.</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>population_growth_happiness</factor>
+<negative_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</negative_pip_path>
+<negative_tooltip>Unhappiness: %S</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</positive_pip_path>
+<positive_tooltip>Happiness: %S</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>population_growth_migration</factor>
+<negative_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</negative_pip_path>
+<negative_tooltip>Emigration: %S||Unhappiness drives people to seek a better life elsewhere.</negative_tooltip>
+<positive_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</positive_pip_path>
+<positive_tooltip>Immigration: %S||Unhappiness drives people to seek a better life elsewhere.</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>population_growth_military</factor>
+<negative_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</negative_pip_path>
+<positive_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</positive_pip_path>
+<positive_tooltip>Devastation by armies: %S||Ensure there are no enemy armies inside your provinces.</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>population_growth_policies</factor>
+<negative_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</negative_pip_path>
+<positive_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</positive_pip_path>
+<positive_tooltip>Policies</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>population_growth_ports</factor>
+<negative_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</negative_pip_path>
+<positive_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</positive_pip_path>
+<positive_tooltip>Ports: %S||Increase this factor by developing your fishing ports.</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>population_growth_taxes</factor>
+<negative_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</negative_pip_path>
+<positive_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</positive_pip_path>
+<positive_tooltip>Tax burden: %S||To counter this, simply lower taxes.||You can do this on the Finances panel.</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>population_growth_technologies</factor>
+<negative_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</negative_pip_path>
+<positive_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</positive_pip_path>
+<positive_tooltip>Mastery of the Arts: %S||Increase this factor by mastering arts</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>population_growth_unrest</factor>
+<negative_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</negative_pip_path>
+<positive_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</positive_pip_path>
+<positive_tooltip>Unrest</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>repression_buildings</factor>
+<negative_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</negative_pip_path>
+<positive_pip_path>data/ui/campaign ui/pips/castle_level-repression.tga</positive_pip_path>
+<positive_tooltip>Castle (Repression): %S||Increase repression in your province by upgrading the castle.</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>repression_buildings</factor>
+<negative_pip_path>data/ui/campaign ui/pips/bos_castle_level_repression.tga</negative_pip_path>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+<positive_pip_path>data/ui/campaign ui/pips/bos_castle_level_repression.tga</positive_pip_path>
+<positive_tooltip>Castle (Repression): %S||Increase repression in your province by upgrading the castle.</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>repression_characters</factor>
+<negative_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</negative_pip_path>
+<positive_pip_path>data/ui/campaign ui/pips/gentlemen.tga</positive_pip_path>
+<positive_tooltip>Characters (Repression): %S||This is from characters embedded in the settlement.</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>repression_characters</factor>
+<negative_pip_path>data/ui/campaign ui/pips/bos_character_repression.tga</negative_pip_path>
+<optional_campaign_key>jap_boshin</optional_campaign_key>
+<positive_pip_path>data/ui/campaign ui/pips/bos_character_repression.tga</positive_pip_path>
+<positive_tooltip>Characters (Repression): %S||This is from characters embedded in the settlement or present in the province.</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>repression_events</factor>
+<negative_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</negative_pip_path>
+<positive_pip_path>data/ui/campaign ui/pips/events-repression.tga</positive_pip_path>
+<positive_tooltip>Events (Repression): %S</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>repression_garrison</factor>
+<negative_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</negative_pip_path>
+<positive_pip_path>data/ui/campaign ui/pips/garrison-repression.tga</positive_pip_path>
+<positive_tooltip>Garrisoned forces (Repression): %S||Improve this factor by increasing the garrison size in your settlement.</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>repression_gov_type</factor>
+<negative_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</negative_pip_path>
+<positive_pip_path>data/ui/campaign ui/pips/events-repression.tga</positive_pip_path>
+<positive_tooltip>Clan rule (Repression): %S</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>repression_military_crackdown</factor>
+<negative_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</negative_pip_path>
+<positive_pip_path>data/ui/campaign ui/pips/resistance-repression.tga</positive_pip_path>
+<positive_tooltip>Military crackdown (Repression): %S||Recent suppression of the rebels has reduced the appetite for more bloodshed.||This allows you time to rebuild the province and fix any damage that may have been caused during the rebellion.</positive_tooltip>
+</public_order_factors>
+<public_order_factors>
+<factor>repression_policing</factor>
+<negative_pip_path>data/ui/campaign ui/pips/resource_other_goods.tga</negative_pip_path>
+<positive_pip_path>data/ui/campaign ui/pips/bos_castle_level_repression.tga</positive_pip_path>
+<positive_tooltip>Castle (Repression): %S||Increase repression in your province by upgrading the castle.</positive_tooltip>
+</public_order_factors>
+</dataroot>

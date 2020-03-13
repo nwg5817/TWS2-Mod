@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaDFORMDESCR_historical_characters>
+<root>
+	<form_name>Historical Characters</form_name>
+	<rows>
+		<subform_table>
+			<table_name>historical_characters</table_name>
+			<new_button/>
+			<base_node/>
+			<record_switching>true</record_switching>
+			<filter_field>key</filter_field>
+			<parent_table></parent_table>
+			<parent_field></parent_field>
+			<columns>
+				<static_text_field>Key</static_text_field>
+				<text_edit_field>key</text_edit_field>
+				<static_text_field>Onscreen Name</static_text_field>
+				<text_edit_field>on_screen_name</text_edit_field>
+			</columns>
+			<columns>
+				<static_text_field>Gender</static_text_field>
+				<combo_box_field>gender</combo_box_field>
+				<static_text_field>Spawning Window Start</static_text_field>
+				<text_edit_field>spawning_window_start</text_edit_field>
+			</columns>
+			<columns>
+				<static_text_field>Agent Type</static_text_field>
+				<combo_box_field>agent_type</combo_box_field>
+				<static_text_field>Spawning Window End</static_text_field>
+				<text_edit_field>spawning_window_end</text_edit_field>
+			</columns>
+			<columns>
+				<static_text_field>Faction</static_text_field>
+				<combo_box_field>faction</combo_box_field>
+			</columns>
+			<columns>
+				<static_text_field>Conditions</static_text_field>
+				<memo_edit_field>spawn_conditions</memo_edit_field>
+			</columns>
+		</subform_table>
+		<subform_table>
+			<static_text_field>Traits</static_text_field>
+			<table_name>historical_character_traits</table_name>
+			<new_button/>
+			<record_switching>false</record_switching>
+			<filter_field>character</filter_field>
+			<parent_table>historical_characters</parent_table>
+			<parent_field>key</parent_field>
+			<edit_grid>
+				<edit_grid_column name="Trait">trait</edit_grid_column>				  
+			</edit_grid>
+		</subform_table>
+	</rows>
+</root>
+	

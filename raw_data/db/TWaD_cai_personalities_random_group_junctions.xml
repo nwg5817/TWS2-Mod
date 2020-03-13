@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_cai_personalities_random_group_junctions>
+<root>
+<edit_uuid>64a9f9ff-0c75-4ab3-a17f-6f988e3e6d11</edit_uuid>
+<field>
+<field_uuid>{066d06d7-c87f-4c9b-8c35-79b6517c87fd}</field_uuid>
+<primary_key>1</primary_key>
+<name>random_personality_group_key</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>2000</max_length>
+<column_source_column>random_personality_group_key</column_source_column>
+<column_source_table>cai_personalities_random_groups</column_source_table>
+</field>
+<field>
+<field_uuid>{c9e98747-5a2f-4ab6-8d29-240cbff49a80}</field_uuid>
+<primary_key>1</primary_key>
+<name>personality_key</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+<column_source_column>key</column_source_column>
+<column_source_table>cai_personalities</column_source_table>
+</field>
+</root>

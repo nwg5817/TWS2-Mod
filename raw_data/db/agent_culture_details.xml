@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Thu 6. Oct 10:20:30 2011" revision="25" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Dom.Starr">
+<edit_uuid>969819cf-4946-443d-9f2a-c735933a72c4</edit_uuid><agent_culture_details>
+<agent>Eastern_Scholar</agent>
+<culture>egy_middle_east</culture>
+<description_text>An Eastern Scholar is an educated man who can be sent into educational buildings to speed-up research, but cannot duel with other characters.</description_text>
+<key>0</key>
+<level>0</level>
+<model>default_general</model>
+<onscreen_name>Eastern Scholar</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>Eastern_Scholar</agent>
+<culture>indian</culture>
+<description_text>An Eastern Scholar is an educated man who can be sent into educational buildings to speed-up research, but cannot duel with other characters.</description_text>
+<key>1</key>
+<level>0</level>
+<model>default_general</model>
+<onscreen_name>Eastern Scholar</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>admiral</agent>
+<culture>egy_middle_east</culture>
+<description_text>Admirals.PLACEHOLDER</description_text>
+<key>10</key>
+<level>0</level>
+<model>default_ship</model>
+<onscreen_name>Amir-al-bahr</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>admiral</agent>
+<culture>european</culture>
+<description_text>Admirals.PLACEHOLDER</description_text>
+<key>11</key>
+<level>0</level>
+<model>default_ship</model>
+<onscreen_name>Admiral</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>General</agent>
+<culture>japanese</culture>
+<description_text>PLACEHOLDER General lvl 2</description_text>
+<equipment_theme>shogun_taisho</equipment_theme>
+<generals_unit>Gen_Taisho</generals_unit>
+<key>118</key>
+<level>2</level>
+<model>default_general</model>
+<onscreen_name>General</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>admiral</agent>
+<culture>indian</culture>
+<description_text>Admirals.PLACEHOLDER</description_text>
+<key>12</key>
+<level>0</level>
+<model>default_ship</model>
+<onscreen_name>Amir-al-bahr</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>General</agent>
+<culture>japanese</culture>
+<description_text>PLACEHOLDER General lvl 0</description_text>
+<equipment_theme>shogun_taisho</equipment_theme>
+<generals_unit>Gen_Taisho</generals_unit>
+<key>125</key>
+<level>0</level>
+<model>default_general</model>
+<onscreen_name>General</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>colonel</agent>
+<culture>japanese</culture>
+<description_text>PLACEHOLDER Colonel lvl 4</description_text>
+<equipment_theme>shogun_taisho</equipment_theme>
+<key>127</key>
+<level>4</level>
+<model>default_general</model>
+<onscreen_name>Captain</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>admiral</agent>
+<culture>middle_east</culture>
+<description_text>Admirals.PLACEHOLDER</description_text>
+<key>13</key>
+<level>0</level>
+<model>default_ship</model>
+<onscreen_name>Amir-al-bahr</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>colonel</agent>
+<culture>japanese</culture>
+<description_text>PLACEHOLDER Colonel lvl 2</description_text>
+<equipment_theme>shogun_taisho</equipment_theme>
+<key>133</key>
+<level>2</level>
+<model>default_general</model>
+<onscreen_name>Captain</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>geisha</agent>
+<agent_recruited_movie>agent_geisha</agent_recruited_movie>
+<culture>japanese</culture>
+<description_text>Geisha are assassins who, using a combination of charm and disguise, enter the enemy's midst to fell generals and agents alike. Although lacking the stealth possessed by ninja, they strike with deadly efficiency and can evade the clutches of even the most skilled enemy agents.</description_text>
+<equipment_theme>shogun_geisha</equipment_theme>
+<key>138</key>
+<level>0</level>
+<model>geisha</model>
+<onscreen_name>Geisha </onscreen_name>
+<season>Spring</season>
+</agent_culture_details>
+<agent_culture_details>
+<agent>assassin</agent>
+<culture>egy_middle_east</culture>
+<description_text>A Hashishin is a spy, saboteur, and assassin who can be sent into a target city to report on its contents and sabotage buildings. To attempt an assassination select a target character.</description_text>
+<key>14</key>
+<level>0</level>
+<model>ninja</model>
+<onscreen_name>Hashishin</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>geisha</agent>
+<agent_recruited_movie>agent_geisha</agent_recruited_movie>
+<culture>japanese</culture>
+<description_text>Geisha are assassins who, using a combination of charm and disguise, enter the enemy's midst to fell generals and agents alike. Although lacking the stealth possessed by ninja, they strike with deadly efficiency and can evade the clutches of even the most skilled enemy agents.</description_text>
+<equipment_theme>shogun_geisha</equipment_theme>
+<key>141</key>
+<level>0</level>
+<model>geisha</model>
+<onscreen_name>Geisha</onscreen_name>
+<season>Autumn</season>
+</agent_culture_details>
+<agent_culture_details>
+<agent>assassin</agent>
+<culture>indian</culture>
+<description_text>A Thugee is a spy, saboteur and assassin who can be sent into a target city to report on its contents and sabotage buildings. To attempt an assassination select a target character.</description_text>
+<key>15</key>
+<level>0</level>
+<model>ninja</model>
+<onscreen_name>Thugee</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>geisha</agent>
+<agent_recruited_movie>agent_geisha</agent_recruited_movie>
+<culture>japanese</culture>
+<description_text>Geisha are assassins who, using a combination of charm and disguise, enter the enemy's midst to fell generals and agents alike. Although lacking the stealth possessed by ninja, they strike with deadly efficiency and can evade the clutches of even the most skilled enemy agents.</description_text>
+<equipment_theme>shogun_geisha</equipment_theme>
+<key>150</key>
+<level>0</level>
+<model>geisha</model>
+<onscreen_name>Geisha</onscreen_name>
+<season>Winter</season>
+</agent_culture_details>
+<agent_culture_details>
+<agent>assassin</agent>
+<culture>middle_east</culture>
+<description_text>A Hashishin is a spy, saboteur, and assassin who can be sent into a target city to report on its contents and sabotage buildings. To attempt an assassination select a target character.</description_text>
+<key>16</key>
+<level>0</level>
+<model>ninja</model>
+<onscreen_name>Hashishin</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>ninja</agent>
+<agent_recruited_movie>agent_ninja</agent_recruited_movie>
+<culture>japanese</culture>
+<description_text>Ninja are masters of artifice and infiltration. Their ninjutsu skills enable them to spy upon enemies or sabotage their armies and castle towns, whilst moving through their lands undetected. They are also expert assassins, striking from the shadows to kill enemy generals and agents alike. Their infliltration skills also make ninja invaluable scouts for their clan's armies, whilst their underworld connections keep them abreast of comings and goings when visiting friendly provinces.</description_text>
+<equipment_theme>shogun_ninja</equipment_theme>
+<key>168</key>
+<level>4</level>
+<model>ninja_3</model>
+<onscreen_name>Ninja</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>bandit</agent>
+<culture>european</culture>
+<description_text>Bandit. PLACEHOLDER.</description_text>
+<key>17</key>
+<level>0</level>
+<model>ninja</model>
+<onscreen_name>Highwayman</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>ninja</agent>
+<agent_recruited_movie>agent_ninja</agent_recruited_movie>
+<culture>japanese</culture>
+<description_text>Ninja are masters of artifice and infiltration. Their ninjutsu skills enable them to spy upon enemies or sabotage their armies and castle towns, whilst moving through their lands undetected. They are also expert assassins, striking from the shadows to kill enemy generals and agents alike. Their infliltration skills also make ninja invaluable scouts for their clan's armies, whilst their underworld connections keep them abreast of comings and goings when visiting friendly provinces.</description_text>
+<equipment_theme>shogun_ninja</equipment_theme>
+<key>173</key>
+<level>2</level>
+<model>ninja</model>
+<onscreen_name>Ninja</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>bandit</agent>
+<culture>indian</culture>
+<description_text>Bandit. PLACEHOLDER.</description_text>
+<key>18</key>
+<level>0</level>
+<model>ninja</model>
+<onscreen_name>Thug</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>monk</agent>
+<agent_recruited_movie>agent_monk</agent_recruited_movie>
+<culture>japanese</culture>
+<description_text>Monks are ardent proponents of the teachings of Buddha. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Monks are also able to convert populations to Buddhism and enemy agents to abandon their missions in favour of a life of peace and self-reflection. They are particularly effective when used against metsuke. </description_text>
+<equipment_theme>shogun_monk</equipment_theme>
+<key>183</key>
+<level>4</level>
+<model>monk</model>
+<onscreen_name>Monk</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>monk</agent>
+<agent_recruited_movie>agent_monk</agent_recruited_movie>
+<culture>japanese</culture>
+<description_text>Monks are ardent proponents of the teachings of Buddha. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Monks are also able to convert populations to Buddhism and enemy agents to abandon their missions in favour of a life of peace and self-reflection. They are particularly effective when used against metsuke. </description_text>
+<equipment_theme>shogun_monk</equipment_theme>
+<key>185</key>
+<level>2</level>
+<model>monk</model>
+<onscreen_name>Monk</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>missionary</agent>
+<agent_recruited_movie>agent_missionary</agent_recruited_movie>
+<culture>japanese</culture>
+<description_text>Missionaries are fervent evangelists of the Christian way. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Missionaries are also able to convert populations to Christianity and enemy agents to abandon their missions in favour of a life of god-fearing penance. They are particularly effective when used against metsuke.</description_text>
+<equipment_theme>shogun_priest</equipment_theme>
+<key>186</key>
+<level>4</level>
+<model>missionary</model>
+<onscreen_name>Missionary</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>missionary</agent>
+<agent_recruited_movie>agent_missionary</agent_recruited_movie>
+<culture>japanese</culture>
+<description_text>Missionaries are fervent evangelists of the Christian way. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Missionaries are also able to convert populations to Christianity and enemy agents to abandon their missions in favour of a life of god-fearing penance. They are particularly effective when used against metsuke.</description_text>
+<equipment_theme>shogun_priest</equipment_theme>
+<key>187</key>
+<level>2</level>
+<model>missionary</model>
+<onscreen_name>Missionary</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>bandit</agent>
+<culture>middle_east</culture>
+<description_text>Bandit. PLACEHOLDER.</description_text>
+<key>19</key>
+<level>0</level>
+<model>ninja</model>
+<onscreen_name>Bandit</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>metsuke</agent>
+<agent_recruited_movie>agent_metsuke</agent_recruited_movie>
+<culture>japanese</culture>
+<description_text>Metsuke are unscrupulous executors of their daimyo's authority, directing their cunning to the control of their clan's disaffected generals and people. They are also able to bribe enemy armies and towns. Metsuke may seek to apprehend and bring enemy agents to 'justice', and are particularly effective at uncovering and countering ninja activity. </description_text>
+<equipment_theme>shogun_katana</equipment_theme>
+<key>190</key>
+<level>4</level>
+<model>metsuke</model>
+<onscreen_name>Metsuke</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>metsuke</agent>
+<agent_recruited_movie>agent_metsuke</agent_recruited_movie>
+<culture>japanese</culture>
+<description_text>Metsuke are unscrupulous executors of their daimyo's authority, directing their cunning to the control of their clan's disaffected generals and people. They are also able to bribe enemy armies and towns. Metsuke may seek to apprehend and bring enemy agents to 'justice', and are particularly effective at uncovering and countering ninja activity. </description_text>
+<equipment_theme>shogun_katana</equipment_theme>
+<key>194</key>
+<level>2</level>
+<model>metsuke</model>
+<onscreen_name>Metsuke</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>Eastern_Scholar</agent>
+<culture>middle_east</culture>
+<description_text>An Eastern Scholar is an educated man who can be sent into educational buildings to speed-up research, but cannot duel with other characters.</description_text>
+<key>2</key>
+<level>0</level>
+<model>default_general</model>
+<onscreen_name>Eastern Scholar</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>bandit</agent>
+<culture>tribal</culture>
+<description_text>Bandit. PLACEHOLDER.</description_text>
+<key>20</key>
+<level>0</level>
+<model>ninja</model>
+<onscreen_name>Raider</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>minister</agent>
+<culture>japanese</culture>
+<description_text>PLACEHOLDER</description_text>
+<key>200</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Family Member</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>admiral</agent>
+<culture>japanese</culture>
+<description_text>Admirals.PLACEHOLDER</description_text>
+<key>202</key>
+<level>0</level>
+<model>default_ship</model>
+<onscreen_name>Admiral</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>ikko_monk</agent>
+<agent_recruited_movie>agent_monk</agent_recruited_movie>
+<culture>japanese</culture>
+<description_text>Ikko monks are zealous advocates of the Ikko sect of Jodo Shinshu Buddhism. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Ikko Monks are also able to convert populations to their Ikko beliefs and enemy agents to abandon their missions in favour of a life of Jodo Shinshu spiritualism. They are particularly effective when used against metsuke.</description_text>
+<equipment_theme>shogun_monk</equipment_theme>
+<key>205</key>
+<level>0</level>
+<model>monk</model>
+<onscreen_name>Ikko Monk</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>gempei_monk</agent>
+<culture>japanese</culture>
+<description_text>Sou can inspire a friendly army or pacify an angry populace with their enlightened rhetoric, and, by the same token, demoralise an enemy force, reduce the chances of successful bribery, indoctrinate enemy agents and cause them to retire, or incite an enemy population to revolt.</description_text>
+<equipment_theme>shogun_monk</equipment_theme>
+<key>206</key>
+<level>0</level>
+<model>monk</model>
+<onscreen_name>Sou</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>captain</agent>
+<culture>egy_european</culture>
+<description_text>Captain. PLACEHOLDER.</description_text>
+<key>21</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Captain</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>gempei_spy</agent>
+<culture>japanese</culture>
+<description_text>Monomi act as assassins, spies, saboteurs and scouts, and are recruited from province speciality buildings. In addition to their subterfuge skills, monomi also increase the movement and line of sight of our armies when placed inside them. They can also establish spy networks within castle towns, which increase the chances of discovering any rival agents and armies that may be hiding within a province. Monomi are invisible to the enemy until detected.</description_text>
+<equipment_theme>shogun_ninja</equipment_theme>
+<key>213</key>
+<level>0</level>
+<model>ninja</model>
+<onscreen_name>Monomi</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>captain</agent>
+<culture>egy_middle_east</culture>
+<description_text>Captain. PLACEHOLDER.</description_text>
+<key>22</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Captain</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>gempei_inspector</agent>
+<culture>japanese</culture>
+<description_text>Junsatsushi ensure loyalty and obedience from friendly generals, increase income by preventing corruption, keep our castle towns and armies safe from enemy subterfuge when positioned inside them, and can request the allegiance of neutral and enemy castle towns, along with any forces garrisoned there. Junsatsushi can also pay off rival agents.</description_text>
+<equipment_theme>shogun_metsuke</equipment_theme>
+<key>222</key>
+<level>0</level>
+<model>metsuke</model>
+<onscreen_name>Junsatsushi</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>captain</agent>
+<culture>european</culture>
+<description_text>Captain. PLACEHOLDER.</description_text>
+<key>23</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Captain</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>gempei_dancer</agent>
+<culture>japanese</culture>
+<description_text>Shirabyoshi are traditional dancers who perform for nobles on formal occasions. Dressed as men in formal Shinto clothes and white powdered make-up, the slow, rhythmic dances they perform in veneration of the gods also involve poetry, singing and musicianship. The shirabyoshi’s main skill is seduction, which convinces her target to join her lord’s cause. Shirabyoshi are able to entertain the nobles of friendly towns in order to boost their growth and entertain friendly generals in the field, which increases their loyalty to the family and counteracts the efforts of enemy agents to bribe or seduce them into changing sides.</description_text>
+<equipment_theme>shogun_geisha</equipment_theme>
+<key>230</key>
+<level>0</level>
+<model>geisha</model>
+<onscreen_name>Shirabyoshi</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>boshin_veteran</agent>
+<culture>japanese</culture>
+<description_text>Foreign veterans are masters of warfare having fought, and survived, in many battles. Their long years of service make them great military instructors and administrators; their expertise makes them keen marksmen and sappers, as well as fearless duellists.</description_text>
+<equipment_theme>shogun_metsuke</equipment_theme>
+<key>232</key>
+<level>0</level>
+<model>metsuke</model>
+<onscreen_name>Foreign Veteran</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>boshin_shinsengumi</agent>
+<culture>japanese</culture>
+<description_text>Shinsengumi are enforcers of the Shogun’s justice, coercing or subduing those who dare oppose his will. They will resort to any means necessary to prevent Imperialists from overthrowing the Shogunate, even assassinating their enemies and stirring dissidents to open revolt.</description_text>
+<equipment_theme>shogun_metsuke</equipment_theme>
+<key>233</key>
+<level>0</level>
+<model>metsuke</model>
+<onscreen_name>Shinsengumi</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>boshin_shinobi</agent>
+<culture>japanese</culture>
+<description_text>Shinobi are masters of subterfuge; they conduct espionage, sabotage and assassinations. Their ability to infiltrate and observe also makes them invaluable army scouts and enables the establishment of spy networks in their clan’s settlements.</description_text>
+<equipment_theme>shogun_ninja</equipment_theme>
+<key>239</key>
+<level>0</level>
+<model>ninja</model>
+<onscreen_name>Shinobi</onscreen_name>
+<season>Shinobi are masters of subterfuge; they conduct espionage, sabotage and assassinations. Their ability to infiltrate and observe also makes them invaluable army scouts and enables the establishment of spy networks in their clan’s settlements.</season>
+</agent_culture_details>
+<agent_culture_details>
+<agent>captain</agent>
+<culture>indian</culture>
+<description_text>Captain. PLACEHOLDER.</description_text>
+<key>24</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Captain</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>boshin_ishinshishi</agent>
+<culture>japanese</culture>
+<description_text>Ishin shishi are “men of higher purpose” devoted to one thing: the reinstatement of Imperial divine rule. Champions of the Emperor, they rally and inspire the loyal whilst stirring unrest amongst rivals. Single-minded and dangerous, they will not hesitate to kill any who stand in their way.</description_text>
+<equipment_theme>shogun_metsuke</equipment_theme>
+<key>246</key>
+<level>0</level>
+<model>metsuke</model>
+<onscreen_name>Ishin Shishi</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>boshin_geisha</agent>
+<culture>japanese</culture>
+<description_text>Geisha are skilled musicians, dancers and poets, and they use their arts both to entertain and uplift. Their talents may even serve a military agenda: some men are weak and easily distracted; others may betray a cause for beauty.</description_text>
+<equipment_theme>shogun_geisha</equipment_theme>
+<key>247</key>
+<level>0</level>
+<model>geisha</model>
+<onscreen_name>Geisha</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>captain</agent>
+<culture>middle_east</culture>
+<description_text>Captain. PLACEHOLDER.</description_text>
+<key>25</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Captain</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>captain</agent>
+<culture>tribal</culture>
+<description_text>Captain. PLACEHOLDER.</description_text>
+<key>26</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Captain</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>catholic_missionary</agent>
+<culture>european</culture>
+<description_text>A Catholic Missionary is a religious teacher who spreads the word of Catholicism. Placing a Missionary within a region will cause a gradual conversion to Catholicism amongst the population. They will continue to automatically convert a region until moved.</description_text>
+<key>27</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Catholic Missionary</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>colonel</agent>
+<culture>egy_european</culture>
+<description_text>Colonel. PLACEHOLDER.</description_text>
+<key>28</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Brigadier</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>colonel</agent>
+<culture>egy_middle_east</culture>
+<description_text>Colonel. PLACEHOLDER.</description_text>
+<key>29</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Brigadier</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>General</agent>
+<culture>egy_european</culture>
+<description_text>General. PLACEHOLDER.</description_text>
+<generals_unit>Gen_Taisho</generals_unit>
+<key>3</key>
+<level>0</level>
+<model>default_general</model>
+<onscreen_name>General</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>colonel</agent>
+<culture>european</culture>
+<description_text>Colonel. PLACEHOLDER.</description_text>
+<key>30</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Brigadier</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>colonel</agent>
+<culture>indian</culture>
+<description_text>Colonel. PLACEHOLDER.</description_text>
+<key>31</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Brigadier</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>colonel</agent>
+<culture>japanese</culture>
+<description_text>PLACEHOLDER Colonel lvl 0</description_text>
+<equipment_theme>shogun_taisho</equipment_theme>
+<key>32</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Captain</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>colonel</agent>
+<culture>middle_east</culture>
+<description_text>Colonel. PLACEHOLDER.</description_text>
+<key>33</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Brigadier</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>colonel</agent>
+<culture>tribal</culture>
+<description_text>Colonel. PLACEHOLDER.</description_text>
+<key>34</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Warchief</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>geisha</agent>
+<agent_recruited_movie>agent_geisha</agent_recruited_movie>
+<culture>japanese</culture>
+<description_text>Geisha are assassins who, using a combination of charm and disguise, enter the enemy's midst to fell generals and agents alike. Although lacking the stealth possessed by ninja, they strike with deadly efficiency and can evade the clutches of even the most skilled enemy agents.</description_text>
+<equipment_theme>shogun_geisha</equipment_theme>
+<key>35</key>
+<level>0</level>
+<model>geisha</model>
+<onscreen_name>Geisha</onscreen_name>
+<season>Summer</season>
+</agent_culture_details>
+<agent_culture_details>
+<agent>gentleman</agent>
+<culture>egy_european</culture>
+<description_text>A Gentleman is an educated man who can be sent into educational buildings to speed-up research, and can also duel with Spies and other Gentlemen. Select a target character in order to challenge them to a duel.</description_text>
+<key>36</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Gentleman</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>gentleman</agent>
+<culture>european</culture>
+<description_text>A Gentleman is an educated man who can be sent into educational buildings to speed-up research, and can also duel with Spies and other Gentlemen. Select a target character in order to challenge them to a duel.</description_text>
+<key>37</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Gentleman</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>indian_missionary</agent>
+<culture>indian</culture>
+<description_text>A Brahmin is a religious teacher who spreads word of the Hindu faith around the world. Placing a Brahmin within a region will cause a gradual conversion to Hinduism amongst the population. They will continue to automatically convert a region until moved.</description_text>
+<key>38</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Brahmin</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>metsuke</agent>
+<agent_recruited_movie>agent_metsuke</agent_recruited_movie>
+<culture>japanese</culture>
+<description_text>Metsuke are unscrupulous executors of their daimyo's authority, directing their cunning to the control of their clan's disaffected generals and people. They are also able to bribe enemy armies and towns. Metsuke may seek to apprehend and bring enemy agents to 'justice', and are particularly effective at uncovering and countering ninja activity. </description_text>
+<equipment_theme>shogun_katana</equipment_theme>
+<key>39</key>
+<level>0</level>
+<model>metsuke</model>
+<onscreen_name>Metsuke</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>General</agent>
+<culture>egy_middle_east</culture>
+<description_text>General. PLACEHOLDER.</description_text>
+<generals_unit>Gen_Taisho</generals_unit>
+<key>4</key>
+<level>0</level>
+<model>default_general</model>
+<onscreen_name>Orgeneral</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>middle_east_missionary</agent>
+<culture>indian</culture>
+<description_text>An Imam is a religious teacher who spreads word of Islam around the world. Placing an Imam with a region will cause a gradual conversion to Islam amongst the population. They will continue to automatically convert a region until moved.</description_text>
+<key>40</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Imam</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>middle_east_missionary</agent>
+<culture>middle_east</culture>
+<description_text>An Imam is a religious teacher who spreads word of Islam around the world. Placing an Imam with a region will cause a gradual conversion to Islam amongst the population. They will continue to automatically convert a region until moved.</description_text>
+<key>41</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Imam</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>minister</agent>
+<culture>egy_european</culture>
+<description_text>Minister. PLACEHOLDER.</description_text>
+<key>42</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Minister</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>minister</agent>
+<culture>egy_middle_east</culture>
+<description_text>Minister. PLACEHOLDER.</description_text>
+<key>43</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Minister</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>minister</agent>
+<culture>european</culture>
+<description_text>Minister. PLACEHOLDER.</description_text>
+<key>44</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Minister</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>minister</agent>
+<culture>indian</culture>
+<description_text>Minister. PLACEHOLDER.</description_text>
+<key>45</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Minister</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>minister</agent>
+<culture>middle_east</culture>
+<description_text>Minister. PLACEHOLDER.</description_text>
+<key>46</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Minister</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>minister</agent>
+<culture>tribal</culture>
+<description_text>Minister. PLACEHOLDER.</description_text>
+<key>47</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Minister</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>missionary</agent>
+<agent_recruited_movie>agent_missionary</agent_recruited_movie>
+<culture>japanese</culture>
+<description_text>Missionaries are fervent evangelists of the Christian way. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Missionaries are also able to convert populations to Christianity and enemy agents to abandon their missions in favour of a life of god-fearing penance. They are particularly effective when used against metsuke.</description_text>
+<equipment_theme>shogun_priest</equipment_theme>
+<key>48</key>
+<level>0</level>
+<model>missionary</model>
+<onscreen_name>Missionary</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>monk</agent>
+<agent_recruited_movie>agent_monk</agent_recruited_movie>
+<culture>japanese</culture>
+<description_text>Monks are ardent proponents of the teachings of Buddha. They are firebrands able to demoralise enemy armies and incite unrest in enemy towns, whilst also able to inspire friendly troops and bring happiness to their own townspeople. Monks are also able to convert populations to Buddhism and enemy agents to abandon their missions in favour of a life of peace and self-reflection. They are particularly effective when used against metsuke. </description_text>
+<equipment_theme>shogun_monk</equipment_theme>
+<key>49</key>
+<level>0</level>
+<model>monk</model>
+<onscreen_name>Monk</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>General</agent>
+<culture>european</culture>
+<description_text>BASIC_SPENDING_BIAS_RECRUITMENT_ARMY</description_text>
+<generals_unit>Gen_Taisho</generals_unit>
+<key>5</key>
+<level>0</level>
+<model>default_general</model>
+<onscreen_name>General</onscreen_name>
+<season>0.55</season>
+</agent_culture_details>
+<agent_culture_details>
+<agent>ninja</agent>
+<agent_recruited_movie>agent_ninja</agent_recruited_movie>
+<culture>japanese</culture>
+<description_text>Ninja are masters of artifice and infiltration. Their ninjutsu skills enable them to spy upon enemies or sabotage their armies and castle towns, whilst moving through their lands undetected. They are also expert assassins, striking from the shadows to kill enemy generals and agents alike. Their infliltration skills also make ninja invaluable scouts for their clan's armies, whilst their underworld connections keep them abreast of comings and goings when visiting friendly provinces.</description_text>
+<equipment_theme>shogun_ninja</equipment_theme>
+<key>50</key>
+<level>0</level>
+<model>ninja</model>
+<onscreen_name>Ninja</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>orthodox_missionary</agent>
+<culture>european</culture>
+<description_text>An Orthodox Missionary is a religious teacher who preaches the Orthodox faith. Placing them within a region will cause a gradual conversion to the Orthodox faith amongst the population. They will continue to automatically convert a population until moved.</description_text>
+<key>51</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Orthodox Missionary</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>pirate</agent>
+<culture>european</culture>
+<description_text>Arrr! Ye scurvy pirate! (PLACEHOLDER)</description_text>
+<key>52</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Pirate</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>pirate</agent>
+<culture>indian</culture>
+<description_text>Arrr! Ye scurvy pirate! (PLACEHOLDER)</description_text>
+<key>53</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Pirate</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>pirate</agent>
+<culture>middle_east</culture>
+<description_text>Arrr! Ye scurvy pirate! (PLACEHOLDER)</description_text>
+<key>54</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Pirate</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>pirate</agent>
+<culture>tribal</culture>
+<description_text>Arrr! Ye scurvy pirate! (PLACEHOLDER)</description_text>
+<key>55</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Pirate</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>rake</agent>
+<culture>egy_european</culture>
+<description_text>A Spy is also a saboteur and assassin who can be sent into a target city to report its contents and sabotage buildings. To attempt an assassination select a target character.</description_text>
+<key>56</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Spy</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>rake</agent>
+<culture>european</culture>
+<description_text>A Spy is also a saboteur and assassin who can be sent into a target city to report its contents and sabotage buildings. To attempt an assassination select a target character.</description_text>
+<key>57</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Spy</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>rake</agent>
+<culture>tribal</culture>
+<description_text>A Scout is a spy, saboteur, and assassin who can be sent into a target city to report its contents and sabotage buildings. To attempt an assassination select a target character.</description_text>
+<key>58</key>
+<level>0</level>
+<model>default_captain</model>
+<onscreen_name>Scout</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>captain</agent>
+<culture>japanese</culture>
+<description_text>PLACEHOLDER</description_text>
+<key>59</key>
+<level>0</level>
+<model>default_ship</model>
+<onscreen_name>Captain</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>General</agent>
+<culture>japanese</culture>
+<description_text>PLACEHOLDER General lvl 4</description_text>
+<equipment_theme>shogun_taisho</equipment_theme>
+<generals_unit>Gen_Taisho</generals_unit>
+<key>6</key>
+<level>4</level>
+<model>default_general</model>
+<onscreen_name>General</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>General</agent>
+<culture>middle_east</culture>
+<description_text>General. PLACEHOLDER.</description_text>
+<generals_unit>Gen_Taisho</generals_unit>
+<key>7</key>
+<level>0</level>
+<model>default_general</model>
+<onscreen_name>Orgeneral</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>Protestant_Missionary</agent>
+<culture>european</culture>
+<description_text>A Protestant Missionary is a religious teacher who spreads word of Protestantism. Placing a Missionary within a region will cause a gradual conversion to Protestantism amongst the population. They will continue to convert a region until moved.</description_text>
+<key>8</key>
+<level>0</level>
+<model>default_general</model>
+<onscreen_name>Protestant Missionary</onscreen_name>
+</agent_culture_details>
+<agent_culture_details>
+<agent>admiral</agent>
+<culture>egy_european</culture>
+<description_text>Admirals.PLACEHOLDER</description_text>
+<key>9</key>
+<level>0</level>
+<model>default_ship</model>
+<onscreen_name>Admiral</onscreen_name>
+</agent_culture_details>
+</dataroot>

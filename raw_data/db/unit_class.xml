@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Thu 8. Dec 10:48:45 2011" revision="10" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Chris.Gambold">
+<edit_uuid>df5412e1-95f1-4a18-8f8f-fce4e230bfa3</edit_uuid><unit_class>
+<key>artillery_fixed</key>
+<onscreen>Siege Units</onscreen>
+<tooltip>Armed with weapons designed for dealing with castles and buildings, siege units are vulnerable in melee and to cavalry.</tooltip>
+</unit_class>
+<unit_class>
+<key>artillery_foot</key>
+<onscreen>Artillery Units</onscreen>
+<tooltip>Artillery is devastating long range weaponry, but vulnerable in melee and to cavalry.</tooltip>
+</unit_class>
+<unit_class>
+<key>cavalry_lancers</key>
+<onscreen>Spear Cavalry</onscreen>
+<tooltip>Spear cavalry have a deadly charge but are weak in prolonged melee. They are good versus cavalry, but vulnerable to spear infantry.</tooltip>
+</unit_class>
+<unit_class>
+<key>cavalry_missile</key>
+<onscreen>Missile Cavalry</onscreen>
+<tooltip>Missile cavalry can harass enemies from a distance but are poor in melee. Able to fire then reposition, they are difficult to pin down, but should avoid concentrations of enemy missile units.</tooltip>
+</unit_class>
+<unit_class>
+<key>cavalry_sword</key>
+<onscreen>Sword Cavalry</onscreen>
+<tooltip>Sword cavalry are very effective in melee and strong against non-spear infantry. They are vulnerable to spear cavalry and missile units.</tooltip>
+</unit_class>
+<unit_class>
+<key>general</key>
+<onscreen>General</onscreen>
+<tooltip>The general gives a big morale boost to nearby friendly troops, but his army will suffer morale penalty if he is killed. Generals are best kept near frontlines to boost nearby troops, but should be protected by other units.</tooltip>
+</unit_class>
+<unit_class>
+<key>infantry_bow</key>
+<onscreen>Bow Infantry</onscreen>
+<tooltip>Bow infantry are fast-firing and long range infantry who can fill the sky with arrows, although they are not as damaging. They are very vulnerable to cavalry and weak in melee.</tooltip>
+</unit_class>
+<unit_class>
+<key>infantry_elite</key>
+<onscreen>Elite Infantry</onscreen>
+<tooltip>Elite infantry are crack troops and provide a morale boost to nearby friendly units. Veterans of many hard battles, they can be relied upon to hold their position come what may.</tooltip>
+</unit_class>
+<unit_class>
+<key>infantry_heavy</key>
+<onscreen>Heavy Infantry</onscreen>
+<tooltip>Heavy infantry are versatile units that are good against cavalry and in melee. However, sword infantry and spear infantry are stronger in both situations.</tooltip>
+</unit_class>
+<unit_class>
+<key>infantry_light</key>
+<onscreen>Light Infantry</onscreen>
+<tooltip>Light infantry are sharpshooters and very good at screening the main battle line, although weak in melee. Their role involves advancing before the main body of the army to flush out enemy ambushes and thin their ranks, then withdrawing behind the main line when threatened.</tooltip>
+</unit_class>
+<unit_class>
+<key>infantry_line</key>
+<onscreen>Line Infantry</onscreen>
+<tooltip>Line infantry are excellent all-round units who form the main battle line. Thinner lines maximise firepower but are vulnerable to charges. The primary function of line infantry is to present as great a concentration of musket fire as possible. The rest of the army can then operate around this stable platform.</tooltip>
+</unit_class>
+<unit_class>
+<key>infantry_matchlock</key>
+<onscreen>Matchlock Infantry</onscreen>
+<tooltip>Armed with slow-firing but high-damage matchlocks, matchlock infantry are vulnerable to cavalry and melee infantry.</tooltip>
+</unit_class>
+<unit_class>
+<key>infantry_militia</key>
+<onscreen>Militia Infantry</onscreen>
+<tooltip>Militia infantry are cheap units but are of variable quality. Ideal for garrison duties, they can also bolster an army's numbers if needs be and, if well led, may surprise a complacent enemy.</tooltip>
+</unit_class>
+<unit_class>
+<key>infantry_spearman</key>
+<onscreen>Spear Infantry</onscreen>
+<tooltip>Spear infantry are excellent anti-cavalry infantry. Vulnerable to sword-armed infantry, they are also weak against missile troops.</tooltip>
+</unit_class>
+<unit_class>
+<key>infantry_special</key>
+<onscreen>Special Infantry</onscreen>
+<tooltip>Special infantry who perform specific tasks on the battlefield. They are vulnerable to units who perform broader roles.</tooltip>
+</unit_class>
+<unit_class>
+<key>infantry_sword</key>
+<onscreen>Sword Infantry</onscreen>
+<tooltip>Sword infantry excel when in close-quarters melee. They are vulnerable to cavalry and missile troops.</tooltip>
+</unit_class>
+<unit_class>
+<key>naval_admiral</key>
+<onscreen>Admiral</onscreen>
+<tooltip>The admiral's flagship houses the leader of the fleet. &quot;Castles of the sea&quot;, their large crew sizes make them ideal for performing boarding actions. They are slow and vulnerable to cannons and the outbreak of fires.</tooltip>
+</unit_class>
+<unit_class>
+<key>naval_cannon_ship</key>
+<onscreen>Cannon Ship</onscreen>
+<tooltip>Cannon ships are of average speed but are also armed with deadly cannons. They are vulnerable to smaller, faster ships.</tooltip>
+</unit_class>
+<unit_class>
+<key>naval_corvette</key>
+<onscreen>Corvette</onscreen>
+<tooltip>Lightly-armed warships with a single gun deck. Relatively fast but with a weak hull when compared to frigates and ironclads.</tooltip>
+</unit_class>
+<unit_class>
+<key>naval_frigate</key>
+<onscreen>Frigate</onscreen>
+<tooltip>Strongest non-ironclad ships, principal armament mounted on a single deck. Slow, heavy vessels.</tooltip>
+</unit_class>
+<unit_class>
+<key>naval_galleon</key>
+<onscreen>Galleon</onscreen>
+<tooltip>Galleons are powerful European ships armed with many large cannons. They are vulnerable to being surrounded by many smaller Japanese ships.</tooltip>
+</unit_class>
+<unit_class>
+<key>naval_gunboat</key>
+<onscreen>Gunboat</onscreen>
+<tooltip>Small, lightly-armed vessels with only a few guns, used for coastal patrols.</tooltip>
+</unit_class>
+<unit_class>
+<key>naval_heavy_ship</key>
+<onscreen>Heavy Ship</onscreen>
+<tooltip>Heavy ships are &quot;castles of the sea&quot;. Their large crew sizes make them ideal for conducting boarding actions, but they are slow and vulnerable to fire and cannons.</tooltip>
+</unit_class>
+<unit_class>
+<key>naval_ironclad</key>
+<onscreen>Ironclad</onscreen>
+<tooltip>Heavy warships with armour plates to protect against explosive shells. Strong, slow vessels only vulnerable to piercing shells.</tooltip>
+</unit_class>
+<unit_class>
+<key>naval_light_ship</key>
+<onscreen>Light Ship</onscreen>
+<tooltip>Light ships are fast-moving with missile-armed crews. Their small crew sizes make them vulnerable to boarding actions.</tooltip>
+</unit_class>
+<unit_class>
+<key>naval_medium_ship</key>
+<onscreen>Medium Ship</onscreen>
+<tooltip>Medium ships are good, all-round vessels with decent crew sizes, speed and manouverability. Their crew size still makes them vulnerable to boarding actions. They are slower than light ships.</tooltip>
+</unit_class>
+<unit_class>
+<key>naval_torpedoboat</key>
+<onscreen>Torpedo Boat </onscreen>
+<tooltip>Upgraded version of gunboat. Can use torpedoes against heavy, slow ships. Excellent at coastal defence.</tooltip>
+</unit_class>
+<unit_class>
+<key>naval_trade_ship</key>
+<onscreen>Trade Ship</onscreen>
+<tooltip>Trade ships are weak in combat but provide bountiful profit for a clan.</tooltip>
+</unit_class>
+<unit_class>
+<key>naval_xebec</key>
+<onscreen>Xebec</onscreen>
+<tooltip>Xebecs are boarding specialists that sacrifice firepower for increased boarding abilities. Fast and agile, the xebec can catch up with most opponents quite quickly. However, a weak hull and light armaments means that the trading of broadsides is not recommended.</tooltip>
+</unit_class>
+<unit_class>
+<key>siege</key>
+<onscreen>Siege Units</onscreen>
+<tooltip>Armed with weapons designed for dealing with castles and buildings, siege units are vulnerable in melee and to cavalry.</tooltip>
+</unit_class>
+</dataroot>

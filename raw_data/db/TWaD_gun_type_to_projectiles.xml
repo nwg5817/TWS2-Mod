@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_gun_type_to_projectiles>
+<root>
+  <edit_uuid>4fad626e-0fa9-11e1-8001-6cf049ef02b0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>gun_type</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>gun_type</column_source_column>
+    <column_source_table>gun_types</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>shot_type</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>projectiles</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>muzzle_flash</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>gun_type_muzzle_flash_enum</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>concentrated_fire_maximum_frequency</name>
+    <field_type>single</field_type>
+    <required>1</required>
+    <default_value>1</default_value>
+  </field>
+</root>

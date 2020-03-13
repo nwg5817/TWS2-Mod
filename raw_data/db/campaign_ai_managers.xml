@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Wed 2. Feb 09:53:42 2011" revision="3" export_branch="T:/branches/shogun2/patch/shogun2/binaries" export_user="Jeff.Woods">
+<edit_uuid>5442a14b-530e-4a31-8334-a1f4d0329174</edit_uuid><campaign_ai_managers>
+<description>Manager which will just end it's turn</description>
+<manager>EMPTY</manager>
+</campaign_ai_managers>
+<campaign_ai_managers>
+<manager>sho_ashikaga</manager>
+</campaign_ai_managers>
+<campaign_ai_managers>
+<description>Standard major clan manager</description>
+<manager>sho_major</manager>
+</campaign_ai_managers>
+<campaign_ai_managers>
+<description>Standard minor clan manager</description>
+<manager>sho_minor</manager>
+</campaign_ai_managers>
+<campaign_ai_managers>
+<description>Manager for minor faction that acts as a major clan</description>
+<manager>sho_minor_full</manager>
+</campaign_ai_managers>
+<campaign_ai_managers>
+<description>Tutorial clan faction manager</description>
+<manager>sho_tutorial</manager>
+</campaign_ai_managers>
+<campaign_ai_managers>
+<description>Wako Pirate specific manager</description>
+<manager>sho_wako</manager>
+</campaign_ai_managers>
+</dataroot>

@@ -1,0 +1,36 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_ancillary_trigger_effects>
+<root>
+  <edit_uuid>3e15de49-7e7e-44c1-91d9-64141e4c2ae2</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>id</name>
+    <field_type>autonumber</field_type>
+    <required>1</required>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>trigger</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>trigger</column_source_column>
+    <column_source_table>ancillary_triggers</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>ancillary</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>ancillary</column_source_column>
+    <column_source_table>ancillary_info</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>chance</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+</root>

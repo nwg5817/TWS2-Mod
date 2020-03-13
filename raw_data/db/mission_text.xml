@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Wed 30. Nov 13:46:32 2011" revision="24" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Dom.Starr">
+<edit_uuid>afcfe0da-4e84-4820-bef0-99180dd3f7f2</edit_uuid><mission_text>
+<key>mis_abort_bos_allegiance_change</key>
+<text>You have changed your allegiance.</text>
+</mission_text>
+<mission_text>
+<key>mis_abort_char_died</key>
+<text>This character has died.</text>
+</mission_text>
+<mission_text>
+<key>mis_abort_char_faction_destroyed</key>
+<text>The clan to which this character belonged has been destroyed.</text>
+</mission_text>
+<mission_text>
+<key>mis_abort_char_made_peace</key>
+<text>We are no longer at war with this character's clan.</text>
+</mission_text>
+<mission_text>
+<key>mis_abort_containing_region_captured_allied</key>
+<text>The province containing the target has been captured by an allied clan.</text>
+</mission_text>
+<mission_text>
+<key>mis_abort_containing_region_captured_neutral</key>
+<text>The province containing the target has been captured by a neutral clan.</text>
+</mission_text>
+<mission_text>
+<key>mis_abort_destroyed</key>
+<text>The target has been destroyed.</text>
+</mission_text>
+<mission_text>
+<key>mis_abort_faction_became_allied</key>
+<text>We have become allied to this clan.</text>
+</mission_text>
+<mission_text>
+<key>mis_abort_faction_became_shogun</key>
+<text>You have become Shogun.</text>
+</mission_text>
+<mission_text>
+<key>mis_abort_faction_built_first</key>
+<text>A rival clan has completed construction before us.</text>
+</mission_text>
+<mission_text>
+<key>mis_abort_faction_declared_war</key>
+<text>We are now at war with this clan.</text>
+</mission_text>
+<mission_text>
+<key>mis_abort_faction_destroyed</key>
+<text>This clan has been destroyed.</text>
+</mission_text>
+<mission_text>
+<key>mis_abort_faction_made_peace</key>
+<text>We are no longer at war with this clan.</text>
+</mission_text>
+<mission_text>
+<key>mis_abort_not_invading</key>
+<text>This clan is no longer invading our domain.</text>
+</mission_text>
+<mission_text>
+<key>mis_abort_owning_faction_made_peace</key>
+<text>We are no longer at war with the clan to which the target belongs.</text>
+</mission_text>
+<mission_text>
+<key>mis_abort_peace_faction_destroyed</key>
+<text>All clans with which we were at war have been destroyed.</text>
+</mission_text>
+<mission_text>
+<key>mis_abort_region_became_allied</key>
+<text>We have become allied with the owner of this province.</text>
+</mission_text>
+<mission_text>
+<key>mis_abort_region_captured_allied</key>
+<text>This province has been captured by an allied clan.</text>
+</mission_text>
+<mission_text>
+<key>mis_abort_region_captured_neutral</key>
+<text>This province has been captured by a neutral clan.</text>
+</mission_text>
+<mission_text>
+<key>mis_abort_region_made_peace</key>
+<text>We are no longer at war with the owner of this province.</text>
+</mission_text>
+<mission_text>
+<key>mis_abort_taken_by_force</key>
+<text>You chose to take this province by force.</text>
+</mission_text>
+<mission_text>
+<key>mis_abort_your_region_lost</key>
+<text>We have lost this province to another clan.</text>
+</mission_text>
+<mission_text>
+<key>mis_abort_your_region_lost_rebels</key>
+<text>We have lost this province to the rebels.</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_assassinate_any</key>
+<text>Assassinate any character</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_assassinate_char</key>
+<text>Assassinate the following character:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_assassinate_faction</key>
+<text>Assassinate a character belonging to the following clan:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_attain_clan_level_any</key>
+<text>Increase your clan’s development level.</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_attain_clan_level_specific</key>
+<text>Attain the following clan development level:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_blockade_faction</key>
+<text>Blockade a port belonging to the following clan:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_blockade_port</key>
+<text>Blockade the following port:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_blockade_port_any</key>
+<text>Blockade any port</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_bos_research_tech</key>
+<text>Research the following type of technology:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_bos_research_tech_type</key>
+<text>Research the following technology:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_bos_seduce_any</key>
+<text>Enchant any character</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_bos_seduce_char</key>
+<text>Enchant the following character:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_bos_seduce_faction</key>
+<text>Enchant a character belonging to the following clan:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_bribe_force_any</key>
+<text>Bribe any army</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_bribe_force_faction</key>
+<text>Bribe an army belonging to the following clan:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_bribe_force_invade</key>
+<text>Bribe an invading army belonging to the following clan:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_capture_region</key>
+<text>Capture the following province:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_capture_region_any</key>
+<text>Capture any province</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_capture_region_faction</key>
+<text>Capture a province belonging to the following clan:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_construct_building</key>
+<text>Construct the following building:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_construct_building_chain</key>
+<text>Construct a building from the following chain:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_construct_building_region</key>
+<text>Construct a building in the following province:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_convert_region</key>
+<text>Convert the majority of this province to your religion:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_convert_region_allegiance</key>
+<text>Spread your influence to the majority of this province:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_defeat_army_any</key>
+<text>Defeat any army in battle</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_defeat_army_faction</key>
+<text>Defeat an army belonging to the following clan:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_defeat_army_invade</key>
+<text>Defeat an invading army belonging to the following clan:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_defeat_force_any</key>
+<text>Defeat any army or navy in battle</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_defeat_force_faction</key>
+<text>Defeat an army or navy belonging to the following clan:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_defeat_navy_any</key>
+<text>Defeat any navy in battle</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_defeat_navy_faction</key>
+<text>Defeat a navy belonging to the following clan:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_demoralise_force_any</key>
+<text>Demoralise any army</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_demoralise_force_faction</key>
+<text>Demoralise an army belonging to the following clan:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_eliminate_in_battle_any</key>
+<text>Eliminate any general in battle</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_eliminate_in_battle_char</key>
+<text>Eliminate the following general in battle:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_eliminate_in_battle_faction</key>
+<text>Eliminate a general belonging to the following clan in battle:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_end_rebellion</key>
+<text>Crush the rebellion in the following province:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_incite_revolt_any</key>
+<text>Incite a revolt in any province</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_incite_revolt_faction</key>
+<text>Incite a revolt in a province belonging to the following clan:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_incite_revolt_region</key>
+<text>Incite a revolt in the following province:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_lift_blockade_any</key>
+<text>Lift any blockade</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_lift_blockade_port</key>
+<text>Lift the blockade upon the following port:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_make_alliance_any</key>
+<text>Forge an alliance with any clan</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_make_alliance_faction</key>
+<text>Forge an alliance with the following clan:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_make_peace_any</key>
+<text>Make peace with any rival clan</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_make_peace_faction</key>
+<text>Make peace with the following rival clan:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_make_trade_any</key>
+<text>Establish trade with any clan</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_make_trade_faction</key>
+<text>Establish trade with this clan:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_recruit_agent</key>
+<text>Recruit the following agent:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_recruit_unit_region</key>
+<text>Recruit a unit in the following province:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_recruit_unit_type</key>
+<text>Recruit the following type of unit:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_request_allegiance_any</key>
+<text>Obtain the allegiance of any province</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_request_allegiance_region</key>
+<text>Obtain the allegiance of the following province:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_research_tech</key>
+<text>Master any art in the following category:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_research_tech_type</key>
+<text>Master the following art:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_sabotage_building</key>
+<text>Sabotage the following building:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_sabotage_building_any</key>
+<text>Sabotage any building</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_sabotage_building_faction</key>
+<text>Sabotage a building belonging to the following clan:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_sabotage_force_any</key>
+<text>Sabotage any army</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_sabotage_force_faction</key>
+<text>Sabotage an army belonging to the following clan:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_sabotage_force_invade</key>
+<text>Sabotage an invading army belonging to the following clan:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_seduce_any</key>
+<text>Seduce any character</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_seduce_char</key>
+<text>Seduce the following character:</text>
+</mission_text>
+<mission_text>
+<key>mis_activity_seduce_faction</key>
+<text>Seduce a character belonging to the following clan:</text>
+</mission_text>
+<mission_text>
+<key>mis_event_activity</key>
+<text>Duty:</text>
+</mission_text>
+<mission_text>
+<key>mis_event_bos_time</key>
+<text>Turns remaining:</text>
+</mission_text>
+<mission_text>
+<key>mis_event_description</key>
+<text>Details:</text>
+</mission_text>
+<mission_text>
+<key>mis_event_issuer_clan</key>
+<text>This task has been put forth by your advisors.</text>
+</mission_text>
+<mission_text>
+<key>mis_event_issuer_europeans</key>
+<text>This task is a request from the nanban.</text>
+</mission_text>
+<mission_text>
+<key>mis_event_issuer_shogun</key>
+<text>This task is by request of the shogunate.</text>
+</mission_text>
+<mission_text>
+<key>mis_event_reward</key>
+<text>Reward:</text>
+</mission_text>
+<mission_text>
+<key>mis_event_time</key>
+<text>Seasons remaining:</text>
+</mission_text>
+<mission_text>
+<key>mis_issued</key>
+<text>Mission Issued!</text>
+</mission_text>
+<mission_text>
+<key>mis_outcome_abort</key>
+<text>Mission Aborted!</text>
+</mission_text>
+<mission_text>
+<key>mis_outcome_abort_description</key>
+<text>Due to the following unforeseen circumstances, we are no longer able to accomplish this mission:</text>
+</mission_text>
+<mission_text>
+<key>mis_outcome_fail</key>
+<text>Mission Failed!</text>
+</mission_text>
+<mission_text>
+<key>mis_outcome_fail_description</key>
+<text>We have failed to accomplish this mission within the allotted time, losing any advantage that might have been gained by our success.</text>
+</mission_text>
+<mission_text>
+<key>mis_outcome_success</key>
+<text>Mission Successful!</text>
+</mission_text>
+<mission_text>
+<key>mis_outcome_success_clan</key>
+<text>This is an auspicious day indeed, my lord! We have successfully accomplished this mission for the greater good of the clan and can now reap the benefits of our efforts.</text>
+</mission_text>
+<mission_text>
+<key>mis_outcome_success_europeans</key>
+<text>An emissary has arrived with word from Europe, my lord. The nanban are gratified that we should choose to accomplish this undertaking on their behalf and in so doing strengthen the ties between our people. May our clan reap the benefits of our continued dealings with Europe.</text>
+</mission_text>
+<mission_text>
+<key>mis_outcome_success_shogun</key>
+<text>An envoy has arrived from Kyoto, my lord. The shogun is most pleased that we have accomplished this duty with which he had tasked us. May our clan reap the benefits of our continued support for the shogunate.</text>
+</mission_text>
+<mission_text>
+<key>payload_buildings_damaged</key>
+<text>Buildings in this province have been damaged.</text>
+</mission_text>
+<mission_text>
+<key>payload_diplomacy</key>
+<text>Relations with this clan will be affected:</text>
+</mission_text>
+<mission_text>
+<key>payload_fame</key>
+<text>Clan fame:</text>
+</mission_text>
+<mission_text>
+<key>payload_grant_agent_multi</key>
+<text>Agents:</text>
+</mission_text>
+<mission_text>
+<key>payload_grant_agent_single</key>
+<text>Agent:</text>
+</mission_text>
+<mission_text>
+<key>payload_grant_unit_multi</key>
+<text>Units:</text>
+</mission_text>
+<mission_text>
+<key>payload_grant_unit_single</key>
+<text>Unit:</text>
+</mission_text>
+<mission_text>
+<key>payload_honour</key>
+<text>Daimyo honour:</text>
+</mission_text>
+<mission_text>
+<key>payload_kill_character</key>
+<text>The character in question will be killed.</text>
+</mission_text>
+<mission_text>
+<key>payload_loyalty</key>
+<text>This character's loyalty will be affected:</text>
+</mission_text>
+<mission_text>
+<key>payload_rebellion</key>
+<text>Rebellion!</text>
+</mission_text>
+<mission_text>
+<key>payload_treasury</key>
+<text>Treasury:</text>
+</mission_text>
+<mission_text>
+<key>payload_unlock_building</key>
+<text>Enables the construction of:</text>
+</mission_text>
+</dataroot>

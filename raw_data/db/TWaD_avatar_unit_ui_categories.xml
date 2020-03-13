@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_avatar_unit_ui_categories>
+<root>
+  <edit_uuid>858c6843-3ad4-4800-ba66-122fc888f36b</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>unit_ui_category</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+</root>

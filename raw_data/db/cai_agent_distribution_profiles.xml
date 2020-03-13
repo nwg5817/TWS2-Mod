@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Tue 28. Sep 16:48:46 2010" revision="2" export_branch="C:/WINDOWS" export_user="Janos.Gaspar">
+<edit_uuid>6843e999-f788-4634-9932-2f9108c0171c</edit_uuid><cai_agent_distribution_profiles>
+<key>agressive</key>
+</cai_agent_distribution_profiles>
+<cai_agent_distribution_profiles>
+<key>cai_adp_standard</key>
+</cai_agent_distribution_profiles>
+<cai_agent_distribution_profiles>
+<key>defensive</key>
+</cai_agent_distribution_profiles>
+</dataroot>

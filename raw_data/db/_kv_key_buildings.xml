@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Fri 9. Mar 16:04:05 2012" revision="24" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="James.Whitston">
+<edit_uuid>eec00561-9f52-4dd4-bb22-735fdfcc6dce</edit_uuid><_kv_key_buildings>
+<description>rate at which ammo is replenished when in archer dojo every second (multiplied by the number of men in the unit)</description>
+<key>archery_dojo_ammo_replenish_rate_local_modifier</key>
+<value>0.0700000002980232</value>
+</_kv_key_buildings>
+<_kv_key_buildings>
+<description>reload skill global modifier</description>
+<key>archery_dojo_reload_skill_global_modifier</key>
+<value>20</value>
+</_kv_key_buildings>
+<_kv_key_buildings>
+<description>Maximimum number of units which can contribute to reducing capture speed</description>
+<key>cooperative_capture_max_units</key>
+<value>3</value>
+</_kv_key_buildings>
+<_kv_key_buildings>
+<description>multiplier applied to capture time when avatar has cooperative_capture skill, 2 would double the rate and therefore halve capture time, modifier specifies the modifier when max units are in the location, it is linearly scaled up for lower number of units</description>
+<key>cooperative_capture_modifier</key>
+<value>1.33000004291534</value>
+</_kv_key_buildings>
+<_kv_key_buildings>
+<description>modifies the units fatigue modifier ADDITIVE</description>
+<key>farmhouse_fatigue_modifier</key>
+<value>-0.349999994039536</value>
+</_kv_key_buildings>
+<_kv_key_buildings>
+<description>farmhouse global speed modifier ADDITIVE</description>
+<key>farmhouse_speed_global_modifier</key>
+<value>0.150000005960464</value>
+</_kv_key_buildings>
+<_kv_key_buildings>
+<description>rate of fire for the towers in seconds per shot with large unit scale</description>
+<key>fort_tower_fire_frequency_large</key>
+<value>1.33000004291534</value>
+</_kv_key_buildings>
+<_kv_key_buildings>
+<description>rate of fire for the towers in seconds per shot with medium unit scale</description>
+<key>fort_tower_fire_frequency_medium</key>
+<value>1.6599999666214</value>
+</_kv_key_buildings>
+<_kv_key_buildings>
+<description>rate of fire for the towers in seconds per shot with small unit scale</description>
+<key>fort_tower_fire_frequency_small</key>
+<value>2</value>
+</_kv_key_buildings>
+<_kv_key_buildings>
+<description>rate of fire for the towers in seconds per shot with ultra unit scale</description>
+<key>fort_tower_fire_frequency_ultra</key>
+<value>1</value>
+</_kv_key_buildings>
+<_kv_key_buildings>
+<description>time to capture a gate in seconds</description>
+<key>gate_capture_time</key>
+<value>15</value>
+</_kv_key_buildings>
+<_kv_key_buildings>
+<description>time to capture the keep in seconds</description>
+<key>keep_capture_time</key>
+<value>60</value>
+</_kv_key_buildings>
+<_kv_key_buildings>
+<description>time to capture key building</description>
+<key>key_building_capture_time</key>
+<value>110</value>
+</_kv_key_buildings>
+<_kv_key_buildings>
+<description>units from the capturing alliance within this radius recieve the local bonus</description>
+<key>local_bonus_radius</key>
+<value>55</value>
+</_kv_key_buildings>
+<_kv_key_buildings>
+<description>multiplier applied to capture time when avatar has rapid_capture skill, 2 would double the rate and therefore would halve capture time</description>
+<key>rapid_capture_modifier</key>
+<value>1.33000004291534</value>
+</_kv_key_buildings>
+<_kv_key_buildings>
+<description>shrine morale global modifier</description>
+<key>shrine_morale_global_modifier</key>
+<value>3</value>
+</_kv_key_buildings>
+<_kv_key_buildings>
+<description>shrine morale local modifier</description>
+<key>shrine_morale_local_modifier</key>
+<value>0</value>
+</_kv_key_buildings>
+<_kv_key_buildings>
+<description>sword dojo charge bonus global modifier</description>
+<key>sword_dojo_charge_bonus_global_modifier</key>
+<value>5</value>
+</_kv_key_buildings>
+<_kv_key_buildings>
+<description>sword dojo charge bonus global modifier</description>
+<key>sword_dojo_charge_bonus_local_modifier</key>
+<value>0</value>
+</_kv_key_buildings>
+<_kv_key_buildings>
+<description>sword dojo melee attack global modifier</description>
+<key>sword_dojo_melee_attack_global_modifier</key>
+<value>2</value>
+</_kv_key_buildings>
+<_kv_key_buildings>
+<description>sword dojo melee attack local modifier</description>
+<key>sword_dojo_melee_attack_local_modifier</key>
+<value>0</value>
+</_kv_key_buildings>
+<_kv_key_buildings>
+<description>time to capture a tower in seconds</description>
+<key>tower_capture_time</key>
+<value>15</value>
+</_kv_key_buildings>
+<_kv_key_buildings>
+<description>workshop armour global modifier</description>
+<key>workshop_armour_global_modifier</key>
+<value>2</value>
+</_kv_key_buildings>
+<_kv_key_buildings>
+<description>workshop armour local modifier</description>
+<key>workshop_armour_local_modifier</key>
+<value>0</value>
+</_kv_key_buildings>
+<_kv_key_buildings>
+<description>workshop defence global modifier</description>
+<key>workshop_defence_global_modifier</key>
+<value>3</value>
+</_kv_key_buildings>
+<_kv_key_buildings>
+<description>workshop defence local modifier</description>
+<key>workshop_defence_local_modifier</key>
+<value>0</value>
+</_kv_key_buildings>
+</dataroot>

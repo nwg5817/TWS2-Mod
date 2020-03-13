@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_aide_de_camp_speeches>
+<root>
+  <edit_uuid>64219e82-2244-11e0-8001-6cf049ef02b0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>text</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>picture_in_picture</name>
+    <field_type>yesno</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>offset_angle</name>
+    <field_type>double</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>offset_range</name>
+    <field_type>double</field_type>
+    <required>1</required>
+    <default_value>3</default_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>circumvent_cooldown</name>
+    <field_type>yesno</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+</root>

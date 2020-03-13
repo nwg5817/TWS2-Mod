@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_religions>
+<root>
+  <edit_uuid>891d926d-744b-469b-b499-72fa8c086d6d</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>religion_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>onscreen</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>convertibility</name>
+    <field_type>integer</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>ui_icon_path</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>100</max_length>
+  </field>
+</root>

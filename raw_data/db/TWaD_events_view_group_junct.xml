@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_events_view_group_junct>
+<root>
+  <edit_uuid>4eec0939-540c-47a7-8f35-c8ce9a1f8785</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>event</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>events</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>view_group</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>group_name</column_source_column>
+    <column_source_table>groupings</column_source_table>
+  </field>
+</root>

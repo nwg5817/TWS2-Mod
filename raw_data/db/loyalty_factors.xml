@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Wed 16. May 16:46:12 2012" revision="17" export_branch="T:/branches/shogun2/boshin_dlc/shogun2/binaries" export_user="Dom.Starr">
+<edit_uuid>fc7a888c-a87b-4d97-b4cb-6e8a408300a9</edit_uuid><loyalty_factors>
+<key>adoption</key>
+<localised_negative_name>x</localised_negative_name>
+<localised_positive_name>Adopted into family</localised_positive_name>
+<maximum_value>1</maximum_value>
+<minimum_value>0</minimum_value>
+</loyalty_factors>
+<loyalty_factors>
+<key>bonus_values</key>
+<localised_negative_name>Arts, Skills, Traits and Retainers</localised_negative_name>
+<localised_positive_name>Arts, Skills, Traits and Retainers</localised_positive_name>
+<maximum_value>3</maximum_value>
+<minimum_value>-2</minimum_value>
+</loyalty_factors>
+<loyalty_factors>
+<key>bribed</key>
+<localised_negative_name>Disloyal tendencies</localised_negative_name>
+<localised_positive_name>Allegiant</localised_positive_name>
+<maximum_value>0</maximum_value>
+<minimum_value>-3</minimum_value>
+</loyalty_factors>
+<loyalty_factors>
+<key>changed_office</key>
+<localised_negative_name>Relegated commission</localised_negative_name>
+<localised_positive_name>Relegated commission</localised_positive_name>
+<maximum_value>0</maximum_value>
+<minimum_value>0</minimum_value>
+</loyalty_factors>
+<loyalty_factors>
+<key>daimyo_honour</key>
+<localised_negative_name>Dishonourable daimyo</localised_negative_name>
+<localised_positive_name>Daimyo's honour</localised_positive_name>
+<maximum_value>4</maximum_value>
+<minimum_value>0</minimum_value>
+</loyalty_factors>
+<loyalty_factors>
+<key>destroyed_clan</key>
+<localised_negative_name>[Placeholder]</localised_negative_name>
+<localised_positive_name>a</localised_positive_name>
+<maximum_value>0</maximum_value>
+<minimum_value>0</minimum_value>
+</loyalty_factors>
+<loyalty_factors>
+<key>epic_failure</key>
+<localised_negative_name>Terrible defeats</localised_negative_name>
+<localised_positive_name>b</localised_positive_name>
+<maximum_value>0</maximum_value>
+<minimum_value>-2</minimum_value>
+</loyalty_factors>
+<loyalty_factors>
+<key>extraordinary_success</key>
+<localised_negative_name>[Placeholder]</localised_negative_name>
+<localised_positive_name>Great victories</localised_positive_name>
+<maximum_value>3</maximum_value>
+<minimum_value>0</minimum_value>
+</loyalty_factors>
+<loyalty_factors>
+<key>family_failure</key>
+<localised_negative_name>[Placeholder]</localised_negative_name>
+<localised_positive_name>c</localised_positive_name>
+<maximum_value>0</maximum_value>
+<minimum_value>0</minimum_value>
+</loyalty_factors>
+<loyalty_factors>
+<key>family_success</key>
+<localised_negative_name>[Placeholder]</localised_negative_name>
+<localised_positive_name>d</localised_positive_name>
+<maximum_value>0</maximum_value>
+<minimum_value>0</minimum_value>
+</loyalty_factors>
+<loyalty_factors>
+<key>granted_office</key>
+<localised_negative_name>Stripped of commission</localised_negative_name>
+<localised_positive_name>Assigned a commission</localised_positive_name>
+<maximum_value>1</maximum_value>
+<minimum_value>0</minimum_value>
+</loyalty_factors>
+<loyalty_factors>
+<key>greater_than_his_lord</key>
+<localised_negative_name>Delusions of grandeur</localised_negative_name>
+<localised_positive_name>e</localised_positive_name>
+<maximum_value>0</maximum_value>
+<minimum_value>-3</minimum_value>
+</loyalty_factors>
+<loyalty_factors>
+<key>heir</key>
+<localised_negative_name>Disinherited</localised_negative_name>
+<localised_positive_name>Declared heir</localised_positive_name>
+<maximum_value>2</maximum_value>
+<minimum_value>-3</minimum_value>
+</loyalty_factors>
+<loyalty_factors>
+<key>lost_office_shortly_after_being_granted_it</key>
+<localised_negative_name>Prematurely stripped of commission</localised_negative_name>
+<localised_positive_name>f</localised_positive_name>
+<maximum_value>0</maximum_value>
+<minimum_value>0</minimum_value>
+</loyalty_factors>
+<loyalty_factors>
+<key>lower_level_character_granted_office</key>
+<localised_negative_name>Commission given to subordinate</localised_negative_name>
+<localised_positive_name>g</localised_positive_name>
+<maximum_value>0</maximum_value>
+<minimum_value>-1</minimum_value>
+</loyalty_factors>
+<loyalty_factors>
+<key>married_daughter</key>
+<localised_negative_name>[Placeholder]</localised_negative_name>
+<localised_positive_name>Married into family</localised_positive_name>
+<maximum_value>1</maximum_value>
+<minimum_value>0</minimum_value>
+</loyalty_factors>
+<loyalty_factors>
+<key>metsuke</key>
+<localised_negative_name>x</localised_negative_name>
+<localised_positive_name>Overseen by agent</localised_positive_name>
+<maximum_value>3</maximum_value>
+<minimum_value>0</minimum_value>
+</loyalty_factors>
+<loyalty_factors>
+<key>non_family_general</key>
+<localised_negative_name>Blood thicker than water</localised_negative_name>
+<localised_positive_name>Grateful to serve</localised_positive_name>
+<maximum_value>0</maximum_value>
+<minimum_value>0</minimum_value>
+</loyalty_factors>
+<loyalty_factors>
+<key>personal_loyalty</key>
+<localised_negative_name>x</localised_negative_name>
+<localised_positive_name>Personal loyalty</localised_positive_name>
+<maximum_value>10</maximum_value>
+<minimum_value>0</minimum_value>
+</loyalty_factors>
+<loyalty_factors>
+<key>removed_from_office</key>
+<localised_negative_name>Stripped of commission</localised_negative_name>
+<localised_positive_name>Assigned a commission</localised_positive_name>
+<maximum_value>0</maximum_value>
+<minimum_value>-1</minimum_value>
+</loyalty_factors>
+<loyalty_factors>
+<key>upstart_generals</key>
+<localised_negative_name>Upstart generals</localised_negative_name>
+<localised_positive_name>h</localised_positive_name>
+<maximum_value>0</maximum_value>
+<minimum_value>-8</minimum_value>
+</loyalty_factors>
+<loyalty_factors>
+<key>upstart_sons</key>
+<localised_negative_name>Upstart sons</localised_negative_name>
+<localised_positive_name>x</localised_positive_name>
+<maximum_value>0</maximum_value>
+<minimum_value>-1</minimum_value>
+</loyalty_factors>
+</dataroot>

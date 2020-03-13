@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Thu 17. May 16:04:38 2012" revision="13" export_branch="T:/branches/shogun2/ted_release/shogun2/binaries" export_user="Krystiana.Gutbub">
+<edit_uuid>4d9b2619-513b-4cbd-a92d-337ce73d1d62</edit_uuid><encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_01a</key>
+<text>The fate of your clan is decided on the battlefield.&lt;br /&gt;You'll need a strong command of your troops, along with</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_01b</key>
+<text>a mastery of their strengths, weaknesses and special abilities.&lt;br /&gt;In this tutorial we will cover the fundamentals of managing</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_01c</key>
+<text>an army on the battlefield, providing the foundations for victory.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_02a</key>
+<text>An initial survey of the battlefield is crucial to planning tactics,&lt;br /&gt;so let's get familiar with the camera first. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_02b</key>
+<text>We can change our view of the battlefield by using&lt;br /&gt;the WASD keys, with the Q and E keys rotating our view.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_02c</key>
+<text>Scroll the mouse wheel and we can zoom in on our forces.&lt;br /&gt;Double clicking a unit or its unit card, centres and</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_02d</key>
+<text>zooms the camera on its field of view. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_03a</key>
+<text>We’re in the opening stage of a battle right now – the deployment phase.&lt;br /&gt;At this point, we can tweak the position of our army by moving</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_03b</key>
+<text>our units to locations within the outlined deployment zone. This planning&lt;br /&gt;stage is a feature of every battle, unless we’re surprised</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_03c</key>
+<text>by an enemy ambush on the campaign map.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_04a</key>
+<text>We need to select a unit before we can change its position. &lt;br /&gt;We can either left-click on the unit itself, or on its unit card.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_04b</key>
+<text>Now we can instantly place it by right-clicking on a new location. &lt;br /&gt;Once the battle starts, we'll use this same method to issue move orders.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_05a</key>
+<text>Let's widen the line of this unit. With the unit selected, &lt;br /&gt;we hold down the right-mouse button and drag the mouse. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_05b</key>
+<text>We can also alter the depth of a unit and its facing in the same way. &lt;br /&gt;The manoeuvre compass allows us to fine tune unit positioning that little bit more.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_06a</key>
+<text>Let's start the battle and look to seize the initiative. &lt;br /&gt;As the attacker, we need to defeat our enemy;</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_06b</key>
+<text>the defending army can merely hold their ground and repel our attacks.&lt;br /&gt;We're the aggressor here, so we should quickly move our units to engage. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_07a</key>
+<text>Let's pick up the pace! By double right-clicking a location, we can order our&lt;br /&gt;units to run and make up the ground at double speed.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_07b</key>
+<text>We need to be wary however - running units too often,&lt;br /&gt;particularly uphill, will tire them out.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_08a</key>
+<text>If we want to give multiple movement orders for a unit,&lt;br /&gt;we can use waypoints to set a path. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_08b</key>
+<text>We'll hold down shift and right-click on several points on the battlefield.&lt;br /&gt;Now our selected unit will follow that route, </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_08c</key>
+<text>moving to each location in turn.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_09a</key>
+<text>Enough posturing, it's time to engage! The enemy have a unit of Yari Kachi&lt;br /&gt;split away from their main army - let's pick them off.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_09b</key>
+<text>We’ll send in our Katana Kachi to face them, their swords&lt;br /&gt;and superior melee skills should overwhelm the enemy.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_09c</key>
+<text>We'll select our unit and right-click on our target to order the attack.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_10a</key>
+<text>If we charge an enemy at speed, our attack will be more devastating.&lt;br /&gt;That’s particularly true when attacking with cavalry units.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_10b</key>
+<text>Let’s round up our Yari Ki cavalry and look to smash the enemy line. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_11a</key>
+<text>By double right-clicking on an enemy, we'll order our cavalry to charge&lt;br /&gt;and the impact will inflict more damage. Charging spear units</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_11b</key>
+<text>with cavalry is never a good idea, but if we attack the enemy's flank or rear,&lt;br /&gt;it will be far more effective than engaging them head-on.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_12a</key>
+<text>Our cavalry charge was devastating! The white bar above&lt;br /&gt;the enemy banner indicates that the unit has routed.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_12b</key>
+<text>This occurs when the morale of a unit is broken. &lt;br /&gt;Heavy casualties, exposure to an enemy on the flank or rear,</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_12c</key>
+<text>or the untimely death of their General, can all damage a unit's morale.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_13a</key>
+<text>Morale can be maintained in a number of ways. Proximity to friendly&lt;br /&gt;units is important, while a nearby General can also be a major factor.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_13b</key>
+<text>A General has a number of special abilities that can quickly boost &lt;br /&gt;the morale of a unit, even when the odds are stacked against them.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_14a</key>
+<text>Other units also have special abilities – their controls are always&lt;br /&gt;located near the manoeuvre compass. Some abilities can only be used sparingly; </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_14b</key>
+<text>they have “cooldown&quot; times which will limit how often you can&lt;br /&gt;bring them into play.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_15a</key>
+<text>Groups and formations can really help to organsie our troops efficiently. &lt;br /&gt;They also enable us to issue orders to multiple units.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_16a</key>
+<text>Let's create a group now. We can left-click and drag a box around our units,&lt;br /&gt;or hold down the Control key and select units one by one.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_16b</key>
+<text>With our units selected, we'll press the “G” key or click the Group button,&lt;br /&gt;to set up the group.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_17a</key>
+<text>We can now issue orders to our group and place it in one of several&lt;br /&gt;formations.With our group locked in our chosen formation,</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_17b</key>
+<text>they'll now attempt to hold their shape and spacing whilst carrying out&lt;br /&gt;move orders. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_18a</key>
+<text>We’ve engaged the enemy hand-to-hand, but we also have a variety of&lt;br /&gt;western-inspired firepower at our disposal, capable of cutting down an</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_18b</key>
+<text>enemy from range. Let’s select our Line Infantry and start to use some of&lt;br /&gt;that firepower now.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_19a</key>
+<text>Our Line Infantry carry rifles. They are a direct fire unit that need&lt;br /&gt;a clear line of sight on their enemy to be effective. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_19b</key>
+<text>While bowmen can fire over obstacles, rifle units need to be positioned &lt;br /&gt;carefully to give them a clear field of fire. That arc drawn </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_19c</key>
+<text>in front of our unit shows their firing range.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_20a</key>
+<text>Artillery units offer us even more firepower.Our guns can be&lt;br /&gt;attached or “limbered” to horses and pulled around the battlefield. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_20b</key>
+<text>Once unlimbered, they can  be used to inflict heavy casualties on &lt;br /&gt;approaching enemies. They're also very handy when it comes to </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_20c</key>
+<text>destroying wall defences in sieges.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_21a</key>
+<text>These Gatling guns are our most fearsome artillery weapon. &lt;br /&gt;Let’s use them on the advancing enemy! </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_21b</key>
+<text>With the unit selected, we can choose to either target enemy troops directly,&lt;br /&gt;or focus fire on any area of the battlefield, </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_land_sub_21c</key>
+<text>creating a kill zone that will help block a would-be advance. &lt;br /&gt;Either way, any unit who ventures within range will be quickly shot to pieces!</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_01a</key>
+<text>In this tutorial we’ll cover the basics of the camera, the&lt;br /&gt;deployment and movement of ships and the knowledge you </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_01b</key>
+<text>need to sink the enemy.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_02a</key>
+<text>Let's scan the battle area first. We can change our view by&lt;br /&gt;using the WASD keys, with the Q and E keys rotating the camera.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_02b</key>
+<text>If we scroll the mouse-wheel, we can zoom closer to our ships.&lt;br /&gt;Double clicking a ship or its card, centres and zooms the camera</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_02c</key>
+<text>on its field of view. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_03a</key>
+<text>Before a battle we must deploy our fleet. At this point, we can&lt;br /&gt;position our ships anywhere within the outlined  zone.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_03b</key>
+<text>Placing and positioning ships is simple – just left-click on a ship&lt;br /&gt;to select, then right-click a location to drop it down. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_04a</key>
+<text>We can also change a ship's heading. With a ship selected &lt;br /&gt;and the right mouse button held down, we move the the mouse right</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_04b</key>
+<text>and left until we get the angle we’re after. Release the&lt;br /&gt;mouse button to set the new heading.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_05a</key>
+<text>Let's click &quot;Start Battle&quot; to end the deployment and reveal&lt;br /&gt;the enemy fleet. They’re already closing on us, so we should start positioning </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_05b</key>
+<text>our ships to engage. To manoeuvere a ship we just left-click to select,&lt;br /&gt;then right-click on our chosen location.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_07a</key>
+<text>We need to keep one step ahead of the enemy. Let's take a&lt;br /&gt;look at the movement controls available. Using these, we can </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_07b</key>
+<text>increase this ship’s speed, rotate the direction and back&lt;br /&gt;our ship out of trouble.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_08a</key>
+<text>Engaging with the enemy is simple, we'll select our ship and&lt;br /&gt;right-click on our target. It will then manoeuvre  towards them </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_08b</key>
+<text>and, once in range, will open fire.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_09a</key>
+<text>Using the fire-at-will button, we can also set a ship to attack&lt;br /&gt;any enemy that comes within range. This arc represents the </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_09b</key>
+<text>targeting range of our ship's guns. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_10a</key>
+<text>Get a broadside on the enemy and we can quickly turn&lt;br /&gt;the tide of battle. If our guns can get a clear sight of the </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_10b</key>
+<text>enemy hull, we can deal some serious damage. Let’s get in close&lt;br /&gt;and manoeuvre to give our gunners the best possible angle of attack.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_11a</key>
+<text>Here’s our chance! With full guns on the enemy, we'll take manual&lt;br /&gt;control by selecting the broadside button. Our firing arc is </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_11b</key>
+<text>smaller now – indicating that we need to be at close range for&lt;br /&gt;a broadside to be effective. Closing on the enemy is risky, </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_11c</key>
+<text>but a devastating broadside makes it worthwhile! </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_12a</key>
+<text>Our guns are fully loaded! Let's click the broadside button&lt;br /&gt;again to open fire. The enemy have suffered the full </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_12b</key>
+<text>force of our firepower; we've ripped through their hull!</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_13a</key>
+<text>Our ship is carrying an array of shell types, effective against&lt;br /&gt;a variety of enemies. We change shell types for the selected </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_13b</key>
+<text>ship using these buttons.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_14a</key>
+<text>Up until now we’ve been firing solid cast iron shells, they’re&lt;br /&gt;effective enough, but let's change to explosive shells so we can</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_14b</key>
+<text>deal more damage to wooden hulls.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_15a</key>
+<text>We need to change our strategy again for ironclads. A well&lt;br /&gt;aimed broadside with armour piercing shells will do the trick!</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_16a</key>
+<text>Our direct hit has cut through that ship's hull! It's also made a&lt;br /&gt;serious dent on the crew's morale. They've taken heavy casualties </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_16b</key>
+<text>and are badly shaken. If we can inflict further damage, they&lt;br /&gt;may flee or surrender; either way, that would take them out of </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_16c</key>
+<text>the battle. That’s the key to victory - we don’t need to sink every&lt;br /&gt;ship to win this engagement.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_17a</key>
+<text>The enemy are fighting back! One of our ships has taken&lt;br /&gt;damage and we should look to repair it.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_18a</key>
+<text>We'll double left-click on the ship to zoom the camera and&lt;br /&gt;assess matters.  With the ship selected, we can use the repair </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_18b</key>
+<text>button to issue the order. This ship needs protection while&lt;br /&gt;our crew are at work. It won't be able move or retaliate,</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_18c</key>
+<text>so it’s an easy target. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_19a</key>
+<text>Let's bring more of our forces into battle. By using groups, we&lt;br /&gt;can issue commands to more than one ship and place them </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_19b</key>
+<text>in formation to maximise firepower.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_20a</key>
+<text>To group some ships, we simply left-click and drag a box&lt;br /&gt;around them, then click the &quot;Group button&quot;. Let's group our </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_20b</key>
+<text>entire fleet. Now we can order our fleet to close&lt;br /&gt;and overwhelm the enemy.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_naval_sub_22a</key>
+<text>Victory is ours! The enemy have been broken and sunk.&lt;br /&gt;We're free to plunder the spoils.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_siege_sub_01a</key>
+<text>Victory on the open battlefields will keep our enemies in&lt;br /&gt;check, but we'll need to master the art of siege battles before we can </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_siege_sub_01b</key>
+<text>take their lands. Sieges demand new strategies from the&lt;br /&gt;attacker and the defending force.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_siege_sub_02a</key>
+<text>In this encounter, we’re charged with taking the enemy castle;&lt;br /&gt;a fiercely defended stronghold that will test our men and our tactics.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_siege_sub_03a</key>
+<text>As we learned in the land battle essentials tutorial, we'll&lt;br /&gt;spend the deployment phase setting up our army, forming groups </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_siege_sub_03b</key>
+<text>and setting formations for the assault on the walls.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_siege_sub_04a</key>
+<text>Our objective, as the attacker, is to capture the keep or “tenshu”&lt;br /&gt;located in the centre of the castle. We can also win by </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_siege_sub_04b</key>
+<text>annihilating  the defending force. Our troops need to battle&lt;br /&gt;their way through the defences to get to the enemy, so </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_siege_sub_04c</key>
+<text>we'll need to breach those castle walls. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_siege_sub_05a</key>
+<text>Artillery is crucial.  With cannon in our ranks, we can target the&lt;br /&gt;outer walls and have our men break through their defences. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_siege_sub_05b</key>
+<text>With our cannon selected and in range, we'll right-click a&lt;br /&gt;wall area to target fire.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_siege_sub_06a</key>
+<text>There's another way we can overcome the walls: our Ninja and&lt;br /&gt;infantry units can be ordered to scale them. We'll also order </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_siege_sub_06b</key>
+<text>our cavalry units to dismount and make the climb. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_siege_sub_07a</key>
+<text>With a unit selected, we'll  choose an area of the outer wall to&lt;br /&gt;attack. Notice that our cursor changes; this tells us that this unit </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_siege_sub_07b</key>
+<text>can climb here. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_siege_sub_08a</key>
+<text>Any infantry unit can climb a wall but heavily armoured troops&lt;br /&gt;are slower. They're more likely to suffer casualties as a result.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_siege_sub_09a</key>
+<text>Ninjas come into their own here. Their agility and light armour make&lt;br /&gt;short work of scaling the wall and they're equipped with </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_siege_sub_09b</key>
+<text>climbing claws, designed for the task at hand.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_siege_sub_10a</key>
+<text>The enemy are well positioned. We're taking heavy causalities&lt;br /&gt;before our men can get a foothold on the battlements! </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_siege_sub_10b</key>
+<text>Let's  try to split the enemy forces by ordering our men to climb&lt;br /&gt;some undefended areas.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_siege_sub_11a</key>
+<text>Our men are under fire from those towers! Once we're inside the&lt;br /&gt;walls, we should move quickly to capture them. If we order </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_siege_sub_11b</key>
+<text>a unit into the marked area surrounding a tower, it will eventually&lt;br /&gt;fall under our control. We can then turn that hail of fire on the enemy.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_siege_sub_12a</key>
+<text>We can capture and gain control of the gatehouse in&lt;br /&gt;the same way. Now we've seized the main gate, we'll order </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_siege_sub_12b</key>
+<text>our cavalry to flood into the castle and slaughter the&lt;br /&gt;remaining defenders!</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_siege_sub_13a</key>
+<text>With the outer defences breached, let's edge our men towards&lt;br /&gt;the inner wall and head for the tenshu. Capture that, and the </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_battle_siege_sub_13b</key>
+<text>battle will be won. The castle and the campaign province will&lt;br /&gt;be ours for the taking!</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_01a</key>
+<text>The objective in the campaign is to banish our enemies&lt;br /&gt;from the map by defeating their forces and capturing their lands.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_01b</key>
+<text>To achieve this, we'll need to manage our provinces wisely,&lt;br /&gt;build our economy and recruit powerful armies.  The campaign is</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_01c</key>
+<text>turn-based, with each turn the equivalent of two weeks in&lt;br /&gt;the game. When we’ve made all our moves, we click</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_01d</key>
+<text>the End Turn button to progress.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_02a</key>
+<text>Our armies are crucial to our success – we'll use them&lt;br /&gt;to defend our lands, defeat our enemies and capture provinces.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_02b</key>
+<text>An army is made up of individual units of troops&lt;br /&gt;that we recruit. They cost money to build and maintain,</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_02c</key>
+<text>so we need to keep them busy to justify their upkeep.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_03a</key>
+<text>Let's add some more units to our army.&lt;br /&gt;We can recruit and reinforce armies from any of our cities. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_03b</key>
+<text>The buildings present in a city decide the type and&lt;br /&gt;quality of units available and can include cavalry, artillery and infantry.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_03c</key>
+<text>Left-clicking a unit type, adds it to our recruitment queue.&lt;br /&gt;It may take a number of turns before the unit becomes available.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_04a</key>
+<text>Let's mobilise our new recruits. By holding shift we can&lt;br /&gt;select our units by using left-click, then we can</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_04b</key>
+<text>right-click outside of the city to form a new army.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_05a</key>
+<text>Without a General in charge, this army will lack leadership&lt;br /&gt;and organisation. Let’s merge them with our existing army</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_05b</key>
+<text>and bring them under the command of its General.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_06a</key>
+<text>An enemy army has formed nearby. We must protect our&lt;br /&gt;provinces from any threat; if all our regions should fall,</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_06b</key>
+<text>our campaign comes to an end. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_07a</key>
+<text>Let’s push them back with the General’s army.&lt;br /&gt;Notice that when we mouse over, a circular border is drawn</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_07b</key>
+<text>out on the map; this is the army’s “zone of control”.&lt;br /&gt;Enemies are unable to enter this zone without first attacking our army. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_07c</key>
+<text>That’s useful to remember when selecting strategic locations on the map.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_08a</key>
+<text>Let’s approach the enemy. With our army selected, we simply&lt;br /&gt;right-click a location on the map to issue the </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_08b</key>
+<text>order to move. We can press spacebar to speed up movement on the campaign&lt;br /&gt;map. Right-clicking on an opposing army will move our forces to</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_08c</key>
+<text>engage and instigate a battle.  </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_09a</key>
+<text>This pre-battle panel offers an overview of the two armies involved.&lt;br /&gt;The balance of power meter shows how we compare to</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_09b</key>
+<text>the enemy so we can make a decision on our next move. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_10a</key>
+<text>We’ve got several options here. We can choose to command our&lt;br /&gt;forces on the 3D battlemap, withdraw our army and regroup, </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_10b</key>
+<text>or fight out this encounter using the auto-resolve function.&lt;br /&gt;We’ll choose the latter.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_11a</key>
+<text>The enemy are crushed and here we’re presented with the&lt;br /&gt;full glory of our victory. This panel shows our</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_11b</key>
+<text>casualties and the enemy's losses. Notice that, having survived&lt;br /&gt;the battle, our units have gained experience; they will now </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_11c</key>
+<text>be more effective in the field. Experienced units should be nurtured.&lt;br /&gt;They will become precious as our campaign develops. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_12a</key>
+<text>The enemy have a city nearby that looks relatively undefended, if we can seize it,&lt;br /&gt;we'll gain a valuable province. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_13a</key>
+<text>Right-clicking on the enemy city presents us with some&lt;br /&gt;pre-battle options. A siege offers a new choice: </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_13b</key>
+<text>we can look to starve out the population, maintaining the siege&lt;br /&gt;for a number of turns until we gain a peaceful surrender. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_13c</key>
+<text>But we’ll choose to put our enemy out of their misery here;&lt;br /&gt;let’s auto-resolve.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_14a</key>
+<text>Their resistance was futile! The enemy city is ours for&lt;br /&gt;the taking. Now we can choose to ruthlessly loot the </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_14b</key>
+<text>city of its wealth, request that it becomes our vassal,&lt;br /&gt;or occupy it peacefully.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_15a</key>
+<text>Let’s get a better view of our prize. Double left-clicking&lt;br /&gt;on the city opens the province details panel. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_15b</key>
+<text>Here we can check on the wealth and growth it's currently&lt;br /&gt;generating. Right now however, we’ve a small matter of public unrest</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_15c</key>
+<text>to deal with.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_16a</key>
+<text>When we capture a province, particularly if we choose to loot it's wealth,&lt;br /&gt;we will often need to calm the dissent created by our arrival</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_16b</key>
+<text>before we can reap the rewards.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_17a</key>
+<text>Money talks. If we choose to exempt this province from taxation,&lt;br /&gt;its people will soon forgive their new masters and public order</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_17b</key>
+<text>will be restored – at least for now.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_18a</key>
+<text>A strong military presence can also help matters. If we&lt;br /&gt;recruit some further units and leave them garrisoned here, </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_18b</key>
+<text>they will help stamp out protests and stave off rebellions.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_19a</key>
+<text>We need to stay wary – if public order declines again,&lt;br /&gt;we will risk a full-scale rebellion and that </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_19b</key>
+<text>could threaten to bring production in this province to a halt. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_20a</key>
+<text>There's more we can do more to improve public order.&lt;br /&gt;We can construct buildings that offer services to keep</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_20b</key>
+<text>the population appeased. We also need to consider developing our&lt;br /&gt;city to bolster our coffers and advance our armies.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_21a</key>
+<text>Building an Inn will help earn us more income and&lt;br /&gt;boost growth in the province. Selecting the Inn </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_21b</key>
+<text>from the building panel, let's issue the construction order. Like&lt;br /&gt;recruitment, we may have to wait a number of turns </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_21c</key>
+<text>before the building is available.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_22a</key>
+<text>Finances improved, we now need to build up our forces.&lt;br /&gt;We have armed citizenry in the city, but they'll </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_22b</key>
+<text>only provide limited protection and can't be used to help us conquer new lands.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_23a</key>
+<text>Improving military buildings will enable us to recruit more advanced&lt;br /&gt;units. We need to remember that, as our armies are reinforced,</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_23b</key>
+<text>they become more expensive to maintain. We need to balance&lt;br /&gt;economic growth with military expansion, whilst also keeping public order in check.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_24a</key>
+<text>It’s a delicate balance but when we manage and develop&lt;br /&gt;each of these elements, our provinces will enjoy growth, </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_24b</key>
+<text>our armies will become more powerful and we can then&lt;br /&gt;look to expand our borders further. Achieve this,</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_camp_essentials_sub_24c</key>
+<text>and we can walk the path to victory.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_01a</key>
+<text>In this second campaign tutorial, we’ll look at expanding our naval&lt;br /&gt;capabilities, modernising our clan to advance technologies, recruiting agents and</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_01b</key>
+<text>building relationships with rival clans through diplomacy.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_02a</key>
+<text>Armies are vital to our clan’s expansion, but if we can&lt;br /&gt;also build a strong navy, we can control profitable trade routes </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_02b</key>
+<text>and provide military support to our ground forces.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_03a</key>
+<text>Ships and their crews are recruited at ports, in much the same&lt;br /&gt;way as units from cities. Left-clicking on a port displays </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_03b</key>
+<text>the recruitment tab. From here, we simply left-click to add&lt;br /&gt;a ship to the queue. Like units, it may take a number</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_03c</key>
+<text>of turns before the ship is available.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_04a</key>
+<text>We can use ships to help us transport our armies and characters.&lt;br /&gt;With an army selected, we'll right-click on our ship</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_04b</key>
+<text>to order them aboard. Once we’ve sailed to our destination,&lt;br /&gt;we right-click again on a location on the map to disembark.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_05a</key>
+<text>We can use fleets of ships to cripple enemy trade by raiding&lt;br /&gt;their routes and blockading their ports. With our fleet selected, </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_05b</key>
+<text>let's right-click on this enemy port and choose to attack.&lt;br /&gt;Our fleet will now sail into the port, halting the profitable trade </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_05c</key>
+<text>running through it.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_06a</key>
+<text>A strong navy can also offer substantial military support. If we can&lt;br /&gt;get our fleet positioned close to an enemy settlement or army, </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_06b</key>
+<text>they can lend their firepower to assist our land forces. Here we&lt;br /&gt;can see our ship’s bombardment radius; any enemy within this</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_06c</key>
+<text>is vulnerable to our guns. Let's right-click the enemy city&lt;br /&gt;to issue the attack order.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_07a</key>
+<text>We need to be wary of coastal defences. If an enemy develops&lt;br /&gt;their ports, they can build gun batteries to protect against naval invasion.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_07b</key>
+<text>Move a fleet within range of these guns and we’ll suffer damage.&lt;br /&gt;Of course, we can also upgrade our ports and construct similar </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_07c</key>
+<text>defences to protect our own coastlines.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_08a</key>
+<text>Clicking the Clan Development button opens a panel showing all the&lt;br /&gt;technologies we can research to further our clan.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_08b</key>
+<text>This shows our current level of modernisation.  Improving our civic buildings&lt;br /&gt;and infrastructure throughout our provinces, will increase</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_08c</key>
+<text>modernisation further, opening up new technologies.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_10a</key>
+<text>There are two branches of technology available: civil policy and military&lt;br /&gt;technologies. The latter can unlock new weapons, troop types and special abilities. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_10b</key>
+<text>Researching civil policy will improve our clan’s infrastructure and economy.&lt;br /&gt;Let's left-click a technology to begin. Technologies take a number </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_10c</key>
+<text>of turns to research.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_11a</key>
+<text>The Clan Management panel offers us a view of our progress.&lt;br /&gt;Here we can check on our victory conditions, assess our</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_11b</key>
+<text>reputation and relationships with other clans and manage our family and council.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_12a</key>
+<text>The Family and Council Panel allows us to assign positions of&lt;br /&gt;responsibility to family members, handing them commissions to help our war effort </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_12b</key>
+<text>and civic development. When sons come of age, they automatically become&lt;br /&gt;Generals. Daughters meanwhile, can be married off, helping to extend </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_12c</key>
+<text>our bloodline. Their hand in marriage can also be offered to help improve&lt;br /&gt;diplomatic relations.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_13a</key>
+<text>We can also switch our clan's allegiance on this panel. At the&lt;br /&gt;beginning of the campaign, our clan is allied to either the</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_13b</key>
+<text>Emperor or the Shogun, but this can be changed once during&lt;br /&gt;a Daimyo’s lifetime. This decision can't be taken lightly. Switching allegiance </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_13c</key>
+<text>can disrupt public order and damage our Daimyo’s reputation.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_14a</key>
+<text>Our clan's fame level increses as we win battles and conquer&lt;br /&gt;provinces. As we become stronger and more renowned, we’ll be given a </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_14b</key>
+<text>title to represent our new status. We need to monitor our&lt;br /&gt;reputation carefully. Once our clan is perceived to be too powerful, </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_14c</key>
+<text>we’ll be forced to declare our intentions. At this stage we must&lt;br /&gt;either swear our allegiance to the Emperor or Shogun, or look to </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_14d</key>
+<text>unify Japan under our own rule.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_15a</key>
+<text>There's other ways we can interact with rival clans on the campaign&lt;br /&gt;map. Agents allow us to undermine our enemies with guile and cunning. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_15b</key>
+<text>They can also be recruited at our cities in the same way as units.&lt;br /&gt;The buildings present in a city dictate the type of agent</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_15c</key>
+<text>we can recruit. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_16a</key>
+<text>Agents earn experience as the campaign progresses, enabling us to upgrade&lt;br /&gt;their talents and abilities. Each Agent type has their own unique</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_16b</key>
+<text>skill tree, so we can nurture them and create specialists in a&lt;br /&gt;particular role. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_17a</key>
+<text>Let's use an agent now. With our Geisha selected,&lt;br /&gt;right-clicking on an enemy army, character or city, presents us</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_17b</key>
+<text>with a variety of actions. Agents also offer bonuses to our&lt;br /&gt;own clan. The charms of our Geisha are helping to boost </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_17c</key>
+<text>public order in this province.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_18a</key>
+<text>While we're looking to destroy rival clans, maintaining&lt;br /&gt;relations to gain allies and trade partners, also works in our favour.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_18b</key>
+<text>This map on the Diplomacy Panel displays the current attitude&lt;br /&gt;of surrounding provinces to our clan. Red indicates hostility; </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_18c</key>
+<text>provinces in green view us more favourably. We can get the same&lt;br /&gt;view for any of the clans we’ve met by selecting them to change</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_18d</key>
+<text>the map display.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_19a</key>
+<text>Let's open negotiations with a rival clan. Note our current&lt;br /&gt;relationship status; this will have a major bearing on our talks. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_19b</key>
+<text>Once negotiations begin, we can then build offers and demands&lt;br /&gt;and counter any offers made to us via this panel.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_21a</key>
+<text>Establishing trade agreements can be particularly lucrative&lt;br /&gt;and help us build buoyant economy. We can view our</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_21b</key>
+<text>current trading partners via the Finance Panel. Here we see the&lt;br /&gt;current prices for resources, together with our trade</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_21c</key>
+<text>partners and the goods being imported and exported.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_22a</key>
+<text>The control of resources can be crucial. Some buildings and&lt;br /&gt;units require a specific resource before they can be</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_22b</key>
+<text>obtained. We can look to conquer lands to gain control of resources,&lt;br /&gt;but we can use trade to collect them without spilling blood. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_23a</key>
+<text>By upgrading our ports, we can open up lucrative trade&lt;br /&gt;routes with western powers, providing a huge boost</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_23b</key>
+<text>to our coffers. These precious trade routes will be prime targets&lt;br /&gt;for enemy raids. We'll need to build and maintain a military </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_23c</key>
+<text>presence to guard them.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_24a</key>
+<text>You now have the knowledge you need to begin conquering your&lt;br /&gt;enemies in the campaign. For futher guidance, look to use the </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_campaign_advanced_sub_24b</key>
+<text>tooltips, the advisors and the in-game encyclopaedia.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_01a</key>
+<text>Fall of the Samurai’s campaign can be played in multiplayer against&lt;br /&gt;an opponent.  There’s also an “Avatar Conquest” mode that provides</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_01b</key>
+<text>a backdrop for multiplayer battles. In this tutorial we’ll explore&lt;br /&gt;this mode, join an online clan and fight for supremacy under</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_01c</key>
+<text>their banner. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_02a</key>
+<text>We'll start by creating our own General to lead our men in battle.&lt;br /&gt;We can modify this “Avatar” as we play. Our avatar will level up, earn </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_02b</key>
+<text>new skills, armour sets, and powerful followers and objects called “Retainers”.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_03a</key>
+<text>We'll name our avatar and customise his look. On this screen we can&lt;br /&gt;assign armour and equipment pieces that are collected </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_03b</key>
+<text>as we play. We can change the colour scheme of all these pieces.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_04a</key>
+<text>Our Avatar also needs a banner. There are multiple designs of “Mon”&lt;br /&gt;to choose from, and a full range of colours for us to play with.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_04b</key>
+<text>We'll also choose a starting province here. Each province has its&lt;br /&gt;own unique benefits; we can click on each one to view the details. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_05a</key>
+<text>On the avatar screen we can choose to edit our banner, customise&lt;br /&gt;our avatar and equipment and get a view on current progress </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_05b</key>
+<text>towards our next level. We can also see the traits we’ve gained and&lt;br /&gt;our chosen retainers for the next battle.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_06a</key>
+<text>The Army Management screen is where we build our army. As the&lt;br /&gt;game progresses, we’ll collect a roster of regular and veteran</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_06b</key>
+<text>units. Right now, we've limited unit types available, but a few victories&lt;br /&gt;will quickly improve our options .</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_07a</key>
+<text>Units have costs assigned to them and, initially, we have a limited budget&lt;br /&gt;to spend. Let’s use this now to create our starting army.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_07b</key>
+<text>We simply drag a unit from our roster to add it to our army. Once&lt;br /&gt;we’re done, we can save the army setup so we can </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_07c</key>
+<text>keep it for future battles. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_08a</key>
+<text>The Avatar Conquest map provides the backdrop for all our battles.&lt;br /&gt;Here we’ll fight for ownership of provinces and sea regions.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_08b</key>
+<text>As we contest and win battles, we’ll gain rewards and upgrades for our&lt;br /&gt;avatar and our armies.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_09a</key>
+<text>Let's choose our first province. Holding the left mouse button&lt;br /&gt; with our avatar piece selected, we'll drag it into one of the highlighted provinces.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_09b</key>
+<text>This province now becomes the prize for victory in our next battle.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_10a</key>
+<text>Let’s fight our first multiplayer battle. We can choose to join&lt;br /&gt;any of the existing battles out there, or host our own. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_10b</key>
+<text>We can access these options via the Battle List button. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_11a</key>
+<text>When we host our own battle, we can use this screen to specify&lt;br /&gt;the battle type, the map and the funds allowed. The funds </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_11b</key>
+<text>available dictate the size of the armies that players can take into battle.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_12a</key>
+<text>By clicking the Match Made battle option, we can quickly be paired&lt;br /&gt;up with an opponent of equal skill.  We can tailor the </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_12b</key>
+<text>setup here but, for now, let’s find a 1v1 battle opponent by clicking&lt;br /&gt;the Find Match button.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_13a</key>
+<text>This pre-battle setup screen tells us more about the battle we’re&lt;br /&gt;about to fight. Here we can make last minute tweaks to our </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_13b</key>
+<text>army setup. When we’re done, we’ll click this button to inform&lt;br /&gt;our opponent that we’re ready to go.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_14a</key>
+<text>Win or lose, our avatar will gain some experience points and eventually&lt;br /&gt;we'll be able to level them up. Having won our previous </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_14b</key>
+<text>battle, we’ve already gained a level, so now we’ve got our first&lt;br /&gt;skill point to spend.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_15a</key>
+<text>This screen hosts the Avatar skill tree, offering a variety of&lt;br /&gt;upgrades each with unique bonuses. We can roll over a skill to </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_15b</key>
+<text>find out more and left-click to apply it.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_16a</key>
+<text>The retainer panel displays all the characters and objects available&lt;br /&gt;to us. Retainers can boost our army’s abilities in battle and </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_16b</key>
+<text>also inflict penalties on our enemy. To take a retainer into our&lt;br /&gt;next battle, we simply drag it into one of our empty slots. Right now </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_16c</key>
+<text>we have two slots available, we'll earn more as our Avatar gains levels.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_17a</key>
+<text>As we win battles, we capture more of the map. Win a province&lt;br /&gt;with a Dojo and we will unlock a new unit type for our army. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_17b</key>
+<text>There are different Dojos available, each offering a specific unit type,&lt;br /&gt;indicated by their icon. Units unlocked get added to our </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_17c</key>
+<text>roster in the army management panel.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_18a</key>
+<text>During a battle our units can gain experience. If a unit gains enough&lt;br /&gt;in a single battle, they may reach veteran status. Accepting a </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_18b</key>
+<text>veteran into our army adds them to the veteran unit roster. These&lt;br /&gt;units can then be called into future battles, earn more</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_18c</key>
+<text>experience and be upgraded with new skills.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_19a</key>
+<text>Veteran units can be customised via the tab on the army management&lt;br /&gt;panel. With our veteran selected, we'll click the customise button. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_19b</key>
+<text>Now we can name them and play around with their colours. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_20a</key>
+<text>Clicking the veteran upgrade button will open this panel. Here we&lt;br /&gt;can spend veteran skill points on improving this unit’s abilities. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_20b</key>
+<text>We left-click an upgrade to apply it. This unit is now more powerful&lt;br /&gt;but will cost us more should we decide to take it into our next battle. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_21a</key>
+<text>We can continue fighting battles, conquering provinces and&lt;br /&gt;progressing our avatar but let's take things further by playing the </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_21b</key>
+<text>clan competition.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_22a</key>
+<text>To join a clan we first need to be a member of a Steam Group.&lt;br /&gt;The Clan Page lists all the public Steam Groups open to us and those </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_22b</key>
+<text>we’ve already joined. We simply choose one of our Groups and&lt;br /&gt;label this as our clan. </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_23a</key>
+<text>Clans compete in worlds with 23 others, fighting over possession&lt;br /&gt;of provinces on the Avatar Conquest map. Clans are ranked </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_23b</key>
+<text>according to the number of provinces they control. Owned provinces&lt;br /&gt;are displayed via colour coding on the map. We can view </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_23c</key>
+<text>more details on this province via the tooltips.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_24a</key>
+<text>Provinces are won by earning Clan Influence. This influence is&lt;br /&gt;increased as clan members earn victories in a province. The control </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_24b</key>
+<text>of surrounding provinces also contributes influence.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_25a</key>
+<text>The clan leader can mark a province as a priority target for their&lt;br /&gt;members. By winning battles for our clan, we can earn tokens.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_25b</key>
+<text>These clan tokens can be used to upgrade our veteran units&lt;br /&gt;with new abilities and to reset our avatar skills.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_26a</key>
+<text>Worlds are arranged in a pyramid system. At the end of a season,&lt;br /&gt;normally a two-week period, the top clans are promoted up the </text>
+</encyclopedia_tutorial_video_subtitle_texts>
+<encyclopedia_tutorial_video_subtitle_texts>
+<key>s2_bosh_tut_multiplayer_sub_26b</key>
+<text>pyramid. The bottom clans are also relegated down a level before&lt;br /&gt;the next season begins.</text>
+</encyclopedia_tutorial_video_subtitle_texts>
+</dataroot>

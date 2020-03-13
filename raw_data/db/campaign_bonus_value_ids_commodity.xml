@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="campaign_bonus_value_ids_commodity.xsd" generated="2010-02-15T18:51:22">
+<edit_uuid>9cd420c1-78c7-4119-8178-30551ec2abd5</edit_uuid>
+<campaign_bonus_value_ids_commodity>
+<key>demand</key>
+<s_ColLineage>kNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{11AB9D4A-C178-47FB-9CA5-B458B288341B}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_bonus_value_ids_commodity>
+<campaign_bonus_value_ids_commodity>
+<key>production</key>
+<s_ColLineage>kNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{635F6C1E-2206-4420-93E2-1C9436E92C14}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_bonus_value_ids_commodity>
+</dataroot>
+

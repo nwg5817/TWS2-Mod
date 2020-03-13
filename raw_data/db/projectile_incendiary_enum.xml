@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Fri 27. Aug 11:42:12 2010" revision="1" export_branch="C:/TW/battle/dev/shogun2/src" export_user="Lee.Cowen">
+<edit_uuid>201828e4-9866-4c19-94cb-e17963bd00f1</edit_uuid><projectile_incendiary_enum>
+<key>always</key>
+</projectile_incendiary_enum>
+<projectile_incendiary_enum>
+<key>high</key>
+</projectile_incendiary_enum>
+<projectile_incendiary_enum>
+<key>low</key>
+</projectile_incendiary_enum>
+<projectile_incendiary_enum>
+<key>medium</key>
+</projectile_incendiary_enum>
+<projectile_incendiary_enum>
+<key>very_high</key>
+</projectile_incendiary_enum>
+</dataroot>

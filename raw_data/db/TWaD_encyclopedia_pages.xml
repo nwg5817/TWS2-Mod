@@ -1,0 +1,25 @@
+<!DOCTYPE TWaD_encyclopedia_pages>
+<root>
+<edit_uuid>2ee9346d-8f53-11df-8001-001fd02417f0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>page_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>title</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>65535</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>template</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>65535</max_length>
+  </field>
+</root>

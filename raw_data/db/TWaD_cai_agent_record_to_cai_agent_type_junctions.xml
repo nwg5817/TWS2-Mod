@@ -1,0 +1,22 @@
+<!DOCTYPE TWaD_cai_agent_record_to_cai_agent_type_junctions>
+<root>
+<edit_uuid>6f183b60-89cf-11df-8002-001fd02417f0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>agent_type_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>cai_agent_types</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>agent_record_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>agents</column_source_table>
+  </field>
+</root>

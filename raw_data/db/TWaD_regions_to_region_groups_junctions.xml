@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_regions_to_region_groups_junctions>
+<root>
+  <edit_uuid>698b53d2-3ff0-487c-a03f-5a762ad28c83</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>region_group</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>1024</max_length>
+    <column_source_column>group_key</column_source_column>
+    <column_source_table>region_groups</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>region</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>regions</column_source_table>
+  </field>
+</root>

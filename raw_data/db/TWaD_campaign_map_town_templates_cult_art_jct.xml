@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_campaign_map_town_templates_cult_art_jct>
+<root>
+  <edit_uuid>f52035e4-7cec-4840-a403-12007aef2001</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>culture</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>cultures</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>artpiece</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+</root>

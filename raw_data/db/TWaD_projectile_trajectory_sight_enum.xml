@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_projectile_trajectory_sight_enum>
+<root>
+  <edit_uuid>4786ea9e-4439-4d97-bf5d-cb0f0ce7f27d</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+</root>

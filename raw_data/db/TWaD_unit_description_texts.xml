@@ -1,0 +1,34 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_unit_description_texts>
+<root>
+  <edit_uuid>12702267-7720-11e0-8001-6cf049ef02b0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>description_text</name>
+    <field_type>memo</field_type>
+    <required>1</required>
+    <max_length>536870910</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>long_description_text</name>
+    <field_type>memo</field_type>
+    <required>1</required>
+    <default_value>"PLACEHOLDER"</default_value>
+    <max_length>536870910</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>strengths_and_weaknesses</name>
+    <field_type>memo</field_type>
+    <required>1</required>
+    <max_length>536870910</max_length>
+  </field>
+</root>

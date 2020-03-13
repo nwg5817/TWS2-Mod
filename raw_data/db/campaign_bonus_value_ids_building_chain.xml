@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Mon 6. Sep 22:04:03 2010" revision="1" export_branch="C:/tw/campaign/dev/shogun2/src" export_user="Alan.Blair">
+<edit_uuid>cd79fd42-b22b-4e30-91e4-b2092733c534</edit_uuid><campaign_bonus_value_ids_building_chain>
+<key>mod_build_time</key>
+</campaign_bonus_value_ids_building_chain>
+<campaign_bonus_value_ids_building_chain>
+<key>mod_cost</key>
+</campaign_bonus_value_ids_building_chain>
+<campaign_bonus_value_ids_building_chain>
+<key>mod_gdp</key>
+</campaign_bonus_value_ids_building_chain>
+<campaign_bonus_value_ids_building_chain>
+<key>mod_tw_growth</key>
+</campaign_bonus_value_ids_building_chain>
+</dataroot>

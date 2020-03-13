@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_battle_type_faction_presets>
+<root>
+  <edit_uuid>d73e436b-e995-47ca-ad04-1e50bc8a731f</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>faction</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>factions</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>weighting_type</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+    <column_source_column>id</column_source_column>
+    <column_source_column>battle_type</column_source_column>
+    <column_source_column>weighting_type</column_source_column>
+    <column_source_column>army_size</column_source_column>
+    <column_source_table>battle_type_setup_limits</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>id</name>
+    <field_type>autonumber</field_type>
+    <required>0</required>
+  </field>
+</root>

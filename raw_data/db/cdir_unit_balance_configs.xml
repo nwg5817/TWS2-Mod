@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Thu 10. Nov 15:39:23 2011" revision="3" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Jack.Lusted">
+<edit_uuid>2b2c1500-fa98-4006-9ad3-c8aa97574549</edit_uuid><cdir_unit_balance_configs>
+<key>boshin</key>
+</cdir_unit_balance_configs>
+<cdir_unit_balance_configs>
+<key>chosokabe</key>
+</cdir_unit_balance_configs>
+<cdir_unit_balance_configs>
+<key>date</key>
+</cdir_unit_balance_configs>
+<cdir_unit_balance_configs>
+<key>default</key>
+</cdir_unit_balance_configs>
+<cdir_unit_balance_configs>
+<key>multiplayer</key>
+</cdir_unit_balance_configs>
+<cdir_unit_balance_configs>
+<key>oda</key>
+</cdir_unit_balance_configs>
+<cdir_unit_balance_configs>
+<key>shimazu</key>
+</cdir_unit_balance_configs>
+<cdir_unit_balance_configs>
+<key>takeda</key>
+</cdir_unit_balance_configs>
+<cdir_unit_balance_configs>
+<key>uesugi</key>
+</cdir_unit_balance_configs>
+</dataroot>

@@ -1,0 +1,2165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Tue 29. Nov 09:33:23 2011" revision="26" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Chris.Gambold">
+<edit_uuid>787842b0-0585-4a7a-8efb-e67e88122112</edit_uuid><character_trait_levels>
+<colour_text>Terribly hurt in a failed assassination, this man has the courage to carry on.</colour_text>
+<key>S2_boshin_all_blokes_maimed_1</key>
+<level>1</level>
+<onscreen_name>Maimed</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_all_blokes_maimed</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Repeated attempts on this man's life have taken a terrible toll.</colour_text>
+<explanation_text> </explanation_text>
+<key>S2_boshin_all_blokes_maimed_2</key>
+<level>2</level>
+<onscreen_name>Crippled</onscreen_name>
+<removal_text> </removal_text>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_all_blokes_maimed</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This man seldom misses a meal, whether invited or not.</colour_text>
+<key>S2_boshin_all_blokes_noodles_1</key>
+<level>1</level>
+<onscreen_name>Likes His Food</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_all_blokes_noodles</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Mice in rice warehouses have more respect for their stomachs than this man.</colour_text>
+<key>S2_boshin_all_blokes_noodles_2</key>
+<level>2</level>
+<onscreen_name>More Rice!</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_all_blokes_noodles</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This man's appetite when eating would shame a shark!</colour_text>
+<key>S2_boshin_all_blokes_noodles_3</key>
+<level>3</level>
+<onscreen_name>Eats like a Pig</onscreen_name>
+<threshold_points>5</threshold_points>
+<trait>S2_boshin_all_blokes_noodles</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Women are a pleasure in life.</colour_text>
+<key>S2_boshin_all_blokes_womaniser_1</key>
+<level>1</level>
+<onscreen_name>An Eye for the Ladies</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_all_blokes_womaniser</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Women! What other pleasure compares?</colour_text>
+<key>S2_boshin_all_blokes_womaniser_2</key>
+<level>2</level>
+<onscreen_name>Womaniser</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_all_blokes_womaniser</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Quiet, woman. But don't just lie there like a fish!&quot;</colour_text>
+<key>S2_boshin_all_blokes_womaniser_3</key>
+<level>3</level>
+<onscreen_name>Unpleasantly Lusty</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_boshin_all_blokes_womaniser</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Women are a pleasure in life.</colour_text>
+<key>S2_boshin_all_blokes_womaniser_agents_1</key>
+<level>1</level>
+<onscreen_name>An Eye for the Ladies</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_all_blokes_womaniser_agents</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Women! What other pleasure compares?</colour_text>
+<key>S2_boshin_all_blokes_womaniser_agents_2</key>
+<level>2</level>
+<onscreen_name>Womaniser</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_all_blokes_womaniser_agents</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Quiet, woman. But don't just lie there like a fish!&quot;</colour_text>
+<key>S2_boshin_all_blokes_womaniser_agents_3</key>
+<level>3</level>
+<onscreen_name>Unpleasantly Lusty</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_boshin_all_blokes_womaniser_agents</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Crucifixion. A most excellent lesson.&quot;</colour_text>
+<key>S2_boshin_daimyo_cruel_1</key>
+<level>1</level>
+<onscreen_name>Casually Brutal</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_daimyo_cruel</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This lord relishes the chance to punish a village or two.</colour_text>
+<key>S2_boshin_daimyo_cruel_2</key>
+<level>2</level>
+<onscreen_name>Unneccesarily Harsh</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_daimyo_cruel</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>There is more to the art of rulership, possibly, than killing anyone who disagrees.</colour_text>
+<key>S2_boshin_daimyo_cruel_3</key>
+<level>3</level>
+<onscreen_name>Excessively Cruel</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_boshin_daimyo_cruel</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This lord will listen attentively to foreign ideas.</colour_text>
+<key>S2_boshin_daimyo_foreign_tastes_1</key>
+<level>1</level>
+<onscreen_name>Listens to Gaijin</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_daimyo_foreign_tastes</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This lord has an unnatural interest in foreign ways. </colour_text>
+<key>S2_boshin_daimyo_foreign_tastes_2</key>
+<level>2</level>
+<onscreen_name>Likes Gaijin</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_daimyo_foreign_tastes</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This lord is mad: he favours foreigners and their ill-mannered, unwashed ways!</colour_text>
+<key>S2_boshin_daimyo_foreign_tastes_3</key>
+<level>3</level>
+<onscreen_name>Prefers Gaijin!</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_boshin_daimyo_foreign_tastes</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>When you wake up with a knife at your throat, some suspicions are justified.</colour_text>
+<key>S2_boshin_daimyo_paranoia_1</key>
+<level>1</level>
+<onscreen_name>Distrustful</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_daimyo_paranoia</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Trust is no longer in this man's nature.</colour_text>
+<key>S2_boshin_daimyo_paranoia_2</key>
+<level>2</level>
+<onscreen_name>Suspicious</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_daimyo_paranoia</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Strangers should be doubted. Friends should be watched.</colour_text>
+<key>S2_boshin_daimyo_paranoia_3</key>
+<level>3</level>
+<onscreen_name>Supicious of All</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_boshin_daimyo_paranoia</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Without peace, men cannot live harmoniously.</colour_text>
+<key>S2_boshin_daimyo_peace_1</key>
+<level>1</level>
+<onscreen_name>Peaceable</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_daimyo_peace</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Only in peace will this man find contentment.</colour_text>
+<key>S2_boshin_daimyo_peace_2</key>
+<level>2</level>
+<onscreen_name>Peace Loving</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_daimyo_peace</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Peace is the only way for Japan!</colour_text>
+<key>S2_boshin_daimyo_peace_3</key>
+<level>3</level>
+<onscreen_name>Pacifist</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_boshin_daimyo_peace</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>A lucky escape is a good omen.</colour_text>
+<key>S2_boshin_daimyo_protected_1</key>
+<level>1</level>
+<onscreen_name>Lucky</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_daimyo_protected</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Someone, or something, watches over this man.</colour_text>
+<key>S2_boshin_daimyo_protected_2</key>
+<level>2</level>
+<onscreen_name>Guardian Spirit</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_daimyo_protected</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;I am protected. I will always be protected!&quot;</colour_text>
+<key>S2_boshin_daimyo_protected_3</key>
+<level>3</level>
+<onscreen_name>Protected by the Spirits</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_boshin_daimyo_protected</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>The pure light of the heavens shines in this man's every movement.</colour_text>
+<key>S2_boshin_daimyo_summer_son_1</key>
+<level>1</level>
+<onscreen_name>Summer Son</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_daimyo_summer_son</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;No. No. No.&quot;</colour_text>
+<key>S2_boshin_daimyo_uncouth_1</key>
+<level>1</level>
+<onscreen_name>Impolite</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_daimyo_uncouth</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Lord Buddha! Have you had a bath this year?&quot;</colour_text>
+<key>S2_boshin_daimyo_uncouth_2</key>
+<level>2</level>
+<onscreen_name>Rude</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_daimyo_uncouth</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;I'll wager you rarely trouble the ladies, unlike me! Ha!&quot;</colour_text>
+<key>S2_boshin_daimyo_uncouth_3</key>
+<level>3</level>
+<onscreen_name>Unpleasantly Uncouth</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_boshin_daimyo_uncouth</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;I am the exemplar of justice. Say different again, and you lose your tongue!&quot;</colour_text>
+<key>S2_boshin_daimyo_unjust_1</key>
+<level>1</level>
+<onscreen_name>Unfair</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_daimyo_unjust</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Spare the rod and spoil the peasant.</colour_text>
+<key>S2_boshin_daimyo_unjust_2</key>
+<level>2</level>
+<onscreen_name>Unjust</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_daimyo_unjust</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Enough! Enough! Have them killed.&quot;</colour_text>
+<key>S2_boshin_daimyo_unjust_3</key>
+<level>3</level>
+<onscreen_name>Tyrant</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_boshin_daimyo_unjust</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>A man with steel in his soul does not stop for snow or celebration.</colour_text>
+<key>S2_boshin_daimyo_winter_son_1</key>
+<level>1</level>
+<onscreen_name>Mirror of Amaterasu</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_daimyo_winter_son</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This woman's looks come from her make-up box, thanks to the assassin's blade.</colour_text>
+<key>S2_boshin_geisha_maimed_1</key>
+<level>1</level>
+<onscreen_name>Ugly Scars</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_geisha_maimed</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Thanks to failed attempts on her life, this woman will never be the same again.</colour_text>
+<key>S2_boshin_geisha_maimed_2</key>
+<level>2</level>
+<onscreen_name>Broken Inside</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_geisha_maimed</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>The fox can learn new tricks.</colour_text>
+<key>S2_boshin_geisha_new_tricks_01</key>
+<level>1</level>
+<onscreen_name>Animal Instincts</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_geisha_new_tricks</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Novelty will always attract men.</colour_text>
+<key>S2_boshin_geisha_new_tricks_02</key>
+<level>2</level>
+<onscreen_name>Intriguing</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_geisha_new_tricks</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Always dutiful, but aware of his own needs and desires.</colour_text>
+<key>S2_boshin_general_ambition_1</key>
+<level>1</level>
+<onscreen_name>Self-centred</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_general_ambition</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Ambition gnaws at this man's heart.</colour_text>
+<key>S2_boshin_general_ambition_2</key>
+<level>2</level>
+<onscreen_name>Ambitious</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_general_ambition</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Others are only useful as long as they further this man's ambitions.</colour_text>
+<key>S2_boshin_general_ambition_3</key>
+<level>3</level>
+<onscreen_name>Over-wheening Ambition</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_boshin_general_ambition</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>A little killing is part of warfare.</colour_text>
+<key>S2_boshin_general_bloodthirsty_1</key>
+<level>1</level>
+<onscreen_name>War is Slaughter</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_general_bloodthirsty</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>A lot of killing saves work later.</colour_text>
+<key>S2_boshin_general_bloodthirsty_2</key>
+<level>2</level>
+<onscreen_name>Bloodthirsty</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_general_bloodthirsty</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Kill them all, and tomorrow will be better!</colour_text>
+<key>S2_boshin_general_bloodthirsty_3</key>
+<level>3</level>
+<onscreen_name>Blood-soaked</onscreen_name>
+<threshold_points>5</threshold_points>
+<trait>S2_boshin_general_bloodthirsty</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This man has a reputation for going into harm's way.</colour_text>
+<key>S2_boshin_general_brave_1</key>
+<level>1</level>
+<onscreen_name>Brave</onscreen_name>
+<threshold_points>2</threshold_points>
+<trait>S2_boshin_general_brave</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This man's name is a byword for honest courage in battle.</colour_text>
+<key>S2_boshin_general_brave_2</key>
+<level>2</level>
+<onscreen_name>Courageous</onscreen_name>
+<threshold_points>4</threshold_points>
+<trait>S2_boshin_general_brave</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This man is a god of battles!</colour_text>
+<key>S2_boshin_general_brave_3</key>
+<level>3</level>
+<onscreen_name>Heroic</onscreen_name>
+<threshold_points>7</threshold_points>
+<trait>S2_boshin_general_brave</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;The old ways have served Japan well.&quot;</colour_text>
+<key>S2_boshin_general_conservative_01</key>
+<level>1</level>
+<onscreen_name>Traditionalist</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_general_conservative</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>A man who changes ceases to be a man.</colour_text>
+<key>S2_boshin_general_conservative_02</key>
+<level>2</level>
+<onscreen_name>Conservative Outlook</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_general_conservative</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>There are many good reasons not to change. Ever.</colour_text>
+<key>S2_boshin_general_conservative_03</key>
+<level>3</level>
+<onscreen_name>Old-fashioned</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_boshin_general_conservative</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This man's ancestors must be disappointed.</colour_text>
+<key>S2_boshin_general_coward_1</key>
+<level>1</level>
+<onscreen_name>Dubious Courage</onscreen_name>
+<threshold_points>2</threshold_points>
+<trait>S2_boshin_general_coward</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Whispers about this man's bravery follow him everywhere.</colour_text>
+<key>S2_boshin_general_coward_2</key>
+<level>2</level>
+<onscreen_name>Poor Reputation</onscreen_name>
+<threshold_points>4</threshold_points>
+<trait>S2_boshin_general_coward</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>No shrine will be erected for a coward.</colour_text>
+<key>S2_boshin_general_coward_3</key>
+<level>3</level>
+<onscreen_name>Doubtful Courage</onscreen_name>
+<threshold_points>7</threshold_points>
+<trait>S2_boshin_general_coward</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Aye, there's sake, but champagne's more fun!&quot;</colour_text>
+<key>S2_boshin_general_drunkard_1</key>
+<level>1</level>
+<onscreen_name>Weakness for Drink</onscreen_name>
+<threshold_points>30</threshold_points>
+<trait>S2_boshin_general_drunkard</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>A dram steadies the hand and stiffens the sinew.</colour_text>
+<key>S2_boshin_general_drunkard_2</key>
+<level>2</level>
+<onscreen_name>Tippler</onscreen_name>
+<threshold_points>50</threshold_points>
+<trait>S2_boshin_general_drunkard</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Bloody bottle's empty!&quot;</colour_text>
+<key>S2_boshin_general_drunkard_3</key>
+<level>3</level>
+<onscreen_name>Drink! Drink! Drink!</onscreen_name>
+<threshold_points>70</threshold_points>
+<trait>S2_boshin_general_drunkard</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Some nightmares can only be drowned in sake.</colour_text>
+<key>S2_boshin_general_drunkard_4</key>
+<level>4</level>
+<onscreen_name>Paralyzed by Drink</onscreen_name>
+<threshold_points>35</threshold_points>
+<trait>S2_boshin_general_drunkard</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>The heart aches for love, now winter's chill comes early: an empty bottle.</colour_text>
+<key>S2_boshin_general_drunkard_5</key>
+<level>5</level>
+<onscreen_name>Drowning in Sake</onscreen_name>
+<threshold_points>40</threshold_points>
+<trait>S2_boshin_general_drunkard</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>For this man, the clan is all.</colour_text>
+<key>S2_boshin_general_loyal_1</key>
+<level>1</level>
+<onscreen_name>Devoted</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_general_loyal</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Even by the code of bushido, this man has noteworthy loyalty.</colour_text>
+<key>S2_boshin_general_loyal_2</key>
+<level>2</level>
+<onscreen_name>Loyal</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_boshin_general_loyal</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This man would die for his lord, his clan and his family, preferably in that order.</colour_text>
+<key>S2_boshin_general_loyal_3</key>
+<level>3</level>
+<onscreen_name>Fanatically Loyal</onscreen_name>
+<threshold_points>9</threshold_points>
+<trait>S2_boshin_general_loyal</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Look: my katana is sharper, so there's nothing wrong in me having fish down my hakama.&quot;</colour_text>
+<key>S2_boshin_general_mad_1</key>
+<level>1</level>
+<onscreen_name>Odd</onscreen_name>
+<threshold_points>2</threshold_points>
+<trait>S2_boshin_general_mad</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;I need moonlight. In moonlight, blood looks like ink, did you know that? I like poetry.&quot;</colour_text>
+<key>S2_boshin_general_mad_2</key>
+<level>2</level>
+<onscreen_name>Slightly Disturbing</onscreen_name>
+<threshold_points>4</threshold_points>
+<trait>S2_boshin_general_mad</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;I'm a little tea bowl, round and black…&quot;</colour_text>
+<key>S2_boshin_general_mad_3</key>
+<level>3</level>
+<onscreen_name>Deranged</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_boshin_general_mad</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Some losses pierce the soul, and turn the mind.</colour_text>
+<key>S2_boshin_general_mad_grief_1</key>
+<level>1</level>
+<onscreen_name>Heart-sick</onscreen_name>
+<threshold_points>2</threshold_points>
+<trait>S2_boshin_general_mad_grief</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This man is an empty shell, hollowed by grief and sorrow.</colour_text>
+<key>S2_boshin_general_mad_grief_2</key>
+<level>2</level>
+<onscreen_name>Broken Hearted</onscreen_name>
+<threshold_points>4</threshold_points>
+<trait>S2_boshin_general_mad_grief</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>The death of loved ones has worn away this man's grip on reality.</colour_text>
+<key>S2_boshin_general_mad_grief_3</key>
+<level>3</level>
+<onscreen_name>Broken Spirit</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_boshin_general_mad_grief</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>A cannon shell has a glory all its own.</colour_text>
+<key>S2_boshin_general_new_toys_01</key>
+<level>1</level>
+<onscreen_name>New Methods</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_general_new_toys</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Why settle for a thousand enemy deaths?</colour_text>
+<key>S2_boshin_general_new_toys_02</key>
+<level>2</level>
+<onscreen_name>A Higher Form of Killing</onscreen_name>
+<threshold_points>4</threshold_points>
+<trait>S2_boshin_general_new_toys</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>The new, the polished, and the deadly: all appeal.</colour_text>
+<key>S2_boshin_general_new_toys_03</key>
+<level>3</level>
+<onscreen_name>Steam-power!</onscreen_name>
+<threshold_points>8</threshold_points>
+<trait>S2_boshin_general_new_toys</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Darkness holds no terrors.</colour_text>
+<key>S2_boshin_general_nocturnal_1</key>
+<level>1</level>
+<onscreen_name>Night Fighter</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_general_nocturnal</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>All that glitters is not gold.</colour_text>
+<key>S2_boshin_general_nostalgic_01</key>
+<level>1</level>
+<onscreen_name>Dislike of the New</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_general_nostalgic</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Some things should never change.</colour_text>
+<key>S2_boshin_general_nostalgic_02</key>
+<level>2</level>
+<onscreen_name>Old Ways</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_general_nostalgic</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This man pines for the days of his youth, when the world was honest.</colour_text>
+<key>S2_boshin_general_nostalgic_03</key>
+<level>3</level>
+<onscreen_name>Lost Youth</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_boshin_general_nostalgic</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>When you wake up with a knife at your throat, some suspicions are justified.</colour_text>
+<key>S2_boshin_general_paranoia_1</key>
+<level>1</level>
+<onscreen_name>Distrustful</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_general_paranoia</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Trust is no longer in this man's nature.</colour_text>
+<key>S2_boshin_general_paranoia_2</key>
+<level>2</level>
+<onscreen_name>Suspicious</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_general_paranoia</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Strangers should be doubted. Friends should be watched.</colour_text>
+<key>S2_boshin_general_paranoia_3</key>
+<level>3</level>
+<onscreen_name>Supicious of All</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_boshin_general_paranoia</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>A lucky escape is a good omen.</colour_text>
+<key>S2_boshin_general_protected_1</key>
+<level>1</level>
+<onscreen_name>Lucky</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_general_protected</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Someone, or something, watches over this man.</colour_text>
+<key>S2_boshin_general_protected_2</key>
+<level>2</level>
+<onscreen_name>Guardian Spirit</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_general_protected</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;I am protected. I will always be protected!&quot;</colour_text>
+<key>S2_boshin_general_protected_3</key>
+<level>3</level>
+<onscreen_name>Protected by the Spirits</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_boshin_general_protected</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Bastards. Fish. Fishy bastards. YERRRRKK!&quot;</colour_text>
+<key>S2_boshin_general_seasick_1</key>
+<level>1</level>
+<onscreen_name>Seasick</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_general_seasick</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Spirits of the sea! Torture me no more!&quot;</colour_text>
+<key>S2_boshin_general_seasick_2</key>
+<level>2</level>
+<onscreen_name>Violently Seasick</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_general_seasick</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;O gods! Have we left harbour yet?&quot;</colour_text>
+<key>S2_boshin_general_seasick_3</key>
+<level>3</level>
+<onscreen_name>Hatred of Boats</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_boshin_general_seasick</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;I serve the Imperial Throne! Nothing more!&quot;</colour_text>
+<key>S2_boshin_ishin_shishi_chip_01</key>
+<level>1</level>
+<onscreen_name>Resentful</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_ishin_shishi_chip</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Traitors are everywhere. Absolutely everywhere.</colour_text>
+<key>S2_boshin_ishin_shishi_chip_02</key>
+<level>2</level>
+<onscreen_name>Righteous Anger</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_ishin_shishi_chip</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Sometimes loyalty goes unmarked.</colour_text>
+<key>S2_boshin_ishin_shishi_chip_03</key>
+<level>3</level>
+<onscreen_name>Bitter &amp; Twisted</onscreen_name>
+<threshold_points>8</threshold_points>
+<trait>S2_boshin_ishin_shishi_chip</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>The just blade always feels cruel to the neck.</colour_text>
+<key>S2_boshin_ishin_shishi_cruel_01</key>
+<level>1</level>
+<onscreen_name>Implacable</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_ishin_shishi_cruel</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>As long as the Emperor is served...</colour_text>
+<key>S2_boshin_ishin_shishi_cruel_02</key>
+<level>2</level>
+<onscreen_name>Ends &amp; Means</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_ishin_shishi_cruel</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Anything can be contemplated in the Emperor's name.</colour_text>
+<key>S2_boshin_ishin_shishi_cruel_03</key>
+<level>3</level>
+<onscreen_name>Irredeemably Viscious</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_boshin_ishin_shishi_cruel</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>A ready smile and a joke can take a man far.</colour_text>
+<key>S2_boshin_ishin_shishi_persuasive_01</key>
+<level>1</level>
+<onscreen_name>Witty</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_ishin_shishi_persuasive</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Diplomacy is the art of the possible.</colour_text>
+<key>S2_boshin_ishin_shishi_persuasive_02</key>
+<level>2</level>
+<onscreen_name>Smooth-tongued</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_ishin_shishi_persuasive</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This man could out-argue kitsune!</colour_text>
+<key>S2_boshin_ishin_shishi_persuasive_03</key>
+<level>3</level>
+<onscreen_name>Utterly Plausible</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_boshin_ishin_shishi_persuasive</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Japan must be strong, no matter the cost.</colour_text>
+<key>S2_boshin_ishin_shishi_superpatriot_01</key>
+<level>1</level>
+<onscreen_name>Patriotic</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_ishin_shishi_superpatriot</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>The Imperial Throne: right or wrong.</colour_text>
+<key>S2_boshin_ishin_shishi_superpatriot_02</key>
+<level>2</level>
+<onscreen_name>Court Loyalist</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_ishin_shishi_superpatriot</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>The Emperor's whims, in human form.</colour_text>
+<key>S2_boshin_ishin_shishi_superpatriot_03</key>
+<level>3</level>
+<onscreen_name>Imperial Fist</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_boshin_ishin_shishi_superpatriot</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Watching the light fade in another's eyes is magical.</colour_text>
+<key>S2_boshin_shinobi_vicious_01</key>
+<level>1</level>
+<onscreen_name>Pleasure in Death</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_shinobi_vicious</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Death is this man's pleasure in life.</colour_text>
+<key>S2_boshin_shinobi_vicious_02</key>
+<level>2</level>
+<onscreen_name>Heartless Killer</onscreen_name>
+<threshold_points>5</threshold_points>
+<trait>S2_boshin_shinobi_vicious</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Every killing needs a keepsake.</colour_text>
+<key>S2_boshin_shinobi_vicious_03</key>
+<level>3</level>
+<onscreen_name>Murderous Monster</onscreen_name>
+<threshold_points>10</threshold_points>
+<trait>S2_boshin_shinobi_vicious</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Some men pollute the land.</colour_text>
+<key>S2_boshin_shinobi_xenophobe_01</key>
+<level>1</level>
+<onscreen_name>Hatred of Foreigners</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_shinobi_xenophobe</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>They die almost like real men.</colour_text>
+<key>S2_boshin_shinobi_xenophobe_02</key>
+<level>2</level>
+<onscreen_name>Likes Foreign Blood</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_shinobi_xenophobe</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;...Is far away. Or dead. Preferably both.&quot;	</colour_text>
+<key>S2_boshin_shinobi_xenophobe_03</key>
+<level>3</level>
+<onscreen_name>The Only Good Gaijin...</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_boshin_shinobi_xenophobe</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>All swords are sharp.</colour_text>
+<key>S2_boshin_shinsengumi_bandit_01</key>
+<level>1</level>
+<onscreen_name>Sword For Hire</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_shinsengumi_bandit</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>A man can be mastered by gold.</colour_text>
+<key>S2_boshin_shinsengumi_bandit_02</key>
+<level>2</level>
+<onscreen_name>Former Ronin</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_shinsengumi_bandit</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Wolves do not leave the flock alone.</colour_text>
+<key>S2_boshin_shinsengumi_bandit_03</key>
+<level>3</level>
+<onscreen_name>Wolf in Human Form</onscreen_name>
+<threshold_points>8</threshold_points>
+<trait>S2_boshin_shinsengumi_bandit</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Only fools rush into an uncertain future.</colour_text>
+<key>S2_boshin_shinsengumi_chip_01</key>
+<level>1</level>
+<onscreen_name>Resentful</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_shinsengumi_chip</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Others are always at fault.</colour_text>
+<key>S2_boshin_shinsengumi_chip_02</key>
+<level>2</level>
+<onscreen_name>Chip on His Shoulder</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_shinsengumi_chip</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>There is nothing left to love.</colour_text>
+<key>S2_boshin_shinsengumi_chip_03</key>
+<level>3</level>
+<onscreen_name>Hate-driven</onscreen_name>
+<threshold_points>8</threshold_points>
+<trait>S2_boshin_shinsengumi_chip</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>The blade always feels cruel to the neck.</colour_text>
+<key>S2_boshin_shinsengumi_cruel_01</key>
+<level>1</level>
+<onscreen_name>Implacable</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_shinsengumi_cruel</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>As long as the Shogun is served...</colour_text>
+<key>S2_boshin_shinsengumi_cruel_02</key>
+<level>2</level>
+<onscreen_name>Means &amp; Ends</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_shinsengumi_cruel</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Anything can be contemplated in the Shogun's name.</colour_text>
+<key>S2_boshin_shinsengumi_cruel_03</key>
+<level>3</level>
+<onscreen_name>Irredeemably Viscious</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_boshin_shinsengumi_cruel</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>All men are happy in the right place.</colour_text>
+<key>S2_boshin_shinsengumi_noble_01</key>
+<level>1</level>
+<onscreen_name>Traditional Attitude</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_shinsengumi_noble</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>The people need rulers. Then there is harmony.</colour_text>
+<key>S2_boshin_shinsengumi_noble_02</key>
+<level>2</level>
+<onscreen_name>The Shogun's Truth</onscreen_name>
+<threshold_points>2</threshold_points>
+<trait>S2_boshin_shinsengumi_noble</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Japan has a destiny, and will succeed.</colour_text>
+<key>S2_boshin_shinsengumi_noble_03</key>
+<level>3</level>
+<onscreen_name>Honourable Destiny</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_shinsengumi_noble</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Whatever the Shogun needs, the Shogun shall have.</colour_text>
+<key>S2_boshin_shinsengumi_superpatriot_01</key>
+<level>1</level>
+<onscreen_name>Loyal</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_shinsengumi_superpatriot</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>The sword in the hand of the virtuous is ever-loyal.</colour_text>
+<key>S2_boshin_shinsengumi_superpatriot_02</key>
+<level>2</level>
+<onscreen_name>Utterly Loyal</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_shinsengumi_superpatriot</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Anything can be done in the name of loyalty.</colour_text>
+<key>S2_boshin_shinsengumi_superpatriot_03</key>
+<level>3</level>
+<onscreen_name>Dangerously Loyal</onscreen_name>
+<threshold_points>8</threshold_points>
+<trait>S2_boshin_shinsengumi_superpatriot</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Aye, there's sake, but champagne's more fun!&quot;</colour_text>
+<key>S2_boshin_veteran_drunkard_01</key>
+<level>1</level>
+<onscreen_name>Weakness for Drink</onscreen_name>
+<threshold_points>30</threshold_points>
+<trait>S2_boshin_veteran_drunkard</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>A dram steadies the hand and stiffens the sinew.</colour_text>
+<key>S2_boshin_veteran_drunkard_02</key>
+<level>2</level>
+<onscreen_name>Tippler</onscreen_name>
+<threshold_points>50</threshold_points>
+<trait>S2_boshin_veteran_drunkard</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Bloody bottle's empty!&quot;</colour_text>
+<key>S2_boshin_veteran_drunkard_03</key>
+<level>3</level>
+<onscreen_name>Drink! Drink! Drink!</onscreen_name>
+<threshold_points>70</threshold_points>
+<trait>S2_boshin_veteran_drunkard</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;These people...ah, what we must do for them...&quot;</colour_text>
+<key>S2_boshin_veteran_imperialist_01</key>
+<level>1</level>
+<onscreen_name>Naturally Superior</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_veteran_imperialist</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Some places need firm, colonial government.</colour_text>
+<key>S2_boshin_veteran_imperialist_02</key>
+<level>2</level>
+<onscreen_name>Imperialist</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_veteran_imperialist</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Quite frankly, we will be ruling here even a century from now.&quot;</colour_text>
+<key>S2_boshin_veteran_imperialist_03</key>
+<level>3</level>
+<onscreen_name>Manifest Destiny</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_boshin_veteran_imperialist</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;I could live here when all this is over...&quot;</colour_text>
+<key>S2_boshin_veteran_japanophile_01</key>
+<level>1</level>
+<onscreen_name>Loves Japan</onscreen_name>
+<threshold_points>2</threshold_points>
+<trait>S2_boshin_veteran_japanophile</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Here, I can start again, afresh...&quot;</colour_text>
+<key>S2_boshin_veteran_japanophile_02</key>
+<level>2</level>
+<onscreen_name>Going Native</onscreen_name>
+<threshold_points>4</threshold_points>
+<trait>S2_boshin_veteran_japanophile</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;This is home.&quot;</colour_text>
+<key>S2_boshin_veteran_japanophile_03</key>
+<level>3</level>
+<onscreen_name>Gone Native</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_boshin_veteran_japanophile</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;O! For a view without a paddy field!&quot;</colour_text>
+<key>S2_boshin_veteran_japanophobe_01</key>
+<level>1</level>
+<onscreen_name>Homesick</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_veteran_japanophobe</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;I never want to see another blasted chopstick again.&quot;</colour_text>
+<key>S2_boshin_veteran_japanophobe_02</key>
+<level>2</level>
+<onscreen_name>Sick of Rice</onscreen_name>
+<threshold_points>4</threshold_points>
+<trait>S2_boshin_veteran_japanophobe</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Bloody place. Bloody natives. Bloody samurai.&quot;</colour_text>
+<key>S2_boshin_veteran_japanophobe_03</key>
+<level>3</level>
+<onscreen_name>Hates Japan</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_boshin_veteran_japanophobe</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Let the other man die for his country.</colour_text>
+<key>S2_boshin_veteran_mercenary_01</key>
+<level>1</level>
+<onscreen_name>Self-serving</onscreen_name>
+<threshold_points>2</threshold_points>
+<trait>S2_boshin_veteran_mercenary</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;You have to be alive to be paid.&quot;</colour_text>
+<key>S2_boshin_veteran_mercenary_02</key>
+<level>2</level>
+<onscreen_name>Show Me the Money!</onscreen_name>
+<threshold_points>4</threshold_points>
+<trait>S2_boshin_veteran_mercenary</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Always have a fast horse waiting, just in case...&quot;</colour_text>
+<key>S2_boshin_veteran_mercenary_03</key>
+<level>3</level>
+<onscreen_name>The Mercenary Calling</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_boshin_veteran_mercenary</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Not for me, thank you.&quot;</colour_text>
+<key>S2_boshin_veteran_teetotal_01</key>
+<level>1</level>
+<onscreen_name>Absteemious</onscreen_name>
+<threshold_points>2</threshold_points>
+<trait>S2_boshin_veteran_teetotal</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Never touch the filthy stuff...&quot;</colour_text>
+<key>S2_boshin_veteran_teetotal_02</key>
+<level>2</level>
+<onscreen_name>The Demon Drink!</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_veteran_teetotal</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;I have an inspiring book on the subject...&quot;</colour_text>
+<key>S2_boshin_veteran_teetotal_03</key>
+<level>3</level>
+<onscreen_name>Preaching Teetotaller</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_boshin_veteran_teetotal</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;My love, we can do so much better…&quot;</colour_text>
+<key>S2_boshin_wife_ambition_1</key>
+<level>1</level>
+<onscreen_name>Ambitious Wife</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_wife_ambition</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>An adornment to any man's household.</colour_text>
+<key>S2_boshin_wife_beauty_1</key>
+<level>1</level>
+<onscreen_name>Beautiful Wife</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_wife_beauty</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Wait. Watch. Listen!&quot;</colour_text>
+<key>S2_boshin_wife_cunning_1</key>
+<level>1</level>
+<onscreen_name>Cunning Wife</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_wife_cunning</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Yes, my lord.&quot;</colour_text>
+<key>S2_boshin_wife_diplomatic_1</key>
+<level>1</level>
+<onscreen_name>Polite Wife</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_wife_diplomatic</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This lady has good, child-bearing hips.</colour_text>
+<key>S2_boshin_wife_fertile_1</key>
+<level>1</level>
+<onscreen_name>Fertile Wife</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_wife_fertile</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This lady is blessed with a strong constitution.</colour_text>
+<key>S2_boshin_wife_fertile_2</key>
+<level>2</level>
+<onscreen_name>Fecund Wife</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_wife_fertile</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;It's not mean. It's sensible, dear.&quot;</colour_text>
+<key>S2_boshin_wife_fiscal_prudence_1</key>
+<level>1</level>
+<onscreen_name>Prudent Wife</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_wife_fiscal_prudence</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;My lord, if we are not loyal, what are we?&quot;</colour_text>
+<key>S2_boshin_wife_loyal_1</key>
+<level>1</level>
+<onscreen_name>Loyal Wife</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_wife_loyal</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;But that is so beautiful! I must have it!&quot;</colour_text>
+<key>S2_boshin_wife_moneylover_1</key>
+<level>1</level>
+<onscreen_name>Greedy Wife</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_wife_moneylover</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;All the other generals are better than you…&quot;</colour_text>
+<key>S2_boshin_wife_shrewish_1</key>
+<level>1</level>
+<onscreen_name>Shrewish Wife</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_boshin_wife_shrewish</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Why didn't I listen to mother and marry a man?&quot;</colour_text>
+<key>S2_boshin_wife_shrewish_2</key>
+<level>2</level>
+<onscreen_name>Nag</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_boshin_wife_shrewish</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Terribly hurt in a failed assassination, this man has the courage to carry on.</colour_text>
+<key>S2_trait_all_blokes_maimed_1</key>
+<level>1</level>
+<onscreen_name>Maimed</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_all_blokes_maimed</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Repeated attempts on this man's life have taken a terrible toll.</colour_text>
+<key>S2_trait_all_blokes_maimed_2</key>
+<level>2</level>
+<onscreen_name>Crippled</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_trait_all_blokes_maimed</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This man seldom misses a meal, whether invited or not.</colour_text>
+<key>S2_trait_all_blokes_noodles_1</key>
+<level>1</level>
+<onscreen_name>Likes His Food</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_all_blokes_noodles</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Mice in rice warehouses have more respect for their stomachs than this man.</colour_text>
+<key>S2_trait_all_blokes_noodles_2</key>
+<level>2</level>
+<onscreen_name>More Rice!</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_trait_all_blokes_noodles</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This man's appetite when eating would shame a shark!</colour_text>
+<key>S2_trait_all_blokes_noodles_3</key>
+<level>3</level>
+<onscreen_name>Eats like a Pig</onscreen_name>
+<threshold_points>5</threshold_points>
+<trait>S2_trait_all_blokes_noodles</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Women are a pleasure in life.</colour_text>
+<key>S2_trait_all_blokes_womaniser_1</key>
+<level>1</level>
+<onscreen_name>An Eye for the Ladies</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_all_blokes_womaniser</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Women! What other pleasure compares?</colour_text>
+<key>S2_trait_all_blokes_womaniser_2</key>
+<level>2</level>
+<onscreen_name>Womaniser</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_trait_all_blokes_womaniser</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Quiet, woman. But don't just lie there like a fish!&quot;</colour_text>
+<key>S2_trait_all_blokes_womaniser_3</key>
+<level>3</level>
+<onscreen_name>Unpleasantly Lusty</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_trait_all_blokes_womaniser</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Crucifixion. A most excellent lesson.&quot;</colour_text>
+<key>S2_trait_daimyo_cruel_1</key>
+<level>1</level>
+<onscreen_name>Casually Brutal</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_daimyo_cruel</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This lord relishes the chance to punish a village or two.</colour_text>
+<key>S2_trait_daimyo_cruel_2</key>
+<level>2</level>
+<onscreen_name>Unneccesarily Harsh</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_trait_daimyo_cruel</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>There is more to the art of rulership, possibly, than killing anyone who disagrees.</colour_text>
+<key>S2_trait_daimyo_cruel_3</key>
+<level>3</level>
+<onscreen_name>Excessively Cruel</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_trait_daimyo_cruel</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This lord will listen attentively to foreign ideas.</colour_text>
+<key>S2_trait_daimyo_foreign_tastes_1</key>
+<level>1</level>
+<onscreen_name>Listens to Gaijin</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_daimyo_foreign_tastes</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This lord has an unnatural interest in foreign ways. </colour_text>
+<key>S2_trait_daimyo_foreign_tastes_2</key>
+<level>2</level>
+<onscreen_name>Likes Gaijin</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_trait_daimyo_foreign_tastes</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This lord is mad: he favours foreigners and their ill-mannered, unwashed ways!</colour_text>
+<key>S2_trait_daimyo_foreign_tastes_3</key>
+<level>3</level>
+<onscreen_name>Prefers Gaijin!</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_trait_daimyo_foreign_tastes</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>When you wake up with a knife at your throat, some suspicions are justified.</colour_text>
+<key>S2_trait_daimyo_paranoia_1</key>
+<level>1</level>
+<onscreen_name>Distrustful</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_daimyo_paranoia</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Trust is no longer in this man's nature.</colour_text>
+<key>S2_trait_daimyo_paranoia_2</key>
+<level>2</level>
+<onscreen_name>Suspicious</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_trait_daimyo_paranoia</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Strangers should be doubted. Friends should be watched.</colour_text>
+<key>S2_trait_daimyo_paranoia_3</key>
+<level>3</level>
+<onscreen_name>Supicious of All</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_trait_daimyo_paranoia</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Without peace, men cannot live harmoniously.</colour_text>
+<key>S2_trait_daimyo_peace_1</key>
+<level>1</level>
+<onscreen_name>Peaceable</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_daimyo_peace</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Only in peace will this man find contentment.</colour_text>
+<key>S2_trait_daimyo_peace_2</key>
+<level>2</level>
+<onscreen_name>Peace Loving</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_trait_daimyo_peace</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Peace is the only way for Japan!</colour_text>
+<key>S2_trait_daimyo_peace_3</key>
+<level>3</level>
+<onscreen_name>Pacifist</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_trait_daimyo_peace</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>A lucky escape is a good omen.</colour_text>
+<key>S2_trait_daimyo_protected_1</key>
+<level>1</level>
+<onscreen_name>Lucky</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_daimyo_protected</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Someone, or something, watches over this man.</colour_text>
+<key>S2_trait_daimyo_protected_2</key>
+<level>2</level>
+<onscreen_name>Guardian Spirit</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_trait_daimyo_protected</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;I am protected. I will always be protected!&quot;</colour_text>
+<key>S2_trait_daimyo_protected_3</key>
+<level>3</level>
+<onscreen_name>Protected by the Spirits</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_trait_daimyo_protected</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>The pure light of the heavens shines in this man's every movement.</colour_text>
+<key>S2_trait_daimyo_summer_son_1</key>
+<level>1</level>
+<onscreen_name>Summer Son</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_daimyo_summer_son</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;No. No. No.&quot;</colour_text>
+<key>S2_trait_daimyo_uncouth_1</key>
+<level>1</level>
+<onscreen_name>Impolite</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_daimyo_uncouth</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Lord Buddha! Have you had a bath this year?&quot;</colour_text>
+<key>S2_trait_daimyo_uncouth_2</key>
+<level>2</level>
+<onscreen_name>Rude</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_trait_daimyo_uncouth</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;I'll wager you rarely trouble the ladies, unlike me! Ha!&quot;</colour_text>
+<key>S2_trait_daimyo_uncouth_3</key>
+<level>3</level>
+<onscreen_name>Unpleasantly Uncouth</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_trait_daimyo_uncouth</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;I am the exemplar of justice. Say different again, and you lose your tongue!&quot;</colour_text>
+<key>S2_trait_daimyo_unjust_1</key>
+<level>1</level>
+<onscreen_name>Unfair</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_daimyo_unjust</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Spare the rod and spoil the peasant.</colour_text>
+<key>S2_trait_daimyo_unjust_2</key>
+<level>2</level>
+<onscreen_name>Unjust</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_trait_daimyo_unjust</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Enough! Enough! Have them killed.&quot;</colour_text>
+<key>S2_trait_daimyo_unjust_3</key>
+<level>3</level>
+<onscreen_name>Tyrant</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_trait_daimyo_unjust</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This woman's looks come from her make-up box, thanks to the assassin's blade.</colour_text>
+<key>S2_trait_geisha_maimed_1</key>
+<level>1</level>
+<onscreen_name>Ugly Scars</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_geisha_maimed</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Thanks to failed attempts on her life, this woman will never be the same again.</colour_text>
+<key>S2_trait_geisha_maimed_2</key>
+<level>2</level>
+<onscreen_name>Broken Inside</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_trait_geisha_maimed</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>The pure light of the heavens shines in this man's every movement.</colour_text>
+<key>S2_trait_gempei_daimyo_summer_son_1</key>
+<level>1</level>
+<onscreen_name>Summer Son</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_daimyo_summer_son</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Always dutiful, but aware of his own needs and desires.</colour_text>
+<key>S2_trait_general_ambition_1</key>
+<level>1</level>
+<onscreen_name>Self-centred</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_general_ambition</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Ambition gnaws at this man's heart.</colour_text>
+<key>S2_trait_general_ambition_2</key>
+<level>2</level>
+<onscreen_name>Ambitious</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_trait_general_ambition</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Others are only useful as long as they further this man's ambitions.</colour_text>
+<key>S2_trait_general_ambition_3</key>
+<level>3</level>
+<onscreen_name>Over-wheening Ambition</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_trait_general_ambition</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>A little killing is part of warfare.</colour_text>
+<key>S2_trait_general_bloodthirsty_1</key>
+<level>1</level>
+<onscreen_name>War is Slaughter</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_general_bloodthirsty</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>A lot of killing saves work later.</colour_text>
+<key>S2_trait_general_bloodthirsty_2</key>
+<level>2</level>
+<onscreen_name>Bloodthirsty</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_trait_general_bloodthirsty</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Kill them all, and tomorrow will be better!</colour_text>
+<key>S2_trait_general_bloodthirsty_3</key>
+<level>3</level>
+<onscreen_name>Blood-soaked</onscreen_name>
+<threshold_points>5</threshold_points>
+<trait>S2_trait_general_bloodthirsty</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This man has a reputation for going into harm's way.</colour_text>
+<key>S2_trait_general_brave_1</key>
+<level>1</level>
+<onscreen_name>Brave</onscreen_name>
+<threshold_points>2</threshold_points>
+<trait>S2_trait_general_brave</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This man's name is a byword for honest courage in battle.</colour_text>
+<key>S2_trait_general_brave_2</key>
+<level>2</level>
+<onscreen_name>Courageous</onscreen_name>
+<threshold_points>4</threshold_points>
+<trait>S2_trait_general_brave</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This man is a god of battles!</colour_text>
+<key>S2_trait_general_brave_3</key>
+<level>3</level>
+<onscreen_name>Heroic</onscreen_name>
+<threshold_points>7</threshold_points>
+<trait>S2_trait_general_brave</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This man's ancestors must be disappointed.</colour_text>
+<key>S2_trait_general_coward_1</key>
+<level>1</level>
+<onscreen_name>Dubious Courage</onscreen_name>
+<threshold_points>2</threshold_points>
+<trait>S2_trait_general_coward</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Whispers about this man's bravery follow him everywhere.</colour_text>
+<key>S2_trait_general_coward_2</key>
+<level>2</level>
+<onscreen_name>Poor Reputation</onscreen_name>
+<threshold_points>4</threshold_points>
+<trait>S2_trait_general_coward</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>No shrine will be erected for a coward.</colour_text>
+<key>S2_trait_general_coward_3</key>
+<level>3</level>
+<onscreen_name>Doubtful Courage</onscreen_name>
+<threshold_points>7</threshold_points>
+<trait>S2_trait_general_coward</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>There's nothing wrong with one sip of sake.</colour_text>
+<key>S2_trait_general_drunkard_1</key>
+<level>1</level>
+<onscreen_name>Enjoys a Drink</onscreen_name>
+<threshold_points>20</threshold_points>
+<trait>S2_trait_general_drunkard</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>There's little wrong with a cup of sake, with friends.</colour_text>
+<key>S2_trait_general_drunkard_2</key>
+<level>2</level>
+<onscreen_name>Heavy Drinker</onscreen_name>
+<threshold_points>25</threshold_points>
+<trait>S2_trait_general_drunkard</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;My sword is still steady. Nothing more matters.&quot;</colour_text>
+<key>S2_trait_general_drunkard_3</key>
+<level>3</level>
+<onscreen_name>Drunkard</onscreen_name>
+<threshold_points>30</threshold_points>
+<trait>S2_trait_general_drunkard</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Some nightmares can only be drowned in sake.</colour_text>
+<key>S2_trait_general_drunkard_4</key>
+<level>4</level>
+<onscreen_name>Paralyzed by Drink</onscreen_name>
+<threshold_points>35</threshold_points>
+<trait>S2_trait_general_drunkard</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>The heart aches for love, now winter's chill comes early: an empty bottle.</colour_text>
+<key>S2_trait_general_drunkard_5</key>
+<level>5</level>
+<onscreen_name>Drowning in Sake</onscreen_name>
+<threshold_points>40</threshold_points>
+<trait>S2_trait_general_drunkard</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>The blade's edge marks a line of salvation.</colour_text>
+<key>S2_trait_general_ikko_fanatic_1</key>
+<level>1</level>
+<onscreen_name>True Believer</onscreen_name>
+<threshold_points>2</threshold_points>
+<trait>S2_trait_general_ikko_fanatic</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>The fire of faith tempers the sword of the soul.</colour_text>
+<key>S2_trait_general_ikko_fanatic_2</key>
+<level>2</level>
+<onscreen_name>Fanatic</onscreen_name>
+<threshold_points>4</threshold_points>
+<trait>S2_trait_general_ikko_fanatic</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;I will fight, or die a martyr!&quot;</colour_text>
+<key>S2_trait_general_ikko_fanatic_3</key>
+<level>3</level>
+<onscreen_name>Father of the People</onscreen_name>
+<threshold_points>7</threshold_points>
+<trait>S2_trait_general_ikko_fanatic</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Now, are you truly… happy… to support our work?&quot;</colour_text>
+<key>S2_trait_general_ikko_looter_1</key>
+<level>1</level>
+<onscreen_name>Temple Dues</onscreen_name>
+<threshold_points>2</threshold_points>
+<trait>S2_trait_general_ikko_looter</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Gold is not sinful, except in a sinner's hands.</colour_text>
+<key>S2_trait_general_ikko_looter_2</key>
+<level>2</level>
+<onscreen_name>Tax the Faithless!</onscreen_name>
+<threshold_points>4</threshold_points>
+<trait>S2_trait_general_ikko_looter</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Lying ingrate! It IS for the temple coffers!&quot;</colour_text>
+<key>S2_trait_general_ikko_looter_3</key>
+<level>3</level>
+<onscreen_name>Holy Thief</onscreen_name>
+<threshold_points>7</threshold_points>
+<trait>S2_trait_general_ikko_looter</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>For this man, the clan is all.</colour_text>
+<key>S2_trait_general_loyal_1</key>
+<level>1</level>
+<onscreen_name>Devoted</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_trait_general_loyal</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Even by the code of bushido, this man has noteworthy loyalty.</colour_text>
+<key>S2_trait_general_loyal_2</key>
+<level>2</level>
+<onscreen_name>Loyal</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_trait_general_loyal</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This man would die for his lord, his clan and his family, preferably in that order.</colour_text>
+<key>S2_trait_general_loyal_3</key>
+<level>3</level>
+<onscreen_name>Fanatically Loyal</onscreen_name>
+<threshold_points>9</threshold_points>
+<trait>S2_trait_general_loyal</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Look: my katana is sharper, so there's nothing wrong in me having fish down my hakama.&quot;</colour_text>
+<key>S2_trait_general_mad_1</key>
+<level>1</level>
+<onscreen_name>Odd</onscreen_name>
+<threshold_points>2</threshold_points>
+<trait>S2_trait_general_mad</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;I need moonlight. In moonlight, blood looks like ink, did you know that? I like poetry.&quot;</colour_text>
+<key>S2_trait_general_mad_2</key>
+<level>2</level>
+<onscreen_name>Slightly Disturbing</onscreen_name>
+<threshold_points>4</threshold_points>
+<trait>S2_trait_general_mad</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;I'm a little tea bowl, round and black…&quot;</colour_text>
+<key>S2_trait_general_mad_3</key>
+<level>3</level>
+<onscreen_name>Deranged</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_trait_general_mad</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Some losses pierce the soul, and turn the mind.</colour_text>
+<key>S2_trait_general_mad_grief_1</key>
+<level>1</level>
+<onscreen_name>Heart-sick</onscreen_name>
+<threshold_points>2</threshold_points>
+<trait>S2_trait_general_mad_grief</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This man is an empty shell, hollowed by grief and sorrow.</colour_text>
+<key>S2_trait_general_mad_grief_2</key>
+<level>2</level>
+<onscreen_name>Broken Hearted</onscreen_name>
+<threshold_points>4</threshold_points>
+<trait>S2_trait_general_mad_grief</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>The death of loved ones has worn away this man's grip on reality.</colour_text>
+<key>S2_trait_general_mad_grief_3</key>
+<level>3</level>
+<onscreen_name>Broken Spirit</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_trait_general_mad_grief</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Darkness holds no terrors.</colour_text>
+<key>S2_trait_general_nocturnal_1</key>
+<level>1</level>
+<onscreen_name>Night Fighter</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_general_nocturnal</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>When you wake up with a knife at your throat, some suspicions are justified.</colour_text>
+<key>S2_trait_general_paranoia_1</key>
+<level>1</level>
+<onscreen_name>Distrustful</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_general_paranoia</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Trust is no longer in this man's nature.</colour_text>
+<key>S2_trait_general_paranoia_2</key>
+<level>2</level>
+<onscreen_name>Suspicious</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_trait_general_paranoia</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Strangers should be doubted. Friends should be watched.</colour_text>
+<key>S2_trait_general_paranoia_3</key>
+<level>3</level>
+<onscreen_name>Supicious of All</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_trait_general_paranoia</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>If it can be found, it can be liberated.</colour_text>
+<key>S2_trait_general_plunder_1</key>
+<level>1</level>
+<onscreen_name>Fond of Gold</onscreen_name>
+<threshold_points>2</threshold_points>
+<trait>S2_trait_general_plunder</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>A little profit is a general's due.</colour_text>
+<key>S2_trait_general_plunder_2</key>
+<level>2</level>
+<onscreen_name>Pillager</onscreen_name>
+<threshold_points>4</threshold_points>
+<trait>S2_trait_general_plunder</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Everything has a value, once the bloodstains are washed off.</colour_text>
+<key>S2_trait_general_plunder_3</key>
+<level>3</level>
+<onscreen_name>Looter</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_trait_general_plunder</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>A lucky escape is a good omen.</colour_text>
+<key>S2_trait_general_protected_1</key>
+<level>1</level>
+<onscreen_name>Lucky</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_general_protected</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Someone, or something, watches over this man.</colour_text>
+<key>S2_trait_general_protected_2</key>
+<level>2</level>
+<onscreen_name>Guardian Spirit</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_trait_general_protected</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;I am protected. I will always be protected!&quot;</colour_text>
+<key>S2_trait_general_protected_3</key>
+<level>3</level>
+<onscreen_name>Protected by the Spirits</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_trait_general_protected</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Bastards. Fish. Fishy bastards. YERRRRKK!&quot;</colour_text>
+<key>S2_trait_general_seasick_1</key>
+<level>1</level>
+<onscreen_name>Seasick</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_general_seasick</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Spirits of the sea! Torture me no more!&quot;</colour_text>
+<key>S2_trait_general_seasick_2</key>
+<level>2</level>
+<onscreen_name>Violently Seasick</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_trait_general_seasick</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;O gods! Have we left harbour yet?&quot;</colour_text>
+<key>S2_trait_general_seasick_3</key>
+<level>3</level>
+<onscreen_name>Hatred of Boats</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_trait_general_seasick</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>A little wealth can stick to a man's fingers.</colour_text>
+<key>S2_trait_metsuke_corrupt_1</key>
+<level>1</level>
+<onscreen_name>Self-interested</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_metsuke_corrupt</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>A man who swims in secrets and money should put a few of both in his net.</colour_text>
+<key>S2_trait_metsuke_corrupt_2</key>
+<level>2</level>
+<onscreen_name>Greedy</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_trait_metsuke_corrupt</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Money is money. A tool to be used, by those who control it.</colour_text>
+<key>S2_trait_metsuke_corrupt_3</key>
+<level>3</level>
+<onscreen_name>Corrupted</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_trait_metsuke_corrupt</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;I am a most fortunate man: I enjoy hurting people to get at the truth.&quot;</colour_text>
+<key>S2_trait_metsuke_cruel_1</key>
+<level>1</level>
+<onscreen_name>Vicious</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_metsuke_cruel</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;You will die when I have answers, and not one moment earlier!&quot;</colour_text>
+<key>S2_trait_metsuke_cruel_2</key>
+<level>2</level>
+<onscreen_name>Harsh</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_trait_metsuke_cruel</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;You will be silent, peasant, with no tongue!&quot;</colour_text>
+<key>S2_trait_metsuke_cruel_3</key>
+<level>3</level>
+<onscreen_name>Cruel</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_trait_metsuke_cruel</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>When drinking, a man may hear much of interest.</colour_text>
+<key>S2_trait_metsuke_drunkard_1</key>
+<level>1</level>
+<onscreen_name>Enjoys a Drink</onscreen_name>
+<threshold_points>30</threshold_points>
+<trait>S2_trait_metsuke_drunkard</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>The next morning it is hard to remember what treachery was spoken.</colour_text>
+<key>S2_trait_metsuke_drunkard_2</key>
+<level>2</level>
+<onscreen_name>Heavy Drinker</onscreen_name>
+<threshold_points>35</threshold_points>
+<trait>S2_trait_metsuke_drunkard</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;I do not sleep well. What man in my position does?&quot;</colour_text>
+<key>S2_trait_metsuke_drunkard_3</key>
+<level>3</level>
+<onscreen_name>Drunkard</onscreen_name>
+<threshold_points>40</threshold_points>
+<trait>S2_trait_metsuke_drunkard</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>When you wake up with a knife at your throat, some suspicions are justified.</colour_text>
+<key>S2_trait_metsuke_paranoia_1</key>
+<level>1</level>
+<onscreen_name>Distrustful</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_metsuke_paranoia</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Trust is no longer in this man's nature.</colour_text>
+<key>S2_trait_metsuke_paranoia_2</key>
+<level>2</level>
+<onscreen_name>Suspicious</onscreen_name>
+<threshold_points>2</threshold_points>
+<trait>S2_trait_metsuke_paranoia</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Strangers should be doubted. Friends should be watched.</colour_text>
+<key>S2_trait_metsuke_paranoia_3</key>
+<level>3</level>
+<onscreen_name>Supicious of All</onscreen_name>
+<threshold_points>4</threshold_points>
+<trait>S2_trait_metsuke_paranoia</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;I am disappointed, my flock, by this collection plate…&quot;</colour_text>
+<key>S2_trait_missionary_corrupt_1</key>
+<level>1</level>
+<onscreen_name>Self-interested</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_missionary_corrupt</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;The money was just resting in my travelling bag!&quot;</colour_text>
+<key>S2_trait_missionary_corrupt_2</key>
+<level>2</level>
+<onscreen_name>Greedy</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_trait_missionary_corrupt</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;One for me, one for Rome. Two for me, one for Rome…&quot;</colour_text>
+<key>S2_trait_missionary_corrupt_3</key>
+<level>3</level>
+<onscreen_name>Corrupted</onscreen_name>
+<threshold_points>7</threshold_points>
+<trait>S2_trait_missionary_corrupt</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>A small taste of communion wine frees the soul.</colour_text>
+<key>S2_trait_missionary_drunkard_1</key>
+<level>1</level>
+<onscreen_name>Enjoys a Drink</onscreen_name>
+<threshold_points>30</threshold_points>
+<trait>S2_trait_missionary_drunkard</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;All those sins. Such a burden…&quot;</colour_text>
+<key>S2_trait_missionary_drunkard_2</key>
+<level>2</level>
+<onscreen_name>Heavy Drinker</onscreen_name>
+<threshold_points>35</threshold_points>
+<trait>S2_trait_missionary_drunkard</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Drink! Drink! Drink! Arse! Feck! Girls!&quot;</colour_text>
+<key>S2_trait_missionary_drunkard_3</key>
+<level>3</level>
+<onscreen_name>Drunkard</onscreen_name>
+<threshold_points>40</threshold_points>
+<trait>S2_trait_missionary_drunkard</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This man harbours many doubts. What if Luther was right?</colour_text>
+<key>S2_trait_missionary_jaded_1</key>
+<level>1</level>
+<onscreen_name>Doubter</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_missionary_jaded</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Seen from within, the Church is not heavenly.</colour_text>
+<key>S2_trait_missionary_jaded_2</key>
+<level>2</level>
+<onscreen_name>Cynical</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_trait_missionary_jaded</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;God does not listen, my son, not to me.&quot;</colour_text>
+<key>S2_trait_missionary_jaded_3</key>
+<level>3</level>
+<onscreen_name>Disillusioned</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_trait_missionary_jaded</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;And where does it say I cannot enjoy sake?&quot;</colour_text>
+<key>S2_trait_monk_drunkard_1</key>
+<level>1</level>
+<onscreen_name>Enjoys a Drink</onscreen_name>
+<threshold_points>30</threshold_points>
+<trait>S2_trait_monk_drunkard</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>A man's spirits must be calmed.</colour_text>
+<key>S2_trait_monk_drunkard_2</key>
+<level>2</level>
+<onscreen_name>Heavy Drinker</onscreen_name>
+<threshold_points>35</threshold_points>
+<trait>S2_trait_monk_drunkard</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Listen, you, getting drunk is very bloody Zen!&quot;</colour_text>
+<key>S2_trait_monk_drunkard_3</key>
+<level>3</level>
+<onscreen_name>Drunkard</onscreen_name>
+<threshold_points>40</threshold_points>
+<trait>S2_trait_monk_drunkard</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>A religious life is not a passive life.</colour_text>
+<key>S2_trait_monk_fighter_1</key>
+<level>1</level>
+<onscreen_name>Defends Himself</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_monk_fighter</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Ha! Your training is sadly lacking, my son!&quot;</colour_text>
+<key>S2_trait_monk_fighter_2</key>
+<level>2</level>
+<onscreen_name>Martial Artist</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_trait_monk_fighter</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Stop trying to hit me, and hit me!&quot;</colour_text>
+<key>S2_trait_monk_fighter_3</key>
+<level>3</level>
+<onscreen_name>Master of Martial Arts</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_trait_monk_fighter</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Now is the hour of breathing.&quot;</colour_text>
+<key>S2_trait_monk_unworldly_1</key>
+<level>1</level>
+<onscreen_name>Meditative</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_monk_unworldly</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;The journey has been interesting so far.&quot;</colour_text>
+<key>S2_trait_monk_unworldly_2</key>
+<level>2</level>
+<onscreen_name>Deeply Contemplative</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_trait_monk_unworldly</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Beyond the world's reach, there is a peace within.</colour_text>
+<key>S2_trait_monk_unworldly_3</key>
+<level>3</level>
+<onscreen_name>At One With His Soul</onscreen_name>
+<threshold_points>6</threshold_points>
+<trait>S2_trait_monk_unworldly</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>A sip now and then steadies the hand.</colour_text>
+<key>S2_trait_ninja_drunkard_1</key>
+<level>1</level>
+<onscreen_name>Enjoys a Drink</onscreen_name>
+<threshold_points>30</threshold_points>
+<trait>S2_trait_ninja_drunkard</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Sometimes, some things must be forgotten.</colour_text>
+<key>S2_trait_ninja_drunkard_2</key>
+<level>2</level>
+<onscreen_name>Heavy Drinker</onscreen_name>
+<threshold_points>35</threshold_points>
+<trait>S2_trait_ninja_drunkard</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;I've seen things, done things. Terrible things…&quot;</colour_text>
+<key>S2_trait_ninja_drunkard_3</key>
+<level>3</level>
+<onscreen_name>Drunkard</onscreen_name>
+<threshold_points>40</threshold_points>
+<trait>S2_trait_ninja_drunkard</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Killing is work, but sometimes work can be fun.</colour_text>
+<key>S2_trait_ninja_enjoys_it_1</key>
+<level>1</level>
+<onscreen_name>Brutal Streak</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_ninja_enjoys_it</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This man's assassinations are often more elaborate than they need to be.</colour_text>
+<key>S2_trait_ninja_enjoys_it_2</key>
+<level>2</level>
+<onscreen_name>Cunning Murderer</onscreen_name>
+<threshold_points>5</threshold_points>
+<trait>S2_trait_ninja_enjoys_it</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>Killing is one thing, but this killer drools as he works.</colour_text>
+<key>S2_trait_ninja_enjoys_it_3</key>
+<level>3</level>
+<onscreen_name>Delight in Killing</onscreen_name>
+<threshold_points>8</threshold_points>
+<trait>S2_trait_ninja_enjoys_it</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;My love, we can do so much better…&quot;</colour_text>
+<key>S2_trait_wife_ambition_1</key>
+<level>1</level>
+<onscreen_name>Ambitious Wife</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_wife_ambition</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>An adornment to any man's household.</colour_text>
+<key>S2_trait_wife_beauty_1</key>
+<level>1</level>
+<onscreen_name>Beautiful Wife</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_wife_beauty</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Wait. Watch. Listen!&quot;</colour_text>
+<key>S2_trait_wife_cunning_1</key>
+<level>1</level>
+<onscreen_name>Cunning Wife</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_wife_cunning</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Yes, my lord.&quot;</colour_text>
+<key>S2_trait_wife_diplomatic_1</key>
+<level>1</level>
+<onscreen_name>Polite Wife</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_wife_diplomatic</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This lady has good, child-bearing hips.</colour_text>
+<key>S2_trait_wife_fertile_1</key>
+<level>1</level>
+<onscreen_name>Fertile Wife</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_wife_fertile</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>This lady is blessed with a strong constitution.</colour_text>
+<key>S2_trait_wife_fertile_2</key>
+<level>2</level>
+<onscreen_name>Fecund Wife</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_trait_wife_fertile</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;It's not mean. It's sensible, dear.&quot;</colour_text>
+<key>S2_trait_wife_fiscal_prudence_1</key>
+<level>1</level>
+<onscreen_name>Prudent Wife</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_wife_fiscal_prudence</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;My lord, if we are not loyal, what are we?&quot;</colour_text>
+<key>S2_trait_wife_loyal_1</key>
+<level>1</level>
+<onscreen_name>Loyal Wife</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_wife_loyal</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;But that is so beautiful! I must have it!&quot;</colour_text>
+<key>S2_trait_wife_moneylover_1</key>
+<level>1</level>
+<onscreen_name>Greedy Wife</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_wife_moneylover</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;All the other generals are better than you…&quot;</colour_text>
+<key>S2_trait_wife_shrewish_1</key>
+<level>1</level>
+<onscreen_name>Shrewish Wife</onscreen_name>
+<threshold_points>1</threshold_points>
+<trait>S2_trait_wife_shrewish</trait>
+</character_trait_levels>
+<character_trait_levels>
+<colour_text>&quot;Why didn't I listen to mother and marry a man?&quot;</colour_text>
+<key>S2_trait_wife_shrewish_2</key>
+<level>2</level>
+<onscreen_name>Nag</onscreen_name>
+<threshold_points>3</threshold_points>
+<trait>S2_trait_wife_shrewish</trait>
+</character_trait_levels>
+</dataroot>

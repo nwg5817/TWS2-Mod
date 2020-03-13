@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Mon 22. Aug 17:08:39 2011" revision="4" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Dom.Starr">
+<edit_uuid>6e20e884-c222-40a4-8166-7316886592ac</edit_uuid><names_groups>
+<Description>Austrian names</Description>
+<ID>names_austrian</ID>
+</names_groups>
+<names_groups>
+<Description>Boshin</Description>
+<ID>names_boshin</ID>
+</names_groups>
+<names_groups>
+<Description>American</Description>
+<ID>names_boshin_american</ID>
+</names_groups>
+<names_groups>
+<Description>British</Description>
+<ID>names_boshin_british</ID>
+</names_groups>
+<names_groups>
+<Description>French</Description>
+<ID>names_boshin_french</ID>
+</names_groups>
+<names_groups>
+<Description>Chosokabe names</Description>
+<ID>names_chosokabe</ID>
+</names_groups>
+<names_groups>
+<Description>Date names</Description>
+<ID>names_date</ID>
+</names_groups>
+<names_groups>
+<Description>Fujiwara names</Description>
+<ID>names_fujiwara</ID>
+</names_groups>
+<names_groups>
+<Description>Hojo names</Description>
+<ID>names_hojo</ID>
+</names_groups>
+<names_groups>
+<Description>Iga names</Description>
+<ID>names_iga</ID>
+</names_groups>
+<names_groups>
+<Description>Ikko Ikki names</Description>
+<ID>names_ikko_ikki</ID>
+</names_groups>
+<names_groups>
+<Description>Japanese names</Description>
+<ID>names_japanese</ID>
+</names_groups>
+<names_groups>
+<Description>Minamoto names</Description>
+<ID>names_minamoto</ID>
+</names_groups>
+<names_groups>
+<Description>Mori names</Description>
+<ID>names_mori</ID>
+</names_groups>
+<names_groups>
+<Description>Oda names</Description>
+<ID>names_oda</ID>
+</names_groups>
+<names_groups>
+<Description>Portugese names</Description>
+<ID>names_portuguese</ID>
+</names_groups>
+<names_groups>
+<Description>Shimazu names</Description>
+<ID>names_shimazu</ID>
+</names_groups>
+<names_groups>
+<Description>Taira names</Description>
+<ID>names_taira</ID>
+</names_groups>
+<names_groups>
+<Description>Takeda names</Description>
+<ID>names_takeda</ID>
+</names_groups>
+<names_groups>
+<Description>Tokugawa names</Description>
+<ID>names_tokugawa</ID>
+</names_groups>
+<names_groups>
+<Description>Uesugi names</Description>
+<ID>names_uesugi</ID>
+</names_groups>
+</dataroot>

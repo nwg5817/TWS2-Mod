@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_ui_component_localisation>
+<root>
+  <edit_uuid>fe501e85-4506-4efc-81df-d526695d26c9</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>component_label</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>localised_string</name>
+    <field_type>memo</field_type>
+    <required>0</required>
+    <max_length>536870910</max_length>
+  </field>
+</root>

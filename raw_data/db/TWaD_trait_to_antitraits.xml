@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_trait_to_antitraits>
+<root>
+  <edit_uuid>e423a419-6c77-477f-881c-391c2f93c1fe</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>trait</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>trait</column_source_column>
+    <column_source_table>trait_info</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>antitrait</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>trait</column_source_column>
+    <column_source_table>trait_info</column_source_table>
+  </field>
+</root>

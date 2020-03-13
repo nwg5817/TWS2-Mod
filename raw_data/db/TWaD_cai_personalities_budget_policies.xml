@@ -1,0 +1,20 @@
+<!DOCTYPE TWaD_cai_personalities_budget_policies>
+<root>
+<edit_uuid>bc83b74a-c639-11df-8002-001fd02417f0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>default_budget_allocation_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>cai_personalities_budget_allocations</column_source_table>
+  </field>
+</root>

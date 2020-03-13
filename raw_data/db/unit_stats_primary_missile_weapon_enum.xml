@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Mon 29. Nov 11:16:41 2010" revision="2" export_branch="C:/TW/battle/dev/shogun2/src" export_user="Richard.Thiang">
+<edit_uuid>ab1d3ab3-008a-4042-abce-2b3efe3c56be</edit_uuid><unit_stats_primary_missile_weapon_enum>
+<key>bow</key>
+</unit_stats_primary_missile_weapon_enum>
+<unit_stats_primary_missile_weapon_enum>
+<key>musket</key>
+</unit_stats_primary_missile_weapon_enum>
+<unit_stats_primary_missile_weapon_enum>
+<key>rifle</key>
+</unit_stats_primary_missile_weapon_enum>
+<unit_stats_primary_missile_weapon_enum>
+<key>rocket</key>
+</unit_stats_primary_missile_weapon_enum>
+<unit_stats_primary_missile_weapon_enum>
+<key>sling</key>
+</unit_stats_primary_missile_weapon_enum>
+</dataroot>

@@ -1,0 +1,12 @@
+<!DOCTYPE TWaD_avatar_effects>
+<root>
+<edit_uuid>0cf42e4e-6fe4-11df-8003-001fd02417f0</edit_uuid>
+<field>
+        <primary_key>1</primary_key>
+        <name>effect</name>
+        <field_type>text</field_type>
+        <required>1</required>
+        <max_length>255</max_length>
+</field>
+</root>
+

@@ -1,0 +1,2433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Thu 15. Dec 16:38:02 2011" revision="62" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Dom.Starr">
+<edit_uuid>715dd7de-2684-465e-a7f4-700baad9d8cd</edit_uuid><incidents>
+<generate>0</generate>
+<key>bos_intro_4a_incident_military</key>
+<localised_description>Our focus on military advancement has yielded unexpected results, my lord; the people are clamouring to join our ranks to protect their kin and their clan from harm.</localised_description>
+<localised_title>Setting Our Priorities</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>bos_message_conflict_positive_active.tga</ui_icon>
+<ui_image>bos_army.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>bos_intro_4b_incident_civil</key>
+<localised_description>Our focus on civil advancment has yielded unexpected results, my lord; the people have been inspired in their daily duties, working dilligently for the good of their kin and their clan.</localised_description>
+<localised_title>Setting Our Priorities</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>bos_message_modernisation_positive_active.tga</ui_icon>
+<ui_image>bos_agriculture.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>bos_intro_5_carry_on_imperial</key>
+<localised_description>We have successfully expanded our territory and developed the clan to a respectable technological standard. As a show of support, leading citizens have offered tribute; we must see to it that their contributions are invested well and that the people's faith in the Imperial cause is justified.\n\nLong live the Emperor!</localised_description>
+<localised_title>Moving Forwards</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>bos_message_allegiance_imperial_positive_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>bos_intro_5_carry_on_shogun</key>
+<localised_description>We have successfully expanded our territory and developed our clan to a respectable technological standard. As a show of support, leading citizens have offered tribute; we must see to it that their contributions are invested well and that the people's faith in Shogun's cause is justified.\n\n For the Shogunate!</localised_description>
+<localised_title>Moving Forwards</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>bos_message_allegiance_shogun_positive_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_ambitious_traders_FIRST_able_sailors</key>
+<localised_description>Due to our support of trade by sea, sailors are rallying to our cause in search of their fortune.</localised_description>
+<localised_title>Ambitious Traders</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Ship.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_ambitious_traders_FIRST_lucrative_shipping</key>
+<localised_description>Our recent focus on sea trade has given us control of the shipping lanes. </localised_description>
+<localised_title>Ambitious Traders</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Ship.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_ambitious_traders_SECOND_prosperity</key>
+<localised_description>Our focus on domestic trade has led to increased wealth in our provinces.</localised_description>
+<localised_title>Ambitious Traders</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Merchants.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_ambitious_traders_SECOND_thriving_markets</key>
+<localised_description>Our recent focus on domestic trade has led to increased profits from markets throughout our territory.</localised_description>
+<localised_title>Ambitious Traders</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Merchants.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_auxiliary_supplies_FIRST_call_to_arms</key>
+<localised_description>An abundance of military supplies has led to the enlistment of more fervent clan supporters into the army's ranks.</localised_description>
+<localised_title>Auxiliary Supplies</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Ashigaru.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_auxiliary_supplies_SECOND_master_smithies</key>
+<localised_description>Owing to the skills of our own blacksmiths, our troops have been equipped from within rather than relying on arms and armour bought from neighbouring provinces. They are truly excelling in their art!</localised_description>
+<localised_title>Auxiliary Supplies</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Samurai.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_auxiliary_supplies_SECOND_merchant_discontent</key>
+<localised_description>Our decision not to trade in military supplies has upset our merchants, who feel they might have been able to profit from such an investment. </localised_description>
+<localised_title>Auxiliary Supplies</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Disaffected.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_better_agent_metsuke_FIRST_shogunal_deputy</key>
+<localised_description>As a result of our recent co-operation with the Shogunate, we have been sent an envoy from Kyoto to aid in clan affairs.</localised_description>
+<localised_title>The Shogun's Authority</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Shogun.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_better_agent_missionary_FIRST_nanban_ambassador</key>
+<localised_description>Pleased at our recent co-operation with the Church, a papal dignitary has been dispatched to facilitate relations between us.</localised_description>
+<localised_title>Divine Authority</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Nanban.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_emperor_foreign_medic_FIRST_foreign_boost</key>
+<localised_description>Our recent dealings with William Willis enabled us to strengthen ties with the British, and as such foreign trade is now flourishing.</localised_description>
+<localised_title>William Willis</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_trade_positive_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_emperor_foreign_medic_FIRST_sonno_joi</key>
+<localised_description>Whilst we benefitted from the employment of William Willis, many of our people still resent the hiring of a westerner to execute the Emperor's will.</localised_description>
+<localised_title>William Willis</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_rebellion_negative_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_gaijin_trouble_FIRST_foreign_setback</key>
+<localised_description>Foreign trade is in decline since we began imposing stricter laws upon western immigrants within our domain.</localised_description>
+<localised_title>Gaijin Trouble</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_trade_negative_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_gaijin_trouble_SECOND_anti_western_riots</key>
+<localised_description>Incensed at the concessions made in favour of the westerners, people in this province are rioting in protest. It will be some time before order is restored.</localised_description>
+<localised_title>Gaijin Trouble</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_rebellion_negative_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_gaijin_trouble_SECOND_foreign_boost</key>
+<localised_description>Taking comfort in the knowledge that they can enjoy relative freedom of action within our domain, an increasing number of foreigners are operating in our ports.</localised_description>
+<localised_title>Gaijin Trouble</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_trade_positive_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_icarus_affair_FIRST_anti_western_riots</key>
+<localised_description>Angered at concessions made in favour of the westerners in response to the Icarus incident, anti-western elements in this province have taken to the streets in protest.</localised_description>
+<localised_title>The Icarus Affair</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_rebellion_negative_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_icarus_affair_FIRST_disaffected_populace</key>
+<localised_description>The people are disheartened that we should concede to the whims of the West, regardless of the cause.</localised_description>
+<localised_title>The Icarus Affair</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_modernisation_negative_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_icarus_affair_FIRST_foreign_boost</key>
+<localised_description>Satisfied with our handling of the Icarus incident, western authorities have agreed to better trade concessions over the coming months.</localised_description>
+<localised_title>The Icarus Affair</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_trade_positive_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_icarus_affair_FIRST_grant_royal_marines</key>
+<localised_description>In gratitude for our handling of the Icarus incident, the British have granted us a unit of marines to aid war effort.</localised_description>
+<localised_title>The Icarus Affair</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_army_positive_active.tga</ui_icon>
+<ui_image>bos_army.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_icarus_affair_SECOND_foreign_setback</key>
+<localised_description>Dissatisfied with our handling of the Icarus incident, western authorities will be enforcing harsher trade conditions over the coming months.</localised_description>
+<localised_title>The Icarus Affair</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_trade_negative_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_icarus_affair_SECOND_inspired_endeavours</key>
+<localised_description>Hearing of our unwillingness to submit to western demands, the people have been inspired in their daily lives.</localised_description>
+<localised_title>The Icarus Affair</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_modernisation_positive_active.tga</ui_icon>
+<ui_image>bos_modernisation.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_koyosha_modern_FIRST_inspired_endeavours</key>
+<localised_description>The people have been inspired by the lengths we have gone to prevent the koyosha from disrupting our technological and societal development.</localised_description>
+<localised_title>Koyosha</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_modernisation_positive_active.tga</ui_icon>
+<ui_image>bos_modernisation.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_koyosha_modern_FIRST_peer_respect</key>
+<localised_description>Many of your fellow daimyo are grateful for our attempts to curb criminal koyosha activity.</localised_description>
+<localised_title>Koyosha</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_diplomacy_positive_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_koyosha_modern_FIRST_rebellion</key>
+<localised_description>Resentful of our attempts to subvert their traditionalist agenda, the koyosha have incited a rebellion against us in this province!</localised_description>
+<localised_title>Koyosha</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_rebellion_negative_active.tga</ui_icon>
+<ui_image>bos_army_battle.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_koyosha_modern_FIRST_samurai_discontent</key>
+<localised_description>The samurai have expressed their discontent at our decision to crack down upon koyosha activities, hailing them as champions of traditional Japanese values.</localised_description>
+<localised_title>Koyosha</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_rebellion_negative_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_koyosha_modern_SECOND_criminal_contacts</key>
+<localised_description>Unexpectedly, our decision to pull back from technological and societal change has made us useful allies among the criminal underclass.</localised_description>
+<localised_title>Koyosha</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_character_positive_active.tga</ui_icon>
+<ui_image>bos_modernisation.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_koyosha_modern_SECOND_peer_respect</key>
+<localised_description>Many of your fellow daimyo are grateful for the recent support of traditionalism over modernisation.</localised_description>
+<localised_title>Koyosha</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_diplomacy_positive_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_koyosha_modern_SECOND_samurai_satisfaction</key>
+<localised_description>The samurai are satisfied at our decision to curb modernisation and preserve their traditionalist values.</localised_description>
+<localised_title>Koyosha</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_diplomacy_positive_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_koyosha_western_FIRST_foreign_boost</key>
+<localised_description>Western powers are grateful that we have taken the problem of anti-western koyosha activity seriously. They have subsequently stepped up the volume of trade between us.</localised_description>
+<localised_title>Koyosha</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_trade_positive_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_koyosha_western_FIRST_peer_respect</key>
+<localised_description>Many of your fellow daimyo are grateful for our attempts to curb anti-western violence and criminal koyosha activity.</localised_description>
+<localised_title>Koyosha</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_diplomacy_positive_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_koyosha_western_FIRST_rebellion</key>
+<localised_description>Resentful of our attempts to subvert their anti-western agenda, the koyosha have incited a rebellion against us in this province!</localised_description>
+<localised_title>Koyosha</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_rebellion_negative_active.tga</ui_icon>
+<ui_image>bos_army_battle.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_koyosha_western_FIRST_samurai_discontent</key>
+<localised_description>The samurai have expressed discontent at our decision to crack down on koyosha activities, hailing them as champions of traditional Japanese values.</localised_description>
+<localised_title>Koyosha</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_rebellion_negative_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_koyosha_western_SECOND_criminal_contacts</key>
+<localised_description>Unexpectedly, the decline in foreign contact following incidents of anti-western violence by the koyosha has gained us some allies among the criminal underworld.</localised_description>
+<localised_title>Koyosha</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_character_positive_active.tga</ui_icon>
+<ui_image>bos_modernisation.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_koyosha_western_SECOND_peer_respect</key>
+<localised_description>Many of your fellow daimyo are grateful for your recent support of traditional Japanese values over western trade and influence.</localised_description>
+<localised_title>Koyosha</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_diplomacy_positive_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_koyosha_western_SECOND_samurai_satisfaction</key>
+<localised_description>The samurai are satisfied at our decision to curb foreign trade and influence in favour of traditional Japanese values.</localised_description>
+<localised_title>Koyosha</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_diplomacy_positive_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_nanban_slavers_FIRST_foreign_boost</key>
+<localised_description>Thanks to our unwillingness to interfere in the private affairs of the western powers, we are experiencing an increase in foreign trade.</localised_description>
+<localised_title>Nanban Slavers</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_trade_positive_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_nanban_slavers_FIRST_peer_contempt</key>
+<localised_description>Other daimyo have lost considerable respect for our clan, taking us to be nothing but pawns of the western powers.</localised_description>
+<localised_title>Nanban Slavers</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_diplomacy_negative_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_nanban_slavers_SECOND_chinese_gratitude</key>
+<localised_description>Grateful for our intervention on behalf of their subjects, the Manchu have sent us gifts and compensation.</localised_description>
+<localised_title>Nanban Slavers</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_diplomacy_positive_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_nanban_slavers_SECOND_foreign_setback</key>
+<localised_description>Foreign trade is suffering following our decision to interfere with the private affairs of the western powers.</localised_description>
+<localised_title>Nanban Slavers</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_trade_negative_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_nanban_slavers_SECOND_inspired_endeavours</key>
+<localised_description>Our people have been inspired by our willingness to stand up for the rights of others, regardless of the western agenda.</localised_description>
+<localised_title>Nanban Slavers</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_modernisation_positive_active.tga</ui_icon>
+<ui_image>bos_modernisation.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_nanban_slavers_SECOND_peer_respect</key>
+<localised_description>The other daimyo have gained considerable respect for us after we refused to acquiesce to the whims of the western powers.</localised_description>
+<localised_title>Nanban Slavers</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_diplomacy_positive_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_rangaku_FIRST_breakthrough_civil_eng</key>
+<localised_description>Wonderful news, my lord! Our tolerance towards western learning has led to a breakthrough in civil engineering.</localised_description>
+<localised_title>Rangaku</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_construction_active.tga</ui_icon>
+<ui_image>bos_modernisation.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_rangaku_FIRST_breakthrough_industrial_sci</key>
+<localised_description>Wonderful news, my lord! Our tolerance towards western learning has led to a breakthrough in industrial science.</localised_description>
+<localised_title>Rangaku</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_modernisation_positive_active.tga</ui_icon>
+<ui_image>bos_modernisation.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_rangaku_FIRST_breakthrough_medical_sci</key>
+<localised_description>Wonderful news, my lord! Our tolerance towards western learning has led to a breakthrough in medical science.</localised_description>
+<localised_title>Rangaku</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_resources_positive_active.tga</ui_icon>
+<ui_image>bos_modernisation.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_rangaku_FIRST_breakthrough_military_eng</key>
+<localised_description>Wonderful news, my lord! Our tolerance towards western learning has led to a breakthrough in military engineering.</localised_description>
+<localised_title>Rangaku</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_bombard_positive_active.tga</ui_icon>
+<ui_image>bos_modernisation.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_rangaku_FIRST_foreign_boost</key>
+<localised_description>Having learned of our tolerance towards western learning, foreign powers have decided to improve trade relations with our clan.</localised_description>
+<localised_title>Rangaku</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_trade_positive_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_rangaku_FIRST_peer_contempt</key>
+<localised_description>I regret to inform you, my lord, that your fellow daimyo think very little of our open tolerance towards western learning.</localised_description>
+<localised_title>Rangaku</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_diplomacy_negative_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_rangaku_FIRST_samurai_discontent</key>
+<localised_description>Traditionalists within our clan are outraged at how readily we have allowed western learning to be promoted amongst our people.</localised_description>
+<localised_title>Rangaku</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_rebellion_negative_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_rangaku_SECOND_foreign_setback</key>
+<localised_description>Trade with foreign powers is in decline. They know we have actively worked against the spread of western learning among our people.</localised_description>
+<localised_title>Rangaku</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_trade_negative_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_rangaku_SECOND_peer_respect</key>
+<localised_description>A majority of your fellow daimyo are pleased that we have chosen to stifle the spread of western learning.</localised_description>
+<localised_title>Rangaku</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_diplomacy_positive_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_rangaku_SECOND_samurai_satisfaction</key>
+<localised_description>Traditionalists within our clan are content at our decision to stifle the spread of western learning amongst our people.</localised_description>
+<localised_title>Rangaku</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_diplomacy_positive_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_ronin_SECOND_ronin_marauders</key>
+<localised_description>Without a lord to lead them, the samurai who once sought to serve our clan have resorted to marauding this province.</localised_description>
+<localised_title>Ronin</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_rebellion_negative_active.tga</ui_icon>
+<ui_image>bos_army_victory.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_sakai_incident_FIRST_anti_western_riots</key>
+<localised_description>Angered at concessions made in favour of westerners in response to the Sakai incident, anti-western elements in this province have taken to the streets in protest.</localised_description>
+<localised_title>The Sakai Incident</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_rebellion_negative_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_sakai_incident_FIRST_disaffected_populace</key>
+<localised_description>The people are disheartened that we should concede to the whims of the West, regardless of the cause.</localised_description>
+<localised_title>The Sakai Incident</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_modernisation_negative_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_sakai_incident_FIRST_foreign_boost</key>
+<localised_description>Satisfied with our handling of the Sakai incident, western authorities have agreed to better trade conditions over the coming months.</localised_description>
+<localised_title>The Sakai Incident</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_trade_positive_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_sakai_incident_FIRST_french_reconcilliation</key>
+<localised_description>Whilst attending the execution of those responsible for the Sakai affair, the French authorities - seemingly apalled at our method of capital punishment - have requested that we spare the remaining prisoners, returning a portion of the damages previously paid to them.</localised_description>
+<localised_title>The Sakai Incident</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_diplomacy_positive_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_sakai_incident_FIRST_grant_french_marines</key>
+<localised_description>In gratitude for our handling of the Sakai incident, the French have granted us command of a unit of marines to aid the war effort.</localised_description>
+<localised_title>The Sakai Incident</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_army_positive_active.tga</ui_icon>
+<ui_image>bos_army.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_sakai_incident_SECOND_foreign_setback</key>
+<localised_description>Dissatisfied with our handling of the Sakai incident, western authorities will be enforcing harsher trade conditions over the coming months.</localised_description>
+<localised_title>The Sakai Incident</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_trade_negative_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_sakai_incident_SECOND_inspired_endeavours</key>
+<localised_description>Hearing of our unwillingness to submit to western demands, the people have been inspired in their daily lives.</localised_description>
+<localised_title>The Sakai Incident</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_modernisation_positive_active.tga</ui_icon>
+<ui_image>bos_modernisation.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_sensosai_FIRST_inspired_endeavours</key>
+<localised_description>Following a prodigious Sensosai, our people have been inspired in their daily duties.</localised_description>
+<localised_title>Sensosai</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_modernisation_positive_active.tga</ui_icon>
+<ui_image>bos_modernisation.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_shogun_province_security_FIRST_grant_shinsengumi</key>
+<localised_description>As a show of support, the shinsengumi - the feared lawmen - have provided us with a unit of their finest warriors to aid security and defence.</localised_description>
+<localised_title>Security Matters</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_shinsengumi_positive_active.tga</ui_icon>
+<ui_image>bos_shogun.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_shogun_province_security_FIRST_grateful_populace</key>
+<localised_description>The people in this province are grateful for the steps that we have taken to improve local public safety.</localised_description>
+<localised_title>Security Matters</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_modernisation_positive_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_shogun_province_security_FIRST_iron_fist</key>
+<localised_description>Improved policing in this province has helped us maintain order better than we could have hoped. Unfortunately, the resulting oppression has affected the people and impeded local production.</localised_description>
+<localised_title>Security Matters</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_conflict_positive_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_shogun_province_security_SECOND_imperial_propaganda</key>
+<localised_description>It may have been wiser to invest in better policing of this province, my lord; Imperialist propaganda is spreading amongst the populace at an alarming rate.</localised_description>
+<localised_title>Security Matters</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_allegiance_imperial_negative_active.tga</ui_icon>
+<ui_image>bos_emperor.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_shogun_province_security_SECOND_rebellion</key>
+<localised_description>Terrible news, my lord! Dissidents in this province have mounted a revolt against your rule, no doubt spurred on by seditious Imperialists.</localised_description>
+<localised_title>Security Matters</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_rebellion_negative_active.tga</ui_icon>
+<ui_image>bos_army_battle.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_shogun_shinsengumi_FIRST_grant_shinsengumi</key>
+<localised_description>In gratitude for our support of their recruitment efforts, the shinsengumi have sent us a unit of their finest warriors to help fight the Imperialist threat.</localised_description>
+<localised_title>The Newly-selected Corps</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_shinsengumi_positive_active.tga</ui_icon>
+<ui_image>bos_shogun.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_student_exchange_FIRST_foreign_boost</key>
+<localised_description>Through contacts made whilst studying abroad, our itinerant scholars have managed to improve foreign trade relations.</localised_description>
+<localised_title>Student Exchange</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_trade_positive_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_student_exchange_FIRST_grant_french_marines</key>
+<localised_description>Having made a grand impression upon their French hosts, the men we sent abroad to study have solicited foreign military support. As such, we have been granted a unit of French marines.</localised_description>
+<localised_title>Student Exchange</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_army_positive_active.tga</ui_icon>
+<ui_image>bos_army.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_student_exchange_FIRST_grant_royal_marines</key>
+<localised_description>Having made a grand impression upon their British hosts, the men we sent abroad to study have solicited foreign military support. As such, we have been granted a unit of Royal Marines.</localised_description>
+<localised_title>Student Exchange</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_army_positive_active.tga</ui_icon>
+<ui_image>bos_army.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_student_exchange_FIRST_grant_us_marines</key>
+<localised_description>Having made a grand impression upon their American hosts, the men we sent abroad to study have solicited foreign military support. As such, we have been granted a unit of United States Marines.</localised_description>
+<localised_title>Student Exchange</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_army_positive_active.tga</ui_icon>
+<ui_image>bos_army.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_sword_abolishment_FIRST_brigandry</key>
+<localised_description>Disturbing news, my lord. As a result of our abolishment of the right to bear arms, the people are increasingly preyed upon by brigands without means of self defence.</localised_description>
+<localised_title>Haitorei</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_rebellion_negative_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_sword_abolishment_FIRST_call_to_arms</key>
+<localised_description>Our abolishment of swords has had an unexpected side effect - many now clamour to join our ranks so they may continue to bear arms.</localised_description>
+<localised_title>Haitorei</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_army_positive_active.tga</ui_icon>
+<ui_image>bos_army.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_sword_abolishment_FIRST_foreign_boost</key>
+<localised_description>Foreign powers are grateful at the measures we have taken to curb anti-western violence, and foreign trade is now flourishing.</localised_description>
+<localised_title>Haitorei</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_trade_positive_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_sword_abolishment_FIRST_grateful_populace</key>
+<localised_description>The people are exceedingly grateful at measures taken to curb domestic violence, especially those living in fear of the samurai class.</localised_description>
+<localised_title>Haitorei</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_modernisation_positive_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_sword_abolishment_FIRST_samurai_discontent</key>
+<localised_description>Members of the samurai class are incensed that we should eschew tradition and forbid the bearing of arms.</localised_description>
+<localised_title>Haitorei</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_rebellion_negative_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_sword_abolishment_SECOND_disaffected_populace</key>
+<localised_description>The people are distraught that the indiscriminate violence that has gripped our domain continues to rage.</localised_description>
+<localised_title>Haitorei</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_modernisation_negative_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_sword_abolishment_SECOND_foreign_setback</key>
+<localised_description>Foreign trade is faltering following our failure to prevent aggressive acts towards westerners in our ports.</localised_description>
+<localised_title>Haitorei</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_trade_negative_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_sword_abolishment_SECOND_samurai_satisfaction</key>
+<localised_description>Members of the samurai class are most satisfied that we chose to continue allowing the bearing of arms, as dictated by tradition.</localised_description>
+<localised_title>Haitorei</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_diplomacy_positive_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_western_exploitation_FIRST_foreign_boost</key>
+<localised_description>While not all consent, a significant number of the western powers have heard our plight and agreed to better trade terms over the coming year.</localised_description>
+<localised_title>Unequal Treaties</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_trade_positive_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_western_exploitation_FIRST_foreign_setback</key>
+<localised_description>Whilst some have sympathised, the majority of western powers resent our challenging of the treaties and have enforced harsher trade terms for the coming year.</localised_description>
+<localised_title>Unequal Treaties</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_trade_negative_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_westerners_attacked_FIRST_anti_western_riots</key>
+<localised_description>Angered at concessions made in favour of westerners following the recent violent incident, anti-western elements in this province have taken to the streets in protest.</localised_description>
+<localised_title>Anti-western Aggression</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_rebellion_negative_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_westerners_attacked_FIRST_disaffected_populace</key>
+<localised_description>The people are disheartened that we should allow westerners to dispense justice against our own people on our own soil.</localised_description>
+<localised_title>Anti-western Aggression</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_modernisation_negative_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_westerners_attacked_FIRST_foreign_boost</key>
+<localised_description>Satisfied with our handling of anti-western aggression, relations with foreign powers have improved.</localised_description>
+<localised_title>Anti-western Aggression</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_trade_positive_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_westerners_attacked_SECOND_foreign_setback</key>
+<localised_description>Due to western dissatisfaction with our response to the recent violent incident, relations with foreign powers have deteriorated.</localised_description>
+<localised_title>Anti-western Aggression</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_trade_negative_active.tga</ui_icon>
+<ui_image>bos_westerner.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_bos_westerners_attacked_SECOND_grateful_populace</key>
+<localised_description>Our people are grateful for the decision to reprimand our own rather than leave them at the mercy of western barbarian justice.</localised_description>
+<localised_title>Anti-western Aggression</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_modernisation_positive_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_conflict_beliefs_buddhist_FIRST_old_ways</key>
+<localised_description>Traditionalists within the clan are pleased with the way in which you have dealt with the recent Christian disturbances in this province.</localised_description>
+<localised_title>Conflict of Beliefs</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Culture.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_conflict_beliefs_buddhist_FIRST_rebellion</key>
+<localised_description>The recent execution of a Christian agitator in this province has provoked the local Christian populace into taking arms against the clan!</localised_description>
+<localised_title>Conflict of Beliefs</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>dilemma_revolt.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_conflict_beliefs_buddhist_SECOND_nanban_ambassador</key>
+<localised_description>Gratified by our compassion for and understanding of the needs of Christians in this province, the nanban have taken measures to facilitate relations between us.</localised_description>
+<localised_title>Conflict of Beliefs</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Nanban.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_conflict_beliefs_christian_FIRST_nanban_ambassador</key>
+<localised_description>Appreciative of our continued protection of the Church's best interests in Japan, the nanban have taken measures to facilitate relations between our people.</localised_description>
+<localised_title>Conflict of Beliefs</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Nanban.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_conflict_beliefs_christian_FIRST_rebellion</key>
+<localised_description>The recent execution of a Buddhist agitator in this province has provoked the local populace into taking arms against the clan!</localised_description>
+<localised_title>Conflict of Beliefs</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>dilemma_revolt.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_conflict_beliefs_christian_SECOND_old_ways</key>
+<localised_description>Traditionalists across our domain are grateful that we still recognise the needs of those who seek enlightenment and revere the kami.</localised_description>
+<localised_title>Conflict of Beliefs</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Culture.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_desecration_FIRST_nanban_ire</key>
+<localised_description>The Church is incensed at our recent handling of disturbances involving their missionaries in this province.</localised_description>
+<localised_title>Desecration</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Nanban.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_desecration_FIRST_old_ways</key>
+<localised_description>Traditionalists within the clan are grateful that we still recognise the needs of those who seek enlightenment and revere the kami.</localised_description>
+<localised_title>Desecration</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Culture.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_desecration_SECOND_anti_nanban_riots</key>
+<localised_description>Angered at the concessions made in favour of nanban missionaries in this province, the people have downed tools and taken to rioting in protest.</localised_description>
+<localised_title>Desecration</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>dilemma_revolt.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_desecration_SECOND_rebellion</key>
+<localised_description>Angered that we have cast tradition to the wind and allowed the nanban to do as they please, the Buddhist populace in this province have taken arms against the clan!</localised_description>
+<localised_title>Desecration</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>dilemma_revolt.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_disgruntled_vassal_SECOND_rebellion</key>
+<localised_description>Having sworn revenge for the unjust execution of his father, a son of our erstwhile vassal has gathered a fighting force and is moving to seize this province from us!</localised_description>
+<localised_title>The Disgruntled Vassal</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>dilemma_revolt.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_disloyalty_FIRST_dread_lord</key>
+<localised_description>Fearful of our methods for dealing with treachery in our midst, our subjects will think twice before betraying the clan.</localised_description>
+<localised_title>Rumours of Treason</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Military_Crackdown.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_disloyalty_FIRST_rebellion</key>
+<localised_description>Having sworn revenge for the death of his father, a son of this former traitor has mustered an army and is marching on one of our strongholds!</localised_description>
+<localised_title>Rumours of Treason</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>dilemma_revolt.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_disloyalty_SECOND_peer_contempt</key>
+<localised_description>Rival daimyo across Japan think us foolish for allowing would-be traitors to serve the clan.</localised_description>
+<localised_title>Rumours of Treason</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Clan.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_francis_xavier_FIRST_nanban_ire</key>
+<localised_description>Incensed because we turned away their anointed envoy, the nanban and their Church are now hesitant in their dealings with us.</localised_description>
+<localised_title>Francis Xavier</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Nanban.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_francis_xavier_SECOND_anti_nanban_riots</key>
+<localised_description>Riots have broken out across our domain as the people protest the encouragement of nanban beliefs.</localised_description>
+<localised_title>Francis Xavier</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>dilemma_revolt.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_francis_xavier_SECOND_nanban_ambassador</key>
+<localised_description>Honoured by our willingness to accept Christianity, the nanban have sent us a representative to facilitate relations between us.</localised_description>
+<localised_title>Francis Xavier</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Nanban.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gaijin_trouble_FIRST_anti_nanban_riots</key>
+<localised_description>Riots have broken out in this province as people protest the presence of the nanban there.</localised_description>
+<localised_title>Gaijin Trouble</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>dilemma_revolt.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gaijin_trouble_FIRST_nanban_ambassador</key>
+<localised_description>An envoy from Europe has arrived to facilitate dealings between us in return for our acceptance of their people and ways.</localised_description>
+<localised_title>Gaijin Trouble</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Nanban.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gaijin_trouble_SECOND_inspired_endeavours</key>
+<localised_description>Grateful to us for dealing with the recent nanban disturbances, the people in this province are carrying out their daily labours with added conviction.</localised_description>
+<localised_title>Gaijin Trouble</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Culture.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_eiga_monogatari_FIRST_fujiwara_influence</key>
+<localised_description>Owing to our circulation of the Eiga Monogatari, knowledge of the Fujiwara is spreading throughout our lands.</localised_description>
+<localised_title>The Eiga Monogatari</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Disaffected.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_eiga_monogatari_FIRST_spawn_shirabyoshi</key>
+<localised_description>Having heard of our recent endeavours in support of literary art and culture, an up-and-coming shirabyoshi has made herself available for our greater good.</localised_description>
+<localised_title>The Eiga Monogatari</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Culture.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_eiga_monogatari_fujiwara_FIRST_fujiwara_influence</key>
+<localised_description>Owing to the Eiga Monogatari, appreciation for our past achievements amongst our people is soaring.</localised_description>
+<localised_title>The Eiga Monogatari</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>GEM_Convert_Province.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_eiga_monogatari_fujiwara_FIRST_spawn_shirabyoshi</key>
+<localised_description>Having heard of your work in support of literary art and culture, an up-and-coming shirabyoshi has made herself available for our greater good.</localised_description>
+<localised_title>The Eiga Monogatari</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Culture.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_enryakuji_FIRST_money</key>
+<localised_description>The Enryakuji monks sympathise with our cause and have gifted us funds for our war effort.</localised_description>
+<localised_title>Enryakuji</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>GEM_Great_Temple.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_enryakuji_FIRST_monks</key>
+<localised_description>The Enryakuji monks sympathise with our cause and have provided us with warrior monks to aid us in battle.</localised_description>
+<localised_title>Enryakuji</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>GEM_Great_Temple.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_enryakuji_FIRST_refuse</key>
+<localised_description>Regrettably, the Enryakuji monks have declined our request for aid.</localised_description>
+<localised_title>Enryakuji</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>GEM_Great_Temple.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_enryakuji_SECOND_rebellion</key>
+<localised_description>Enraged at our sacking of their temple, the Enryakuji have instigated a rebellion against us!</localised_description>
+<localised_title>Enryakuji</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>GEM_Great_Temple.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_enryakuji_SECOND_rival_monks</key>
+<localised_description>Joyed at our sacking of their rival's temple - Enryakuji - the Miidera monks have provided us with warrior monks to aid us in battle.</localised_description>
+<localised_title>Enryakuji</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>GEM_Great_Temple.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_family_dues_FIRST_spawn_dancer</key>
+<localised_description>Grateful for your contribution towards the feast, your noble subject has gifted us his most accomplished shirabyoshi.</localised_description>
+<localised_title>Family Dues</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Culture.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_heiji_monogatari_minamoto_FIRST_minamoto_influence</key>
+<localised_description>Wonderful news! The chronicle of the Heiji Rebellion has circulated amongst the provincial nobles. Many who doubted the Minamoto cause now support us with zeal!</localised_description>
+<localised_title>The Heiji Monogatari</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>GEM_Convert_Province.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_heiji_monogatari_minamoto_FIRST_nothing</key>
+<localised_description>The chronicle of the Heiji Rebellion has circulated amongst the provincial nobles, my lord. By all accounts, the work is unworthy of the tale; perhaps one day it will be done justice by better men?</localised_description>
+<localised_title>The Heiji Monogatari</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Disaffected.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_heiji_monogatari_minamoto_FIRST_taira_influence</key>
+<localised_description>Troubling news, my lord! The chronicle of the Heiji Rebellion has circulated amongst the provincial nobles. This has unexpectedly engendered sympathy for the treacherous Taira!</localised_description>
+<localised_title>The Heiji Monogatari</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Disaffected.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_heiji_monogatari_taira_FIRST_minamoto_influence</key>
+<localised_description>Troubling news, my lord! The chronicle of the Heiji Rebellion has circulated amongst the provincial nobles. This has unexpectedly engendered sympathy for the treacherous Minamoto!</localised_description>
+<localised_title>The Heiji Monogatari</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Disaffected.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_heiji_monogatari_taira_FIRST_nothing</key>
+<localised_description>The chronicle of the Heiji Rebellion has circulated amongst the provincial nobles, my lord. By all accounts, the work is unworthy of the tale; perhaps one day it will be done justice by better men?</localised_description>
+<localised_title>The Heiji Monogatari</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Disaffected.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_heiji_monogatari_taira_FIRST_taira_influence</key>
+<localised_description>Wonderful news! The chronicle of the Heiji Rebellion has circulated amongst the provincial nobles. Many who doubted the Taira cause now support us with zeal!</localised_description>
+<localised_title>The Heiji Monogatari</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>GEM_Convert_Province.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_justice_FIRST_peer_contempt</key>
+<localised_description>The heads of rival clans are angry that we chose to exploit a criminal rather than dispense justice.</localised_description>
+<localised_title>Justice</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Clan.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_kofukuji_FIRST_money</key>
+<localised_description>The Kofukuji monks sympathise with our cause and have gifted us funds for our war effort.</localised_description>
+<localised_title>Kofukuji</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>GEM_Great_Temple.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_kofukuji_FIRST_monks</key>
+<localised_description>The Kofukuji monks sympathise with our cause and have provided us with warrior monks to aid us in battle.</localised_description>
+<localised_title>Kofukuji</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>GEM_Great_Temple.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_kofukuji_FIRST_refuse</key>
+<localised_description>Regrettably, the Kofukuji monks have declined our request for aid.</localised_description>
+<localised_title>Kofukuji</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>GEM_Great_Temple.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_kofukuji_SECOND_rebellion</key>
+<localised_description>Enraged at our sacking of their temple, the Kofukuji have instigated a rebellion against us!</localised_description>
+<localised_title>Kofukuji</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>GEM_Great_Temple.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_migrant_workers_FIRST_agrarian_toil</key>
+<localised_description>With more labour to tend to the land, we better exploit our agricultural potential.</localised_description>
+<localised_title>Migrant Workforce</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Agriculture.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_migrant_workers_FIRST_lackluster_efforts</key>
+<localised_description>The sudden influx of labourers from without our domain has filled the people with resentment.</localised_description>
+<localised_title>Migrant Workforce</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Disaffected.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_migrant_workers_FIRST_peer_contempt</key>
+<localised_description>Convinced that we have been poaching their labour force, our rivals have lost further respect for us.</localised_description>
+<localised_title>Migrant Workforce</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Clan.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_migrant_workers_FIRST_unwanted_fujiwara</key>
+<localised_description>An influx of workers aligned with our rivals are spreading their malign influence throughout your domain.</localised_description>
+<localised_title>Migrant Workforce</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Disaffected.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_migrant_workers_FIRST_unwanted_minamoto</key>
+<localised_description>An influx of workers aligned with our rivals are spreading their malign influence throughout your domain.</localised_description>
+<localised_title>Migrant Workforce</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Disaffected.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_migrant_workers_FIRST_unwanted_taira</key>
+<localised_description>An influx of workers aligned with our rivals are spreading their malign influence throughout your domain.</localised_description>
+<localised_title>Migrant Workforce</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Disaffected.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_migrant_workers_SECOND_brigandry</key>
+<localised_description>Despite refusing migrant workers the right to settle, many remain within our borders regardless. Some have resorted to pilfery and violence for survival.</localised_description>
+<localised_title>Migrant Workforce</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Ronin.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_migrant_workers_SECOND_inspired_endeavours</key>
+<localised_description>Our people are grateful that you favour their wellbeing over that of refugees.</localised_description>
+<localised_title>Migrant Workforce</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Construction.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_miidera_FIRST_money</key>
+<localised_description>The Miidera monks sympathise with our cause and have gifted us funds for our war effort.</localised_description>
+<localised_title>Miidera</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>GEM_Great_Temple.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_miidera_FIRST_monks</key>
+<localised_description>The Miidera monks sympathise with our cause and have provided us with warrior monks to aid us in battle.</localised_description>
+<localised_title>Miidera</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>GEM_Great_Temple.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_miidera_FIRST_refuse</key>
+<localised_description>Regrettably, the Miidera monks have declined our request for aid.</localised_description>
+<localised_title>Miidera</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>GEM_Great_Temple.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_miidera_SECOND_rebellion</key>
+<localised_description>Enraged at our sacking of their temple, the Miidera have instigated a rebellion against us!</localised_description>
+<localised_title>Miidera</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>GEM_Great_Temple.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_miidera_SECOND_rival_monks</key>
+<localised_description>Joyed at our sacking of their rival's temple - Miidera - the Enryakuji monks have provided us with warrior monks to aid us in battle.</localised_description>
+<localised_title>Miidera</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>GEM_Great_Temple.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_todaiji_FIRST_money</key>
+<localised_description>The Todaiji monks sympathise with our cause and have gifted us funds for our war effort.</localised_description>
+<localised_title>Todaiji</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>GEM_Great_Temple.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_todaiji_FIRST_monks</key>
+<localised_description>The Todaiji monks sympathise with our cause and have provided us with warrior monks to aid us in battle.</localised_description>
+<localised_title>Todaiji</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>GEM_Great_Temple.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_todaiji_FIRST_refuse</key>
+<localised_description>Regrettably, the Todaiji monks have declined our request for aid.</localised_description>
+<localised_title>Todaiji</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>GEM_Great_Temple.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_todaiji_SECOND_rebellion</key>
+<localised_description>Enraged at our sacking of their temple, the Todaiji have instigated a rebellion against us!</localised_description>
+<localised_title>Todaiji</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>GEM_Great_Temple.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_warrior_tax_FIRST_peer_contempt</key>
+<localised_description>A number of rival families are angry that we have chosen to refuse the court their tax dues to win favour with local warbands.</localised_description>
+<localised_title>The Warrior's Plight</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Clan.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_warrior_tax_FIRST_spawn_unit</key>
+<localised_description>Grateful for the manner in which you handled their court tax problems, the bushidan in this province have provided additional warriors for our cause.</localised_description>
+<localised_title>The Warrior's Plight</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Samurai.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_warrior_tax_SECOND_peer_contempt</key>
+<localised_description>A number of rival families are angry that we have chosen to refuse the court their tax dues to line our own pockets.</localised_description>
+<localised_title>The Warrior's Plight</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Clan.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_warrior_tax_SECOND_rebellion</key>
+<localised_description>The bushidan of this province, infuriated that we should exploit them to line our own pockets, have risen against us!</localised_description>
+<localised_title>The Warrior's Plight</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>dilemma_revolt.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_young_thief_FIRST_brigandry_global</key>
+<localised_description>Word has spread of your leniency towards the young thief some time ago; we are now receiving an alarming number of reports regarding 'noble' banditry as people of lesser means prey upon their betters.</localised_description>
+<localised_title>The Young Thief</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>dilemma_revolt.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_young_thief_FIRST_spawn_spy</key>
+<localised_description>My lord, remember the young man whom we caught stealing from the stores some time ago? Grateful for his release, he has now put himself at the family's disposal.</localised_description>
+<localised_title>The Young Thief</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Commoner_Daimyo.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_gem_young_thief_SECOND_iron_fist</key>
+<localised_description>Rumours of our response to the burglary at the quartermaster's stores have spread, my lord. Fear of your retribution will ensure the compliance of the people, for the time being at least.</localised_description>
+<localised_title>The Young Thief</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Military_Crackdown.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_heralding_spring_FIRST_grateful_populace</key>
+<localised_description>Our clanspeople are immensely satisfied at the recent festivities organised on their behalf.</localised_description>
+<localised_title>Heralding the Spring</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Culture.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_heralding_spring_SECOND_disaffected_populace</key>
+<localised_description>Our dismissal of the efforts made by our people in service of the clan has led to widespread dissension.</localised_description>
+<localised_title>Heralding the Spring</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Disaffected.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_imperial_new_year_SECOND_peer_contempt</key>
+<localised_description>Rival daimyo across Japan are angered by our disregard for the emperor's demands.</localised_description>
+<localised_title>The Imperial New Year</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Clan.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_intoxication_FIRST_provincial_discord</key>
+<localised_description>The people feel dejected by our perceived lack of understanding of their needs during these trying times.</localised_description>
+<localised_title>In Their Cups</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Disaffected.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_intoxication_SECOND_lackluster_efforts</key>
+<localised_description>Productivity has dropped drastically in this province as the peasants have failed to commit to their daily duties.</localised_description>
+<localised_title>In Their Cups</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Disaffected.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_jizamurai_FIRST_vigilance</key>
+<localised_description>Owing to the number of jizamurai living here, our domain is more secure than ever before.</localised_description>
+<localised_title>Jizamurai</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Lookout.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_jizamurai_SECOND_war_fervour</key>
+<localised_description>The recent strengthening of our ranks has instilled in our troops confidence and a yearning for glorious battle!</localised_description>
+<localised_title>Jizamurai</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Samurai.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_land_dispute_FIRST_rebellion</key>
+<localised_description>Deriding our just decision to return lands seized from his neighbour, this traitor to the clan has raised an army to take it back!</localised_description>
+<localised_title>Land Dispute</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>dilemma_revolt.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_land_dispute_SECOND_rebellion</key>
+<localised_description>After you granted his lands to his rival, this former retainer has mustered a warband to take this province for himself!</localised_description>
+<localised_title>Land Dispute</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>dilemma_revolt.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_martial_priorities_FIRST_call_to_arms</key>
+<localised_description>Many clansmen are rushing to join our army in the hope that they might serve the clan in battle against our enemies.</localised_description>
+<localised_title>Military Priorities</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Ashigaru.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_martial_priorities_SECOND_vigilance</key>
+<localised_description>Conscious of the need for defence, people throughout our domain are keeping a watchful eye on all comings and goings.</localised_description>
+<localised_title>Military Priorities</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Lookout.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_merchant_accession_FIRST_disaffected_populace</key>
+<localised_description>The hard-working masses are embittered at the freedoms we have granted to the merchant class.</localised_description>
+<localised_title>Merchant Accession</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Disaffected.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_merchant_accession_SECOND_merchant_discontent</key>
+<localised_description>The merchant class are outraged by the restraints we have placed upon their activities.</localised_description>
+<localised_title>Merchant Accession</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Disaffected.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_meritorious_action_SECOND_loyalty</key>
+<localised_description>Feeling that his services to the clan have gone unrecognised, this man's loyalty has waned.</localised_description>
+<localised_title>Meritorious Action</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Samurai_Daimyo.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_meritorious_action_SECOND_peer_contempt</key>
+<localised_description>Due to our reluctance to reward success and honourable conduct, rival daimyo have lost respect for our clan.</localised_description>
+<localised_title>Meritorious Action</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Clan.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_monopoly_FIRST_disaffected_populace</key>
+<localised_description>The hard-working masses are embittered at the freedoms we have granted to the merchant class.</localised_description>
+<localised_title>Monopoly</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Disaffected.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_monopoly_SECOND_merchant_discontent</key>
+<localised_description>The merchant class are outraged by the restraints we have placed upon their activities.</localised_description>
+<localised_title>Monopoly</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Disaffected.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_omen_fire_fire</key>
+<localised_description>My lord! We have incurred the wrath of Kagutsuchi! Wild fires have swept through one of our towns!</localised_description>
+<localised_title>Kagutsuchi's Wrath</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Disaster_Fire.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_omen_fire_volcano</key>
+<localised_description>My lord! We have incurred the wrath of Kagutsuchi! Fiery retribution has erupted from the earth itself!</localised_description>
+<localised_title>Kagutsuchi's Wrath</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_disaster_active.tga</ui_icon>
+<ui_image>Disaster_Volcano.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_omen_mountain_earthquake</key>
+<localised_description>My lord! We have incurred the wrath of Oyamatsumi! So great is his anger that the very earth itself has shuddered with fear!</localised_description>
+<localised_title>Oyamatsumi's Wrath</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_disaster_active.tga</ui_icon>
+<ui_image>Disaster_Earthquake.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_omen_mountain_volcano</key>
+<localised_description>My lord! We have incurred the wrath of Oyamatsumi! He has sent forth his fiery retribution from the mountains!</localised_description>
+<localised_title>Oyamatsumi's Wrath</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_disaster_active.tga</ui_icon>
+<ui_image>Disaster_Volcano.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_omen_ocean_stormy_seas</key>
+<localised_description>My lord! We have incurred the wrath of Owatatsumi! Some of our ships were put at the mercy of the sea-god!</localised_description>
+<localised_title>Owatatsumi's Wrath</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_disaster_active.tga</ui_icon>
+<ui_image>Naval_Fleet_Destroyed.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_omen_ocean_tsunami</key>
+<localised_description>My lord! We have incurred the wrath of Owatatsumi! Great waves are buffeting our coasts!</localised_description>
+<localised_title>Owatatsumi's Wrath</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_disaster_active.tga</ui_icon>
+<ui_image>Disasters_Tsunami.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_omen_wind_stormy_seas</key>
+<localised_description>My lord! We have incurred the wrath of Fujin! Tumultuous winds at sea have put some of our ships at peril!</localised_description>
+<localised_title>Fujin's Wrath</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_disaster_active.tga</ui_icon>
+<ui_image>Naval_Fleet_Destroyed.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_omen_wind_typhoon</key>
+<localised_description>My lord! We have incurred the wrath of Fujin! Our lands have been beset by terrible storms!</localised_description>
+<localised_title>Fujin's Wrath</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_disaster_active.tga</ui_icon>
+<ui_image>Disasters_Taifun.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_ronin_SECOND_ronin_marauders</key>
+<localised_description>As we have failed to enlist the ronin encountered in this province, these masterless warriors are now terrorising the local populace.</localised_description>
+<localised_title>Ronin</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Ronin.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_tribute_emperor_SECOND_peer_contempt</key>
+<localised_description>Rival daimyo across Japan are angered by our disregard for the emperor's demands.</localised_description>
+<localised_title>Tribute to the Emperor</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Clan.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_tribute_shogun_FIRST_shogunal_deputy</key>
+<localised_description>The Shogun, pleased by our offer of tribute, has sent a representative to aid our clan in matters of state.</localised_description>
+<localised_title>Tribute to the Shogun</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Shogun.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_tribute_shogun_SECOND_peer_contempt</key>
+<localised_description>Rival daimyo across Japan are angered by our disregard for the Shogun's demands.</localised_description>
+<localised_title>Tribute to the Shogun</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Clan.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_urban_migration_FIRST_meagre_harvest</key>
+<localised_description>Owing to the favouring of commercial matters over agriculture, yield from our farms has declined.</localised_description>
+<localised_title>Urban Migration</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Harvest_Poor.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_urban_migration_SECOND_merchant_discontent</key>
+<localised_description>Merchants across our domain are infuriated at the decision to favour agriculture over economic matters.</localised_description>
+<localised_title>Urban Migration</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Disaffected.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_wako_threat_FIRST_able_sailors</key>
+<localised_description>Our efforts to tackle the mounting threat from wako pirates have led to an increase ship crew skill.</localised_description>
+<localised_title>The Wako Threat</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Ship.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_wako_threat_FIRST_lucrative_shipping</key>
+<localised_description>Having worked to keep the shipping lanes free of piracy, we are now benefitting from a significant boost in sea trade.</localised_description>
+<localised_title>The Wako Threat</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Ship.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>c_wako_threat_SECOND_rampant_piracy</key>
+<localised_description>Our neglect for the wako problem has led to an increase in piracy in our waters.</localised_description>
+<localised_title>The Wako Threat</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Naval_Battle.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_agricultural_practices</key>
+<localised_description>Having ensured that the majority of our provinces are agriculturally developed, we are now enjoying a time of plenty.</localised_description>
+<localised_title>Time of Plenty</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_food_active.tga</ui_icon>
+<ui_image>Dilemma_Agriculture.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_ashigaru_master</key>
+<localised_description>Our dedication to the use of ashigaru in battle is unmatched, my lord. Training and maintaining such a formidable force has led to a refinement of their training regime.</localised_description>
+<localised_title>Ashigaru Master</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_army_active.tga</ui_icon>
+<ui_image>Dilemma_Ashigaru.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_bos_earthquake</key>
+<localised_description>A tumultuous earthquake has struck this province! Construction efforts and production have been frustrated as the populace cope with the devastation.</localised_description>
+<localised_title>Earthquake!</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_bombard_negative_active.tga</ui_icon>
+<ui_image>bos_blocked.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_bos_eejanaika</key>
+<localised_description>Despite the uncertainty of the times, the people have found solace in our country's great religious and cultural diversity. Festivities abound and - for the moment, at least - the people are content.</localised_description>
+<localised_title>Eejanaika</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_generic_positive_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_bos_equipment_cache</key>
+<localised_description>Whilst moving through enemy territory our forces uncovered a cache of military supplies. It has been transported back to our domain.</localised_description>
+<localised_title>Military Cache</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_conflict_positive_active.tga</ui_icon>
+<ui_image>bos_army_victory.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_bos_great_fire</key>
+<localised_description>My lord! A great fire erupted in the capital of this province! We suspect the hand of enemy insurgents in this matter, but we cannot be sure.</localised_description>
+<localised_title>Great Fire</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_bombard_negative_active.tga</ui_icon>
+<ui_image>bos_blocked.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_bos_koyosha</key>
+<localised_description>Rumours abound about the rise of the Koyosha - a secret society dedicated to isolationism and the feudal samurai way. This is likely no cause for great concern; you will be informed should the situation change.</localised_description>
+<localised_title>Koyosha</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_character_negative_active.tga</ui_icon>
+<ui_image>bos_generic.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>i_bos_mp_emperor_realm_divide</key>
+<localised_description>Conflict has escalated, and we have grown strong. Now, the Emperor will lead his people to greatness; in his name, we will crush all who oppose us! Long live the Emperor!</localised_description>
+<localised_title>Realm Divide</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_allegiance_imperial_positive_active.tga</ui_icon>
+<ui_image>bos_emperor.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>i_bos_mp_shogun_realm_divide</key>
+<localised_description>Conflict has escalated, and our domain has grown strong. Now, the Shogun will lead his people to greatness; in his name, we will crush all those who oppose us! For the Shogun!</localised_description>
+<localised_title>Realm Divide</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_allegiance_shogun_positive_active.tga</ui_icon>
+<ui_image>bos_shogun.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_bos_safeguard</key>
+<localised_description>The people of this province are grateful for the protection offered by our substantial garrison.</localised_description>
+<localised_title>Safeguard</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_modernisation_positive_active.tga</ui_icon>
+<ui_image>bos_army.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_bos_season_autumn</key>
+<localised_description>A season for change.\nLeaves playfully mock the wind.\nAutumn has come.</localised_description>
+<localised_title>Autumn</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>bos_message_seasons_active.tga</ui_icon>
+<ui_image>bos_season_autumn.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_bos_season_spring</key>
+<localised_description>Shivering beauty\nraises my spirit higher. \nThe herald of spring.</localised_description>
+<localised_title>Spring</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>bos_message_seasons_active.tga</ui_icon>
+<ui_image>bos_season_spring.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>i_bos_season_spring_first</key>
+<localised_description>Shivering beauty\nraises my spirit higher. \nThe herald of spring.</localised_description>
+<localised_title>Spring</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>bos_message_seasons_active.tga</ui_icon>
+<ui_image>bos_season_spring.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_bos_season_summer</key>
+<localised_description>Heralding summer.\nThe orange blossom in bloom.\nBright and beautiful.</localised_description>
+<localised_title>Summer</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>bos_message_seasons_active.tga</ui_icon>
+<ui_image>bos_season_summer.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_bos_season_winter</key>
+<localised_description>When will spring arrive?\nIn the grip of cold white death,\nThe earth is smothered.</localised_description>
+<localised_title>Winter</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>bos_message_seasons_active.tga</ui_icon>
+<ui_image>bos_season_winter.TGA</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_christian_nanban_quarter</key>
+<localised_description>Now that we have embraced their faith, the nanban are eager to cultivate the cultural and material exchange between our people. By developing our nanban trade port into a dedicated foreign quarter, we will precipitate the spread of Christianity in our domain, increase our trade income and gain access to nanban artillery that we may use to further our military ambitions.</localised_description>
+<localised_title>Nanban Quarter</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_trade_active.tga</ui_icon>
+<ui_image>Europeans_Arrive.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_clan_might</key>
+<localised_description>The clan grows strong, my lord, and support for our cause is at an all-time high. Many citizens have joined the ranks in the hope that they might help you achieve greatness!</localised_description>
+<localised_title>Clan Might</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_army_active.tga</ui_icon>
+<ui_image>Dilemma_Ashigaru.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_dedicated_builder</key>
+<localised_description>Our development of castles and infrastructure has helped our builders increase their expertise.</localised_description>
+<localised_title>Dedicated Builder</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_construction_active.tga</ui_icon>
+<ui_image>Dilemma_Construction.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_dedicated_seafarer_able_sailors</key>
+<localised_description>The development of our naval capabilities has led to many expert seamen rushing to serve aboard our ships.</localised_description>
+<localised_title>Dedicated Seafarer</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_navy_active.tga</ui_icon>
+<ui_image>Dilemma_Ship.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_dedicated_seafarer_master_shipwrights</key>
+<localised_description>The development of our naval capabilities has led to many masterful shipwrights seeking position within the clan.</localised_description>
+<localised_title>Dedicated Seafarer</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_navy_active.tga</ui_icon>
+<ui_image>Dilemma_Port.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_dedicated_trader</key>
+<localised_description>Our eagerness to conduct trade with other clans has helped our own to prosper.</localised_description>
+<localised_title>Dedicated to Trade</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_trade_active.tga</ui_icon>
+<ui_image>Dilemma_Merchants.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>i_defection</key>
+<localised_description>Disloyalty has driven this general and his army to abandon the clan! We must be mindful of loyalty at all times to ensure that this never happens again.</localised_description>
+<localised_title>Defection!</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_army_active.tga</ui_icon>
+<ui_image>Dilemma_Ronin.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_dis_disease</key>
+<localised_description>Sickness has spread amongst the people in this province, disrupting local production and development.</localised_description>
+<localised_title>Disease!</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_disaster_active.tga</ui_icon>
+<ui_image>Disaster_Disease.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_dis_drought</key>
+<localised_description>A lack of rainfall across this province has seriously affected farming, resulting in a shortage of food and other agricultural produce.</localised_description>
+<localised_title>Drought!</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_disaster_active.tga</ui_icon>
+<ui_image>Harvest_Poor.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_dis_earthquake</key>
+<localised_description>A tumultuous earthquake has struck this province! Construction efforts and production have been frustrated as the populace cope with the devastation.</localised_description>
+<localised_title>Earthquake!</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_disaster_active.tga</ui_icon>
+<ui_image>Disaster_Earthquake.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_dis_fire</key>
+<localised_description>Raging fires have spread destruction throughout this province's castle town, affecting local production and ruining the livelihoods of many of the people.</localised_description>
+<localised_title>Fire!</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_disaster_active.tga</ui_icon>
+<ui_image>Disaster_Fire.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_dis_flood</key>
+<localised_description>Flooding has occurred in this province, affecting agriculture and production across the area.</localised_description>
+<localised_title>Flooding!</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_disaster_active.tga</ui_icon>
+<ui_image>message_generic.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_dis_meagre_harvest</key>
+<localised_description>My lord! Unfavourable conditions in this area have resulted in a poor crop. We must be wary of food shortages.</localised_description>
+<localised_title>Meagre Harvest</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_disaster_active.tga</ui_icon>
+<ui_image>Harvest_Poor.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_dis_severe_winter</key>
+<localised_description>This province is suffering the effects of a long, severe winter. The heavy snowfall and harsh cold has affected local farming and production.</localised_description>
+<localised_title>Severe Winter!</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_disaster_active.tga</ui_icon>
+<ui_image>Naval_Fleet_Destroyed.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>i_dis_stormy_seas</key>
+<localised_description>Turbulent waters and raging storms have wrought havoc for this naval force, resulting in the damage of ships and loss of life.</localised_description>
+<localised_title>Stormy Seas!</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_disaster_active.tga</ui_icon>
+<ui_image>Naval_Fleet_Destroyed.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_dis_tsunami</key>
+<localised_description>This coastal province has been hit by a tsunami, affecting local port activity and impeding production.</localised_description>
+<localised_title>Tsunami!</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_disaster_active.tga</ui_icon>
+<ui_image>Disasters_Tsunami.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_dis_typhoon</key>
+<localised_description>A devastating typhoon has swept across this province, leaving a trail of destruction which has affected local construction efforts and production.</localised_description>
+<localised_title>Typhoon!</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_disaster_active.tga</ui_icon>
+<ui_image>Disasters_Taifun.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>i_dis_volcano</key>
+<localised_description>This volcano has erupted, smothering nearby provinces with volcanic ash.</localised_description>
+<localised_title>Volcano!</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_disaster_active.tga</ui_icon>
+<ui_image>Disaster_Volcano.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_dis_volcano_asama</key>
+<localised_description>Mount Asama has erupted, smothering this nearby province with volcanic ash.</localised_description>
+<localised_title>Asama-yama Erupts!</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_disaster_active.tga</ui_icon>
+<ui_image>Disaster_Volcano.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_dis_volcano_aso</key>
+<localised_description>Mount Aso has erupted, smothering this nearby province with volcanic ash.</localised_description>
+<localised_title>Aso-san Erupts!</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_disaster_active.tga</ui_icon>
+<ui_image>Disaster_Volcano.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_dis_volcano_bandai</key>
+<localised_description>Mount Bandai has erupted, smothering this nearby province with volcanic ash.</localised_description>
+<localised_title>Bandai-san Erupts!</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_disaster_active.tga</ui_icon>
+<ui_image>Disaster_Volcano.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_dis_volcano_chokai</key>
+<localised_description>Mount Chokai has erupted,smothering this nearby province with volcanic ash.</localised_description>
+<localised_title>Chokai-san Erupts!</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_disaster_active.tga</ui_icon>
+<ui_image>Disaster_Volcano.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_dis_volcano_fuji</key>
+<localised_description>Mount Fuji has erupted, smothering this nearby province with volcanic ash.</localised_description>
+<localised_title>Fuji-san Erupts!</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_disaster_active.tga</ui_icon>
+<ui_image>Disaster_Volcano.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_dis_volcano_haku</key>
+<localised_description>Mount Haku has erupted, smothering this nearby province with volcanic ash.</localised_description>
+<localised_title>Haku-san Erupts!</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_disaster_active.tga</ui_icon>
+<ui_image>Disaster_Volcano.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_dis_volcano_nasu</key>
+<localised_description>Mount Nasu has erupted, smothering this nearby province with volcanic ash.</localised_description>
+<localised_title>Nasu-dake Erupts!</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_disaster_active.tga</ui_icon>
+<ui_image>Disaster_Volcano.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_dis_volcano_sakurajima</key>
+<localised_description>Sakura-jima has erupted, smothering this nearby province with volcanic ash.</localised_description>
+<localised_title>Sakura-jima Erupts!</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_disaster_active.tga</ui_icon>
+<ui_image>Disaster_Volcano.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_dis_volcano_unzen</key>
+<localised_description>Mount Unzen has erupted, smothering this nearby province with volcanic ash.</localised_description>
+<localised_title>Unzen-dake Erupts!</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_disaster_active.tga</ui_icon>
+<ui_image>Disaster_Volcano.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_dis_volcano_yake</key>
+<localised_description>Mount Yake has erupted, smothering this nearby province with volcanic ash.</localised_description>
+<localised_title>Yake-dake Erupts!</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_disaster_active.tga</ui_icon>
+<ui_image>Disaster_Volcano.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_dis_volcano_zao</key>
+<localised_description>Mount Zao has erupted, smothering this nearby province with volcanic ash.</localised_description>
+<localised_title>Zao-san Erupts!</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_disaster_active.tga</ui_icon>
+<ui_image>Disaster_Volcano.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_equipment_cache</key>
+<localised_description>Whilst moving through enemy territory our forces uncovered a cache of military supplies. It has been transported back to our provinces.</localised_description>
+<localised_title>Military Cache</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_army_active.tga</ui_icon>
+<ui_image>Dilemma_Military.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_foreign_trade_network</key>
+<localised_description>Having achieved dominance over trade links with a number of foreign powers we are reaping the benefits of an increase in foreign goods being shipped into our clan.</localised_description>
+<localised_title>Foreign Trade Network</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_trade_active.tga</ui_icon>
+<ui_image>Dilemma_Port.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_gem_agricultural_practices</key>
+<localised_description>Having ensured that the majority of our provinces are agriculturally developed, we are now enjoying a time of plenty.</localised_description>
+<localised_title>Time of Plenty</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_food_active.tga</ui_icon>
+<ui_image>Dilemma_Agriculture.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_gem_antoku_born_taira</key>
+<localised_description>My lord! Wonderful news! Tokuko-hime, noble Taira daughter and consort of the emperor, has given birth to a son, Antoku! It is only a matter of time before a Taira sits upon the Chrysanthemum Throne.</localised_description>
+<localised_title>Heir to the Empire</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>gem_antoku_born.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_gem_antoku_enthroned_other</key>
+<localised_description>My lord! The emperor has abdicated, and now his infant son Antoku sits upon the Chrysanthemum Throne. Born to a Taira mother, his ascension is the result of their scheming; their audacity truly knows no bounds! Prince Mochihito - the rightful heir - has issued a call to arms against the usurpers. Now, more than ever, it is vital that we move to free Japan from villainy!</localised_description>
+<localised_title>Emperor Antoku</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>gem_antoku_enthroned.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_gem_antoku_enthroned_taira</key>
+<localised_description>The emperor has abdicated, my lord! The throne now belongs to Antoku - our own flesh and blood and key to future Taira hegemony. Prince Mochihito, embittered at the denial of his throne, is already rallying support to overthrow him. We must prepare ourselves for the struggle.</localised_description>
+<localised_title>Emperor Antoku</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>gem_antoku_enthroned.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_gem_dedicated_builder</key>
+<localised_description>Our development of castles and infrastructure has helped our builders increase their expertise.</localised_description>
+<localised_title>Dedicated Builder</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_construction_active.tga</ui_icon>
+<ui_image>Dilemma_Construction.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_gem_dedicated_seafarer_able_sailors</key>
+<localised_description>The development of our naval capabilities has led to many expert seamen rushing to serve aboard our ships.</localised_description>
+<localised_title>Dedicated Seafarer</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_navy_active.tga</ui_icon>
+<ui_image>Dilemma_Ship.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_gem_dedicated_seafarer_master_shipwrights</key>
+<localised_description>The development of our naval capabilities has led to many masterful shipwrights seeking position within the clan.</localised_description>
+<localised_title>Dedicated Seafarer</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_navy_active.tga</ui_icon>
+<ui_image>Dilemma_Port.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_gem_research_balanced</key>
+<localised_description>Our dogged pursuit of knowledge has improved our capacity for mastering both the military and civil arts.</localised_description>
+<localised_title>Master of the Arts</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_technology_active.tga</ui_icon>
+<ui_image>Dilemma_Clan.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_gem_research_ratio_civil</key>
+<localised_description>Our dedication to the civil arts has improved our capacity for mastering them.</localised_description>
+<localised_title>Master of the Civil Arts</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_technology_active.tga</ui_icon>
+<ui_image>Dilemma_Clan.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_gem_research_ratio_military</key>
+<localised_description>Our dedication to the military arts has improved our capacity for mastering them.</localised_description>
+<localised_title>Master of the Military Arts</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_technology_active.tga</ui_icon>
+<ui_image>Dilemma_Clan.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_gem_research_specific_civil</key>
+<localised_description>Our dedication to the civil arts has improved our capacity for mastering them.</localised_description>
+<localised_title>Master of the Civil Arts</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_technology_active.tga</ui_icon>
+<ui_image>Dilemma_Clan.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_gem_research_specific_military</key>
+<localised_description>Our dedication to the martial arts has improved our capacity for mastering them.</localised_description>
+<localised_title>Master of the Military Arts</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_technology_active.tga</ui_icon>
+<ui_image>Dilemma_Clan.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_gem_show_of_support</key>
+<localised_description>My lord! As a show of support for our esteemed cause, the lord of this province has provided us with troops to aid us in battle!</localised_description>
+<localised_title>Show of Support</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>GEM_Convert_Province.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_inspiration_builders_daimyo</key>
+<localised_description>Inspired by the presence of the daimyo in their province, construction workers here have intensified their labours.</localised_description>
+<localised_title>Inspiring Master</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_construction_active.tga</ui_icon>
+<ui_image>Dilemma_Construction.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_inspiration_builders_development</key>
+<localised_description>Inspired by the presence of the commissioner for development in their province, construction workers here have intensified their labours.</localised_description>
+<localised_title>Inspiring Superior</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_construction_active.tga</ui_icon>
+<ui_image>Dilemma_Construction.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_inspiration_farmers_daimyo</key>
+<localised_description>Inspired by the presence of the daimyo in their province, farmers here now toil with added effort.</localised_description>
+<localised_title>Inspiring Master</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_food_active.tga</ui_icon>
+<ui_image>Dilemma_Agriculture.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>i_inspiration_soldiers_daimyo</key>
+<localised_description>Inspired by the presence of the daimyo in their province, citizens here are clamouring to serve his military objectives.</localised_description>
+<localised_title>Inspiring Master</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_army_active.tga</ui_icon>
+<ui_image>Dilemma_Ashigaru.tga</ui_image>
+</incidents>
+<incidents>
+<generate>0</generate>
+<key>i_inspiration_soldiers_warfare</key>
+<localised_description>Inspired by the presence of the commissioner for warfare in their province, here are clamouring to serve the clan's military objectives.</localised_description>
+<localised_title>Inspiring Superior</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_army_active.tga</ui_icon>
+<ui_image>Dilemma_Ashigaru.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_monopoly_blacksmiths_smiths</key>
+<localised_description>My lord! We now control all the provinces known for blacksmithing. As long as we continue to do so we will be able to equip our troops with arms and armour superior to those of our enemies.</localised_description>
+<localised_title>Forges of War</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_resources_active.tga</ui_icon>
+<ui_image>Dilemma_Samurai.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_monopoly_blacksmiths_supplies</key>
+<localised_description>My lord! We now control all the provinces known for blacksmithing. As long as we continue to do so we will be able to equip our troops with arms and armour superior to those of our enemies.</localised_description>
+<localised_title>Forges of War</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_resources_active.tga</ui_icon>
+<ui_image>Dilemma_Samurai.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_monopoly_horse_cavalry</key>
+<localised_description>My lord! We now control every province in which the finest horses are bred. Our cavalry recruitment efforts will benefit greatly from this.</localised_description>
+<localised_title>Monopoly</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_resources_active.tga</ui_icon>
+<ui_image>Dilemma_cavalry.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_monopoly_horse_horsebreeders</key>
+<localised_description>My lord! We now control every province where the finest horses are bred. Our cavalry recruitment efforts will benefit greatly from this feat.</localised_description>
+<localised_title>Monopoly</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_resources_active.tga</ui_icon>
+<ui_image>Dilemma_cavalry.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_monopoly_iron_smiths</key>
+<localised_description>My lord! We now hold all provinces that are rich in high-grade iron. Our new troops will benefit greatly from this.</localised_description>
+<localised_title>Monopoly</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_resources_active.tga</ui_icon>
+<ui_image>Dilemma_Samurai.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_monopoly_iron_supplies</key>
+<localised_description>My lord! We now hold all provinces that are rich in high-grade iron. Our new troops will benefit greatly from this.</localised_description>
+<localised_title>Monopoly</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_resources_active.tga</ui_icon>
+<ui_image>Dilemma_Samurai.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_monopoly_stone_builders</key>
+<localised_description>My lord! We now control every source of superior stone in Japan. Our new buildings will benefit greatly from this.</localised_description>
+<localised_title>Monopoly</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_resources_active.tga</ui_icon>
+<ui_image>Dilemma_Construction.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_monopoly_wood_shipwrights</key>
+<localised_description>My lord! We now control every source of superior wood in Japan. Our ship-building will benefit greatly from this.</localised_description>
+<localised_title>Monopoly</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_resources_active.tga</ui_icon>
+<ui_image>Dilemma_Ship.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_nanban_trade_nondilemma</key>
+<localised_description>My lord, we now hold a province whose port had been devoted to trade with the far west. As such, we have now established relations with the nanban traders and may profit from the firearms that they have imported.</localised_description>
+<localised_title>Nanban Trade</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_dilemmas_active.tga</ui_icon>
+<ui_image>Dilemma_Nanban.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_religion_convert_christian_influence</key>
+<localised_description>My lord, despite our lack of contact with the nanban their religious beliefs have spread from neighbouring provinces. Unless measures are taken to curb this Christian influence it will continue to spread. You may choose to embrace this religion yourself, but this decision will surely offend those who adhere to the old religions, and should not be made lightly.</localised_description>
+<localised_title>Christianity</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_christianity_active.tga</ui_icon>
+<ui_image>Dilemma_Religion.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_religion_convert_nanban_trade</key>
+<localised_description>My lord! Now that we possess a nanban trade port, exchange with the far west has begun. As well as trade opportunities, the nanban have brought their religious beliefs; already, Christianity is swaying some of the people, and unless measures are taken it will continue to spread. You may choose to embrace this religion yourself, but this decision will surely offend those who adhere to the old religions, and should not be made lightly.</localised_description>
+<localised_title>Christianity</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_christianity_active.tga</ui_icon>
+<ui_image>Dilemma_Religion.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_research_balanced</key>
+<localised_description>Our dogged pursuit of knowledge has improved our capacity for mastering both the military and civil arts.</localised_description>
+<localised_title>Master of the Arts</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_technology_active.tga</ui_icon>
+<ui_image>Dilemma_Clan.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_research_ratio_civil</key>
+<localised_description>Our dedication to the civil arts has improved our capacity for mastering them.</localised_description>
+<localised_title>Master of the Civil Arts</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_technology_active.tga</ui_icon>
+<ui_image>Dilemma_Clan.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_research_ratio_military</key>
+<localised_description>Our dedication to the military arts has improved our capacity for mastering them.</localised_description>
+<localised_title>Master of the Military Arts</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_technology_active.tga</ui_icon>
+<ui_image>Dilemma_Clan.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_research_specific_civil</key>
+<localised_description>Our dedication to the civil arts has improved our capacity for mastering them.</localised_description>
+<localised_title>Master of the Civil Arts</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_technology_active.tga</ui_icon>
+<ui_image>Dilemma_Clan.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_research_specific_military</key>
+<localised_description>Our dedication to the martial arts has improved our capacity for mastering them.</localised_description>
+<localised_title>Master of the Military Arts</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_technology_active.tga</ui_icon>
+<ui_image>Dilemma_Clan.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_safeguard</key>
+<localised_description>The people in this province are encouraged by the substantial garrison stationed there.</localised_description>
+<localised_title>Safeguard</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_army_active.tga</ui_icon>
+<ui_image>Dilemma_Lookout.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_samurai_master</key>
+<localised_description>Our use of samurai in the achievement of military goals is unmatched, my lord. Maintaining such a formidable force has allowed us to refine their training regime.</localised_description>
+<localised_title>Samurai Master</localised_title>
+<prioritised>1</prioritised>
+<ui_icon>message_army_active.tga</ui_icon>
+<ui_image>Dilemma_Samurai.tga</ui_image>
+</incidents>
+<incidents>
+<generate>1</generate>
+<key>i_teeming_sea</key>
+<localised_description>The waters of this province are teeming with fish. Local fishermen are currently enjoying an auspicious catch.</localised_description>
+<localised_title>Teeming Sea</localised_title>
+<prioritised>0</prioritised>
+<ui_icon>message_food_active.tga</ui_icon>
+<ui_image>Dilemma_Port.tga</ui_image>
+</incidents>
+</dataroot>

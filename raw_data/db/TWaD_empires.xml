@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_empires>
+<root>
+  <edit_uuid>24773af8-0966-4c59-af4c-4e191b862200</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>empire_name</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>onscreen</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+</root>

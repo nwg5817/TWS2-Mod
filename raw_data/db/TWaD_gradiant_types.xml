@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_gradiant_types>
+<root>
+  <edit_uuid>36bdaa1f-c1c0-4572-806b-8ec72d721745</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>type</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+</root>

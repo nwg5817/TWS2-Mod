@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Thu 22. Sep 15:56:37 2011" revision="3" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Stephen.Virgo">
+<edit_uuid>55e9a65d-8b8b-458a-86be-10cb9344ece1</edit_uuid><battle_types>
+<onscreen>Tutorial</onscreen>
+<sort_order>-1</sort_order>
+<type>Tutorial</type>
+</battle_types>
+<battle_types>
+<onscreen>Campaign Battle</onscreen>
+<sort_order>-1</sort_order>
+<type>campaign_battle</type>
+</battle_types>
+<battle_types>
+<onscreen>Capture Point Battle</onscreen>
+<sort_order>-1</sort_order>
+<type>capture_point</type>
+</battle_types>
+<battle_types>
+<onscreen>Land Battle</onscreen>
+<sort_order>0</sort_order>
+<type>classic</type>
+</battle_types>
+<battle_types>
+<onscreen>Scenario Battle</onscreen>
+<sort_order>-1</sort_order>
+<type>historic</type>
+</battle_types>
+<battle_types>
+<onscreen>Historical Napoleon Battle</onscreen>
+<sort_order>-1</sort_order>
+<type>napoleon_historic</type>
+</battle_types>
+<battle_types>
+<onscreen>Naval Battle</onscreen>
+<sort_order>1</sort_order>
+<type>naval</type>
+</battle_types>
+<battle_types>
+<onscreen>Siege Battle</onscreen>
+<sort_order>2</sort_order>
+<type>siege</type>
+</battle_types>
+</dataroot>

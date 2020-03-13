@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_victory_types>
+<root>
+  <edit_uuid>70fcfae2-5983-4846-b614-53602250adf1</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>victory_type</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+  </field>
+</root>

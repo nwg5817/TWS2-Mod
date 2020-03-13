@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Tue 18. Oct 09:41:46 2011" revision="12" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="James.Whitston">
+<edit_uuid>52fcea31-4b1b-41c4-be1b-52ea466bcdf9</edit_uuid><avatar_xp_rewards>
+<key>battle_lost</key>
+<onscreen_description>Battle lost: %n xp</onscreen_description>
+<product>shogun2</product>
+<xp_value>50</xp_value>
+</avatar_xp_rewards>
+<avatar_xp_rewards>
+<key>battle_won</key>
+<onscreen_description>Battle won: %n xp</onscreen_description>
+<product>shogun2</product>
+<xp_value>150</xp_value>
+</avatar_xp_rewards>
+<avatar_xp_rewards>
+<key>drop_in_bonus</key>
+<onscreen_description>Drop-in battle bonus: +100%xp</onscreen_description>
+<product>shogun2</product>
+<xp_value>2</xp_value>
+</avatar_xp_rewards>
+<avatar_xp_rewards>
+<key>enemy_avatar_killed</key>
+<onscreen_description>Enemy avatar wounded: %n xp</onscreen_description>
+<product>shogun2</product>
+<xp_value>25</xp_value>
+</avatar_xp_rewards>
+<avatar_xp_rewards>
+<key>enemy_avatar_routed</key>
+<onscreen_description>Enemy avatar routed: %n xp</onscreen_description>
+<product>shogun2</product>
+<xp_value>25</xp_value>
+</avatar_xp_rewards>
+<avatar_xp_rewards>
+<key>enemy_avatar_shattered</key>
+<onscreen_description>Enemy avatar shattered: %n xp</onscreen_description>
+<product>shogun2</product>
+<xp_value>25</xp_value>
+</avatar_xp_rewards>
+<avatar_xp_rewards>
+<key>got_an_achievement</key>
+<onscreen_description>Achievement: %n xp</onscreen_description>
+<product>shogun2</product>
+<xp_value>25</xp_value>
+</avatar_xp_rewards>
+<avatar_xp_rewards>
+<key>most_enemy_units_routed_on_team</key>
+<onscreen_description>Most enemy units routed on team: %n xp</onscreen_description>
+<product>shogun2</product>
+<xp_value>25</xp_value>
+</avatar_xp_rewards>
+<avatar_xp_rewards>
+<key>most_enemy_units_wiped_out_on_team</key>
+<onscreen_description>Most enemy units wiped out on team: %n xp</onscreen_description>
+<product>shogun2</product>
+<xp_value>25</xp_value>
+</avatar_xp_rewards>
+<avatar_xp_rewards>
+<key>most_kills_on_team</key>
+<onscreen_description>Most kills on team: %n xp</onscreen_description>
+<product>shogun2</product>
+<xp_value>25</xp_value>
+</avatar_xp_rewards>
+<avatar_xp_rewards>
+<key>most_units_rallied_on_team</key>
+<onscreen_description>Most units rallied on team: %n xp</onscreen_description>
+<product>shogun2</product>
+<xp_value>25</xp_value>
+</avatar_xp_rewards>
+<avatar_xp_rewards>
+<key>pb_best_streak</key>
+<onscreen_description>New personal best! Winning streak: %n xp</onscreen_description>
+<product>shogun2</product>
+<xp_value>25</xp_value>
+</avatar_xp_rewards>
+<avatar_xp_rewards>
+<key>pb_didnt_get_worst_kills_(once_only)</key>
+<onscreen_description>New personal best! Winning streak: %n xp</onscreen_description>
+<product>shogun2</product>
+<xp_value>25</xp_value>
+</avatar_xp_rewards>
+<avatar_xp_rewards>
+<key>pb_didnt_lose_(once_only)</key>
+<onscreen_description>New personal best! Didn't lose battle: %n xp</onscreen_description>
+<product>shogun2</product>
+<xp_value>25</xp_value>
+</avatar_xp_rewards>
+<avatar_xp_rewards>
+<key>pb_enemy_units_wiped_out</key>
+<onscreen_description>New personal best! Enemy units wiped out: %n xp</onscreen_description>
+<product>shogun2</product>
+<xp_value>25</xp_value>
+</avatar_xp_rewards>
+<avatar_xp_rewards>
+<key>pb_most_enemy_units_shattered</key>
+<onscreen_description>New personal best! Enemy units shattered: %n xp</onscreen_description>
+<product>shogun2</product>
+<xp_value>25</xp_value>
+</avatar_xp_rewards>
+<avatar_xp_rewards>
+<key>pb_most_kills</key>
+<onscreen_description>New personal best! Enemy troops killed: %n xp</onscreen_description>
+<product>shogun2</product>
+<xp_value>25</xp_value>
+</avatar_xp_rewards>
+<avatar_xp_rewards>
+<key>pb_most_units_rallied</key>
+<onscreen_description>New personal best! Units rallied: %n xp</onscreen_description>
+<product>shogun2</product>
+<xp_value>25</xp_value>
+</avatar_xp_rewards>
+<avatar_xp_rewards>
+<key>pb_special_abilities_used</key>
+<onscreen_description>New personal best! Special abilites used: %n xp</onscreen_description>
+<product>shogun2</product>
+<xp_value>25</xp_value>
+</avatar_xp_rewards>
+<avatar_xp_rewards>
+<key>rank_differential_modifier_negative</key>
+<onscreen_description>Rank differential penalty: %n%</onscreen_description>
+<product>shogun2</product>
+<xp_value>0.1</xp_value>
+</avatar_xp_rewards>
+<avatar_xp_rewards>
+<key>rank_differential_modifier_positive</key>
+<onscreen_description>Rank differential bonus: %n%</onscreen_description>
+<product>shogun2</product>
+<xp_value>0.1</xp_value>
+</avatar_xp_rewards>
+<avatar_xp_rewards>
+<key>result_defeat_close</key>
+<onscreen_description>Close defeat: %n xp</onscreen_description>
+<product>shogun2</product>
+<xp_value>10</xp_value>
+</avatar_xp_rewards>
+<avatar_xp_rewards>
+<key>result_defeat_crushing</key>
+<onscreen_description>Crushing defeat: %n xp</onscreen_description>
+<product>shogun2</product>
+<xp_value>0</xp_value>
+</avatar_xp_rewards>
+<avatar_xp_rewards>
+<key>result_defeat_decisive</key>
+<onscreen_description>Decisive defeat: %n xp</onscreen_description>
+<product>shogun2</product>
+<xp_value>0</xp_value>
+</avatar_xp_rewards>
+<avatar_xp_rewards>
+<key>result_defeat_valiant</key>
+<onscreen_description>Valiant defeat: %n xp</onscreen_description>
+<product>shogun2</product>
+<xp_value>10</xp_value>
+</avatar_xp_rewards>
+<avatar_xp_rewards>
+<key>result_draw</key>
+<onscreen_description>Draw: %n xp</onscreen_description>
+<product>shogun2</product>
+<xp_value>0</xp_value>
+</avatar_xp_rewards>
+<avatar_xp_rewards>
+<key>result_victory_close</key>
+<onscreen_description>Close victory: %n xp</onscreen_description>
+<product>shogun2</product>
+<xp_value>15</xp_value>
+</avatar_xp_rewards>
+<avatar_xp_rewards>
+<key>result_victory_decisive</key>
+<onscreen_description>Decisive victory: %n xp</onscreen_description>
+<product>shogun2</product>
+<xp_value>30</xp_value>
+</avatar_xp_rewards>
+<avatar_xp_rewards>
+<key>result_victory_heroic</key>
+<onscreen_description>Heroic victory: %n xp</onscreen_description>
+<product>shogun2</product>
+<xp_value>60</xp_value>
+</avatar_xp_rewards>
+<avatar_xp_rewards>
+<key>result_victory_pyrrhic</key>
+<onscreen_description>Pyrrhic victory: %n xp</onscreen_description>
+<product>shogun2</product>
+<xp_value>10</xp_value>
+</avatar_xp_rewards>
+<avatar_xp_rewards>
+<key>special_abilities_used_on_team</key>
+<onscreen_description>Special abilities used on team: %n xp</onscreen_description>
+<product>shogun2</product>
+<xp_value>25</xp_value>
+</avatar_xp_rewards>
+</dataroot>

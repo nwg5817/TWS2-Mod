@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Fri 25. Mar 12:09:40 2011" revision="3" export_branch="T:/branches/shogun2/release/shogun2/binaries" export_user="Janos.Gaspar">
+<edit_uuid>29df0cbf-d187-4125-b4e1-19b5e95bba14</edit_uuid><campaign_ai_character_skill_tree_managers>
+<key>ashigaru</key>
+</campaign_ai_character_skill_tree_managers>
+<campaign_ai_character_skill_tree_managers>
+<key>default</key>
+</campaign_ai_character_skill_tree_managers>
+<campaign_ai_character_skill_tree_managers>
+<key>horseman</key>
+</campaign_ai_character_skill_tree_managers>
+<campaign_ai_character_skill_tree_managers>
+<key>ikko</key>
+</campaign_ai_character_skill_tree_managers>
+<campaign_ai_character_skill_tree_managers>
+<key>ninja</key>
+</campaign_ai_character_skill_tree_managers>
+<campaign_ai_character_skill_tree_managers>
+<key>pirate</key>
+</campaign_ai_character_skill_tree_managers>
+<campaign_ai_character_skill_tree_managers>
+<key>poet</key>
+</campaign_ai_character_skill_tree_managers>
+<campaign_ai_character_skill_tree_managers>
+<key>strategist</key>
+</campaign_ai_character_skill_tree_managers>
+<campaign_ai_character_skill_tree_managers>
+<key>warrior</key>
+</campaign_ai_character_skill_tree_managers>
+</dataroot>

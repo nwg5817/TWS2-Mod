@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_advice_threads>
+<root>
+  <edit_uuid>55975bc4-4f37-44b7-ae3b-a6aa95553634</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>thread</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+</root>

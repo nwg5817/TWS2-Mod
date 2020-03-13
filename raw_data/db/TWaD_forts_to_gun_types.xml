@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_forts_to_gun_types>
+<root>
+  <edit_uuid>f3c052bf-c905-46e9-9e25-ea0378b5707d</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>level_name</column_source_column>
+    <column_source_table>building_levels</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>gun_type</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>gun_type</column_source_column>
+    <column_source_table>gun_types</column_source_table>
+  </field>
+</root>

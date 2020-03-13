@@ -1,0 +1,337 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaDFORMDESCR_starting_positions>
+<root>
+	<form_name>Starting Positions</form_name>
+	<rows>
+		<row>
+			<columns>
+				<subform_table>
+					<new_button/>
+					<column>
+						<table_name>campaigns</table_name>
+						<base_node/>
+						<record_switching>true</record_switching>
+						<filter_field>campaign_name</filter_field>
+						<parent_table></parent_table>
+						<parent_field></parent_field>
+					</column>
+					<column>
+						<rows>
+							<row>
+								<static_text_field>Campaign Name</static_text_field>
+								<text_edit_field>campaign_name</text_edit_field>
+							</row>
+							<row>
+								<static_text_field>Onscreen Name</static_text_field>
+								<text_edit_field>onscreen_name</text_edit_field>
+							</row>
+							<row>
+								<static_text_field>Map Path</static_text_field>
+								<text_edit_field>map_name</text_edit_field>
+							</row>
+						</rows>
+					</column>
+					<column>
+						<rows>
+							
+							<row>
+								<static_text_field>Data Directory</static_text_field>
+								<text_edit_field>data_directory</text_edit_field>
+							</row>
+							<row>
+								<static_text_field>Sequential Order</static_text_field>
+								<text_edit_field>campaign_order</text_edit_field>
+							</row>
+							<static_text_field>Is Grand</static_text_field>
+							<check_box_field>is_grand</check_box_field>
+							<static_text_field>Exportable</static_text_field>
+							<check_box_field>exportable</check_box_field>
+						</rows>
+					</column>
+					<column>
+						<rows>
+							<row>
+								<static_text_field>Description</static_text_field>
+								<memo_edit_field>description</memo_edit_field>
+							</row>
+							<row>
+								<static_text_field>Feature List</static_text_field>
+								<memo_edit_field>bullet_list</memo_edit_field>
+							</row>
+						</rows>
+					</column>
+				</subform_table>
+				<subform_table>
+					<new_button/>
+					<columns>
+						<table_name>start_pos_calendars</table_name>
+						<record_switching>false</record_switching>
+						<filter_field>campaign</filter_field>
+						<parent_table>campaigns</parent_table>
+						<parent_field>campaign_name</parent_field>
+						<edit_grid>
+							<edit_grid_column name="Start Year">start_year</edit_grid_column>
+							<edit_grid_column name="Start Season">start_season</edit_grid_column>
+							<edit_grid_column name="Turns Per Year">turns_per_year</edit_grid_column>
+						</edit_grid>
+					</columns>
+				</subform_table>
+			</columns>
+		</row>
+		<row>
+			<columns>
+				<column>
+					<subform_table>
+						<new_button/>
+						<rows>
+							<table_name>start_pos_factions</table_name>
+							<record_switching>true</record_switching>
+							<filter_field>campaign</filter_field>
+							<parent_table>campaigns</parent_table>
+							<parent_field>campaign_name</parent_field>
+						</rows>
+						<rows>
+							<static_text_field>Faction</static_text_field>
+							<combo_box_field>faction</combo_box_field>
+							<static_text_field>Treasury</static_text_field>
+							<text_edit_field>treasury</text_edit_field>
+						</rows>
+						<rows>
+							<static_text_field>Government Type</static_text_field>
+							<combo_box_field>government_type</combo_box_field>
+							<static_text_field>Starting Order</static_text_field>
+							<text_edit_field>starting_order</text_edit_field>
+						</rows>
+						<rows>
+							<static_text_field>State Religion</static_text_field>
+							<combo_box_field>state_religion</combo_box_field>
+							<static_text_field>Difficulty Rating</static_text_field>
+							<combo_box_field>difficulty</combo_box_field>
+						</rows>
+						<rows>
+							<static_text_field>Honour</static_text_field>
+							<text_edit_field>honour</text_edit_field>
+							<columns>
+								<static_text_field>Playable</static_text_field>
+								<check_box_field>playable</check_box_field>
+							</columns>
+							<columns>
+								<static_text_field>Is Major</static_text_field>
+								<check_box_field>is_major</check_box_field>
+							</columns>
+						</rows>
+						<rows>
+							<static_text_field>Description</static_text_field>
+							<memo_edit_field>description</memo_edit_field>
+						</rows>
+					</subform_table>
+				</column>
+			</columns>
+			<columns>
+				<columns>
+					<subform_table>
+						<new_button/>
+						<rows>
+							<table_name>start_pos_characters</table_name>
+							<record_switching>true</record_switching>
+							<filter_field>faction</filter_field>
+							<parent_table>start_pos_factions</parent_table>
+							<parent_field>ID</parent_field>
+						</rows>
+						<rows>
+							<static_text_field>Name</static_text_field>
+							<filtered_combo_box>
+								<field_value_filter field="type" value="forename"/>
+								<remove_section_filter field="id"/>
+								<combo_box_field>Name</combo_box_field>
+							</filtered_combo_box>
+							<static_text_field>Surname</static_text_field>
+							<filtered_combo_box>
+								<field_value_filter field="type" value="surname"/>
+								<remove_section_filter field="id"/>
+								<combo_box_field>Surname</combo_box_field>
+							</filtered_combo_box>
+						</rows>
+						<rows>
+							<static_text_field>Type</static_text_field>
+							<combo_box_field>Type</combo_box_field>
+							<static_text_field>Portrait Id</static_text_field>
+							<text_edit_field>portrait_id</text_edit_field>
+						</rows>
+						<rows>
+							<static_text_field>Pos X</static_text_field>
+							<text_edit_field>startx</text_edit_field>
+							<static_text_field>Pos Y</static_text_field>
+							<text_edit_field>starty</text_edit_field>
+						</rows>
+						<rows>
+							<static_text_field>Age</static_text_field>
+							<text_edit_field>Age</text_edit_field>
+							<static_text_field>Ministerial Position</static_text_field>
+							<combo_box_field>ministerial_position</combo_box_field>
+						</rows>
+						<rows>
+							<static_text_field>Loyalty</static_text_field>
+							<text_edit_field>loyalty</text_edit_field>
+							<static_text_field>Override General Unit</static_text_field>
+							<combo_box_field>override_general_unit</combo_box_field>
+						</rows>
+						<static_text_field>Is Male?</static_text_field>
+						<check_box_field>is_male</check_box_field>							
+					</subform_table>
+				</columns>
+			</columns>					
+		</row>
+		<row>
+			<columns>
+				<rows>
+					<subform_table>
+						<columns>
+							<new_button/>
+							<rows>
+								<table_name>start_pos_character_to_settlements</table_name>
+								<record_switching>false</record_switching>
+								<filter_field>character</filter_field>
+								<parent_table>start_pos_characters</parent_table>
+								<parent_field>ID</parent_field>
+								<static_text_field>In Settlement</static_text_field>
+								<edit_grid>
+									<edit_grid_column name="Settlement">settlement</edit_grid_column>
+								</edit_grid>
+							</rows>
+						</columns>
+					</subform_table>
+					<subform_table>
+						<columns>
+							<new_button/>
+							<rows>
+								<table_name>start_pos_land_units</table_name>
+								<record_switching>false</record_switching>
+								<filter_field>general</filter_field>
+								<parent_table>start_pos_characters</parent_table>
+								<parent_field>ID</parent_field>
+								<static_text_field>Army</static_text_field>
+								<edit_grid>
+									<edit_grid_column name="Unit Type">unit_type</edit_grid_column>
+									<edit_grid_column name="Soldiers (%)">soldiers</edit_grid_column>
+								</edit_grid>
+							</rows>
+						</columns>
+					</subform_table>
+				</rows>
+				<rows>
+					<subform_table>
+						<columns>
+							<new_button/>
+							<rows>
+								<table_name>start_pos_naval_units</table_name>
+								<record_switching>false</record_switching>
+								<filter_field>admiral</filter_field>
+								<parent_table>start_pos_characters</parent_table>
+								<parent_field>ID</parent_field>
+								<static_text_field>Navy</static_text_field>
+								<edit_grid>
+									<edit_grid_column name="Unit Type">unit_type</edit_grid_column>
+								</edit_grid>
+							</rows>
+						</columns>
+					</subform_table>
+				</rows>
+				<rows>
+					<subform_table>
+						<columns>
+							<new_button/>
+							<rows>
+								<table_name>start_pos_character_traits</table_name>
+								<record_switching>false</record_switching>
+								<filter_field>character_id</filter_field>
+								<parent_table>start_pos_characters</parent_table>
+								<parent_field>ID</parent_field>
+								<static_text_field>Starting Traits</static_text_field>
+								<edit_grid>
+									<edit_grid_column name="Trait Level">trait_level</edit_grid_column>
+								</edit_grid>
+							</rows>
+						</columns>
+					</subform_table>
+					<subform_table>
+						<columns>
+							<new_button/>
+							<rows>
+								<table_name>start_pos_character_ancillaries</table_name>
+								<record_switching>false</record_switching>
+								<filter_field>character_id</filter_field>
+								<parent_table>start_pos_characters</parent_table>
+								<parent_field>ID</parent_field>
+								<static_text_field>Starting Ancillaries</static_text_field>
+								<edit_grid>
+									<edit_grid_column name="Ancillary">ancillary</edit_grid_column>
+								</edit_grid>
+							</rows>
+						</columns>
+					</subform_table>
+				</rows>
+				<rows>
+					<subform_table>
+						<table_name>start_pos_regions</table_name>
+						<record_switching>false</record_switching>
+						<filter_field>owning_faction</filter_field>
+						<parent_table>start_pos_factions</parent_table>
+						<parent_field>ID</parent_field>
+						<read_only/>
+						<static_text_field>Owned Regions</static_text_field>
+						<edit_grid>
+							<edit_grid_column name="Region">region</edit_grid_column>
+							<edit_grid_column name="Faction Capital">faction_capital</edit_grid_column>
+						</edit_grid>
+					</subform_table>
+					<subform_table>
+						<columns>
+							<new_button/>
+							<rows>
+								<table_name>start_pos_family_relationships</table_name>
+								<record_switching>false</record_switching>
+								<filter_field>character</filter_field>
+								<parent_table>start_pos_characters</parent_table>
+								<parent_field>ID</parent_field>
+								<static_text_field>Family Relationships</static_text_field>
+								<edit_grid>
+									<filtered_combo_box>
+										<section_link_filter filter_field="4" match_table="start_pos_characters" match_field="Surname"/>
+										<edit_grid_column name="Related To">related_to</edit_grid_column>
+									</filtered_combo_box>
+									<edit_grid_column name="Relationship">relationship</edit_grid_column>
+								</edit_grid>
+							</rows>
+						</columns>
+					</subform_table>
+				</rows>
+			</columns>
+		</row>
+		<row>
+			<columns>
+				<rows>
+					<subform_table>
+						<new_button/>
+						<table_name>start_pos_diplomacy</table_name>
+						<record_switching>false</record_switching>
+						<filter_field>faction1</filter_field>
+						<parent_table>start_pos_factions</parent_table>
+						<parent_field>ID</parent_field>
+						<static_text_field>Diplomatic Relations</static_text_field>
+						<edit_grid>
+							<edit_grid_column name="Faction">faction2</edit_grid_column>
+							<edit_grid_column name="Stance">stance</edit_grid_column>
+							<edit_grid_column name="Access">grants_military_access</edit_grid_column>
+							<edit_grid_column name="Trade">grants_trade_agreement</edit_grid_column>
+							<edit_grid_column name="Attitude">attitude</edit_grid_column>
+						</edit_grid>
+					</subform_table>
+				</rows>
+			</columns>
+		</row>
+	</rows>
+</root>
+					
+					
+						

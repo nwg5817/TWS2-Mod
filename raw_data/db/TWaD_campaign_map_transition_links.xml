@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_campaign_map_transition_links>
+<root>
+  <edit_uuid>e711fcf5-19f5-4ec5-8310-685f380ddbb3</edit_uuid>
+  <field>
+    <primary_key>0</primary_key>
+    <name>index</name>
+    <field_type>autonumber</field_type>
+    <required>0</required>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>start_area</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+    <column_source_column>index</column_source_column>
+    <column_source_column>onscreen_name</column_source_column>
+    <column_source_table>campaign_map_transition_areas</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>end_area</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+    <column_source_column>index</column_source_column>
+    <column_source_column>onscreen_name</column_source_column>
+    <column_source_table>campaign_map_transition_areas</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>delay_chance_percentage</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>turns_start_to_end</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>turns_end_to_start</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+  </field>
+</root>

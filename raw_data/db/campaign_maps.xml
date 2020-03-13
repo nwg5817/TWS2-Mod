@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Wed 24. Aug 12:02:20 2011" revision="4" export_branch="T:/branches/shogun2/patch/common/TWeak/Framework" export_user="Luke.Carter">
+<edit_uuid>8eed62fb-4f02-445d-9fad-0e947607e319</edit_uuid><campaign_maps>
+<mapname>bos_japan</mapname>
+<maxx>280</maxx>
+<maxy>280</maxy>
+<minx>-280</minx>
+<miny>-280</miny>
+</campaign_maps>
+<campaign_maps>
+<mapname>gem_japan</mapname>
+<maxx>640</maxx>
+<maxy>320</maxy>
+<minx>-640</minx>
+<miny>-320</miny>
+</campaign_maps>
+<campaign_maps>
+<mapname>sho_japan</mapname>
+<maxx>640</maxx>
+<maxy>320</maxy>
+<minx>-640</minx>
+<miny>-320</miny>
+</campaign_maps>
+<campaign_maps>
+<mapname>sho_tut</mapname>
+<maxx>0</maxx>
+<maxy>0</maxy>
+<minx>-320</minx>
+<miny>-320</miny>
+</campaign_maps>
+</dataroot>

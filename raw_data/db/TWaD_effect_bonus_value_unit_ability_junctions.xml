@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_effect_bonus_value_unit_ability_junctions>
+<root>
+  <edit_uuid>6279c8ee-404f-450c-bf09-ae9acf7229f8</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>effect</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>effect</column_source_column>
+    <column_source_table>effects</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>bonus_value_id</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>campaign_bonus_value_ids_unit_ability</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>unit_ability</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>unit_abilities</column_source_table>
+  </field>
+</root>

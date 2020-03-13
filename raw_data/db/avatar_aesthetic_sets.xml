@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Wed 9. Nov 17:30:35 2011" revision="24" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Richard.Aldridge">
+<edit_uuid>de9225ae-1506-4e2b-8eea-fa0482a7844f</edit_uuid><avatar_aesthetic_sets>
+<ancillary>mp_anc_damp_powder</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_akechi_mitsuharu</key>
+<localised_name>Armour Set: Akechi Mitsuharu</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_anc_blade_master</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_blade_master</key>
+<localised_name>Armour Set: Blade Master</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_bosh_anc_myopic_captain</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_boshin_american_1</key>
+<localised_name>American Uniform 1</localised_name>
+<product>boshin</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_bosh_anc_unwaxed_cartridges</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_boshin_american_2</key>
+<localised_name>American Uniform 2</localised_name>
+<product>boshin</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_bosh_anc_british_naval_engineer</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_boshin_british_1</key>
+<localised_name>British Uniform</localised_name>
+<product>boshin</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_bosh_anc_french_naval_engineer</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_boshin_french_1</key>
+<localised_name>French Uniform</localised_name>
+<product>boshin</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_bosh_anc_well_schooled_mounts</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_boshin_late_samurai_2</key>
+<localised_name>Late Samurai Uniform 2</localised_name>
+<product>boshin</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_bosh_anc_unpracticed_gun_crews</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_boshin_late_samurai_3</key>
+<localised_name>Late Samurai Uniform 3</localised_name>
+<product>boshin</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_bosh_anc_foul_bottom</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_boshin_modern_2</key>
+<localised_name>Modern Uniform 2</localised_name>
+<product>boshin</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_bosh_anc_dreyse_needle_gun</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_boshin_modern_3</key>
+<localised_name>Modern Uniform 3</localised_name>
+<product>boshin</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_bosh_anc_pedantic_gun_captain</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_boshin_modern_4</key>
+<localised_name>Modern Uniform 4</localised_name>
+<product>boshin</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_bosh_anc_minie_muzzle_loading_rifle</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_boshin_officer_1</key>
+<localised_name>Officer Uniform 1</localised_name>
+<product>boshin</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_bosh_anc_rifled_barrels</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_boshin_officer_2</key>
+<localised_name>Officer Uniform 2</localised_name>
+<product>boshin</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_bosh_anc_skittish_mounts</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_boshin_shinsengumi_1</key>
+<localised_name>Shinsengumi Uniform 1</localised_name>
+<product>boshin</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_bosh_anc_incorrect_calibration</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_boshin_shinsengumi_2</key>
+<localised_name>Shinsengumi Uniform 2</localised_name>
+<product>boshin</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_anc_mouldy_feed_stocks</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_catfish_tail</key>
+<localised_name>Armour Set: Catfish Tail</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<icon_path>placeholder</icon_path>
+<key>armour_set_crest_ach_1_drop_in_battle</key>
+<localised_name>Achievement Crest: Fight 1 Drop-In Battle</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<icon_path>placeholder</icon_path>
+<key>armour_set_crest_ach_1_land_battle</key>
+<localised_name>Achievement Crest: Fight 1 Land Battle</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<icon_path>placeholder</icon_path>
+<key>armour_set_crest_ach_1_naval_battle</key>
+<localised_name>Achievement Crest: Fight 1 Naval Battle</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<icon_path>placeholder</icon_path>
+<key>armour_set_crest_ach_1_quick_battle</key>
+<localised_name>Achievement Crest: Fight 1 Quick Battle</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<icon_path>placeholder</icon_path>
+<key>armour_set_crest_ach_25_percent_all_drops</key>
+<localised_name>Achievement Crest: Collect 25% of all Items</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<icon_path>placeholder</icon_path>
+<key>armour_set_crest_ach_50_percent_all_drops</key>
+<localised_name>Achievement Crest: Collect 50% of all items</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<icon_path>placeholder</icon_path>
+<key>armour_set_crest_ach_75_percent_all_drops</key>
+<localised_name>Achievement Crest: Collect 75% of all Items</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<icon_path>placeholder</icon_path>
+<key>armour_set_crest_ach_army_colour_change</key>
+<localised_name>Achievement Crest: Army Colour Change</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<icon_path>placeholder</icon_path>
+<key>armour_set_crest_ach_clan_comp_winner</key>
+<localised_name>Armour Item: Clan Champions</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<icon_path>placeholder</icon_path>
+<key>armour_set_crest_ach_clan_leaderboard_top_1</key>
+<localised_name>Achievement Crest: Clan Leaderboard Top 1</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<icon_path>placeholder</icon_path>
+<key>armour_set_crest_ach_clan_leaderboard_top_10</key>
+<localised_name>Achievement Crest: Clan Leaderboard Top 10</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<icon_path>placeholder</icon_path>
+<key>armour_set_crest_ach_clan_leaderboard_top_100</key>
+<localised_name>Achievement Crest: Clan Leaderboard Top 100</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<icon_path>placeholder</icon_path>
+<key>armour_set_crest_ach_clan_leaderboard_top_25</key>
+<localised_name>Achievement Crest: Clan Leaderboard Top 25</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<icon_path>placeholder</icon_path>
+<key>armour_set_crest_ach_clan_promotion</key>
+<localised_name>Crest: Clan Promotion</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<icon_path>placeholder</icon_path>
+<key>armour_set_crest_ach_joined_clan</key>
+<localised_name>Achievement Crest: Join a Clan</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<icon_path>placeholder</icon_path>
+<key>armour_set_crest_ach_tier_1_promotion</key>
+<localised_name>Crest: Tier 1 Clan Promotion</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<icon_path>placeholder</icon_path>
+<key>armour_set_crest_ach_won_5_clanmap_regions</key>
+<localised_name>Achievement Crest: Win 5 Clanmap Regions</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<icon_path>placeholder</icon_path>
+<key>armour_set_crest_ach_won_clanmap_region</key>
+<localised_name>Achievement Crest: Win a Clanmap Region</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<icon_path>placeholder</icon_path>
+<key>armour_set_crest_ach_won_clanmap_season</key>
+<localised_name>Achievement Crest: Clan Season Victory</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_anc_zori_tori_sandal_bearer</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_date_masamune</key>
+<localised_name>Armour Set: Date Masamune</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<icon_path>placeholder</icon_path>
+<key>armour_set_default</key>
+<localised_name>Armour Set: Default PLACEHOLDER</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_anc_yabusami_master</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_golden_scale_cuirass</key>
+<localised_name>Armour Set: Golden Scale Cuirass</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_anc_bad_omen</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_goldfish_scale</key>
+<localised_name>Armour Set: Goldfish Scale</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_anc_infantry_officer</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_honda_tadakatsu</key>
+<localised_name>Armour Set: Honda Tadakatsu</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_anc_hero_worshipping_boy</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_hosokawa_tadaoki</key>
+<localised_name>Armour Set: Hosokawa Tadaoki</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_anc_uma_i_horse_doctor</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_ichinotani</key>
+<localised_name>Armour Set: Ichinotani</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_anc_rennyos_teachings</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_ikko_ikki</key>
+<localised_name>Armour Set: Robes of the Ikko Ikki</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_anc_spoiled_rations</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_itakura_katsushige</key>
+<localised_name>Armour Set: Itakura Katsushige</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_anc_tetsu_bishi_caltrops</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_kato_kiyomasa</key>
+<localised_name>Armour Set: Kato Kiyomasa</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_anc_mochiyari_gumi_spear_bearer</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_kawari_kabuto</key>
+<localised_name>Armour Set: Kawari Kabuto</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_legendary_legendary_kabuto_of_ykok</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_legendary_kabuto_of_ykok</key>
+<localised_name>Armour Set of The Shogun</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_anc_mounted_scout</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_maeda_toshie</key>
+<localised_name>Armour Set: Maeda Toshie</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_anc_uma_jirushi_nobori_standard_bearer</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_morning_glory</key>
+<localised_name>Armour Set: Morning Glory</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_anc_lightweiught_gunjingura_war_saddle</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_multicolour_laced</key>
+<localised_name>Armour Set: Multicolour Laced</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_anc_camp_sickness</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_naoe_kanetsugu</key>
+<localised_name>Armour Set: Naoe Kanetsugu</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_anc_gokamon_bodyguard</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_oda_nobunaga</key>
+<localised_name>Armour Set: Oda Nobunaga</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_anc_portable_shrine</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_scale_cuirass</key>
+<localised_name>Armour Set: Scale Cuirass</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_anc_supply_wagon</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_silver_scale_cuirass</key>
+<localised_name>Armour Set: Silver Scale Cuirass</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_anc_scroll_of_inspirational_verse</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_sparse_point_laced</key>
+<localised_name>Armour Set: Sparse Point Laced</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_anc_gosha_odosama_samurai_priest</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_tokugawa_ieyasu</key>
+<localised_name>Armour Set: Tokugawa Ieyasu</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_anc_kacchu_mochi_armour_bearer</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_toyotomi_hideyoshi</key>
+<localised_name>Armour Set: Toyotomi Hideyoshi</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_anc_unbalanced_spears</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_triple_hollyhock</key>
+<localised_name>Armour Set: Triple Hollyhock</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_anc_loyal_fudai_shu_retainers</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_uesugi_kenshin</key>
+<localised_name>Armour Set: Uesugi Kenshin</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+<avatar_aesthetic_sets>
+<ancillary>mp_anc_expert_gun_instructor</ancillary>
+<icon_path>placeholder</icon_path>
+<key>armour_set_western_style</key>
+<localised_name>Armour Set: Western Style</localised_name>
+<product>shogun2</product>
+</avatar_aesthetic_sets>
+</dataroot>

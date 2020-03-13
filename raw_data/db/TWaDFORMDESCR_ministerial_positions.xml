@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaDFORMDESCR_ministerial_positions>
+<root>
+	<form_name>Ministerial Positions</form_name>
+	<rows>
+		<subform_table>
+			<table_name>ministerial_positions</table_name>
+			<new_button/>
+			<base_node/>
+			<record_switching>true</record_switching>
+			<filter_field>minister_key</filter_field>
+			<parent_table></parent_table>
+			<parent_field></parent_field>
+			<columns>
+				<static_text_field>Minister Key</static_text_field>
+				<text_edit_field>minister_key</text_edit_field>
+				<static_text_field>Rank</static_text_field>
+				<text_edit_field>rank</text_edit_field>
+			</columns>
+		</subform_table>
+		<rows>
+			<subform_table>
+				<static_text_field>Governorship?</static_text_field>
+				<table_name>ministerial_positions_to_governorships</table_name>
+				<new_button/>
+				<record_switching>false</record_switching>
+				<filter_field>ministerial_position</filter_field>
+				<parent_table>ministerial_positions</parent_table>
+				<parent_field>minister_key</parent_field>
+				<edit_grid>
+					<edit_grid_column name="Governorship">governorship</edit_grid_column>				  
+				</edit_grid>
+			</subform_table>
+		</rows>
+		<rows>
+			<subform_table>
+				<static_text_field>Default Names</static_text_field>
+				<table_name>ministerial_position_default_names</table_name>
+				<new_button/>
+				<record_switching>false</record_switching>
+				<filter_field>ministerial_position</filter_field>
+				<parent_table>ministerial_positions</parent_table>
+				<parent_field>minister_key</parent_field>
+				<edit_grid>
+					<edit_grid_column name="Gov Type">gov_type</edit_grid_column>
+					<edit_grid_column name="Default Name">default_name</edit_grid_column>			  
+				</edit_grid>
+			</subform_table>
+		</rows>
+		<rows>
+			<subform_table>
+				<static_text_field>Factional Names</static_text_field>
+				<table_name>ministerial_positions_by_gov_types</table_name>
+				<new_button/>
+				<record_switching>false</record_switching>
+				<filter_field>minister_key</filter_field>
+				<parent_table>ministerial_positions</parent_table>
+				<parent_field>minister_key</parent_field>
+				<edit_grid>
+					<edit_grid_column name="Faction">faction</edit_grid_column>
+					<edit_grid_column name="Government Type">government_type</edit_grid_column>
+					<edit_grid_column name="Onscreen Name">onscreen_name</edit_grid_column>		  
+				</edit_grid>
+			</subform_table>
+		</rows>
+	</rows>
+</root>
+	

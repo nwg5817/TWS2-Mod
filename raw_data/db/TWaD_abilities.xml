@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_abilities>
+<root>
+  <edit_uuid>2d5bef7c-4489-4cc1-9567-51ad60d2173e</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>ability</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>associated_attribute</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>agent_attributes</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>effect_text</name>
+    <field_type>memo</field_type>
+    <required>0</required>
+    <max_length>536870910</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>associated_cursor_mode</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>cursors</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>is_active</name>
+    <field_type>yesno</field_type>
+    <required>0</required>
+  </field>
+</root>

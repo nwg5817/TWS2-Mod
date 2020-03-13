@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_ministerial_position_default_names>
+<root>
+  <edit_uuid>b6d32b3d-98eb-46fc-819b-13ebae755407</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>ministerial_position</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>minister_key</column_source_column>
+    <column_source_table>ministerial_positions</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>gov_type</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>government_type</column_source_column>
+    <column_source_table>government_types</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>default_name</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+</root>

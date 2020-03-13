@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_units_to_exclusive_faction_permissions>
+<root>
+  <edit_uuid>7455386c-bc0f-4cce-addf-ae19b3100383</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>units</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>faction</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>factions</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>allowed</name>
+    <field_type>yesno</field_type>
+    <required>1</required>
+  </field>
+</root>

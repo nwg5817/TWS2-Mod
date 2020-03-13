@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_unit_drill_set_enum>
+<root>
+  <edit_uuid>4e522bd1-fd8f-401b-842b-6dd7dbebbd55</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>unit_drill_set</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+</root>

@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaDQUERY_start_pos_characters>
+<root>
+	<query_table>
+		<table>start_pos_factions</table>
+	</query_table>
+	<query_table>
+		<table>start_pos_faction_effects</table>
+	</query_table>
+	<table_join>
+		<join_type>inner</join_type>
+		<join_from_table>start_pos_faction_effects</join_from_table>
+		<join_from_field>start_pos_faction</join_from_field>
+		<join_to_table>start_pos_factions</join_to_table>
+		<join_to_field>ID</join_to_field>
+	</table_join>
+	<query_field>
+		<query_field_table>start_pos_factions</query_field_table>
+		<query_field_name>campaign</query_field_name>
+	</query_field>
+	<query_field>
+		<query_field_table>start_pos_factions</query_field_table>
+		<query_field_name>faction</query_field_name>
+	</query_field>
+	<query_field>
+		<query_field_table>start_pos_faction_effects</query_field_table>
+		<query_field_name>effect</query_field_name>
+	</query_field>
+	<query_field>
+		<query_field_table>start_pos_faction_effects</query_field_table>
+		<query_field_name>effect_value</query_field_name>
+	</query_field>
+</root>

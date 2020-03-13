@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_commodities_demand_drivers>
+<root>
+  <edit_uuid>a2a19040-6408-439b-9ec8-1fc88300fd63</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>demand_driver</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+</root>

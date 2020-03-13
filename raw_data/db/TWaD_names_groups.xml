@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_names_groups>
+<root>
+  <edit_uuid>067d91cf-f835-40c1-bd0c-dcd62371ec19</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>ID</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>Description</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+</root>

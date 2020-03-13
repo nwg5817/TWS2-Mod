@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_unrest_cause_to_demands>
+<root>
+  <edit_uuid>ef067e2f-b827-11e0-8001-6cf049ef02b0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>cause</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>cause</column_source_column>
+    <column_source_table>TExc_unrest_causes</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>level_of_unrest</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_fixed_value>strikes</column_source_fixed_value>
+    <column_source_fixed_value>riots</column_source_fixed_value>
+    <column_source_fixed_value>ultimatum</column_source_fixed_value>
+    <column_source_fixed_value>letter_of_demand</column_source_fixed_value>
+    <column_source_fixed_value>rebellion</column_source_fixed_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>demand</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>demand</column_source_column>
+    <column_source_table>TExc_unrest_demands</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>message</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>2000</max_length>
+    <column_source_column>event</column_source_column>
+    <column_source_table>message_event_strings</column_source_table>
+  </field>
+</root>

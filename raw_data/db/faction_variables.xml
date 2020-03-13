@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Fri 23. Sep 16:03:29 2011" revision="6" export_branch="C:/tw/branches/shogun2/boshin/shogun2/binaries" export_user="Alan.Blair">
+<edit_uuid>5b588fcd-3c45-46aa-93a5-2c066c0354b1</edit_uuid><faction_variables>
+<description>(NOT YET IN GAME) For the CAI aggression ramp, is a faction eligible. Default 1 (yes).</description>
+<faction_variable_key>gempei_cai_aggr_ramp_eligible</faction_variable_key>
+<value>1</value>
+</faction_variables>
+</dataroot>

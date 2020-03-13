@@ -1,0 +1,18 @@
+<!DOCTYPE TWaD_encyclopedia_pages>
+<root>
+<edit_uuid>98820380-bc05-11df-851a-0800200c9a66</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>component_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>65535</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>url</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>65535</max_length>
+  </field>
+</root>

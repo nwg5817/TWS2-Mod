@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Mon 27. Sep 14:00:42 2010" revision="2" export_branch="C:/TW/Tim.Gosling_TRISTAN_MOBILE/campaign/dev/shogun2/src" export_user="Tim.Gosling">
+<edit_uuid>c78298b8-f31a-4b05-b6db-fb688fa255e3</edit_uuid><cai_personalities_budget_context_types>
+<key>cai_pbct_mobilisation</key>
+</cai_personalities_budget_context_types>
+<cai_personalities_budget_context_types>
+<key>cai_pbct_peace</key>
+</cai_personalities_budget_context_types>
+<cai_personalities_budget_context_types>
+<key>cai_pbct_war</key>
+</cai_personalities_budget_context_types>
+</dataroot>

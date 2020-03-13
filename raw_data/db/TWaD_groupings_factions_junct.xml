@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_groupings_factions_junct>
+<root>
+  <edit_uuid>e14d6029-f26d-4053-ad2d-76242e8f0531</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>group</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>group_name</column_source_column>
+    <column_source_table>groupings</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>faction</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>factions</column_source_table>
+  </field>
+</root>

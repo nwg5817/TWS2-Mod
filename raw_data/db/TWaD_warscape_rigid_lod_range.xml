@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_warscape_rigid_lod_range>
+<root>
+  <edit_uuid>87498381-ce50-4c63-9330-f29ccbaf9b2a</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>LOD_id</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>range</name>
+    <field_type>integer</field_type>
+    <required>0</required>
+    <default_value>0</default_value>
+  </field>
+</root>

@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_campaign_character_anim_set_agent_junctions>
+<root>
+  <edit_uuid>a1105e31-4149-4bbf-86e7-67e7837942dc</edit_uuid>
+  <field>
+    <primary_key>0</primary_key>
+    <name>anim_set</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>campaign_character_anim_sets</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>agent_key</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>agents</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>culture_key</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>cultures</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>autonumber</field_type>
+    <required>1</required>
+  </field>
+</root>

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_TExc_unrest_demands>
+<root>
+  <edit_uuid>a048bce0-f570-4fb7-90be-a7d94a2678c7</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>demand</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+  </field>
+</root>

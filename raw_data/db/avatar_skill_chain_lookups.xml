@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Tue 29. Nov 10:43:46 2011" revision="9" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="James.Whitston">
+<edit_uuid>5c194107-4a65-47fc-9128-d1c2ef594b7a</edit_uuid><avatar_skill_chain_lookups>
+<localised_string>Bow Mastery</localised_string>
+<skill_chain>avatar_bow_skills</skill_chain>
+</avatar_skill_chain_lookups>
+<avatar_skill_chain_lookups>
+<localised_string>Melee Combat</localised_string>
+<skill_chain>avatar_combat_skills</skill_chain>
+</avatar_skill_chain_lookups>
+<avatar_skill_chain_lookups>
+<localised_string>Leadership</localised_string>
+<skill_chain>avatar_leadership_skills</skill_chain>
+</avatar_skill_chain_lookups>
+<avatar_skill_chain_lookups>
+<localised_string>Physical</localised_string>
+<skill_chain>avatar_physical_skills</skill_chain>
+</avatar_skill_chain_lookups>
+<avatar_skill_chain_lookups>
+<localised_string>Bushido</localised_string>
+<skill_chain>boshin_avatar_bushido_skills</skill_chain>
+</avatar_skill_chain_lookups>
+<avatar_skill_chain_lookups>
+<localised_string>Command</localised_string>
+<skill_chain>boshin_avatar_command_skills</skill_chain>
+</avatar_skill_chain_lookups>
+<avatar_skill_chain_lookups>
+<localised_string>Gunpowder</localised_string>
+<skill_chain>boshin_avatar_gunpowder_skills</skill_chain>
+</avatar_skill_chain_lookups>
+<avatar_skill_chain_lookups>
+<localised_string>Bow Ashigaru Skills</localised_string>
+<skill_chain>unit_bow_ashigaru_skills</skill_chain>
+</avatar_skill_chain_lookups>
+<avatar_skill_chain_lookups>
+<localised_string>Bow Cavalry Skills</localised_string>
+<skill_chain>unit_bow_cavalry_skills</skill_chain>
+</avatar_skill_chain_lookups>
+<avatar_skill_chain_lookups>
+<localised_string>Bow Skills</localised_string>
+<skill_chain>unit_bow_skills</skill_chain>
+</avatar_skill_chain_lookups>
+<avatar_skill_chain_lookups>
+<localised_string>Firebomb Skills</localised_string>
+<skill_chain>unit_cooking_pot_firebomb_skills</skill_chain>
+</avatar_skill_chain_lookups>
+<avatar_skill_chain_lookups>
+<localised_string>Firearm Cavalry Skills</localised_string>
+<skill_chain>unit_firearm_cav_skills</skill_chain>
+</avatar_skill_chain_lookups>
+<avatar_skill_chain_lookups>
+<localised_string>Matchlock Skills</localised_string>
+<skill_chain>unit_firearms_skills</skill_chain>
+</avatar_skill_chain_lookups>
+<avatar_skill_chain_lookups>
+<localised_string>Gatling Gun Skills</localised_string>
+<skill_chain>unit_gatling_skills</skill_chain>
+</avatar_skill_chain_lookups>
+<avatar_skill_chain_lookups>
+<localised_string>Light Cavalry Skills</localised_string>
+<skill_chain>unit_light_cavalry_skills</skill_chain>
+</avatar_skill_chain_lookups>
+<avatar_skill_chain_lookups>
+<localised_string>Light Infantry Skills</localised_string>
+<skill_chain>unit_light_inf_skills</skill_chain>
+</avatar_skill_chain_lookups>
+<avatar_skill_chain_lookups>
+<localised_string>Line Infantry Skills</localised_string>
+<skill_chain>unit_line_inf_skills</skill_chain>
+</avatar_skill_chain_lookups>
+<avatar_skill_chain_lookups>
+<localised_string>Melee Cavalry Skills</localised_string>
+<skill_chain>unit_melee_cavalry_skills</skill_chain>
+</avatar_skill_chain_lookups>
+<avatar_skill_chain_lookups>
+<localised_string>Warrior Monk Cavalry Skills</localised_string>
+<skill_chain>unit_monk_cav_skills</skill_chain>
+</avatar_skill_chain_lookups>
+<avatar_skill_chain_lookups>
+<localised_string>Siege Engine Skills</localised_string>
+<skill_chain>unit_siege_skills</skill_chain>
+</avatar_skill_chain_lookups>
+<avatar_skill_chain_lookups>
+<localised_string>Spear Skills</localised_string>
+<skill_chain>unit_spear_skills</skill_chain>
+</avatar_skill_chain_lookups>
+<avatar_skill_chain_lookups>
+<localised_string>Ninja Skills</localised_string>
+<skill_chain>unit_stealth_skills</skill_chain>
+</avatar_skill_chain_lookups>
+<avatar_skill_chain_lookups>
+<localised_string>Sword Skills</localised_string>
+<skill_chain>unit_sword_skills</skill_chain>
+</avatar_skill_chain_lookups>
+</dataroot>

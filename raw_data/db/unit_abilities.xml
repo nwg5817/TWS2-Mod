@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Tue 20. Dec 15:43:41 2011" revision="53" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Jack.Lusted">
+<edit_uuid>0dd50271-15ae-4f7a-b283-ed78ea471c73</edit_uuid><unit_abilities>
+<bullet_text>Stealth</bullet_text>
+<button_tooltip_text>Stealth||For a short duration, this enables a unit to hide on any ground type and remain hidden even while running.||While activated, it also provides a bonus to charge and melee attacks.</button_tooltip_text>
+<info_card_tooltip_text>This unit can become extremely stealthy for a short period of time, remaining hidden even when running. </info_card_tooltip_text>
+<key>active_hiding</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Anti-rally</bullet_text>
+<button_tooltip_text>Anti-rally</button_tooltip_text>
+<info_card_tooltip_text>Rally ability negatively affects morale of enemy units.</info_card_tooltip_text>
+<key>anti_rally</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Increased Accuracy</bullet_text>
+<button_tooltip_text>Targeted Fire||This increases accuracy for a short amount of time.||Once activated, there will be a cooling off period before the ability can be used again.</button_tooltip_text>
+<info_card_tooltip_text>This unit can increase its shooting accuracy for a short period of time.  </info_card_tooltip_text>
+<key>artillery_accuracy_boost</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Rate of Fire</bullet_text>
+<button_tooltip_text>Barrage||This increases the rate of fire for a short time.|| Once activated, there will be a cooling off period before the ability can be used again.</button_tooltip_text>
+<info_card_tooltip_text>This unit can increase its firing rate for a short period of time. </info_card_tooltip_text>
+<key>artillery_rof_boost</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Bamboo Wall </bullet_text>
+<info_card_tooltip_text>A large wall that can be erected during the deployment phase. It blocks the movement of enemies and protects against cavalry charges. </info_card_tooltip_text>
+<key>bamboo_wall</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Banzai</bullet_text>
+<button_tooltip_text>Banzai||This temporarily gives the unit unbreakable morale, plus an increase in movement speed and melee and charge attacks.||Once it has finished, the unit's speed, charge and melee attacks are greatly reduced for a short time.</button_tooltip_text>
+<info_card_tooltip_text>This unit can enter into a frenzied state for a short period of time, temporarily increasing its speed, charge and melee attacks, and making it unbreakable. </info_card_tooltip_text>
+<key>banzai</key>
+<requires_effect_enabling>1</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Banzai</bullet_text>
+<button_tooltip_text>Banzai||This temporarily gives the crew unbreakable morale, plus an increase in attack and defensive capabilities.</button_tooltip_text>
+<info_card_tooltip_text>This crew can enter into a frenzied state for a short period of time, temporarily increasing their morale, attack and defensive capabilities, making them unbreakable.</info_card_tooltip_text>
+<key>banzai_naval</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Battle Speed</bullet_text>
+<button_tooltip_text>Battle speed||This increases a ship's rowing speed for a short period of time.||Once activated, there will be a cooling off period before the ability can be used again.</button_tooltip_text>
+<info_card_tooltip_text>This increases a ship's rowing speed for a short period of time.</info_card_tooltip_text>
+<key>battle_speed_naval</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Blinding Grenades</bullet_text>
+<button_tooltip_text>Blinding Grenades||Blinding grenades disorientate the enemy, reducing their melee attacks, movement speed and drastically affecting their missile accuracy.</button_tooltip_text>
+<info_card_tooltip_text>This unit can use blinding grenades to disorientate the enemy, affecting their speed, combat ability and missile accuracy. </info_card_tooltip_text>
+<key>blinding_grenade</key>
+<requires_effect_enabling>1</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Swooping Crane </bullet_text>
+<button_tooltip_text>Swooping Crane||This arranges a cavalry unit into a moving, circular formation, enabling them to fire a constant rate of missiles at the enemy.||Because they are constantly moving, the horses will lose stamina while the ability is active.</button_tooltip_text>
+<info_card_tooltip_text>This unit can arrange itself into a moving circular formation, harrassing the enemy with a constant rate of fire.</info_card_tooltip_text>
+<key>cantabrian_circle</key>
+<requires_effect_enabling>1</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<key>chevaux_de_frise</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>1</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<key>column_formation</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Diamond Formation</bullet_text>
+<button_tooltip_text>Toggle diamond formation||Diamond formation allows your cavalry to change direction in a much more timely manner.||It also provides your cavalry units with a charge bonus.</button_tooltip_text>
+<info_card_tooltip_text>An evolution of the wedge formation, the diamond formation is even more effective at disrupting enemy formations</info_card_tooltip_text>
+<key>diamond_formation</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+<supersedes_ability>wedge_formation</supersedes_ability>
+</unit_abilities>
+<unit_abilities>
+<key>earthworks</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>1</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Encourage Fleet</bullet_text>
+<button_tooltip_text>Encourage Fleet||Some command ships can encourage other vessels within their area of influence, increasing their melee attack, reload skill and accuracy.||Once this ability has been activated, you will have to wait a while before using it again.</button_tooltip_text>
+<info_card_tooltip_text>Some command ships can encourage other vessels within their area of influence, increasing their melee attack, reload skill and accuracy.</info_card_tooltip_text>
+<key>encourage_fleet</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Fast Reload</bullet_text>
+<button_tooltip_text>Fast Reload||This increases reload skill for a short amount of time.||Once complete, reload skill is reduced for a short time.</button_tooltip_text>
+<info_card_tooltip_text>This increases the reload skill of a ship's crew for a short period of time.</info_card_tooltip_text>
+<key>faster_reload_naval</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Faster Rowing</bullet_text>
+<button_tooltip_text>Faster rowing||This increases a ship's rowing speed and lasts considerably longer than the battle speed ability.</button_tooltip_text>
+<info_card_tooltip_text>This increases a ship's rowing speed and lasts considerably longer than the battle speed ability.</info_card_tooltip_text>
+<key>faster_rowing</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Fire and Advance Drill</bullet_text>
+<button_tooltip_text>Toggle fire and advance mode||Fire and advance provides constant covering fire whilst still advancing on the enemy.||Due to the complicated nature of reloading and moving through the forward lines, fire in advance is a very slow moving advancing technique.</button_tooltip_text>
+<info_card_tooltip_text>This unit can advance by rank, claiming ground whilst maintaining a steady rate of fire</info_card_tooltip_text>
+<key>fire_and_advance</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<key>fire_mounted</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<key>fire_volley</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Flaming Arrows</bullet_text>
+<button_tooltip_text>Flaming Arrows||Flaming arrows are more powerful than normal arrows and can also cause flammable objects to catch fire, but are unusable in wet weather.||Once activated, there will be a cooling off period before the ability can be used again.</button_tooltip_text>
+<info_card_tooltip_text>This unit can fire flaming arrows for a short period of time. Flaming arrows have a greater damage effect and can set fire to flammable objects. Flaming arrows don't function in wet weather.</info_card_tooltip_text>
+<key>flaming_arrows_ability</key>
+<requires_effect_enabling>1</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Flaming Arrows</bullet_text>
+<button_tooltip_text>Flaming Arrows||Flaming arrows are more powerful than normal arrows and can also cause flammable objects to catch fire, but are unusable in wet weather.||Once activated, there will be a cooling off period before the ability can be used again.</button_tooltip_text>
+<info_card_tooltip_text>This unit can fire flaming arrows for a short period of time. Flaming arrows have a greater damage effect and can set fire to flammable objects. Flaming arrows don't function in wet weather.</info_card_tooltip_text>
+<key>flaming_arrows_extreme_range_ability</key>
+<requires_effect_enabling>1</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Flaming Arrows</bullet_text>
+<button_tooltip_text>Flaming Arrows||Flaming arrows are more powerful than normal arrows and can also cause flammable objects to catch fire, but are unusable in wet weather.||Once activated, there will be a cooling off period before the ability can be used again.</button_tooltip_text>
+<info_card_tooltip_text>This unit can fire flaming arrows for a short period of time. Flaming arrows have a greater damage effect and can set fire to flammable objects. Flaming arrows don't function in wet weather.</info_card_tooltip_text>
+<key>flaming_arrows_long_range_ability</key>
+<requires_effect_enabling>1</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Flaming Arrows</bullet_text>
+<button_tooltip_text>Flaming Arrows||Flaming arrows are more powerful than normal arrows and can also cause flammable objects to catch fire, but are unusable in wet weather.||Once activated, there will be a cooling off period before the ability can be used again.</button_tooltip_text>
+<info_card_tooltip_text>This unit can fire flaming arrows for a short period of time. Flaming arrows have a greater damage effect and can set fire to flammable objects. Flaming arrows don't function in wet weather.</info_card_tooltip_text>
+<key>flaming_arrows_naval</key>
+<requires_effect_enabling>1</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<key>fougasse_basic</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>1</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<key>fougasse_improved</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>1</stationary_for_turn>
+<supersedes_ability>fougasse_basic</supersedes_ability>
+</unit_abilities>
+<unit_abilities>
+<key>gabionade</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>1</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Ganbatte</bullet_text>
+<button_tooltip_text>Ganbatte||This ability greatly increases the general's area of influence, further boosting the morale of units and increasing their melee attack and rate of fire.</button_tooltip_text>
+<info_card_tooltip_text>This ability allows the general to encourage a single unit for a short period of time, further boosting their morale and greatly improving their accuracy and melee skills.</info_card_tooltip_text>
+<key>ganbatte</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Heroic Assault</bullet_text>
+<button_tooltip_text>Heroic Assault.||This boosts the morale and movement speed of nearby friendly units.||It also reduces their fatigue.</button_tooltip_text>
+<info_card_tooltip_text>This ability improves the morale and movement speed, and reduces the fatigue of nearby friendly units.</info_card_tooltip_text>
+<key>heroic_assault</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<key>improved_platoon_fire_grouped</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+<supersedes_ability>platoon_fire_grouped</supersedes_ability>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Inspire Unit</bullet_text>
+<button_tooltip_text>Inspire||Left-click this button, then left-click on a unit to inspire them.||This unit can choose to inspire a single unit for a short period of time, boosting their morale and greatly improving their marksmanship and melee skills.||Once this ability has been activated, you will have to wait a while before using it again.</button_tooltip_text>
+<info_card_tooltip_text>This unit can choose to inspire a single unit for a short period of time, boosting their morale and greatly improving their marksmanship and melee skills.</info_card_tooltip_text>
+<key>inspire_unit</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Kill Zone</bullet_text>
+<button_tooltip_text>Kill Zone||This ability improves the accuracy of this unit.||The firing arc is also reduced.</button_tooltip_text>
+<info_card_tooltip_text>This ability reduces this unit’s firing arc but greatly increases its accuracy.</info_card_tooltip_text>
+<key>kill_zone</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Kisho Training</bullet_text>
+<info_card_tooltip_text>This unit can be deployed outside of the deployment zone.</info_card_tooltip_text>
+<key>kisho_training</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Kneel Fire</bullet_text>
+<button_tooltip_text>Kneel Fire||This ability works when the unit is stationary.|| The first rank of this unit will kneel to allow the first two ranks to fire simultaneously.</button_tooltip_text>
+<info_card_tooltip_text>The first rank of this unit will kneel to allow the first two ranks to fire simultaneously.</info_card_tooltip_text>
+<key>kneel_fire_ability</key>
+<requires_effect_enabling>1</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Light Infantry Tactics</bullet_text>
+<button_tooltip_text>Toggle light infantry behaviour||Light infantry behaviour orders your troops to spread out and find cover.||This is very effective if your troops are under artillery fire.</button_tooltip_text>
+<info_card_tooltip_text>Spreading out to find cover helps to reduce casualties</info_card_tooltip_text>
+<key>light_infantry_behaviour</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<key>mass_fire</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+<supersedes_ability>fire_volley</supersedes_ability>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Overheat Engine </bullet_text>
+<button_tooltip_text>Overheat Engine||This temporarily increases a ship's speed but also the chance that its engine will explode.</button_tooltip_text>
+<info_card_tooltip_text>This increases a ship's speed for a short period of time.</info_card_tooltip_text>
+<key>overcharge_engine</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Screens</bullet_text>
+<info_card_tooltip_text>A shield that can be erected during the deployment phase when you are defending. It impedes the movement of enemies, and blocks enemy projectiles.</info_card_tooltip_text>
+<key>pavisse_deployable</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Yari Square Formation</bullet_text>
+<button_tooltip_text>Toggle spear square formation||This defensive formation is especially effective against cavalry charges.||While in this formation, the unit will be immobile and vulnerable to ranged attacks.</button_tooltip_text>
+<info_card_tooltip_text>The yari square is an immobile solid square of men presenting a wall of yari on all sides to deter cavalry attack.</info_card_tooltip_text>
+<key>pike_square_formation</key>
+<requires_effect_enabling>1</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Yari Wall</bullet_text>
+<button_tooltip_text>Toggle yari wall formation||This formation is effective against head on cavalry charges.||However, it is vulnerable to flanking manoeuvres.</button_tooltip_text>
+<info_card_tooltip_text>A tight-packed formation presenting a wall of yari to the front to deter enemy cavalry attack</info_card_tooltip_text>
+<key>pike_wall_formation</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<key>platoon_fire_grouped</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+<supersedes_ability>rank_fire</supersedes_ability>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Plug Bayonet</bullet_text>
+<button_tooltip_text>Toggle plug bayonets||Fixing bayonets allows units to engage in melee attacks.||Once plug bayonets are fixed the units can no longer fire their weapons.</button_tooltip_text>
+<info_card_tooltip_text>Provide melee bonuses, particularly against charging units, but prevent further firing once fixed</info_card_tooltip_text>
+<key>plug_bayonets</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Rally</bullet_text>
+<button_tooltip_text>Rally||This unit can rally troops within its area of influence, shown by the red circle.||All non-routing units within will receive a morale boost, while it will rally routing units. ||Once this ability has been activated, you will have to wait a while before using it again.</button_tooltip_text>
+<info_card_tooltip_text>This unit can rally troops within his area of influence.</info_card_tooltip_text>
+<key>rally</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Rally</bullet_text>
+<button_tooltip_text>Rally||This ship can rally crews within its area of influence, shown by the red circle.||All non-routing ships will receive a morale boost, while it will rally routing ships. ||Once this ability has been activated, you will have to wait a while before using it again.</button_tooltip_text>
+<info_card_tooltip_text>This ship can rally others within its area of influence.</info_card_tooltip_text>
+<key>rally_naval</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Regroup Position </bullet_text>
+<button_tooltip_text>Regroup Position||Left-click on this button, then left-click on the area of the battlefield where you want reinforcing or routing units to fall back to.||If you click outside of your general's area of influence he will automatically ride into range before placing the marker.</button_tooltip_text>
+<info_card_tooltip_text>This general can declare a rally position for withdrawing and routing units to pull back to, and reinforcing units to move towards.</info_card_tooltip_text>
+<key>rally_position</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Ramming</bullet_text>
+<button_tooltip_text>Ramming||This temporarily increases a ship's speed but decreases its manoeuvrability and switches off its avoidance capability.</button_tooltip_text>
+<info_card_tooltip_text>This ship can ram others, causing damage to both the enemy and itself.</info_card_tooltip_text>
+<key>ram_naval</key>
+<requires_effect_enabling>1</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Increased Range</bullet_text>
+<button_tooltip_text>Increased Range||For a short time, this increases the firing range of a unit.||Once activated, there will be a cooling off period before the ability can be used again.</button_tooltip_text>
+<info_card_tooltip_text>This temporarily increases a unit's firing range. </info_card_tooltip_text>
+<key>range_effect</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Fire by Rank</bullet_text>
+<button_tooltip_text>Toggle ranked fire ability||This forms a unit into rank from front to rear, each rank kneeling to reload and allowing those behind a clear field of fire.||While in this formation, they take longer to form up and fire.</button_tooltip_text>
+<info_card_tooltip_text>Will fire by rank from front to rear, each rank kneeling to reload and allowing those behind a clear field of fire.</info_card_tooltip_text>
+<key>rank_fire</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+<supersedes_ability>mass_fire</supersedes_ability>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Rapid Advance</bullet_text>
+<button_tooltip_text>Rapid Advance||This increases a unit's speed and charge bonus for a short period of time.||Once activated, there will be a cooling off period before the ability can be used again.</button_tooltip_text>
+<info_card_tooltip_text>Increases a unit's movement speed and charge bonus for a short period of time. </info_card_tooltip_text>
+<key>rapid_advance</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Rapid Volley</bullet_text>
+<button_tooltip_text>Rapid Volley||This increases a unit's rate of fire for a short period of time.||Once activated, there will be a cooling off period before the ability can be used again.</button_tooltip_text>
+<info_card_tooltip_text>Temporarily increases a unit's rate of fire.</info_card_tooltip_text>
+<key>rapid_volley</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<button_tooltip_text>Toggle ring bayonets||Fixing bayonets allows units to engage in melee attacks.||Ring bayonets allow units to continue firing after fixing bayonet. ||Due to their design, ring bayonets slow the reload times of your units.This makes for deadly close range combat.</button_tooltip_text>
+<key>ring_bayonets</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+<supersedes_ability>plug_bayonets</supersedes_ability>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Second Wind</bullet_text>
+<button_tooltip_text>Second Wind||This reduces fatigue of the activating unit and affects up to three units within its area of influence.||Once this ability has been activated, you will have to wait a while before using it again.</button_tooltip_text>
+<info_card_tooltip_text>This restores a portion of nearby units' stamina, allowing them to fight longer and harder.</info_card_tooltip_text>
+<key>second_wind</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Shrapnel Shot</bullet_text>
+<button_tooltip_text>Shrapnel Shot ||This shell explodes mid-air, sending deadly metal fragments down upon targeted enemy units.|| Once activated, there will be a cooling-off period before the ability can be used again.</button_tooltip_text>
+<info_card_tooltip_text>This shell explodes mid-air, sending deadly metal fragments down upon targeted enemy units. Once activated, there will be a cooling-off period before the ability can be used again.</info_card_tooltip_text>
+<key>shrapnel_shot</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Socket Bayonet</bullet_text>
+<info_card_tooltip_text>Provide melee bonuses, particularly against charging units.</info_card_tooltip_text>
+<key>socket_bayonets</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+<supersedes_ability>ring_bayonets</supersedes_ability>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Spear Square Formation</bullet_text>
+<button_tooltip_text>Toggle spear square formation||This defensive formation is especially effective against cavalry charges.||While in this formation, the unit will be immobile and vulnerable to ranged attacks.</button_tooltip_text>
+<info_card_tooltip_text>The spear square is an immobile solid square of men presenting a wall of spears on all sides to deter cavalry attack</info_card_tooltip_text>
+<key>square_formation</key>
+<requires_effect_enabling>1</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+<supersedes_ability>pike_square_formation</supersedes_ability>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Hold Firm</bullet_text>
+<button_tooltip_text>Hold Firm||This greatly increases defence ability and stops morale from dropping, making the unit, and up to three nearby units, unbreakable for a short time.||While activated, the units affected will have reduced speed.||Once this ability has been activated, you will have to wait a while before using it again.</button_tooltip_text>
+<info_card_tooltip_text>This temporarily increases defence ability and stops morale from dropping, making the unit, and up to three nearby units, unbreakable for a short time. </info_card_tooltip_text>
+<key>stand_firm</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Suppression Fire</bullet_text>
+<button_tooltip_text>Suppression Fire||This ability reduces accuracy and improves reload rate.||Enemy units hit whilst it is active will be slowed down and suffer a morale penalty.</button_tooltip_text>
+<info_card_tooltip_text>This ability increases reload rate but lowers accuracy. Enemy units hit by suppression fire are slowed and suffer a morale penalty.</info_card_tooltip_text>
+<key>suppression_fire</key>
+<requires_effect_enabling>1</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Increased Firing Speed</bullet_text>
+<button_tooltip_text>Faster Firing||This tower can briefly increase it's rate of fire</button_tooltip_text>
+<info_card_tooltip_text>This tower can briefly increase it's rate of fire</info_card_tooltip_text>
+<key>tower_faster_firing</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Fire Arrows</bullet_text>
+<button_tooltip_text>Fire Arrows||This tower can fire flaming arrows for a short period of time. Flaming arrows have a greater damage effect and can set fire to flammable objects.</button_tooltip_text>
+<info_card_tooltip_text>This tower can fire flaming arrows for a short period of time. Flaming arrows have a greater damage effect and can set fire to flammable objects.</info_card_tooltip_text>
+<key>tower_flaming_arrows</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Rapid Volley</bullet_text>
+<button_tooltip_text>Rapid Volley||Temporarily increases a towers rate of fire.</button_tooltip_text>
+<info_card_tooltip_text>Temporarily increases a towers rate of fire.</info_card_tooltip_text>
+<key>tower_rapid_volley</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Suppression Fire</bullet_text>
+<button_tooltip_text>Suppression Fire||This ability reduces accuracy and improves reload rate.||Enemy units hit whilst it is active will be slowed down and suffer a morale penalty.</button_tooltip_text>
+<info_card_tooltip_text>This ability increases reload rate but lowers accuracy. Enemy units hit by suppression fire are slowed and suffer a morale penalty.</info_card_tooltip_text>
+<key>tower_suppression_fire</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Warcry</bullet_text>
+<button_tooltip_text>Warcry||This affects up to four nearby enemy units, heavily reducing their morale, melee defence and speed.||Once this ability has been activated, you will have to wait a while before using it again.</button_tooltip_text>
+<info_card_tooltip_text>Warcry heavily demoralises up to four nearby enemy units, slowing them down and affecting their defence ability for a short time. </info_card_tooltip_text>
+<key>warcry</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Warcry</bullet_text>
+<button_tooltip_text>Warcry||This affects up to seven nearby enemy units, heavily reducing their morale, melee defence and speed.||Once this ability has been activated, you will have to wait a while before using it again.</button_tooltip_text>
+<info_card_tooltip_text>Warcry heavily demoralises up to seven nearby enemy units, slowing them down and affecting their defence ability for a short time. </info_card_tooltip_text>
+<key>warcry_naval</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Stand and Fight</bullet_text>
+<button_tooltip_text>Stand and Fight!||This greatly increases the general's area of influence, further increasing his morale boost of units within his area and increasing their melee attack and firing rate.||While activated, he cannot use his other abilities and is immobile and vulnerable to attack. </button_tooltip_text>
+<info_card_tooltip_text>The general dismounts and forms up with his bodyguard around him. All friendly units within a large area have their melee attack, firing rate and morale greatly increased, but the general himself is left immobile and vulnerable until the ability is deactivated.</info_card_tooltip_text>
+<key>we_stand_and_fight</key>
+<requires_effect_enabling>1</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Wedge Formation</bullet_text>
+<button_tooltip_text>Toggle wedge formation||Wedge formation improves the penetration of enemy lines, but will kill less enemies.</button_tooltip_text>
+<info_card_tooltip_text>Trained to charge in a wedge formation in order to better penetrate enemy formations</info_card_tooltip_text>
+<key>wedge_formation</key>
+<requires_effect_enabling>1</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Whistling Arrows</bullet_text>
+<button_tooltip_text>Whistling Arrows||Whistling arrows have a fearsome sound, adversely affecting the morale, melee attack and firing rate of all troops they fly over, friend or foe.||Once this ability has been activated, you will have to wait a while before using it again.</button_tooltip_text>
+<info_card_tooltip_text>Whistling arrows have an unsettling effect on both enemy and friendly troops, reducing their morale and combat ability for a short period when they fly over them.</info_card_tooltip_text>
+<key>whistling_arrows</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Whistling Arrows</bullet_text>
+<button_tooltip_text>Whistling Arrows||Whistling arrows have a fearsome sound, adversely affecting the morale, melee attack and firing rate of all troops they fly over, friend or foe.||Once this ability has been activated, you will have to wait a while before using it again.</button_tooltip_text>
+<info_card_tooltip_text>Whistling arrows have an unsettling effect on both enemy and friendly troops, reducing their morale and combat ability for a short period when they fly over them.</info_card_tooltip_text>
+<key>whistling_arrows_ability</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Whistling Arrows</bullet_text>
+<button_tooltip_text>Whistling Arrows||Whistling arrows have a fearsome sound, adversely affecting the morale, melee attack and firing rate of all troops they fly over, friend or foe.||Once this ability has been activated, you will have to wait a while before using it again.</button_tooltip_text>
+<info_card_tooltip_text>Whistling arrows have an unsettling effect on both enemy and friendly troops, reducing their morale and combat ability for a short period when they fly over them.</info_card_tooltip_text>
+<key>whistling_arrows_extreme_range_ability</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Whistling Arrows</bullet_text>
+<button_tooltip_text>Whistling Arrows||Whistling arrows have a fearsome sound, adversely affecting the morale, melee attack and firing rate of all troops they fly over, friend or foe.||Once this ability has been activated, you will have to wait a while before using it again.</button_tooltip_text>
+<info_card_tooltip_text>Whistling arrows have an unsettling effect on both enemy and friendly troops, reducing their morale and combat ability for a short period when they fly over them.</info_card_tooltip_text>
+<key>whistling_arrows_long_range_ability</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Whistling Arrows</bullet_text>
+<button_tooltip_text>Whistling Arrows||Whistling arrows have a fearsome sound, adversely affecting the morale, melee attack and firing rate of all crews they fly over, friend or foe.||Once this ability has been activated, you will have to wait a while before using it again.</button_tooltip_text>
+<info_card_tooltip_text>Whistling arrows have an unsettling effect on both enemy and friendly crews, reducing their morale and combat ability for a short period when they fly over them.</info_card_tooltip_text>
+<key>whistling_arrows_naval</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+<unit_abilities>
+<bullet_text>Stakes</bullet_text>
+<button_tooltip_text>Deploy Stakes||Deploying stakes provides a very effective barrier against cavalry charges.||Once deployed, stakes remain in place until the end of a battle, protecting the flanks of the army from cavalry attacks.</button_tooltip_text>
+<info_card_tooltip_text>Sharpened stakes can be used to deter enemy cavalry charges</info_card_tooltip_text>
+<key>wooden_stakes</key>
+<requires_effect_enabling>0</requires_effect_enabling>
+<stationary_for_turn>0</stationary_for_turn>
+</unit_abilities>
+</dataroot>

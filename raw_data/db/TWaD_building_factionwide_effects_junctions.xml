@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_building_factionwide_effects_junctions>
+<root>
+  <edit_uuid>20d9c372-fd47-4174-a9d4-a81a0cfd7f7e</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>building</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>level_name</column_source_column>
+    <column_source_table>building_levels</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>effect</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>effect</column_source_column>
+    <column_source_table>effects</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>effect_value</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+  </field>
+</root>

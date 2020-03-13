@@ -1,0 +1,2353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Tue 10. Jan 16:43:34 2012" revision="60" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Chris.Gambold">
+<edit_uuid>f6bad112-ad0f-4802-b887-8625b87c5298</edit_uuid><ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_veteran&quot;) and CampaignName(&quot;jap_boshin&quot;) and WorldwideAncillaryTypeExists(&quot;s2_anc_bosh_hovercraft_eels&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_bosh_hovercraft_eels_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and IsDaimyo() and [CharacterFactionName(&quot;gem_minamoto_kamakura&quot;) or CharacterFactionName(&quot;gem_minamoto_kiso&quot;)] and CampaignName(&quot;jap_gempei&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_daimyo_civil_judge_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and IsDaimyo() and [CharacterFactionName(&quot;gem_minamoto_kamakura&quot;) or CharacterFactionName(&quot;gem_minamoto_kiso&quot;)] and CampaignName(&quot;jap_gempei&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_daimyo_civil_secretary_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and IsDaimyo() and [CharacterFactionName(&quot;gem_taira_fukuhara&quot;) or CharacterFactionName(&quot;gem_taira_yashima&quot;)] and CampaignName(&quot;jap_gempei&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_daimyo_civil_servant_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and IsDaimyo() and not CharacterFactionName(&quot;gem_minamoto_kamakura&quot;) and not CharacterFactionName(&quot;gem_minamoto_kiso&quot;) and CampaignName(&quot;jap_gempei&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_daimyo_governor_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and IsDaimyo() and not CharacterHasAncillary(&quot;s2_anc_pdlc_daimyo_little_tea_pot_2&quot;) and not CharacterHasAncillary(&quot;s2_anc_pdlc_daimyo_little_tea_pot_3&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_daimyo_little_tea_pot_1_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and IsDaimyo() and not CharacterHasAncillary(&quot;s2_anc_pdlc_daimyo_little_tea_pot_1&quot;) and not CharacterHasAncillary(&quot;s2_anc_pdlc_daimyo_little_tea_pot_3&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_daimyo_little_tea_pot_2_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and IsDaimyo() and not CharacterHasAncillary(&quot;s2_anc_pdlc_daimyo_little_tea_pot_2&quot;) and not CharacterHasAncillary(&quot;s2_anc_pdlc_daimyo_little_tea_pot_1&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_daimyo_little_tea_pot_3_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2_anc_pdlc_daimyo_pet_tiger&quot;) == false and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_daimyo_pet_tiger_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and IsDaimyo() and [CharacterFactionName(&quot;gem_minamoto_kamakura&quot;) or CharacterFactionName(&quot;gem_minamoto_kiso&quot;)] and CampaignName(&quot;jap_gempei&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_daimyo_samurai_senior_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and IsDaimyo() and [CharacterFactionName(&quot;gem_minamoto_kamakura&quot;) or CharacterFactionName(&quot;gem_minamoto_kiso&quot;)] and CampaignName(&quot;jap_gempei&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_daimyo_vassal_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_general_bow_practice_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterHasAncillary(&quot;s2_anc_pdlc_general_bow_practice&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_general_bow_target_long_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterHasAncillary(&quot;s2_anc_pdlc_general_bow_practice&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_general_bow_target_medium_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterHasAncillary(&quot;s2_anc_pdlc_general_bow_practice&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_general_bow_target_short_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not CharacterFactionName(&quot;gem_minamoto_kamakura&quot;) and not CharacterFactionName(&quot;gem_minamoto_kiso&quot;) and CampaignName(&quot;jap_gempei&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_general_governor_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not CharacterFactionName(&quot;gem_minamoto_kamakura&quot;) and not CharacterFactionName(&quot;gem_minamoto_kiso&quot;) and CampaignName(&quot;jap_gempei&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_general_governor_zuryo_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and [CharacterFactionName(&quot;gem_minamoto_kamakura&quot;) or CharacterFactionName(&quot;gem_minamoto_kiso&quot;)] and not CharacterHasAncillary(&quot;s2_anc_pdlc_general_monk_enryaky_ji&quot;) and CampaignName(&quot;jap_gempei&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_general_mii_dera_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not CharacterHasAncillary(&quot;s2_anc_pdlc_general_mii_dera&quot;) and CampaignName(&quot;jap_gempei&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_general_monk_enryaky_ji_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_general_moon_carp_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not CharacterFactionName(&quot;ikko_ikki&quot;) and not CharacterHasAncillary(&quot;s2_anc_pdlc_general_poet_nihon&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_general_poet_chinese_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not CharacterFactionName(&quot;ikko_ikki&quot;) and not CharacterHasAncillary(&quot;s2_anc_pdlc_general_poet_chinese&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_general_poet_nihon_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_general_weapon_yoroi_toshi_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;)] and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_monk_follower_itako_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;)] and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_monk_follower_komuso_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;)] and not CharacterHasAncillary(&quot;s2_anc_pdlc_monk_follower_miko_tea&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_monk_follower_miko_spirit_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;)] and not CharacterHasAncillary(&quot;s2_anc_pdlc_monk_follower_miko_spirit&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_monk_follower_miko_tea_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;) or CharacterType(&quot;gempei_monk&quot;)] and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_monk_follower_ninja_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;)] and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_monk_follower_noble_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;)] and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_monk_follower_ronin_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;) or CharacterType(&quot;gempei_monk&quot;)] and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_monk_follower_yamahoshi_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;)] and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_monk_item_beads_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;) or CharacterType(&quot;gempei_monk&quot;)] and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_monk_item_bowl_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;)] and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_monk_item_cup_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;) or CharacterType(&quot;gempei_monk&quot;)] and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_monk_item_flute_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;)] and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_monk_item_lotus_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;)] and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_monk_item_rice_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;)] and FactionwideAncillaryTypeExists(&quot;s2_anc_pdlc_monk_origami&quot;) == false and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_monk_origami_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;)] and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_monk_pet_cat_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;)] and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_monk_pet_cricket_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;) or CharacterType(&quot;gempei_monk&quot;)] and WorldwideAncillaryTypeExists(&quot;s2_anc_pdlc_monk_relic_buddha_gold&quot;) == false and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_monk_relic_buddha_gold_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;) or CharacterType(&quot;gempei_monk&quot;)] and WorldwideAncillaryTypeExists(&quot;s2_anc_pdlc_monk_relic_dragon&quot;) == false and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_monk_relic_dragon_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;) or CharacterType(&quot;gempei_monk&quot;)] and FactionwideAncillaryTypeExists(&quot;s2_anc_pdlc_monk_relic_fuji_rock&quot;) == false and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_monk_relic_fuji_rock_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;)] and FactionwideAncillaryTypeExists(&quot;s2_anc_pdlc_monk_relic_heart_sutra&quot;) == false and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_monk_relic_heart_sutra_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;ikko_monk&quot;) and FactionwideAncillaryExists(&quot;s2_anc_pdlc_monk_relic_nembutsu&quot;) == false and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_monk_relic_nembutsu_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;)] and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_monk_relic_painting_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;) or CharacterType(&quot;gempei_monk&quot;)] and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_monk_relic_shugendo_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;) or CharacterType(&quot;gempei_monk&quot;)] and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_monk_weapon_bisento_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;) or CharacterType(&quot;gempei_monk&quot;)] and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_monk_weapon_bo_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;)] and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_monk_weapon_dagger_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;monk&quot;) and FactionwideAncillaryExists(&quot;s2_anc_pdlc_monk_zasu&quot;) == false and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_monk_zasu_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;ninja&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_ninja_disguise_monk_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;gempei_dancer&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_shirabyoshi_ceremonial_drum_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;gempei_dancer&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_shirabyoshi_ceremonial_flute_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;gempei_dancer&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_shirabyoshi_hand_fan_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;gempei_dancer&quot;) or CharacterType(&quot;geisha&quot;)] and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_shirabyoshi_kimono_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;gempei_dancer&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2_anc_pdlc_shirabyoshi_tachi_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;geisha&quot;) or CharacterType(&quot;gempei_dancer&quot;)] and not CharacterInHomeRegion() and FactionwideAncillaryTypeExists(&quot;s2anc_ainu_servant&quot;) == false and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_ainu_servant_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_armoured_war_dog_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsAdmiral() and FactionwideAncillaryTypeExists(&quot;s2anc_army_drummer&quot;) == false and not CharacterHasAncillary(&quot;s2anc_general_taiko_drummer&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_army_drummer_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not CharacterHasAncillary(&quot;s2anc_army_hero_samurai&quot;) and not CharacterHasAncillary(&quot;s2anc_army_hero_horse&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_army_hero_ashigaru_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsAdmiral() and not CharacterHasAncillary(&quot;s2anc_army_hero_samurai&quot;) and not CharacterHasAncillary(&quot;s2anc_army_hero_ashigaru&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_army_hero_horse_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not CampaignName(&quot;jap_boshin&quot;) and not CharacterHasAncillary(&quot;s2anc_army_hero_horse&quot;) and not CharacterAncillary(&quot;&quot;s2anc_army_hero_ashigaru&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_army_hero_samurai_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterFactionReligion(&quot;rel_catholic&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_artefact_armour_spanish&quot;) == false and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_armour_helmet_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterFactionReligion(&quot;rel_catholic&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_artefact_armour_spanish&quot;) == false and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_armour_spanish_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterFactionReligion(&quot;rel_catholic&quot;) and WorldwideAncillaryTypeExists(&quot;s2anc_artefact_banner_christian&quot;) == false and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_banner_christian_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterFactionReligion(&quot;rel_buddhist&quot;) and WorldwideAncillaryTypeExists(&quot;s2anc_artefact_banner_warlord&quot;) == false and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_banner_warlord_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;)] and not OnAWarFooting() and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_buddhist_beads_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;metsuke&quot;) or CharacterType(&quot;gempei_inspector&quot;)] and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_cards_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;metsuke&quot;) or CharacterType(&quot;gempei_inspector&quot;)] and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_chess_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;missionary&quot;) and OnAWarFooting() and CharacterFactionHasTechType(&quot;shogun_military_musket_teppo_mastery&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_christian_gun_1_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;missionary&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_artefact_christian_holy_water&quot;) == false and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_christian_holy_water_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;missionary&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_christian_psalter_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;missionary&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_artefact_christian_reliquary&quot;) == false and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_christian_reliquary_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;missionary&quot;) and OnAWarFooting() and  FactionwideAncillaryTypeExists(&quot;s2anc_artefact_christian_sword_1&quot;) == false and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_christian_sword_1_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;geisha&quot;) and OnAWarFooting() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_geisha_fan_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;geisha&quot;) and OnAWarFooting() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_geisha_poison_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_go_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterFactionHasTechType(&quot;shogun_military_musket_teppo_mastery&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_gun_dutch_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterInHomeRegion() and  WorldwideAncillaryTypeExists(&quot;s2anc_artefact_legend_armour&quot;) == false and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_legend_armour_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsAdmiral() and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_legend_bokken_2_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsAdmiral() and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_legend_bokken_3_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsAdmiral() and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_legend_bokken_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsAdmiral() and WorldwideAncillaryTypeExists(&quot;s2anc_artefact_legend_cuirass&quot;) == false and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_legend_cuirass_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsAdmiral() and WorldwideAncillaryTypeExists(&quot;s2anc_artefact_legend_greaves&quot;) == false and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_legend_greaves_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsAdmiral() and WorldwideAncillaryTypeExists(&quot;s2anc_artefact_legend_helmet&quot;) == false and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_legend_helmet_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and WorldwideAncillaryTypeExists(&quot;s2anc_artefact_legend_katana&quot;) == false and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_legend_katana_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsAdmiral() and WorldwideAncillaryTypeExists(&quot;s2anc_artefact_legend_kote&quot;) == false and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_legend_kote_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsAdmiral() and WorldwideAncillaryTypeExists(&quot;s2anc_artefact_legend_mask&quot;) == false and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_legend_mask_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and WorldwideAncillaryTypeExists(&quot;s2anc_artefact_legend_naginata&quot;) == false and CharacterRank() &gt;= 5 and not CharacterFactionName(&quot;ikko_ikki&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_legend_naginata_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;ninja&quot;) or CharacterType(&quot;gempei_spy&quot;)] and FactionwideAncillaryTypeExists(&quot;s2anc_artefact_legend_ninjato_1&quot;) == false and not CharacterHasAncillary(&quot;s2anc_artefact_legend_ninjato_2&quot;) and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_legend_ninjato_1_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;ninja&quot;) or CharacterType(&quot;gempei_spy&quot;)] and FactionwideAncillaryTypeExists(&quot;s2anc_artefact_legend_ninjato_2&quot;) == false and not CharacterHasAncillary(&quot;s2anc_artefact_legend_ninjato_1&quot;) and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_legend_ninjato_2_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;metsuke&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_artefact_legend_short_sword&quot;) == false and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_legend_short_sword_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;) or CharacterType(&quot;gempei_monk&quot;)] and WorldwideAncillaryTypeExists(&quot;s2anc_artefact_mirror_moon&quot;) == false and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_mirror_moon_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and WorldwideAncillaryTypeExists(&quot;s2anc_artefact_myth_sword_amateratsu&quot;) == false and not CharacterHasAncillary(&quot;s2anc_artefact_myth_sword_moon&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_myth_sword_amateratsu_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not CharacterInHomeRegion() and WorldwideAncillaryTypeExists(&quot;s2anc_artefact_myth_sword_moon&quot;) == false and not CharacterHasAncillary(&quot;s2anc_artefact_myth_sword_amateratsu&quot;) and CharacterHasTrait(&quot;S2_trait_general_mad&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_myth_sword_moon_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterFactionReligion(&quot;rel_catholic&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_artefact_myth_sword_spanish&quot;) == false and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_myth_sword_spanish_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;ninja&quot;) and not CharacterHasAncillary(&quot;s2anc_artefact_ninja_bombs&quot;) and not CharacterHasAncillary(&quot;s2anc_artefact_ninja_shuriken&quot;) and not CharacterHasAncillary(&quot;s2anc_artefact_ninja_tanto&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_ninja_blowpipe_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;ninja&quot;) and  not CharacterHasAncillary(&quot;s2anc_artefact_ninja_blowpipe&quot;) and not CharacterHasAncillary(&quot;s2anc_artefact_ninja_shuriken&quot;) and not CharacterHasAncillary(&quot;s2anc_artefact_ninja_tanto&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_ninja_bombs_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;ninja&quot;) or CharacterType(&quot;gempei_spy&quot;)] and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_ninja_disguise_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;ninja&quot;) or CharacterType(&quot;gempei_spy&quot;)] and  not CharacterHasAncillary(&quot;s2anc_artefact_ninja_blowpipe&quot;) and not CharacterHasAncillary(&quot;s2anc_artefact_ninja_bombs&quot;) and not CharacterHasAncillary(&quot;s2anc_artefact_ninja_tanto&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_ninja_shuriken_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;ninja&quot;) or CharacterType(&quot;gempei_spy&quot;)] and not CharacterHasAncillary(&quot;s2anc_artefact_ninja_bombs&quot;) and not CharacterHasAncillary(&quot;s2anc_artefact_ninja_shuriken&quot;) and not CharacterHasAncillary(&quot;s2anc_artefact_ninja_blowpipe&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_ninja_tanto_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;ninja&quot;) or CharacterType(&quot;gempei_spy&quot;)] and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_artefact_ninja_tiger_claws_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and CharacterInHomeRegion() and not IsAdmiral() and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_chamberlain_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>not IsAdmiral() and IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_chess_champion&quot;) == false and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_chess_champion_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>not IsAdmiral() and IsDaimyo() and  FactionwideAncillaryTypeExists(&quot;s2anc_crime_gambler&quot;) == false and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_crime_gambler_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;metsuke&quot;) or CharacterType(&quot;gempei_inspector&quot;)] and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_crime_ronin_kabukimono_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;metsuke&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_crime_yakuza_boss&quot;) == false and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_crime_yakuza_boss_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;metsuke&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_crime_yakuza_disgraced_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;metsuke&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_crime_yakuza_thug_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;ninja&quot;) or CharacterType(&quot;geisha&quot;) or CharacterType(&quot;gempei_spy&quot;)] and FactionwideAncillaryTypeExists(&quot;s2anc_espionage_assassin_chef_1&quot;) == false and not CharacterHasAncillary(&quot;s2anc_espionage_assassin_chef_2&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_espionage_assassin_chef_1_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;ninja&quot;) or CharacterType(&quot;geisha&quot;) or CharacterType(&quot;gempei_spy&quot;)] and FactionwideAncillaryTypeExists(&quot;s2anc_espionage_assassin_chef_2&quot;) == false and not CharacterHasAncillary(&quot;s2anc_espionage_assassin_chef_1&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_espionage_assassin_chef_2_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;metsuke&quot;) or CharacterType(&quot;gempei_inspector&quot;) or CharacterType(&quot;gempei_spy&quot;)] and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_espionage_chonin_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;) or CharacterType(&quot;gempei_inspector&quot;)] and OnAWarFooting() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_espionage_samurai_rude_2_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;ninja&quot;) or CharacterType(&quot;gempei_inspector&quot;)] and OnAWarFooting() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_espionage_samurai_rude_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;ninja&quot;) and OnAWarFooting() and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_espionage_samurai_show_off_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;General&quot;) or CharacterType(&quot;gempei_inspector&quot;)] and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_friend_boyhood_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_friend_drinker_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsAdmiral() and FactionwideAncillaryTypeExists(&quot;s2anc_friend_mentor_figure&quot;) == false and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_friend_mentor_figure_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;geisha&quot;) and not CharacterHasAncillary(&quot;s2anc_geisha_half_pay&quot;) and not CharacterHasAncillary(&quot;s2anc_geisha_hot_springs&quot;) and not CharacterHasAncillary(&quot;s2anc_geisha_waitress&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_geisha_dancer_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;geisha&quot;) and not CharacterHasAncillary(&quot;s2anc_geisha_dancer&quot;) and not CharacterHasAncillary(&quot;s2anc_geisha_hot_springs&quot;) and not CharacterHasAncillary(&quot;s2anc_geisha_waitress&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_geisha_half_pay_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;geisha&quot;) and not CharacterHasAncillary(&quot;s2anc_geisha_dancer&quot;) and not CharacterHasAncillary(&quot;s2anc_geisha_half_pay&quot;) and not CharacterHasAncillary(&quot;s2anc_geisha_waitress&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_geisha_hot_springs_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;geisha&quot;) and not CharacterHasAncillary(&quot;s2anc_geisha_half_pay&quot;) and not CharacterHasAncillary(&quot;s2anc_geisha_hot_springs&quot;) and not CharacterHasAncillary(&quot;s2anc_geisha_dancer&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_geisha_waitress_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_general_galloper_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_general_surgeon&quot;) == false and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_general_surgeon_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsAdmiral() and FactionwideAncillaryTypeExists(&quot;s2anc_taiko_drummer&quot;) == false and not CharacterHasAncillary(&quot;s2anc_army_drummer&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_general_taiko_drummer_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>not IsAdmiral() and IsDaimyo() and not CharacterHasAncillary(&quot;s2anc_government_merchant&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_government_merchant_2_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>not IsAdmiral() and IsDaimyo() and not CharacterHasAncillary(&quot;s2anc_government_merchant_2&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_government_merchant_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;)] and CharacterFactionName(&quot;ikko_ikki&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_government_rabblerouser_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_hero_boy&quot;) == false and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_hero_boy_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsAdmiral() and FactionwideAncillaryTypeExists(&quot;s2anc_household_biwa_hoshi_1&quot;) == false and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_household_biwa_hoshi_1_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>not IsAdmiral() and IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_household_biwa_hoshi_2&quot;) == false and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_household_biwa_hoshi_2_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>not IsAdmiral() and IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_household_chef_noodle&quot;) == false and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_household_chef_noodle_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>not IsAdmiral() and IsDaimyo() and CharacterInHomeRegion() and WorldwideAncillaryTypeExists(&quot;s2anc_household_chinese_courtier&quot;) == false and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_household_chinese_courtier_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>not IsAdmiral() and IsDaimyo() and CharacterInHomeRegion() and WorldwideAncillaryTypeExists(&quot;s2anc_household_chinese_false&quot;) == false and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_household_chinese_false_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_household_doctor_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_household_groom_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_household_guard_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;missionary&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_household_jesuit_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_household_koto_hoshi_1&quot;) == false and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_household_koto_hoshi_1_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_household_biwa_hoshi_2&quot;) == false and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_household_koto_hoshi_2_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;)] and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_household_mystic_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_household_treasurer&quot;) == false and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_household_treasurer_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and not IsAdmiral() and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_legend_army_architect_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_legend_army_armourer&quot;) == false and not IsAdmiral() and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_legend_army_armourer_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_legend_army_bowyer&quot;) == false and not IsAdmiral() and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_legend_army_bowyer_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_legend_army_castle_mason&quot;) == false and not IsAdmiral() and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_legend_army_castle_mason_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_legend_army_gunmaker&quot;) == false and (CharacterFactionHasTechType(&quot;shogun_military_musket_teppo_mastery&quot;) or CharacterFactionReligion(&quot;rel_catholic&quot;)] and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_legend_army_gunmaker_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_legend_army_iaijutsu&quot;) == false and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_legend_army_iaijutsu_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_legend_army_jujutsu&quot;) == false and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_legend_army_jujutsu_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_legend_army_kenjutsu&quot;) == false and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_legend_army_kenjutsu_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_legend_army_kobudo&quot;) == false and [CharacterFactionName(&quot;shimazu&quot;) or CharacterFactionName(&quot;ito&quot;) or CharacterFactionName(&quot;sagara&quot;)] and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_legend_army_kobudo_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_legend_army_kyudo&quot;) == false and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_legend_army_kyudo_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_legend_army_naginata&quot;) == false and CharacterRank() &gt;= 5 and not CharacterFactionName(&quot;ikko_ikki&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_legend_army_naginata_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_legend_army_smith&quot;) == false and not IsAdmiral() and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_legend_army_smith_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_legend_army_sojutsu&quot;) == false and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_legend_army_sojutsu_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_legend_army_yabusame&quot;) == false and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_legend_army_yabusame_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_legend_arts_bunraku&quot;) == false and not IsAdmiral() and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_legend_arts_bunraku_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_legend_arts_calligrapher&quot;) == false and not IsAdmiral() and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_legend_arts_calligrapher_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_legend_arts_go&quot;) == false and not IsAdmiral() and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_legend_arts_go_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_legend_arts_haiku&quot;) == false and not IsAdmiral() and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_legend_arts_haiku_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;geisha&quot;) and WorldwideAncillaryTypeExists(&quot;s2anc_legend_arts_kabuki&quot;) == false and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_legend_arts_kabuki_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_legend_arts_tea_ceremony&quot;) == false and CharacterHasAncillary(&quot;s2anc_master_arts_ceramics&quot;) and not IsAdmiral() and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_legend_arts_tea_ceremony_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_legend_espionage_ninja&quot;) == false and not IsAdmiral() and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_legend_espionage_ninja_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_legend_espionage_spy&quot;) == false and not IsAdmiral() and CharacterRank() &gt;= 5 and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_legend_espionage_spy_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterHasTrait(&quot;S2_trait_general_mad&quot;) and CharacterFactionReligion(&quot;rel_catholic&quot;) and not IsAdmiral() and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_madman_christian_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterHasTrait(&quot;S2_trait_general_mad&quot;) and CharacterFactionReligion(&quot;rel_buddhist&quot;) and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_madman_kappa_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterHasTrait(&quot;S2_trait_general_mad&quot;) and CharacterFactionReligion(&quot;rel_buddhist&quot;) and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_madman_kodama_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterHasTrait(&quot;S2_trait_general_mad&quot;) and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_madman_moon_rabbit_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterFactionReligion(&quot;rel_buddhist&quot;) and CharacterHasTrait(&quot;S2_trait_general_mad&quot;) and not IsAdmiral() and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_madman_tengu_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_master_army_architect&quot;) == false and not CharacterHasAncillary(&quot;s2anc_master_army_castle_mason&quot;) and not IsAdmiral() and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_master_army_architect_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_master_army_armourer&quot;) == false and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_master_army_armourer_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_master_army_bowyer&quot;) == false and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_master_army_bowyer_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_master_army_architect&quot;) == false and not CharacterHasAncillary(&quot;s2anc_master_army_architect&quot;) and not IsAdmiral() and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_master_army_castle_mason_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_master_army_gunmaker&quot;) == false and (CharacterFactionHasTechType(&quot;shogun_military_musket_teppo_mastery&quot;) or CharacterFactionReligion(&quot;rel_catholic&quot;)] and not IsAdmiral() and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_master_army_gunmaker_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_master_army_iaijutsu&quot;) == false and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_master_army_iaijutsu_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_master_army_jujutsu&quot;) == false and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_master_army_jujutsu_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_master_army_kenjutsu&quot;) == false and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_master_army_kenjutsu_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_master_army_kobudo&quot;) == false and [CharacterFactionName(&quot;shimazu&quot;) or CharacterFactionName(&quot;ito&quot;) or CharacterFactionName(&quot;sagara&quot;)] and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_master_army_kobudo_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_master_army_kyudo&quot;) == false and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_master_army_kyudo_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_master_army_naginata&quot;) == false and not CharacterFactionName(&quot;ikko_ikki&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_master_army_naginata_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_master_army_netsuke&quot;) == false and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_master_army_netsuke_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_master_army_smith&quot;) == false and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_master_army_smith_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_master_army_sojutsu&quot;) == false and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_master_army_sojutsu_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_master_army_yabusame&quot;) == false and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_master_army_yabusame_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_master_arts_bunraku&quot;) == false and not IsAdmiral() and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_master_arts_bunraku_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_master_arts_calligrapher&quot;) == false and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_master_arts_calligrapher_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_master_arts_ceramics&quot;) == false and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_master_arts_ceramics_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_master_arts_go_1&quot;) == false and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_master_arts_go_1_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_master_arts_go_2&quot;) == false and CharacterHasAncillary(&quot;s2anc_master_arts_go_1&quot;) and CharacterInHomeRegion() and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_master_arts_go_2_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_master_arts_haiku&quot;) == false and not IsAdmiral() and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_master_arts_haiku_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;geisha&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_master_arts_kabuki&quot;) == false and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_master_arts_kabuki_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and  FactionwideAncillaryTypeExists(&quot;s2anc_master_arts_tea_ceremony&quot;) == false and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_master_arts_tea_ceremony_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_master_espionage_ninja&quot;) == false and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_master_espionage_ninja_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_mistress_bodyguard&quot;) == false and not CharacterHasAncillary(&quot;s2anc_mistress_tart&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_christian&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_dangerous&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_fox&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_gorgeous&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_peasant&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_political&quot;) and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_mistress_bodyguard_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and CharacterFactionReligion(&quot;rel_catholic&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_mistress_christian&quot;) == false and not CharacterHasAncillary(&quot;s2anc_mistress_tart&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_bodyguard&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_dangerous&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_fox&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_gorgeous&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_peasant&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_political&quot;) and not IsAdmiral() and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_mistress_christian_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_mistress_dangerous&quot;) == false and not CharacterHasAncillary(&quot;s2anc_mistress_tart&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_bodyguard&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_fox&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_gorgeous&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_peasant&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_political&quot;) and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_mistress_dangerous_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_mistress_fox&quot;) == false and not CharacterHasAncillary(&quot;s2anc_mistress_tart&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_bodyguard&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_gorgeous&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_peasant&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_political&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_dangerous&quot;) and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_mistress_fox_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_mistress_gorgeous&quot;) == false and not CharacterHasAncillary(&quot;s2anc_mistress_tart&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_bodyguard&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_fox&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_peasant&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_political&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_dangerous&quot;) and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_mistress_gorgeous_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_mistress_peasant&quot;) == false and not CharacterHasAncillary(&quot;s2anc_mistress_tart&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_bodyguard&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_fox&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_gorgeous&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_political&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_dangerous&quot;) and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_mistress_peasant_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;General&quot;) or CharacterType(&quot;gempei_inspector&quot;)] and not IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_mistress_political&quot;) == false and not CharacterHasAncillary(&quot;s2anc_mistress_tart&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_bodyguard&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_fox&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_gorgeous&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_peasant&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_dangerous&quot;) and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_mistress_political_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_mistress_shrew&quot;) == false and not CharacterHasAncillary(&quot;s2anc_mistress_tart&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_bodyguard&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_christian&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_dangerous&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_fox&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_gorgeous&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_peasant&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_political&quot;) and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_mistress_shrew_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_mistress_tart&quot;) == false and not CharacterHasAncillary(&quot;s2anc_mistress_shrew&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_bodyguard&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_christian&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_dangerous&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_fox&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_gorgeous&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_peasant&quot;) and not CharacterHasAncillary(&quot;s2anc_mistress_political&quot;) and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_mistress_tart_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_musician_flute_lady_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and IsAdmiral() and CharacterFactionReligion(&quot;rel_catholic&quot;) and WorldwideAncillaryTypeExists(&quot;s2anc_navy_gaijin_1&quot;) == false and not CharacterHasAncillary(&quot;s2anc_navy_gaijin_2&quot;) and not CharacterHasAncillary(&quot;s2anc_navy_shipwreck_dutch&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_navy_gaijin_1_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and IsAdmiral() and CharacterFactionReligion(&quot;rel_catholic&quot;) and WorldwideAncillaryTypeExists(&quot;s2anc_navy_gaijin_2&quot;) == false and not CharacterHasAncillary(&quot;s2anc_navy_gaijin_1&quot;) and not CharacterHasAncillary(&quot;s2anc_navy_shipwreck_dutch&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_navy_gaijin_2_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and IsAdmiral() and FactionwideAncillaryTypeExists(&quot;s2anc_navy_pearl_fisherman&quot;) == false and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_navy_pearl_fisherman_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and IsAdmiral() and FactionwideAncillaryTypeExists(&quot;s2anc_navy_pilot&quot;) == false and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_navy_pilot_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and IsAdmiral() and FactionwideAncillaryTypeExists(&quot;s2anc_navy_pirate_chinese&quot;) == false and not CharacterHasAncillary(&quot;s2anc_navy_pirate_nihon&quot;) and not CharacterHasAncillary(&quot;s2anc_navy_pirate_okinawa&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_navy_pirate_chinese_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and IsAdmiral() and FactionwideAncillaryTypeExists(&quot;s2anc_navy_pirate_nihon&quot;) == false and not CharacterHasAncillary(&quot;s2anc_navy_pirate_chinese&quot;) and not CharacterHasAncillary(&quot;s2anc_navy_pirate_okinawa&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_navy_pirate_nihon_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and IsAdmiral() and FactionwideAncillaryTypeExists(&quot;s2anc_navy_pirate_okinawa&quot;) == false and not CharacterHasAncillary(&quot;s2anc_navy_pirate_chinese&quot;) and not CharacterHasAncillary(&quot;s2anc_navy_pirate_nihon&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_navy_pirate_okinawa_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and IsAdmiral() and WorldwideAncillaryTypeExists(&quot;s2anc_navy_shipwreck_dutch&quot;) == false and not CharacterHasAncillary(&quot;s2anc_navy_gaijin_1&quot;) and not CharacterHasAncillary(&quot;s2anc_navy_gaijin_2&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_navy_shipwreck_dutch_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_pet_carp_1&quot;) == false and not CharacterHasAncillary(&quot;s2anc_pet_carp_2&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_pet_carp_1_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_pet_carp_2&quot;) == false and not CharacterHasAncillary(&quot;s2anc_pet_carp_1&quot;) and CharacterHasTrait(&quot;S2_trait_daimyo_cruel&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_pet_carp_2_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;gempei_inspector&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_pet_hunting_dog_gempei_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;metsuke&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_pet_hunting_dog_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;) or CharacterType(&quot;gempei_monk&quot;)] and FactionwideAncillaryTypeExists(&quot;s2anc_pet_monkey&quot;) == false and not CharacterHasAncillary(&quot;s2anc_pet_monkey_2&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_pet_monkey_1_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;)] and FactionwideAncillaryTypeExists(&quot;s2anc_pet_monkey_2&quot;) == false and not CharacterHasAncillary(&quot;s2anc_pet_monkey&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_pet_monkey_2_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;)] and not CharacterHasAncillary(&quot;s2anc_religion_buddhist_nun&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_religion_buddhist_monk_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;monk&quot;) or CharacterType(&quot;ikko_monk&quot;)] and not CharacterHasAncillary(&quot;s2anc_religion_buddhist_monk&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_religion_buddhist_nun_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;missionary&quot;) and FactionLeadersTrait(&quot;S2_trait_daimyo_cruel&quot;) &gt; 1 and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_religion_christian_agent_2_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;missionary&quot;) and FactionLeadersTrait(&quot;S2_trait_daimyo_cruel&quot;) &gt;= 1 and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_religion_christian_agent_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;missionary&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_religion_christian_confessor_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;missionary&quot;) and not CharacterInBuildingOfChain(&quot;SHO_Christian&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_religion_christian_convert_1&quot;) == false and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_religion_christian_convert_1_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;missionary&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_religion_christian_convert_2&quot;) == false and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_religion_christian_convert_2_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;missionary&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_religion_christian_convert_3_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;missionary&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_religion_christian_convert_4_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;missionary&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_religion_christian_firebrand_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;missionary&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_religion_christian_notary_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_samurai_2_swords&quot;) == false and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_samurai_2_swords_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_samurai_7_1&quot;) == false and not IsAdmiral() and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_samurai_7_1_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_samurai_7_2&quot;) == false and not IsAdmiral() and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_samurai_7_2_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_samurai_7_3&quot;) == false and not IsAdmiral() and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_samurai_7_3_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_samurai_7_4&quot;) == false and not IsAdmiral() and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_samurai_7_4_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_samurai_7_5&quot;) == false and not IsAdmiral() and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_samurai_7_5_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_samurai_7_6&quot;) == false and not IsAdmiral() and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_samurai_7_6_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and not IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_samurai_7_7&quot;) == false and not IsAdmiral() and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_samurai_7_7_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;metsuke&quot;) or CharacterType(&quot;gempei_inspector&quot;)] and OnAWarFooting() and FactionwideAncillaryTypeExists(&quot;s2anc_samurai_killer&quot;) == false and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_samurai_killer_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_silly_time_tunnel_1&quot;) == false and RandomPercentCampaign(1) and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_silly_time_tunnel_1_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_silly_time_tunnel_2&quot;) == false and RandomPercentCampaign(1) and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_silly_time_tunnel_2_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;boshin_shinsengumi&quot;) or CharacterType(&quot;boshin_ishinshishi&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_animal_dog_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_animal_horse_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_binoculars_military_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_binoculars_opera_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_book_20k_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_book_almanac_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_book_artillery_handbook_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_book_dickens_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_book_king_james_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_book_on_war_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_book_pulp_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_book_rights_of_man_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_book_uncle_tom_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;boshin_shinsengumi&quot;) or CharacterType(&quot;boshin_ishinshishi&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_burakumin_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsAdmiral() and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_clock_marine_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_clock_myriad_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_clock_watch_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and [CharacterFactionName(&quot;bos_nagaoka&quot;) or CharacterFactionName(&quot;bos_aizu&quot;) or CharacterFactionName(&quot;bos_jozai&quot;) or CharacterFactionName(&quot;bos_sendai&quot;) or CharacterFactionName(&quot;bos_obama&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_doctor_euro_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and [CharacterFactionName(&quot;bos_tosa&quot;) or CharacterFactionName(&quot;bos_choshu&quot;) or CharacterFactionName(&quot;bos_satsuma&quot;) or CharacterFactionName(&quot;bos_ueno&quot;) or CharacterFactionName(&quot;bos_saga&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_doctor_jp_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and [CharacterFactionName(&quot;bos_nagaoka&quot;) or CharacterFactionName(&quot;bos_aizu&quot;) or CharacterFactionName(&quot;bos_jozai&quot;) or CharacterFactionName(&quot;bos_sendai&quot;) or CharacterFactionName(&quot;bos_obama&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_doctor_surgeon_euro_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and [CharacterFactionName(&quot;bos_tosa&quot;) or CharacterFactionName(&quot;bos_choshu&quot;) or CharacterFactionName(&quot;bos_satsuma&quot;) or CharacterFactionName(&quot;bos_ueno&quot;) or CharacterFactionName(&quot;bos_saga&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_doctor_surgeon_jp_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;boshin_shinsengumi&quot;) or CharacterType(&quot;boshin_ishinshishi&quot;)] and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_ed_the_cat&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_ed_the_cat_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and [CharacterFactionName(&quot;bos_nagaoka&quot;) or CharacterFactionName(&quot;bos_aizu&quot;) or CharacterFactionName(&quot;bos_jozai&quot;) or CharacterFactionName(&quot;bos_sendai&quot;) or CharacterFactionName(&quot;bos_obama&quot;)] and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_foreign_botanist&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_foreign_botanist_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_foreign_journo_2&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_foreign_journo_2_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and [CharacterFactionName(&quot;bos_tosa&quot;) or CharacterFactionName(&quot;bos_choshu&quot;) or CharacterFactionName(&quot;bos_satsuma&quot;) or CharacterFactionName(&quot;bos_ueno&quot;) or CharacterFactionName(&quot;bos_saga&quot;)] and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_foreign_journo_3&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_foreign_journo_3_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and [CharacterFactionName(&quot;bos_nagaoka&quot;) or CharacterFactionName(&quot;bos_aizu&quot;) or CharacterFactionName(&quot;bos_jozai&quot;) or CharacterFactionName(&quot;bos_sendai&quot;) or CharacterFactionName(&quot;bos_obama&quot;)] and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_foreign_journo_4&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_foreign_journo_4_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_foreign_journo&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_foreign_journo_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_foreign_servant_uk_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_veteran&quot;) and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_foreign_tourist_2&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_foreign_tourist_2_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_veteran&quot;) and CharacterIsOfBritishOrigin() and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_foreign_tourist&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_foreign_tourist_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;boshin_shinsengumi&quot;) or CharacterType(&quot;boshin_ishinshishi&quot;) or CharacterType(&quot;boshin_shinobi&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_game_cards_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_game_shogi&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_game_shogi_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_geisha&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_geisha_danna_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_geisha&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_geisha_hangyoku_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;boshin_shinobi&quot;) or CharacterType(&quot;boshin_shinsengumi&quot;) or CharacterType(&quot;boshin_ishinshishi&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_geisha_maiko_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_geisha&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_geisha_o_shoku_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_veteran&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_geisha_onsen_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_geisha&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_geisha_shamisen_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_veteran&quot;) and CharacterIsOfBritishOrigin() and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_gun_adams&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_gun_adams_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_veteran&quot;) and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_gun_colt_navy&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_gun_colt_navy_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;boshin_veteran&quot;) or CharacterType(&quot;boshin_shinobi&quot;) or CharacterType(&quot;boshin_ishinshishi&quot;) or CharacterType(&quot;boshin_shinsengumi&quot;) or CharacterType(&quot;boshin_geisha&quot;) or CharacterType(&quot;General&quot;)] and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_gun_deringer&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_gun_deringer_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_veteran&quot;) and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_gun_dreyse&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_gun_dreyse_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;bos_veteran&quot;) and CharacterIsOfBritishOrigin() and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_gun_elephant&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_gun_elephant_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_veteran&quot;) and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_gun_gewehr_muzzleloader&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_gun_gewehr_muzzleloader_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_veteran&quot;) and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_gun_lancaster&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_gun_lancaster_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_veteran&quot;) and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_gun_martini_henry&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_gun_martini_henry_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_veteran&quot;) and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_gun_matchlock&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_gun_matchlock_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_veteran&quot;) and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_gun_mauser_71&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_gun_mauser_71_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;bos_veteran&quot;) and CharacterIsOfFrenchOrigin() and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_gun_minie&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_gun_minie_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_veteran&quot;) and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_gun_model_1866&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_gun_model_1866_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_veteran&quot;) and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_gun_musketoon&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_gun_musketoon_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_veteran&quot;) and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_gun_sandw_2&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_gun_sandw_2_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_veteran&quot;) and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_gun_snider&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_gun_snider_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;bos_veteran&quot;) and CharacterIsOfAmericanOrigin() and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_gun_spencer&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_gun_spencer_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;bos_veteran&quot;) and CharacterIsOfAmericanOrigin() and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_gun_springfield&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_gun_springfield_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_gun_volcanic&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_gun_volcanic_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_veteran&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_iem_cigarillo_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_geisha&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_absinthe_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryType(&quot;s2anc_sp_bosh_item_balloon&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_balloon_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_bike_early_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_binocs_artillery_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_veteran&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_camera_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_geisha&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_champagne_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;boshin_shinobi&quot;) or CharacterType(&quot;boshin_shinsengumi&quot;) or CharacterType(&quot;boshin_ishinshishi&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_chloroform_killer_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_geisha&quot;) and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryType(&quot;s2anc_sp_bosh_item_condom&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_condom_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;boshin_shinobi&quot;) or CharacterType(&quot;boshin_shinsengumi&quot;) or CharacterType(&quot;boshin_ishinshishi&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_fan_killer_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;bos_veteran&quot;) and CharacterIsOfBritishOrigin() and CampaignName(&quot;jap_boshin&quot;) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_item_fintry&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_fintry_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsAdmiral() and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_flag_semaphore_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_flag_wig_wag_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_food_bovril_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;boshin_shinsengumi&quot;) or CharacterType(&quot;boshin_ishinshishi&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_game_bat_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_game_chess_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_game_cricket_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_game_go_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;bos_veteran&quot;) and not CharacterIsOfAmericanOrigin() and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_game_golf_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and [CharacterFactionName(&quot;bos_tosa&quot;) or CharacterFactionName(&quot;bos_choshu&quot;) or CharacterFactionName(&quot;bos_satsuma&quot;) or CharacterFactionName(&quot;bos_ueno&quot;) or CharacterFactionName(&quot;bos_saga&quot;)] and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_item_game_tennis&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_game_tennis_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_glasses_smoked_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_item_globe&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_globe_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_geisha&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_hand_warmer_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_item_mech_puppet&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_mech_puppet_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_medical_chloroform_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_medical_stethoscope_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_microscope_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_music_accordian_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_music_euphonium_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_music_piano_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsAdmiral() and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_navy_diving_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsAdmiral() and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_navy_sextant_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;boshin_shinobi&quot;) or CharacterType(&quot;boshin_shinsengumi&quot;) or CharacterType(&quot;boshin_ishinshishi&quot;) or CharacterType(&quot;boshin_geisha&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_optic_telescope_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_pen_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_phonograph_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;boshin_shinobi&quot;) or CharacterType(&quot;boshin_shinsengumi&quot;) or CharacterType(&quot;boshin_ishinshishi&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_pipe_opium_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;boshin_shinobi&quot;) or CharacterType(&quot;boshin_shinsengumi&quot;) or CharacterType(&quot;boshin_ishinshishi&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_poisons_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;bos_veteran&quot;) and CharacterIsOfFrenchOrigin() and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_pong_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_prussian_spikey_hat_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_razor_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_sabre_cav_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_scotch_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;boshin_shinobi&quot;) or CharacterType(&quot;boshin_shinsengumi&quot;) or CharacterType(&quot;boshin_ishinshishi&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_skate_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_slide_rule_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;boshin_shinobi&quot;) or CharacterType(&quot;boshin_shinsengumi&quot;) or CharacterType(&quot;boshin_ishinshishi&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_snuff_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_geisha&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_soap_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_sword_bokken_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_theodolite_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;bos_veteran&quot;) and CharacterIsOfBritishOrigin() and CampaignName(&quot;jap_boshin&quot;) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_item_umbrella_sword&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_umbrella_sword_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and [CharacterFactionName(&quot;bos_tosa&quot;) or CharacterFactionName(&quot;bos_choshu&quot;) or CharacterFactionName(&quot;bos_satsuma&quot;) or CharacterFactionName(&quot;bos_ueno&quot;) or CharacterFactionName(&quot;bos_saga&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_vicky_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_weapon_bayonet_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterFactionName(&quot;bos_satsuma&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_wig_black_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterFactionName(&quot;bos_tosa&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_wig_red_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterFactionName(&quot;bos_choshu&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_item_wig_white_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and [CharacterFactionName(&quot;bos_nagaoka&quot;) or CharacterFactionName(&quot;bos_aizu&quot;) or CharacterFactionName(&quot;bos_jozai&quot;) or CharacterFactionName(&quot;bos_sendai&quot;) or CharacterFactionName(&quot;bos_obama&quot;)] and CampaignName(&quot;jap_boshin&quot;) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_legend_armour&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_legend_armour_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_legend_biwa&quot;) == false and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_legend_biwa&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_legend_biwa_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and [CharacterFactionName(&quot;bos_nagaoka&quot;) or CharacterFactionName(&quot;bos_aizu&quot;) or CharacterFactionName(&quot;bos_jozai&quot;) or CharacterFactionName(&quot;bos_sendai&quot;) or CharacterFactionName(&quot;bos_obama&quot;)] and CampaignName(&quot;jap_boshin&quot;) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_legend_do&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_legend_do_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_legend_flag&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_legend_flag_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_legend_go&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_legend_go_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_legend_haiku&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_legend_haiku_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and [CharacterFactionName(&quot;bos_nagaoka&quot;) or CharacterFactionName(&quot;bos_aizu&quot;) or CharacterFactionName(&quot;bos_jozai&quot;) or CharacterFactionName(&quot;bos_sendai&quot;) or CharacterFactionName(&quot;bos_obama&quot;)] and CampaignName(&quot;jap_boshin&quot;) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_legend_kabuto&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_legend_kabuto_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_legend_sword&quot;) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_legend_katana&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_legend_katana_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and [CharacterFactionName(&quot;bos_nagaoka&quot;) or CharacterFactionName(&quot;bos_aizu&quot;) or CharacterFactionName(&quot;bos_jozai&quot;) or CharacterFactionName(&quot;bos_sendai&quot;) or CharacterFactionName(&quot;bos_obama&quot;)] and CampaignName(&quot;jap_boshin&quot;) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_legend_ninjato&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_legend_kote_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_legend_koto&quot;) == false and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_legend_kote&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_legend_koto_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and [CharacterFactionName(&quot;bos_nagaoka&quot;) or CharacterFactionName(&quot;bos_aizu&quot;) or CharacterFactionName(&quot;bos_jozai&quot;) or CharacterFactionName(&quot;bos_sendai&quot;) or CharacterFactionName(&quot;bos_obama&quot;)] and CampaignName(&quot;jap_boshin&quot;) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_legend_menpo&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_legend_menpo_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_legend_ninja&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_legend_ninja_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_shinobi&quot;) and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_ninja_tanto&quot;) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_legend_ninjato&quot;) == false and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_legend_ninjato&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_legend_ninjato_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_legend_spy&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_legend_spy_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and [CharacterFactionName(&quot;bos_nagaoka&quot;) or CharacterFactionName(&quot;bos_aizu&quot;) or CharacterFactionName(&quot;bos_jozai&quot;) or CharacterFactionName(&quot;bos_sendai&quot;) or CharacterFactionName(&quot;bos_obama&quot;)] and CampaignName(&quot;jap_boshin&quot;) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_legend_suneate&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_legend_suneate_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_legend_katana&quot;) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_legend_sword&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_legend_sword_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_legend_tea&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_legend_tea_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_veteran&quot;) and CharacterIsOfAmericanOrigin() and CampaignName(&quot;jap_boshin&quot;) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_lone_arranger&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_lone_arranger_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_master_blade&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_master_blade_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_master_go&quot;) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_master_go_2&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_master_go_2_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_master_go_2&quot;) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_master_go&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_master_go_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_master_iaijutsu&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_master_iaijutsu_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_master_jujutsu&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_master_jujutsu_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_master_kenjutsu&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_master_kenjutsu_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_master_kyudo&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_master_kyudo_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_shinobi&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_master_ninjutsu_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_master_sojutsu&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_master_sojutsu_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_master_tea&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_master_tea_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_mercenary_csa_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_europe&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_foxy&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_gorgeous&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_joro&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_soldier&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_common&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_discreet&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_mistress_ambitious_2&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_mistress_ambitious_2_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_europe&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_foxy&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_gorgeous&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_joro&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_soldier&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_ambitious_2&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_discreet&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_mistress_common&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_mistress_common_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_europe&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_foxy&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_gorgeous&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_joro&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_soldier&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_ambitious_2&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_common&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_mistress_discreet&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_mistress_discreet_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_shinsengumi&quot;) and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_mistress_europe_strict&quot;) == false and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_mistress_ambitious_2&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_mistress_europe_strict_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_gorgeous&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_foxy&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_joro&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_soldier&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_ambitious_2&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_common&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_discreet&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_mistress_europe&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_mistress_europe_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_europe&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_gorgeous&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_joro&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_soldier&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_ambitious_2&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_common&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_discreet&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_mistress_foxy&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_mistress_foxy_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_europe&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_foxy&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_joro&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_soldier&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_ambitious_2&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_common&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_discreet&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_mistress_gorgeous&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_mistress_gorgeous_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_europe&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_foxy&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_gorgeous&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_soldier&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_ambitious_2&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_common&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_discreet&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_mistress_joro&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_mistress_joro_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_europe&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_foxy&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_gorgeous&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_joro&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_ambitious_2&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_common&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_mistress_discreet&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_mistress_soldier&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_mistress_soldier_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_modernist_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_veteran&quot;) and CampaignName(&quot;jap_boshin&quot;) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_mummified_mermaid&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_mummified_mermaid_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_music_drums&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_music_drums_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_music_flute_player_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsAdmiral() and [CharacterFactionName(&quot;bos_nagaoka&quot;) or CharacterFactionName(&quot;bos_aizu&quot;) or CharacterFactionName(&quot;bos_jozai&quot;) or CharacterFactionName(&quot;bos_sendai&quot;) or CharacterFactionName(&quot;bos_obama&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_naval_builder_fr_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsAdmiral() and [CharacterFactionName(&quot;bos_tosa&quot;) or CharacterFactionName(&quot;bos_choshu&quot;) or CharacterFactionName(&quot;bos_satsuma&quot;) or CharacterFactionName(&quot;bos_ueno&quot;) or CharacterFactionName(&quot;bos_saga&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_naval_builder_uk_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_shinobi&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_ninja_blowpipe_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;boshin_shinobi&quot;) or CharacterType(&quot;boshin_shinsengumi&quot;) or CharacterType(&quot;boshin_ishinshishi&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_ninja_chef_fugu_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;boshin_shinobi&quot;) or CharacterType(&quot;boshin_shinsengumi&quot;) or CharacterType(&quot;boshin_ishinshishi&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_ninja_chef_sushi_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_shinobi&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_ninja_claws_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;boshin_shinobi&quot;) or CharacterType(&quot;boshin_shinsengumi&quot;) or CharacterType(&quot;boshin_ishinshishi&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_ninja_disguise_fish_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;boshin_shinobi&quot;) or CharacterType(&quot;boshin_shinsengumi&quot;) or CharacterType(&quot;boshin_ishinshishi&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_ninja_disguise_gaijin_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;boshin_shinobi&quot;) or CharacterType(&quot;boshin_shinsengumi&quot;) or CharacterType(&quot;boshin_ishinshishi&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_ninja_disguise_geisha_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;boshin_shinobi&quot;) or CharacterType(&quot;boshin_shinsengumi&quot;) or CharacterType(&quot;boshin_ishinshishi&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_ninja_disguise_madman_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;boshin_shinobi&quot;) or CharacterType(&quot;boshin_shinsengumi&quot;) or CharacterType(&quot;boshin_ishinshishi&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_ninja_disguise_monk_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;boshin_shinobi&quot;) or CharacterType(&quot;boshin_shinsengumi&quot;) or CharacterType(&quot;boshin_ishinshishi&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_ninja_disguise_ronin_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;boshin_shinobi&quot;) or CharacterType(&quot;boshin_shinsengumi&quot;) or CharacterType(&quot;boshin_ishinshishi&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_ninja_disguise_town_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_shinobi&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_ninja_flashbomb_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;boshin_shinsengumi&quot;) or CharacterType(&quot;boshin_ishinshishi&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_ninja_gambler_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_shinobi&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_ninja_shuriken_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_shinobi&quot;) and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_legend_ninjato&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_ninja_tanto_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_rail_builder_us&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_rail_builder_uk_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_rail_builder_uk&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_rail_builder_us_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_rail_guide_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_rail_telegraph_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and [CharacterFactionName(&quot;bos_nagaoka&quot;) or CharacterFactionName(&quot;bos_aizu&quot;) or CharacterFactionName(&quot;bos_jozai&quot;) or CharacterFactionName(&quot;bos_sendai&quot;) or CharacterFactionName(&quot;bos_obama&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_ronin_unrepentent_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and [CharacterFactionName(&quot;bos_tosa&quot;) or CharacterFactionName(&quot;bos_choshu&quot;) or CharacterFactionName(&quot;bos_satsuma&quot;) or CharacterFactionName(&quot;bos_ueno&quot;) or CharacterFactionName(&quot;bos_saga&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_ronin_xenophobe_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;boshin_shinsengumi&quot;) or CharacterType(&quot;boshin_ishinshishi&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_samurai_boast_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;boshin_shinsengumi&quot;) or CharacterType(&quot;boshin_ishinshishi&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_samurai_rude_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;boshin_shinsengumi&quot;) or CharacterType(&quot;boshin_ishinshishi&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_samurai_unlettered_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_servant_biwa_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_servant_bodyguard_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and [CharacterFactionName(&quot;bos_nagaoka&quot;) or CharacterFactionName(&quot;bos_aizu&quot;) or CharacterFactionName(&quot;bos_jozai&quot;) or CharacterFactionName(&quot;bos_sendai&quot;) or CharacterFactionName(&quot;bos_obama&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_servant_chef_french_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_servant_chef_noodle_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and [CharacterFactionName(&quot;bos_tosa&quot;) or CharacterFactionName(&quot;bos_choshu&quot;) or CharacterFactionName(&quot;bos_satsuma&quot;) or CharacterFactionName(&quot;bos_ueno&quot;) or CharacterFactionName(&quot;bos_saga&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_servant_euro_chef_pastry_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_veteran&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_servant_euro_waiter_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_servant_groom_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;) and FactionwideAncillaryTypeExists(&quot;s2anc_sp_bosh_servant_shogi_player&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_servant_shogi_player_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_servant_treasurers_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;boshin_shinsengumi&quot;) or CharacterType(&quot;boshin_ishinshishi&quot;)] and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_shinsengumi_yakuza&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_shinsengumi_yakuza_2_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>[CharacterType(&quot;boshin_shinsengumi&quot;) or CharacterType(&quot;boshin_ishinshishi&quot;)] and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_shinsengumi_yakuza_2&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_shinsengumi_yakuza_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and [CharacterFactionName(&quot;bos_nagaoka&quot;) or CharacterFactionName(&quot;bos_aizu&quot;) or CharacterFactionName(&quot;bos_jozai&quot;) or CharacterFactionName(&quot;bos_sendai&quot;) or CharacterFactionName(&quot;bos_obama&quot;)] and CampaignName(&quot;jap_boshin&quot;) and DateInRange(1867,1869) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_spec_brunet&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_spec_brunet_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsAdmiral() and CampaignName(&quot;jap_boshin&quot;) and DateInRange(1868,1876) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_spec_brunton&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_spec_brunton_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterFactionName(&quot;bos_aizu&quot;) and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_spec_genbutai&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_spec_suzakutai&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_spec_seiryutai&quot;) </conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_spec_byakkotai_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and [CharacterFactionName(&quot;bos_nagaoka&quot;) or CharacterFactionName(&quot;bos_aizu&quot;) or CharacterFactionName(&quot;bos_jozai&quot;) or CharacterFactionName(&quot;bos_sendai&quot;) or CharacterFactionName(&quot;bos_obama&quot;)] and CampaignName(&quot;jap_boshin&quot;) and DateInRange(1867,1868) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_spec_chanoine&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_spec_chanoine_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and [CharacterFactionName(&quot;bos_nagaoka&quot;) or CharacterFactionName(&quot;bos_aizu&quot;) or CharacterFactionName(&quot;bos_jozai&quot;) or CharacterFactionName(&quot;bos_sendai&quot;) or CharacterFactionName(&quot;bos_obama&quot;)] and CampaignName(&quot;jap_boshin&quot;) and DateInRange(1867,1868) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_spec_descharmes&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_spec_descharmes_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and [CharacterFactionName(&quot;bos_nagaoka&quot;) or CharacterFactionName(&quot;bos_aizu&quot;) or CharacterFactionName(&quot;bos_jozai&quot;) or CharacterFactionName(&quot;bos_sendai&quot;) or CharacterFactionName(&quot;bos_obama&quot;)] and CampaignName(&quot;jap_boshin&quot;) and DateInRange(1867,1868) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_spec_duousequet&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_spec_duousequet_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterFactionName(&quot;bos_aizu&quot;) and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_spec_byakkotai&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_spec_suzakutai&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_spec_seiryutai&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_spec_genbutai_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and [CharacterFactionName(&quot;bos_choshu&quot;) or CharacterFactionName(&quot;bos_satsuma&quot;)] and CampaignName(&quot;jap_boshin&quot;) and DateInRange(1859,1881) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_spec_glover&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_spec_glover_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and [CharacterFactionName(&quot;bos_nagaoka&quot;) or CharacterFactionName(&quot;bos_aizu&quot;) or CharacterFactionName(&quot;bos_jozai&quot;) or CharacterFactionName(&quot;bos_sendai&quot;) or CharacterFactionName(&quot;bos_obama&quot;)] and CampaignName(&quot;jap_boshin&quot;) and DateInRange(1867,1868) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_spec_messelot&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_spec_messelot_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and [CharacterFactionName(&quot;bos_nagaoka&quot;) or CharacterFactionName(&quot;bos_aizu&quot;) or CharacterFactionName(&quot;bos_jozai&quot;) or CharacterFactionName(&quot;bos_sendai&quot;) or CharacterFactionName(&quot;bos_obama&quot;)] and CampaignName(&quot;jap_boshin&quot;) and DateInRange(1864,1868) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_spec_roches&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_spec_roches_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and [CharacterFactionName(&quot;bos_tosa&quot;) or CharacterFactionName(&quot;bos_choshu&quot;) or CharacterFactionName(&quot;bos_satsuma&quot;) or CharacterFactionName(&quot;bos_ueno&quot;) or CharacterFactionName(&quot;bos_saga&quot;)] and CampaignName(&quot;jap_boshin&quot;) and DateInRange(1862,1883)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_spec_satow_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;bos_veteran&quot;) and not CharacterIsOfFrenchOrigin() and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_spec_schnell_henry&quot;) and DateInRange(1862,1873)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_spec_schnell_edward_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;bos_veteran&quot;) and not CharacterIsOfBritishOrigin() and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_spec_schnell_edward&quot;) and DateInRange(1862,1873)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_spec_schnell_henry_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterFactionName(&quot;bos_aizu&quot;) and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_spec_byakkotai&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_spec_genbutai&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_spec_suzakutai&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_spec_seiryutai_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and [CharacterFactionName(&quot;bos_tosa&quot;) or CharacterFactionName(&quot;bos_choshu&quot;) or CharacterFactionName(&quot;bos_satsuma&quot;) or CharacterFactionName(&quot;bos_ueno&quot;) or CharacterFactionName(&quot;bos_saga&quot;)] and CampaignName(&quot;jap_boshin&quot;) and DateInRange(1865,1883)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_spec_smith_parkes_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CharacterFactionName(&quot;bos_aizu&quot;) and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_spec_byakkotai&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_spec_genbutai&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_spec_seiryutai&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_spec_suzakutai_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsAdmiral() and [CharacterFactionName(&quot;bos_nagaoka&quot;) or CharacterFactionName(&quot;bos_aizu&quot;) or CharacterFactionName(&quot;bos_jozai&quot;) or CharacterFactionName(&quot;bos_sendai&quot;) or CharacterFactionName(&quot;bos_obama&quot;)] and CampaignName(&quot;jap_boshin&quot;) and DateInRange(1867,1868) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_spec_thouars&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_spec_thouars_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and [CharacterFactionName(&quot;bos_tosa&quot;) or CharacterFactionName(&quot;bos_choshu&quot;) or CharacterFactionName(&quot;bos_satsuma&quot;) or CharacterFactionName(&quot;bos_ueno&quot;) or CharacterFactionName(&quot;bos_saga&quot;)] and CampaignName(&quot;jap_boshin&quot;) and DateInRange(1866,1870) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_spec_valkenburg&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_spec_valkenburg_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsAdmiral() and [CharacterFactionName(&quot;bos_nagaoka&quot;) or CharacterFactionName(&quot;bos_aizu&quot;) or CharacterFactionName(&quot;bos_jozai&quot;) or CharacterFactionName(&quot;bos_sendai&quot;) or CharacterFactionName(&quot;bos_obama&quot;)] and CampaignName(&quot;jap_boshin&quot;) and DateInRange(1865,1876) and WorldwideAncillaryTypeExists(&quot;s2anc_sp_bosh_spec_verny&quot;) == false</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_spec_verny_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_sumo_champion_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_sumo_wrestler_1_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_sumo_wrestler_2_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_veteran&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_trader_arms_fr_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_veteran&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_trader_arms_ger_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_veteran&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_trader_arms_uk_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;boshin_veteran&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_trader_arms_us_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_trader_banker_jr_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_trader_french_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and [CharacterFactionName(&quot;bos_tosa&quot;) or CharacterFactionName(&quot;bos_choshu&quot;) or CharacterFactionName(&quot;bos_satsuma&quot;) or CharacterFactionName(&quot;bos_ueno&quot;) or CharacterFactionName(&quot;bos_saga&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_trader_japan_industry_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_trader_rich_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and [CharacterFactionName(&quot;bos_nagaoka&quot;) or CharacterFactionName(&quot;bos_aizu&quot;) or CharacterFactionName(&quot;bos_jozai&quot;) or CharacterFactionName(&quot;bos_sendai&quot;) or CharacterFactionName(&quot;bos_obama&quot;)] and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_trader_tax_farmer_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_trader_us_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsAdmiral() and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_uniform_naval_uk&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_uniform_sailor_cap&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_uniform_admiral_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_uniform_general_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsAdmiral() and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_uniform_admiral&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_uniform_sailor_cap&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_uniform_naval_uk_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsAdmiral() and CampaignName(&quot;jap_boshin&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_uniform_admiral&quot;) and not CharacterHasAncillary(&quot;s2anc_sp_bosh_uniform_naval_uk&quot;) </conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_uniform_sailor_cap_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_uniform_snow_shoes_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sp_bosh_uniform_top_hat_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_sumo_champion&quot;) == false and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sumo_champion_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_sumo_wrestler_1&quot;) == false and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sumo_wrestler_1_trigger</trigger>
+</ancillary_triggers>
+<ancillary_triggers>
+<conditions>IsDaimyo() and FactionwideAncillaryTypeExists(&quot;s2anc_sumo_wrestler_2&quot;) == false and not IsAdmiral() and not CampaignName(&quot;jap_boshin&quot;)</conditions>
+<event>CharacterRankUpNeedsAncillary</event>
+<trigger>s2anc_sumo_wrestler_2_trigger</trigger>
+</ancillary_triggers>
+</dataroot>

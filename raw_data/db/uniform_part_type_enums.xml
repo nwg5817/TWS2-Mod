@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="uniform_part_type_enums.xsd" generated="2010-02-15T19:29:52">
+<edit_uuid>fc87209c-572b-4ec2-b9fe-97df0e7c5578</edit_uuid>
+<uniform_part_type_enums>
+<type>belt</type>
+</uniform_part_type_enums>
+<uniform_part_type_enums>
+<type>hat</type>
+</uniform_part_type_enums>
+<uniform_part_type_enums>
+<type>head</type>
+</uniform_part_type_enums>
+<uniform_part_type_enums>
+<type>legs</type>
+</uniform_part_type_enums>
+<uniform_part_type_enums>
+<type>plume</type>
+</uniform_part_type_enums>
+<uniform_part_type_enums>
+<type>shoulder</type>
+</uniform_part_type_enums>
+<uniform_part_type_enums>
+<type>torso</type>
+</uniform_part_type_enums>
+</dataroot>
+

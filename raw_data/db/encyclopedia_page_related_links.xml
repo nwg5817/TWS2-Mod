@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Tue 7. Jun 10:38:07 2011" revision="12" export_branch="T:/branches/shogun2/patch/shogun2/binaries" export_user="Chris.Gambold">
+<edit_uuid>76c71bac-1f65-4af6-96f8-cfd3312497b4</edit_uuid><encyclopedia_page_related_links>
+<page_key>018k_enc_manual_religion</page_key>
+<target>045_enc_manual_agents_religious</target>
+</encyclopedia_page_related_links>
+<encyclopedia_page_related_links>
+<page_key>018k_enc_manual_religion</page_key>
+<target>045a_enc_manual_agent_actions_religious</target>
+</encyclopedia_page_related_links>
+<encyclopedia_page_related_links>
+<page_key>045b_enc_manual_ui_character</page_key>
+<target>016_enc_manual_hud_management</target>
+</encyclopedia_page_related_links>
+<encyclopedia_page_related_links>
+<page_key>045b_enc_manual_ui_character</page_key>
+<target>027_enc_manual_army_moves</target>
+</encyclopedia_page_related_links>
+<encyclopedia_page_related_links>
+<page_key>045b_enc_manual_ui_character</page_key>
+<target>042_enc_manual_skills</target>
+</encyclopedia_page_related_links>
+<encyclopedia_page_related_links>
+<page_key>045b_enc_manual_ui_character</page_key>
+<target>043_enc_manual_traits</target>
+</encyclopedia_page_related_links>
+<encyclopedia_page_related_links>
+<page_key>045b_enc_manual_ui_character</page_key>
+<target>044_enc_manual_agents_subterfuge</target>
+</encyclopedia_page_related_links>
+<encyclopedia_page_related_links>
+<page_key>045b_enc_manual_ui_character</page_key>
+<target>045_enc_manual_agents_religious</target>
+</encyclopedia_page_related_links>
+</dataroot>

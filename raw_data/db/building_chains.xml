@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Wed 5. Oct 10:22:39 2011" revision="18" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Luke.Carter">
+<edit_uuid>cc92c6ba-dce4-4465-8144-43f99ed35f2d</edit_uuid><building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>GEM_Buddhist</key>
+</building_chains>
+<building_chains>
+<chain_category>military</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>GEM_Buff</key>
+</building_chains>
+<building_chains>
+<chain_category>military</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>GEM_Bushi</key>
+</building_chains>
+<building_chains>
+<chain_category>government</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>GEM_Castle</key>
+</building_chains>
+<building_chains>
+<chain_category>money</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>GEM_Clan</key>
+</building_chains>
+<building_chains>
+<chain_category>money</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>GEM_Economy</key>
+</building_chains>
+<building_chains>
+<chain_category>money</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>GEM_Farming</key>
+</building_chains>
+<building_chains>
+<chain_category>military</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>GEM_Government</key>
+</building_chains>
+<building_chains>
+<chain_category>money</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>GEM_Infrastructure</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>GEM_Intellectual</key>
+</building_chains>
+<building_chains>
+<chain_category>military</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>GEM_Koryu</key>
+</building_chains>
+<building_chains>
+<chain_category>money</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>GEM_Port</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>GEM_Region_Specialty_Craftwork</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>GEM_Region_Specialty_Gold_Mining</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>GEM_Region_Specialty_Holy_Site</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>GEM_Region_Specialty_Intellectual</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>GEM_Region_Specialty_Iron_Mining</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>GEM_Region_Specialty_Naval</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>GEM_Region_Specialty_Ninja</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>GEM_Region_Specialty_Silk</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>GEM_Region_Specialty_Smithing</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>GEM_Region_Specialty_Timber</key>
+</building_chains>
+<building_chains>
+<chain_category>military</chain_category>
+<chain_tooltip>REPLACE_ME_121136</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>SHO_Archery</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>REPLACE_ME_091816</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>SHO_Buddhist</key>
+</building_chains>
+<building_chains>
+<chain_category>military</chain_category>
+<chain_tooltip>REPLACE_ME_151248</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>SHO_Buff</key>
+</building_chains>
+<building_chains>
+<chain_category>government</chain_category>
+<chain_tooltip>REPLACE_ME_115403</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>SHO_Castle</key>
+</building_chains>
+<building_chains>
+<chain_category>military</chain_category>
+<chain_tooltip>REPLACE_ME_091939</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>SHO_Cavalry</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>REPLACE_ME_115326</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>SHO_Christian</key>
+</building_chains>
+<building_chains>
+<chain_category>money</chain_category>
+<chain_tooltip>REPLACE_ME_135944</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>SHO_Economy</key>
+</building_chains>
+<building_chains>
+<chain_category>money</chain_category>
+<chain_tooltip>REPLACE_ME_152703</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>SHO_Farming</key>
+</building_chains>
+<building_chains>
+<chain_category>military</chain_category>
+<chain_tooltip>REPLACE_ME_150125</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>SHO_Ikko_Temple</key>
+</building_chains>
+<building_chains>
+<chain_category>money</chain_category>
+<chain_tooltip>REPLACE_ME_141119</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>SHO_Infrastructure</key>
+</building_chains>
+<building_chains>
+<chain_category>money</chain_category>
+<chain_tooltip>REPLACE_ME_140600</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>SHO_Port</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>REPLACE_ME_140958</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>SHO_Region_Specialty_Craftwork</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>REPLACE_ME_155658</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>SHO_Region_Specialty_Gold_Mining</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>REPLACE_ME_141355</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>SHO_Region_Specialty_Holy_Site</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>REPLACE_ME_160121</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>SHO_Region_Specialty_Horses</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>REPLACE_ME_155443</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>SHO_Region_Specialty_Intellectual_Centre</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>REPLACE_ME_160412</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>SHO_Region_Specialty_Iron_Mining</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>REPLACE_ME_151319</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>SHO_Region_Specialty_Naval</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>REPLACE_ME_161157</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>SHO_Region_Specialty_Ninja</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>REPLACE_ME_160551</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>SHO_Region_Specialty_Smithing</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>REPLACE_ME_160834</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>SHO_Region_Specialty_Stone</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>REPLACE_ME_160537</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>SHO_Region_Specialty_Timber</key>
+</building_chains>
+<building_chains>
+<chain_category>military</chain_category>
+<chain_tooltip>REPLACE_ME_145812</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>SHO_Siege</key>
+</building_chains>
+<building_chains>
+<chain_category>money</chain_category>
+<chain_tooltip>REPLACE_ME_114904</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>SHO_Stealth</key>
+</building_chains>
+<building_chains>
+<chain_category>military</chain_category>
+<chain_tooltip>REPLACE_ME_122755</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>SHO_Sword</key>
+</building_chains>
+<building_chains>
+<chain_category>military</chain_category>
+<chain_tooltip>REPLACE_ME_121827</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>SHO_Yari</key>
+</building_chains>
+<building_chains>
+<chain_category>military</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>bos_artillery</key>
+</building_chains>
+<building_chains>
+<chain_category>military</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>bos_buff</key>
+</building_chains>
+<building_chains>
+<chain_category>military</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>bos_castle</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>bos_criminal</key>
+</building_chains>
+<building_chains>
+<chain_category>military</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>bos_defences</key>
+</building_chains>
+<building_chains>
+<chain_category>agriculture</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>bos_farming</key>
+</building_chains>
+<building_chains>
+<chain_category>government</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>bos_foundation</key>
+</building_chains>
+<building_chains>
+<chain_category>money</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>bos_industry</key>
+</building_chains>
+<building_chains>
+<chain_category>money</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>bos_infrastucture</key>
+</building_chains>
+<building_chains>
+<chain_category>military</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>bos_modern</key>
+</building_chains>
+<building_chains>
+<chain_category>money</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>bos_port</key>
+</building_chains>
+<building_chains>
+<chain_category>money</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>bos_propaganda</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>bos_region_specialtea</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>bos_region_specialty_clay</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>bos_region_specialty_coal_mining</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>bos_region_specialty_copper_mining</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>bos_region_specialty_gold_mining</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>bos_region_specialty_holy_site</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>bos_region_specialty_iron_mining</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>bos_region_specialty_railroad</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>bos_region_specialty_silk</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>bos_region_specialty_silver_mining</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>bos_region_specialty_smithing</key>
+</building_chains>
+<building_chains>
+<chain_category>happiness</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>bos_region_specialty_smugglers</key>
+</building_chains>
+<building_chains>
+<chain_category>military</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>bos_traditional</key>
+</building_chains>
+</dataroot>

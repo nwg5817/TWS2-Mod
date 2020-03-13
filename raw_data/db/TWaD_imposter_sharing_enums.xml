@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_imposter_sharing_enums>
+<root>
+  <edit_uuid>6e6ce837-f183-4f9b-9518-d137033cbdf8</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>2048</max_length>
+  </field>
+</root>

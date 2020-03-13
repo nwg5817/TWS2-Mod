@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Thu 15. Jul 16:16:50 2010" revision="1" export_branch="T:/ui/shogun2/binaries" export_user="James.Whitston">
+<edit_uuid>26d0128c-8ec1-4b15-bbce-47194f32f03f</edit_uuid><avatar_army_makeup_traits>
+<army_percentage>35</army_percentage>
+<key>avatar_trait_army_artillery</key>
+<unit_category>artillery</unit_category>
+</avatar_army_makeup_traits>
+<avatar_army_makeup_traits>
+<army_percentage>50</army_percentage>
+<key>avatar_trait_army_cavalry</key>
+<unit_category>cavalry</unit_category>
+</avatar_army_makeup_traits>
+<avatar_army_makeup_traits>
+<army_percentage>80</army_percentage>
+<key>avatar_trait_army_melee_infantry</key>
+<unit_category>infantry_melee</unit_category>
+</avatar_army_makeup_traits>
+<avatar_army_makeup_traits>
+<army_percentage>50</army_percentage>
+<key>avatar_trait_army_missile_infantry</key>
+<unit_category>infantry_ranged</unit_category>
+</avatar_army_makeup_traits>
+</dataroot>

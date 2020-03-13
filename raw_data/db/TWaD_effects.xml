@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_effects>
+<root>
+  <edit_uuid>61ce8850-a138-11df-981c-0800200c9a66</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>effect</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>icon</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>256</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>description</name>
+    <field_type>memo</field_type>
+    <required>0</required>
+    <max_length>536870910</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>priority</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+</root>

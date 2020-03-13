@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_unit_stats_ship_categories>
+<root>
+  <edit_uuid>c29ae5d0-2c3e-11df-8a39-0800200c9a66</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>100</max_length>
+  </field>
+</root>

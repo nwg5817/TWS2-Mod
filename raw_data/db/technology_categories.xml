@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Mon 5. Sep 15:05:04 2011" revision="7" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Jeff.Woods">
+<edit_uuid>b1feb58d-b3df-48cf-923f-59d53b10bf4e</edit_uuid><technology_categories>
+<key>boshin_main_civil</key>
+<localised_name>Civil Policy</localised_name>
+<position>0</position>
+<tooltip>Enact civil policies to develop your clan's culture, government and economy.</tooltip>
+</technology_categories>
+<technology_categories>
+<key>boshin_main_military</key>
+<localised_name>Military Technologies</localised_name>
+<position>1</position>
+<tooltip>Research military technologies to improve your clan's military capabilities.</tooltip>
+</technology_categories>
+<technology_categories>
+<key>gempei_main_civil</key>
+<localised_name>Bunka</localised_name>
+<position>1</position>
+<tooltip>Master bunka to develop your clan's culture, government and economy.</tooltip>
+</technology_categories>
+<technology_categories>
+<key>gempei_main_military</key>
+<localised_name>Budo</localised_name>
+<position>0</position>
+<tooltip>Master the budo arts to improve your clan's military capabilities.</tooltip>
+</technology_categories>
+<technology_categories>
+<key>shogun_main_civil</key>
+<localised_name>Way of Chi</localised_name>
+<position>1</position>
+<tooltip>Master the Way of Chi to develop your clan's culture, government and economy.</tooltip>
+</technology_categories>
+<technology_categories>
+<key>shogun_main_military</key>
+<localised_name>Bushido</localised_name>
+<position>0</position>
+<tooltip>Master the bushido arts to improve your clan's military capabilities.</tooltip>
+</technology_categories>
+</dataroot>

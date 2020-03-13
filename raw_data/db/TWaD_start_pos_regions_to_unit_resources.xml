@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_start_pos_regions_to_unit_resources>
+<root>
+  <edit_uuid>79b33804-f628-482b-86ec-82223d49a5c7</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>longinteger</field_type>
+    <required>0</required>
+    <default_value>0</default_value>
+    <column_source_column>id</column_source_column>
+    <column_source_column>region</column_source_column>
+    <column_source_column>campaign</column_source_column>
+    <column_source_table>start_pos_regions</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>resource</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>region_unit_resources</column_source_table>
+  </field>
+</root>

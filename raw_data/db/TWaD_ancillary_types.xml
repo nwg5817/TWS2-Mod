@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_ancillary_types>
+<root>
+  <edit_uuid>f734cf94-30d5-4fa0-a583-d2002c882c3e</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>type</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>ui_icon</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+</root>

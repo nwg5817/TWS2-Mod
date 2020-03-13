@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_ancillary_to_included_agents>
+<root>
+  <edit_uuid>0f2c941e-1aea-40fa-845d-46cacc0747ce</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>ancillary</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>ancillary</column_source_column>
+    <column_source_table>ancillary_info</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>agent</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>agents</column_source_table>
+  </field>
+</root>

@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaDFORMDESCR_missions>
+<root>
+	<form_name>Missions</form_name>
+	<rows>
+		<subform_table>
+			<columns>
+				<table_name>missions</table_name>
+				<new_button/>
+				<base_node/>
+				<record_switching>true</record_switching>
+				<filter_field>key</filter_field>
+				<parent_table></parent_table>
+				<parent_field></parent_field>
+				<rows>
+					<columns>
+						<static_text_field>Key</static_text_field>
+						<text_edit_field>key</text_edit_field>
+						<static_text_field>Mission Type</static_text_field>
+						<combo_box_field>mission_type</combo_box_field>
+					</columns>
+					<columns>
+						<static_text_field>Localised Title</static_text_field>
+						<text_edit_field>localised_title</text_edit_field>
+						<static_text_field>Localised Description</static_text_field>
+						<text_edit_field>localised_description</text_edit_field>
+					</columns>
+					<columns>
+						<static_text_field>UI Image</static_text_field>
+						<text_edit_field>ui_image</text_edit_field>
+						<static_text_field>UI Icon</static_text_field>
+						<text_edit_field>ui_icon</text_edit_field>
+					</columns>
+					<columns>
+						<static_text_field>Generate</static_text_field>
+						<check_box_field>generate</check_box_field>
+					</columns>
+				</rows>
+			</columns>
+		</subform_table>
+		<subform_table>
+			<columns>
+				<table_name>mission_text</table_name>
+				<new_button/>
+				<record_switching>true</record_switching>
+				<filter_field>key</filter_field>
+				<parent_table>missions</parent_table>
+				<parent_field>key</parent_field>
+				<rows>
+					<static_text_field>Text</static_text_field>
+					<memo_edit_field>text</memo_edit_field>
+				</rows>
+			</columns>
+		</subform_table>
+	</rows>
+</root>

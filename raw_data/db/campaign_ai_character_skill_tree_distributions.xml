@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Tue 13. Jul 11:37:06 2010" revision="1" export_branch="C:/TW/campaign/dev/shogun2/src" export_user="Frederick.deCaster">
+<edit_uuid>1cd60168-179a-4803-856f-89623ddcd668</edit_uuid><campaign_ai_character_skill_tree_distributions>
+<key>EVEN_HIGHEST</key>
+</campaign_ai_character_skill_tree_distributions>
+<campaign_ai_character_skill_tree_distributions>
+<key>EVEN_LOWEST</key>
+</campaign_ai_character_skill_tree_distributions>
+<campaign_ai_character_skill_tree_distributions>
+<key>EVEN_RANDOM</key>
+</campaign_ai_character_skill_tree_distributions>
+<campaign_ai_character_skill_tree_distributions>
+<key>HIGHEST</key>
+</campaign_ai_character_skill_tree_distributions>
+<campaign_ai_character_skill_tree_distributions>
+<key>LOWEST</key>
+</campaign_ai_character_skill_tree_distributions>
+<campaign_ai_character_skill_tree_distributions>
+<key>RANDOM</key>
+</campaign_ai_character_skill_tree_distributions>
+</dataroot>

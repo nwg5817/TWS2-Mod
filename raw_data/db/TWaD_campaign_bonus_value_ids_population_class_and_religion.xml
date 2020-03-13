@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_campaign_bonus_value_ids_population_class_and_religion>
+<root>
+  <edit_uuid>c12ec84d-26e6-4a7c-a960-68960b432e66</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+</root>

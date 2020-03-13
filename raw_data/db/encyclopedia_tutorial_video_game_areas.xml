@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Wed 30. Nov 16:44:19 2011" revision="5" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Luke.Carter">
+<edit_uuid>17e92183-3888-4acf-8c88-e0aecc83ec1f</edit_uuid><encyclopedia_tutorial_video_game_areas>
+<icon>campaign_advanced_icon</icon>
+<key>s2_bosh_tut_camp_advanced</key>
+<order>1</order>
+<title>Campaign Advanced</title>
+</encyclopedia_tutorial_video_game_areas>
+<encyclopedia_tutorial_video_game_areas>
+<icon>campaign_essentials_icon</icon>
+<key>s2_bosh_tut_camp_essentials</key>
+<order>0</order>
+<title>Campaign Essentials</title>
+</encyclopedia_tutorial_video_game_areas>
+<encyclopedia_tutorial_video_game_areas>
+<icon>land_battle_icon</icon>
+<key>s2_bosh_tut_land</key>
+<order>2</order>
+<title>Land Battle</title>
+</encyclopedia_tutorial_video_game_areas>
+<encyclopedia_tutorial_video_game_areas>
+<icon>multiplayer_icon</icon>
+<key>s2_bosh_tut_multiplayer</key>
+<order>5</order>
+<title>Multiplayer</title>
+</encyclopedia_tutorial_video_game_areas>
+<encyclopedia_tutorial_video_game_areas>
+<icon>naval_battle_icon</icon>
+<key>s2_bosh_tut_naval</key>
+<order>3</order>
+<title>Naval Battle</title>
+</encyclopedia_tutorial_video_game_areas>
+<encyclopedia_tutorial_video_game_areas>
+<icon>siege_battle_icon</icon>
+<key>s2_bosh_tut_siege</key>
+<order>4</order>
+<title>Siege Battle</title>
+</encyclopedia_tutorial_video_game_areas>
+</dataroot>

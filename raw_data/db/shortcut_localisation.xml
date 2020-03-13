@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Tue 13. Dec 11:30:13 2011" revision="32" export_branch="D:/TW/branches/shogun2/boshin/shogun2/src" export_user="Richard.Langridge">
+<edit_uuid>800143ed-166c-494b-9276-64c183d388bc</edit_uuid><shortcut_localisation>
+<key>accel</key>
+<onscreen>Speed up camera</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>activate_ping</key>
+<onscreen>Activate ping</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>alt</key>
+<onscreen>Alt</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>any</key>
+<onscreen>Any</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>attack_ping</key>
+<onscreen>Attack ping</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>auto_merge_units</key>
+<onscreen>Auto merge units</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle</key>
+<onscreen>Battle</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_both_fire_at_will_toggle</key>
+<onscreen>Toggle fire at will</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_both_rotate_left</key>
+<onscreen>Rotate unit/group left</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_both_rotate_right</key>
+<onscreen>Rotate unit/group right</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_both_withdraw</key>
+<onscreen>Withdraw</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_formation_artillery_cross_fire</key>
+<onscreen>Artillery Cross Fire</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_formation_bark_of_the_pine_tree</key>
+<onscreen>Bark of the Pine Tree</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_formation_cavalry_heavy_left</key>
+<onscreen>Cavalry Heavy Left</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_formation_cavalry_heavy_right</key>
+<onscreen>Cavalry Heavy Right</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_formation_cloud_dragon</key>
+<onscreen>Cloud Dragon</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_formation_column</key>
+<onscreen>Column</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_formation_cranes_wing</key>
+<onscreen>Crane's Wing</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_formation_double_line</key>
+<onscreen>Double line</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_formation_double_line_screened</key>
+<onscreen>Double line screened</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_formation_flying_bird</key>
+<onscreen>Flying Bird</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_formation_flying_geese</key>
+<onscreen>Flying Geese</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_formation_grand_battery</key>
+<onscreen>Grand Battery</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_formation_melee_frontline</key>
+<onscreen>Melee Frontline</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_formation_reclining_dragon</key>
+<onscreen>Reclining Dragon</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_formation_single_line</key>
+<onscreen>Single line</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_formation_single_line_cav_left</key>
+<onscreen>Single line cavalry left flank</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_formation_single_line_cav_right</key>
+<onscreen>Single line cavalry right flank</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_formation_spear_point</key>
+<onscreen>Spear Point</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_formation_triple_line</key>
+<onscreen>Triple line</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_formation_triple_line_grand</key>
+<onscreen>Triple line grand battery</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_formation_triple_line_integrated</key>
+<onscreen>Triple line integrated</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_formation_war_of_the_tiger</key>
+<onscreen>War of the Tiger</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_increase_file</key>
+<onscreen>Increase file</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_increase_rank</key>
+<onscreen>Increase rank</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_melee</key>
+<onscreen>Toggle melee mode</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_spear_point</key>
+<onscreen>Spear point</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_special_ability_1</key>
+<onscreen>Special ability slot 1</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_special_ability_2</key>
+<onscreen>Special ability slot 2</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_special_ability_3</key>
+<onscreen>Special ability slot 3</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_special_ability_4</key>
+<onscreen>Special ability slot 4</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_special_ability_5</key>
+<onscreen>Special ability slot 5</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_special_ability_6</key>
+<onscreen>Special ability slot 6</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_special_ability_7</key>
+<onscreen>Special ability slot 7</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_step_backwards</key>
+<onscreen>Step unit/group backwards</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_step_forward</key>
+<onscreen>Step unit/group forwards</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_strafe_left</key>
+<onscreen>Strafe unit/group left</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_strafe_right</key>
+<onscreen>Strafe unit/group right</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_land_toggle_run</key>
+<onscreen>Toggle run</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_naval_activate_chain_shot</key>
+<onscreen>Select chain shot</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_naval_activate_grape_shot</key>
+<onscreen>Select grape shot</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_naval_activate_round_shot</key>
+<onscreen>Select round shot</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_naval_decrease_sail</key>
+<onscreen>Decrease sail</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_naval_formation_bird_cloud</key>
+<onscreen>Bird Cloud</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_naval_formation_crescent</key>
+<onscreen>Crescent</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_naval_formation_crescent_envelop</key>
+<onscreen>Crescent Envelop</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_naval_formation_extended_snake</key>
+<onscreen>Extended Snake</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_naval_formation_line_abreast</key>
+<onscreen>Line Abreast</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_naval_formation_line_astern</key>
+<onscreen>Line Astern</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_naval_formation_three_day_old_moon</key>
+<onscreen>Three Day Old Moon</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_naval_formation_war_of_the_sword</key>
+<onscreen>War of the Sword</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_naval_increase_sail</key>
+<onscreen>Increase sail</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_naval_repair</key>
+<onscreen>Repair ship</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_naval_sail_forward</key>
+<onscreen>Sail forward</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>battle_naval_toggle_boarding</key>
+<onscreen>Toggle boarding</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>broadside_fire_front</key>
+<onscreen>Fire broadside forward</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>broadside_fire_left</key>
+<onscreen>Fire broadside left</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>broadside_fire_right</key>
+<onscreen>Fire broadside right</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>browser</key>
+<onscreen>Encyclopedia</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>cam_down</key>
+<onscreen>Camera down</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>cam_up</key>
+<onscreen>Camera up</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>camera</key>
+<onscreen>Camera</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>campaign</key>
+<onscreen>Campaign</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>change_minimap_size</key>
+<onscreen>Change radar map size</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>change_region_border_display_type</key>
+<onscreen>Change province border display</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>chat_with_all</key>
+<onscreen>Chat with everyone</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>chat_with_team</key>
+<onscreen>Chat with team</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>context_camera</key>
+<onscreen>Context camera</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>create_selection_group1</key>
+<onscreen>Create selection group 1</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>create_selection_group2</key>
+<onscreen>Create selection group 2</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>create_selection_group3</key>
+<onscreen>Create selection group 3</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>create_selection_group4</key>
+<onscreen>Create selection group 4</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>ctrl</key>
+<onscreen>Control</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>current_selection_disband</key>
+<onscreen>Disband selection</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>current_selection_order_cancel</key>
+<onscreen>Cancel order</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>cycle_battle_speed</key>
+<onscreen>Cycle battle speed</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>decel</key>
+<onscreen>Slow down camera</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>decrease_camera_rot</key>
+<onscreen>Decrease camera rotation speed</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>default_camera_rotation</key>
+<onscreen>Default camera rotation</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>defend_ping</key>
+<onscreen>Defend ping</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>deselect_all</key>
+<onscreen>Deselect all</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>end_turn</key>
+<onscreen>End turn</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>fps</key>
+<onscreen>FPS</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>game_controls</key>
+<onscreen>Game/UI Controls</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>game_play</key>
+<onscreen>Gameplay</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>general_zoom</key>
+<onscreen>Zoom to and Select General</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>group_controls</key>
+<onscreen>Unit/Group Controls</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>group_formations</key>
+<onscreen>Group Formations</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>hidden</key>
+<onscreen>Hidden</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>home_zoom</key>
+<onscreen>Zoom to home</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>increase_camera_rot</key>
+<onscreen>Increase camera rotation speed</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>information</key>
+<onscreen>Information</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>intelli_zoom</key>
+<onscreen>Intelligent zoom</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>misc</key>
+<onscreen>Miscellaneous</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>move_ping</key>
+<onscreen>Move ping</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>naval_group_formations</key>
+<onscreen>Naval Group Formations</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>none</key>
+<onscreen>None</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>p</key>
+<onscreen>Pause</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>quick_load</key>
+<onscreen>Quick load</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>quick_save</key>
+<onscreen>Quick save</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>repair_all</key>
+<onscreen>Repair buildings/ships</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>rot_d</key>
+<onscreen>Rotate down</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>rot_l</key>
+<onscreen>Rotate left</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>rot_r</key>
+<onscreen>Rotate right</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>rot_u</key>
+<onscreen>Rotate up</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>select_all</key>
+<onscreen>Select all</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>select_all_artillery</key>
+<onscreen>Select all siege weapon units</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>select_all_cavalry</key>
+<onscreen>Select all cavalry units</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>select_all_infantry</key>
+<onscreen>Select all infantry units</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>select_all_melee</key>
+<onscreen>Select all melee units</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>select_all_ranged</key>
+<onscreen>Select all missile units</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>select_next</key>
+<onscreen>Select next</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>select_prev</key>
+<onscreen>Select previous</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>select_selection_group1</key>
+<onscreen>Select selection group 1</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>select_selection_group2</key>
+<onscreen>Select selection group 2</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>select_selection_group3</key>
+<onscreen>Select selection group 3</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>select_selection_group4</key>
+<onscreen>Select selection group 4</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>selection_control</key>
+<onscreen>Selection Controls</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>shift</key>
+<onscreen>Shift</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>show_all_multi_turn_paths</key>
+<onscreen>Show all multi-turn paths</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>show_allied_units_proxies</key>
+<onscreen>Show deployment images</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>show_clan</key>
+<onscreen>Show clan management panel</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>show_diplomacy</key>
+<onscreen>Show diplomatic relations</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>show_faction_overview</key>
+<onscreen>Show clan overview panel</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>show_finance</key>
+<onscreen>Show finance panel</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>show_prestige</key>
+<onscreen>Show prestige screen</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>show_technologies</key>
+<onscreen>Show technology/mastery of the arts</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>standard_ping</key>
+<onscreen>Standard ping</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>step_bck</key>
+<onscreen>Move back</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>step_fwd</key>
+<onscreen>Move forward</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>step_fwd_fast</key>
+<onscreen>Move forward fast</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>step_l</key>
+<onscreen>Strafe left</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>step_r</key>
+<onscreen>Strafe right</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>toggle_battle_ui</key>
+<onscreen>Toggle Battle UI</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>toggle_chat_panel</key>
+<onscreen>Toggle chat entry</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>toggle_first_person_mode</key>
+<onscreen>Toggle first person mode</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>toggle_flag_display</key>
+<onscreen>Toggle flag display</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>toggle_group</key>
+<onscreen>Group/ungroup units</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>toggle_labels</key>
+<onscreen>Toggle labels</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>toggle_locked_group</key>
+<onscreen>Lock/Unlock group formation</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>toggle_minimised_radar</key>
+<onscreen>Toggle</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>toggle_move_fast</key>
+<onscreen>Toggle move fast</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>toggle_move_speed</key>
+<onscreen>Toggle character movement speed</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>toggle_music</key>
+<onscreen>Toggle music</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>toggle_pause</key>
+<onscreen>Toggle pause</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>toggle_player_list</key>
+<onscreen>Toggle player list</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>toggle_sfx</key>
+<onscreen>Toggle sound effects</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>toggle_ship_firing_arcs</key>
+<onscreen>Toggle ship firing arcs</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>toggle_tracking</key>
+<onscreen>Toggle tracking</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>total_war</key>
+<onscreen>Total War</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>unit_zoom</key>
+<onscreen>Zoom to unit</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>universal</key>
+<onscreen>Universal</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>usegroup0</key>
+<onscreen>Create/Select Group 10</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>usegroup1</key>
+<onscreen>Create/Select Group 1</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>usegroup2</key>
+<onscreen>Create/Select Group 2</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>usegroup3</key>
+<onscreen>Create/Select Group 3</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>usegroup4</key>
+<onscreen>Create/Select Group 4</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>usegroup5</key>
+<onscreen>Create/Select Group 5</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>usegroup6</key>
+<onscreen>Create/Select Group 6</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>usegroup7</key>
+<onscreen>Create/Select Group 7</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>usegroup8</key>
+<onscreen>Create/Select Group 8</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>usegroup9</key>
+<onscreen>Create/Select Group 9</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>visibility_toggle_buttons</key>
+<onscreen>Toggle button visibility</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>visibility_toggle_cards</key>
+<onscreen>Toggle unit cards visibility</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>visibility_toggle_radar</key>
+<onscreen>Toggle radar visibility</onscreen>
+</shortcut_localisation>
+<shortcut_localisation>
+<key>voice_chat</key>
+<onscreen>Enable voice chat</onscreen>
+</shortcut_localisation>
+</dataroot>

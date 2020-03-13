@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_effect_bonus_value_population_class_and_religion_junction>
+<root>
+  <edit_uuid>7cee79cd-c9c9-4ca4-a2cc-3665b9acfe6f</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>effect</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>effect</column_source_column>
+    <column_source_table>effects</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>bonus_value_id</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>campaign_bonus_value_ids_population_class_and_religion</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>population_class</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>population_class</column_source_column>
+    <column_source_table>population_classes</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>religion</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>religion_key</column_source_column>
+    <column_source_table>religions</column_source_table>
+  </field>
+</root>

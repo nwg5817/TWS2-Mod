@@ -1,0 +1,34 @@
+<!DOCTYPE TWaD_building_level_armed_citizenry_junctions>
+<root>
+<edit_uuid>97579ed5-bbec-11df-8001-001fd02417f0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>id</name>
+    <field_type>autonumber</field_type>
+    <required>1</required>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>building_level</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>level_name</column_source_column>
+    <column_source_table>building_levels</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>unit</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>units</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>priority</name>
+    <field_type>integer</field_type>
+    <required>1</required>
+  </field>
+</root>

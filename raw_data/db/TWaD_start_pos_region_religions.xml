@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_start_pos_region_religions>
+<root>
+  <edit_uuid>b05c406d-accb-43b9-bdb5-7cd7be7ca32b</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>region</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+    <column_source_column>id</column_source_column>
+    <column_source_column>region</column_source_column>
+    <column_source_column>campaign</column_source_column>
+    <column_source_table>start_pos_regions</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>religion</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>religion_key</column_source_column>
+    <column_source_table>religions</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>percentage</name>
+    <field_type>double</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+</root>

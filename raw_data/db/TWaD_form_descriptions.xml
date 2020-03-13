@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE form_descriptions>
+<root>
+  <form_name>advice_threads</form_name>
+  <form_name>advice_triggers</form_name>
+  <form_name>agents</form_name>
+  <form_name>ancillary_info</form_name>
+  <form_name>ancillary_triggers</form_name>
+  <form_name>buildings</form_name>
+  <form_name>events</form_name>
+  <form_name>historical_characters</form_name>
+  <form_name>ministerial_positions</form_name>
+  <form_name>missions</form_name>
+  <form_name>slots</form_name>
+  <form_name>starting_positions</form_name>
+  <form_name>trait_info</form_name>
+  <form_name>trait_triggers</form_name>
+</root>

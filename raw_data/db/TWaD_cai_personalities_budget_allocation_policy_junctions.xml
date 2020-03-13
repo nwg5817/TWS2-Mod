@@ -1,0 +1,38 @@
+<!DOCTYPE TWaD_cai_personalities_budget_allocation_policy_junctions>
+<root>
+<edit_uuid>bca75aec-c639-11df-8003-001fd02417f0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>budget_policy_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>cai_personalities_budget_policies</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>budget_context_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>cai_personalities_budget_context_types</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>budget_allocation_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>cai_personalities_budget_allocations</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>priority</name>
+    <field_type>integer</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+</root>

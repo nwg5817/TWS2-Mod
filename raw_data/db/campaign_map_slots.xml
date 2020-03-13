@@ -1,0 +1,1787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Wed 24. Aug 13:43:21 2011" revision="11" export_branch="T:/branches/shogun2/patch/common/TWeak/Framework" export_user="Luke.Carter">
+<edit_uuid>a99b351b-867c-4028-871e-afa3405907cb</edit_uuid><campaign_map_slots>
+<onscreen>Aki Fields</onscreen>
+<region>bos_aki</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_aki:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Aomori Fields</onscreen>
+<region>bos_aomori</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_aomori:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Awa Fields</onscreen>
+<region>bos_awa</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_awa:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Awaji Fields</onscreen>
+<region>bos_awaji</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_awaji:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Bingo Fields</onscreen>
+<region>bos_bingo</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_bingo:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Bitchu Fields</onscreen>
+<region>bos_bitchu</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_bitchu:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Bizen Fields</onscreen>
+<region>bos_bizen</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_bizen:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Bungo Fields</onscreen>
+<region>bos_bungo</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_bungo:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Buzen Fields</onscreen>
+<region>bos_buzen</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_buzen:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Echigo Fields</onscreen>
+<region>bos_echigo</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_echigo:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Echizen Fields</onscreen>
+<region>bos_echizen</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_echizen:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Etchu Fields</onscreen>
+<region>bos_etchu</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_etchu:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Fukushima Fields</onscreen>
+<region>bos_fukushima</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_fukushima:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Goto Island Fields</onscreen>
+<region>bos_goto_island</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_goto_island:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Harima Fields</onscreen>
+<region>bos_harima</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_harima:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Hida Fields</onscreen>
+<region>bos_hida</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_hida:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Higo Fields</onscreen>
+<region>bos_higo</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_higo:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Hitachi Fields</onscreen>
+<region>bos_hitachi</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_hitachi:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Hiyama Fields</onscreen>
+<region>bos_hiyama</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_hiyama:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Hizen Fields</onscreen>
+<region>bos_hizen</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_hizen:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Hoki Fields</onscreen>
+<region>bos_hoki</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_hoki:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Hyuga Fields</onscreen>
+<region>bos_hyuga</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_hyuga:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Iburi Fields</onscreen>
+<region>bos_iburi</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_iburi:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Iga Fields</onscreen>
+<region>bos_iga</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_iga:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Inaba Fields</onscreen>
+<region>bos_inaba</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_inaba:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Ise Fields</onscreen>
+<region>bos_ise</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_ise:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Iwami Fields</onscreen>
+<region>bos_iwami</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_iwami:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Iwate Fields</onscreen>
+<region>bos_iwate</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_iwate:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Iyo Fields</onscreen>
+<region>bos_iyo</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_iyo:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Izu Fields</onscreen>
+<region>bos_izu</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_izu:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Izumo Fields</onscreen>
+<region>bos_izumo</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_izumo:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Kaga Fields</onscreen>
+<region>bos_kaga</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_kaga:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Kai Fields</onscreen>
+<region>bos_kai</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_kai:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Kawachi Fields</onscreen>
+<region>bos_kawachi</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_kawachi:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Kazusa Fields</onscreen>
+<region>bos_kazusa</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_kazusa:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Kii Fields</onscreen>
+<region>bos_kii</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_kii:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Kozuke Fields</onscreen>
+<region>bos_kozuke</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_kozuke:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Mikawa Fields</onscreen>
+<region>bos_mikawa</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_mikawa:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Mimasaka Fields</onscreen>
+<region>bos_mimasaka</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_mimasaka:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Mino Fields</onscreen>
+<region>bos_mino</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_mino:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Miyagi Fields</onscreen>
+<region>bos_miyagi</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_miyagi:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Musashi Fields</onscreen>
+<region>bos_musashi</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_musashi:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Nagasaki Fields</onscreen>
+<region>bos_nagasaki</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_nagasaki:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Nagato Fields</onscreen>
+<region>bos_nagato</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_nagato:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>North Shinano Fields</onscreen>
+<region>bos_north_shinano</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_north_shinano:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Noto Fields</onscreen>
+<region>bos_noto</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_noto:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Omi Fields</onscreen>
+<region>bos_omi</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_omi:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Oshima Fields</onscreen>
+<region>bos_oshima</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_oshima:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Osumi Fields</onscreen>
+<region>bos_osumi</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_osumi:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Owari Fields</onscreen>
+<region>bos_owari</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_owari:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Sado Fields</onscreen>
+<region>bos_sado</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_sado:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Sagami Fields</onscreen>
+<region>bos_sagami</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_sagami:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Sanuki Fields</onscreen>
+<region>bos_sanuki</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_sanuki:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Sapporo Fields</onscreen>
+<region>bos_sapporo</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_sapporo:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Satsuma Fields</onscreen>
+<region>bos_satsuma</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_satsuma:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Settsu Fields</onscreen>
+<region>bos_settsu</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_settsu:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Shimosa Fields</onscreen>
+<region>bos_shimosa</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_shimosa:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Shimotsuke Fields</onscreen>
+<region>bos_shimotsuke</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_shimotsuke:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Shiribeshi Fields</onscreen>
+<region>bos_shiribeshi</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_shiribeshi:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>South Shinano Fields</onscreen>
+<region>bos_south_shinano</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_south_shinano:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Suo Fields</onscreen>
+<region>bos_suo</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_suo:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Suruga Fields</onscreen>
+<region>bos_suruga</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_suruga:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Tajima Fields</onscreen>
+<region>bos_tajima</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_tajima:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Tamba Fields</onscreen>
+<region>bos_tamba</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_tamba:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Tanegashima Fields</onscreen>
+<region>bos_tanegashima</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_tanegashima:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Tango Fields</onscreen>
+<region>bos_tango</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_tango:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Tosa Fields</onscreen>
+<region>bos_tosa</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_tosa:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Totomi Fields</onscreen>
+<region>bos_totomi</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_totomi:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Tsukushi Fields</onscreen>
+<region>bos_tsukushi</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_tsukushi:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Tsushima Fields</onscreen>
+<region>bos_tsushima</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_tsushima:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Ugo Fields</onscreen>
+<region>bos_ugo</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_ugo:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Uzen Fields</onscreen>
+<region>bos_uzen</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_uzen:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Wakasa Fields</onscreen>
+<region>bos_wakasa</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_wakasa:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Yamashiro Fields</onscreen>
+<region>bos_yamashiro</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_yamashiro:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Yamato Fields</onscreen>
+<region>bos_yamato</region>
+<rotation>0</rotation>
+<slot_id>rice:bos_yamato:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Aki Fields</onscreen>
+<region>gem_aki</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_aki:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Awa Fields</onscreen>
+<region>gem_awa</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_awa:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Awaji Fields</onscreen>
+<region>gem_awaji</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_awaji:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Bingo Fields</onscreen>
+<region>gem_bingo</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_bingo:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Bitchu Fields</onscreen>
+<region>gem_bitchu</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_bitchu:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Bizen Fields</onscreen>
+<region>gem_bizen</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_bizen:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Bungo Fields</onscreen>
+<region>gem_bungo</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_bungo:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Buzen Fields</onscreen>
+<region>gem_buzen</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_buzen:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Echigo Fields</onscreen>
+<region>gem_echigo</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_echigo:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Echizen Fields</onscreen>
+<region>gem_echizen</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_echizen:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Etchu Fields</onscreen>
+<region>gem_etchu</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_etchu:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Fukushima Fields</onscreen>
+<region>gem_fukushima</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_fukushima:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Harima Fields</onscreen>
+<region>gem_harima</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_harima:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Hida Fields</onscreen>
+<region>gem_hida</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_hida:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Higo Fields</onscreen>
+<region>gem_higo</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_higo:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Hitachi Fields</onscreen>
+<region>gem_hitachi</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_hitachi:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Hizen Fields</onscreen>
+<region>gem_hizen</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_hizen:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Hoki Fields</onscreen>
+<region>gem_hoki</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_hoki:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Hyuga Fields</onscreen>
+<region>gem_hyuga</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_hyuga:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Iga Fields</onscreen>
+<region>gem_iga</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_iga:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Inaba Fields</onscreen>
+<region>gem_inaba</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_inaba:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Ise Fields</onscreen>
+<region>gem_ise</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_ise:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Iwami Fields</onscreen>
+<region>gem_iwami</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_iwami:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Iwate Fields</onscreen>
+<region>gem_iwate</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_iwate:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Iyo Fields</onscreen>
+<region>gem_iyo</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_iyo:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Izu Fields</onscreen>
+<region>gem_izu</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_izu:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Izumo Fields</onscreen>
+<region>gem_izumo</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_izumo:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Kaga Fields</onscreen>
+<region>gem_kaga</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_kaga:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Kai Fields</onscreen>
+<region>gem_kai</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_kai:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Kawachi Fields</onscreen>
+<region>gem_kawachi</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_kawachi:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Kazusa Fields</onscreen>
+<region>gem_kazusa</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_kazusa:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Kii Fields</onscreen>
+<region>gem_kii</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_kii:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Kozuke Fields</onscreen>
+<region>gem_kozuke</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_kozuke:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Mikawa Fields</onscreen>
+<region>gem_mikawa</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_mikawa:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Mimasaka Fields</onscreen>
+<region>gem_mimasaka</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_mimasaka:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Mino Fields</onscreen>
+<region>gem_mino</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_mino:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Miyagi Fields</onscreen>
+<region>gem_miyagi</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_miyagi:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Musashi Fields</onscreen>
+<region>gem_musashi</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_musashi:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Nagato Fields</onscreen>
+<region>gem_nagato</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_nagato:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Nanban Base Fields</onscreen>
+<region>gem_nanban_base</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_nanban_base:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>North Shinano Fields</onscreen>
+<region>gem_north_shinano</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_north_shinano:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Noto Fields</onscreen>
+<region>gem_noto</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_noto:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Omi Fields</onscreen>
+<region>gem_omi</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_omi:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Osumi Fields</onscreen>
+<region>gem_osumi</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_osumi:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Owari Fields</onscreen>
+<region>gem_owari</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_owari:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Sado Fields</onscreen>
+<region>gem_sado</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_sado:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Sagami Fields</onscreen>
+<region>gem_sagami</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_sagami:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Sanuki Fields</onscreen>
+<region>gem_sanuki</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_sanuki:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Satsuma Fields</onscreen>
+<region>gem_satsuma</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_satsuma:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Settsu Fields</onscreen>
+<region>gem_settsu</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_settsu:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Shimosa Fields</onscreen>
+<region>gem_shimosa</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_shimosa:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Shimotsuke Fields</onscreen>
+<region>gem_shimotsuke</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_shimotsuke:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>South Shinano Fields</onscreen>
+<region>gem_south_shinano</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_south_shinano:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Suo Fields</onscreen>
+<region>gem_suo</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_suo:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Suruga Fields</onscreen>
+<region>gem_suruga</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_suruga:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Tajima Fields</onscreen>
+<region>gem_tajima</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_tajima:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Tamba Fields</onscreen>
+<region>gem_tamba</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_tamba:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Tango Fields</onscreen>
+<region>gem_tango</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_tango:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Tosa Fields</onscreen>
+<region>gem_tosa</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_tosa:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Totomi Fields</onscreen>
+<region>gem_totomi</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_totomi:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Tsukushi Fields</onscreen>
+<region>gem_tsukushi</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_tsukushi:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Ugo Fields</onscreen>
+<region>gem_ugo</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_ugo:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Uzen Fields</onscreen>
+<region>gem_uzen</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_uzen:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Waco Base Fields</onscreen>
+<region>gem_waco_base</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_waco_base:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Wakasa Fields</onscreen>
+<region>gem_wakasa</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_wakasa:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Yamashiro Fields</onscreen>
+<region>gem_yamashiro</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_yamashiro:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Yamato Fields</onscreen>
+<region>gem_yamato</region>
+<rotation>0</rotation>
+<slot_id>rice:gem_yamato:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Aki Fields</onscreen>
+<region>jap_aki</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_aki:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Awa Fields</onscreen>
+<region>jap_awa</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_awa:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Awaji Fields</onscreen>
+<region>jap_awaji</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_awaji:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Bingo Fields</onscreen>
+<region>jap_bingo</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_bingo:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Bitchu Fields</onscreen>
+<region>jap_bitchu</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_bitchu:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Bizen Fields</onscreen>
+<region>jap_bizen</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_bizen:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Bungo Fields</onscreen>
+<region>jap_bungo</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_bungo:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Buzen Fields</onscreen>
+<region>jap_buzen</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_buzen:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Echigo Fields</onscreen>
+<region>jap_echigo</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_echigo:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Echizen Fields</onscreen>
+<region>jap_echizen</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_echizen:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Etchu Fields</onscreen>
+<region>jap_etchu</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_etchu:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Fukushima Fields</onscreen>
+<region>jap_fukushima</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_fukushima:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Harima Fields</onscreen>
+<region>jap_harima</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_harima:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Hida Fields</onscreen>
+<region>jap_hida</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_hida:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Higo Fields</onscreen>
+<region>jap_higo</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_higo:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Hitachi Fields</onscreen>
+<region>jap_hitachi</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_hitachi:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Hizen Fields</onscreen>
+<region>jap_hizen</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_hizen:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Hoki Fields</onscreen>
+<region>jap_hoki</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_hoki:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Hyuga Fields</onscreen>
+<region>jap_hyuga</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_hyuga:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Iga Fields</onscreen>
+<region>jap_iga</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_iga:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Inaba Fields</onscreen>
+<region>jap_inaba</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_inaba:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Ise Fields</onscreen>
+<region>jap_ise</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_ise:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Iwami Fields</onscreen>
+<region>jap_iwami</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_iwami:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Iwate Fields</onscreen>
+<region>jap_iwate</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_iwate:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Iyo Fields</onscreen>
+<region>jap_iyo</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_iyo:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Izu Fields</onscreen>
+<region>jap_izu</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_izu:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Izumo Fields</onscreen>
+<region>jap_izumo</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_izumo:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Kaga Fields</onscreen>
+<region>jap_kaga</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_kaga:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Kai Fields</onscreen>
+<region>jap_kai</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_kai:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Kawachi Fields</onscreen>
+<region>jap_kawachi</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_kawachi:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Kazusa Fields</onscreen>
+<region>jap_kazusa</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_kazusa:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Kii Fields</onscreen>
+<region>jap_kii</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_kii:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Kozuke Fields</onscreen>
+<region>jap_kozuke</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_kozuke:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Mikawa Fields</onscreen>
+<region>jap_mikawa</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_mikawa:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Mimasaka Fields</onscreen>
+<region>jap_mimasaka</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_mimasaka:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Mino Fields</onscreen>
+<region>jap_mino</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_mino:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Miyagi Fields</onscreen>
+<region>jap_miyagi</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_miyagi:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Musashi Fields</onscreen>
+<region>jap_musashi</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_musashi:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Nagato Fields</onscreen>
+<region>jap_nagato</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_nagato:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Nanban Base Fields</onscreen>
+<region>jap_nanban_base</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_nanban_base:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>North Shinano Fields</onscreen>
+<region>jap_north_shinano</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_north_shinano:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Noto Fields</onscreen>
+<region>jap_noto</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_noto:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Omi Fields</onscreen>
+<region>jap_omi</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_omi:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Osumi Fields</onscreen>
+<region>jap_osumi</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_osumi:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Owari Fields</onscreen>
+<region>jap_owari</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_owari:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Sado Fields</onscreen>
+<region>jap_sado</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_sado:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Sagami Fields</onscreen>
+<region>jap_sagami</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_sagami:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Sanuki Fields</onscreen>
+<region>jap_sanuki</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_sanuki:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Satsuma Fields</onscreen>
+<region>jap_satsuma</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_satsuma:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Settsu Fields</onscreen>
+<region>jap_settsu</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_settsu:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Shimosa Fields</onscreen>
+<region>jap_shimosa</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_shimosa:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Shimotsuke Fields</onscreen>
+<region>jap_shimotsuke</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_shimotsuke:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>South Shinano Fields</onscreen>
+<region>jap_south_shinano</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_south_shinano:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Suo Fields</onscreen>
+<region>jap_suo</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_suo:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Suruga Fields</onscreen>
+<region>jap_suruga</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_suruga:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Tajima Fields</onscreen>
+<region>jap_tajima</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_tajima:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Tamba Fields</onscreen>
+<region>jap_tamba</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_tamba:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Tango Fields</onscreen>
+<region>jap_tango</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_tango:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Tosa Fields</onscreen>
+<region>jap_tosa</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_tosa:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Totomi Fields</onscreen>
+<region>jap_totomi</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_totomi:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Tsukushi Fields</onscreen>
+<region>jap_tsukushi</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_tsukushi:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Awa Fields</onscreen>
+<region>jap_tut_awa</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_tut_awa:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Awaji Fields</onscreen>
+<region>jap_tut_awaji</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_tut_awaji:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Bingo Fields</onscreen>
+<region>jap_tut_bingo</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_tut_bingo:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Bitchu Fields</onscreen>
+<region>jap_tut_bitchu</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_tut_bitchu:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Bizen Fields</onscreen>
+<region>jap_tut_bizen</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_tut_bizen:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Harima Fields</onscreen>
+<region>jap_tut_harima</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_tut_harima:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Iyo Fields</onscreen>
+<region>jap_tut_iyo</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_tut_iyo:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Kawachi Fields</onscreen>
+<region>jap_tut_kawachi</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_tut_kawachi:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Kii Fields</onscreen>
+<region>jap_tut_kii</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_tut_kii:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Sanuki Fields</onscreen>
+<region>jap_tut_sanuki</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_tut_sanuki:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Settsu Fields</onscreen>
+<region>jap_tut_settsu</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_tut_settsu:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Tamba Fields</onscreen>
+<region>jap_tut_tamba</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_tut_tamba:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Tosa Fields</onscreen>
+<region>jap_tut_tosa</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_tut_tosa:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Yamato Fields</onscreen>
+<region>jap_tut_yamato</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_tut_yamato:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Ugo Fields</onscreen>
+<region>jap_ugo</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_ugo:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Uzen Fields</onscreen>
+<region>jap_uzen</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_uzen:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Waco Base Fields</onscreen>
+<region>jap_waco_base</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_waco_base:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Wakasa Fields</onscreen>
+<region>jap_wakasa</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_wakasa:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Yamashiro Fields</onscreen>
+<region>jap_yamashiro</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_yamashiro:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+<campaign_map_slots>
+<onscreen>Yamato Fields</onscreen>
+<region>jap_yamato</region>
+<rotation>0</rotation>
+<slot_id>rice:jap_yamato:farm</slot_id>
+<slot_type>rice</slot_type>
+<template>nap_eur_town_com</template>
+</campaign_map_slots>
+</dataroot>

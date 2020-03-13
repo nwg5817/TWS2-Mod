@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_ui_component_addresses_with_localisation>
+<root>
+  <edit_uuid>20f4aacc-32b3-11e0-8001-6cf049ef02b0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>component_label</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>component_label</column_source_column>
+    <column_source_table>ui_component_localisation</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>component_address</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>255</max_length>
+  </field>
+</root>

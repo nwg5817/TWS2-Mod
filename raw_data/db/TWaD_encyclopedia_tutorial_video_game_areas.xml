@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_encyclopedia_tutorial_video_game_areas>
+<root>
+  <edit_uuid>a81530ee-240c-4fea-aa99-1145522a6d20</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>20000</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>title</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>20000</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>order</name>
+    <field_type>integer</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>icon</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <default_value>replace_me</default_value>
+    <max_length>20000</max_length>
+  </field>
+</root>

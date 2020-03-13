@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_TExc_campaign_map_processing_exports>
+<root>
+  <edit_uuid>655606f0-3d85-4543-8578-4457734b777d</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>table_name</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+  </field>
+</root>

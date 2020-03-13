@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Fri 10. Dec 10:37:25 2010" revision="5" export_branch="T:/campaign/dev/common/TWeak/Framework" export_user="Luke.Carter">
+<edit_uuid>ac62d13d-48bb-4f20-bb65-cc2b437d9508</edit_uuid><cai_personalities_reliability_policies>
+<key>cai_prp_default</key>
+</cai_personalities_reliability_policies>
+<cai_personalities_reliability_policies>
+<key>cai_prp_high</key>
+</cai_personalities_reliability_policies>
+<cai_personalities_reliability_policies>
+<key>cai_prp_low</key>
+</cai_personalities_reliability_policies>
+<cai_personalities_reliability_policies>
+<key>cai_prp_medium</key>
+</cai_personalities_reliability_policies>
+<cai_personalities_reliability_policies>
+<key>cai_prp_very_high</key>
+</cai_personalities_reliability_policies>
+<cai_personalities_reliability_policies>
+<key>cai_prp_very_low</key>
+</cai_personalities_reliability_policies>
+</dataroot>

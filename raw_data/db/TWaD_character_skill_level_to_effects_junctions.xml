@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_character_skill_level_to_effects_junctions>
+<root>
+  <edit_uuid>7bd99364-ea6d-11e0-8001-6cf049ef02b0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>character_skill_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>character_skills</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>level</name>
+    <field_type>integer</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>effect_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>256</max_length>
+    <column_source_column>effect</column_source_column>
+    <column_source_table>effects</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>value</name>
+    <field_type>single</field_type>
+    <required>1</required>
+    <default_value>0.0</default_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>is_factionwide</name>
+    <field_type>yesno</field_type>
+    <required>1</required>
+    <default_value>false</default_value>
+  </field>
+</root>

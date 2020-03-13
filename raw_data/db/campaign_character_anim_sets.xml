@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Wed 28. Sep 16:34:04 2011" revision="3" export_branch="C:/TW/branches/shogun2/boshin/shogun2/binaries" export_user="Will.OBrien">
+<edit_uuid>2a0a1ca3-a1cd-4a8e-94a9-f13c9743dd23</edit_uuid><campaign_character_anim_sets>
+<key>boshin_veteran</key>
+<reference_pose>human</reference_pose>
+</campaign_character_anim_sets>
+<campaign_character_anim_sets>
+<key>default_ship</key>
+<reference_pose>ship</reference_pose>
+</campaign_character_anim_sets>
+<campaign_character_anim_sets>
+<key>geisha</key>
+<reference_pose>human</reference_pose>
+</campaign_character_anim_sets>
+<campaign_character_anim_sets>
+<key>general</key>
+<reference_pose>human</reference_pose>
+</campaign_character_anim_sets>
+<campaign_character_anim_sets>
+<key>metsuke</key>
+<reference_pose>human</reference_pose>
+</campaign_character_anim_sets>
+<campaign_character_anim_sets>
+<key>missionary</key>
+<reference_pose>human</reference_pose>
+</campaign_character_anim_sets>
+<campaign_character_anim_sets>
+<key>monk</key>
+<reference_pose>human</reference_pose>
+</campaign_character_anim_sets>
+<campaign_character_anim_sets>
+<key>ninja</key>
+<reference_pose>human</reference_pose>
+</campaign_character_anim_sets>
+</dataroot>

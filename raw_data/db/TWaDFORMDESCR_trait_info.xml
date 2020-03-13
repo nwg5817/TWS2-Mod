@@ -1,0 +1,148 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaDFORMDESCR_trait_info>
+<root>
+	<form_name>Trait Info</form_name>
+	<rows>
+		<subform_table>
+			<columns>
+				<table_name>trait_info</table_name>
+				<new_button/>
+				<base_node/>
+				<record_switching>true</record_switching>
+				<filter_field>trait</filter_field>
+				<parent_table></parent_table>
+				<parent_field></parent_field>
+				<static_text_field>Trait</static_text_field>
+				<text_edit_field>trait</text_edit_field>
+				<static_text_field>Applicable To</static_text_field>
+				<combo_box_field>applicable_to</combo_box_field>
+			</columns>
+		</subform_table>
+		<columns>
+			<rows>
+				<static_text_field>Antitraits</static_text_field>
+				<subform_table>
+					<table_name>trait_to_antitraits</table_name>
+					<new_button/>
+					<record_switching>false</record_switching>
+					<filter_field>trait</filter_field>
+					<parent_table>trait_info</parent_table>
+					<parent_field>trait</parent_field>
+					<edit_grid>
+						<edit_grid_column name="Antitrait">antitrait</edit_grid_column>
+					</edit_grid>
+				</subform_table>
+			</rows>
+			<rows>
+				<static_text_field>Included Agents</static_text_field>
+				<subform_table>
+					<table_name>trait_to_included_agents</table_name>
+					<new_button/>
+					<record_switching>false</record_switching>
+					<filter_field>trait</filter_field>
+					<parent_table>trait_info</parent_table>
+					<parent_field>trait</parent_field>
+					<edit_grid>
+						<edit_grid_column name="Agent">agent</edit_grid_column>
+					</edit_grid>
+				</subform_table>
+			</rows>
+		</columns>
+		<subform_table>
+			<columns>
+				<table_name>character_traits</table_name>
+				<new_button/>
+				<record_switching>true</record_switching>
+				<filter_field>key</filter_field>
+				<parent_table>trait_info</parent_table>
+				<parent_field>trait</parent_field>
+				<static_text_field>No Going Back Level</static_text_field>
+				<text_edit_field>no_going_back_level</text_edit_field>
+				<static_text_field>Hidden</static_text_field>
+				<check_box_field>hidden</check_box_field>
+				<static_text_field>Precedence</static_text_field>
+				<text_edit_field>precedence</text_edit_field>
+				<static_text_field>Icon</static_text_field>
+				<combo_box_field>icon</combo_box_field>
+			</columns>
+			<columns>
+				<static_text_field>Author</static_text_field>
+				<text_edit_field>author</text_edit_field>
+				<static_text_field>Comment</static_text_field>
+				<memo_edit_field>comment</memo_edit_field>
+			</columns>
+		</subform_table>
+		<columns>
+			<rows>
+				<subform_table>
+					<table_name>character_trait_levels</table_name>
+					<new_button/>
+					<record_switching>true</record_switching>
+					<filter_field>trait</filter_field>
+					<parent_table>character_traits</parent_table>
+					<parent_field>key</parent_field>
+					<columns>
+						<static_text_field>Level</static_text_field>
+						<text_edit_field>level</text_edit_field>
+						<static_text_field>Threshold Points</static_text_field>
+						<text_edit_field>threshold_points</text_edit_field>
+					</columns>
+					<columns>
+						<static_text_field>Key</static_text_field>
+						<text_edit_field>key</text_edit_field>
+						<static_text_field>Onscreen Name</static_text_field>
+						<text_edit_field>onscreen_name</text_edit_field>
+					</columns>
+					<columns>
+						<static_text_field>Colour</static_text_field>
+						<memo_edit_field>colour_text</memo_edit_field>
+					</columns>
+					<columns>
+						<static_text_field>Explanation</static_text_field>
+						<memo_edit_field>explanation_text</memo_edit_field>
+					</columns>
+					<columns>
+						<static_text_field>How To Remove</static_text_field>
+						<memo_edit_field>removal_text</memo_edit_field>
+					</columns>
+					<columns>
+						<static_text_field>Gain Text</static_text_field>
+						<memo_edit_field>gain_text</memo_edit_field>
+					</columns>
+					<columns>
+						<static_text_field>Epithet</static_text_field>
+						<memo_edit_field>epithet_text</memo_edit_field>
+					</columns>
+				</subform_table>					
+			</rows>
+			<rows>
+				<static_text_field>Game Effects</static_text_field>
+				<subform_table>
+					<table_name>trait_level_effects</table_name>
+					<new_button/>
+					<record_switching>false</record_switching>
+					<filter_field>trait_level</filter_field>
+					<parent_table>character_trait_levels</parent_table>
+					<parent_field>key</parent_field>
+					<edit_grid>
+						<edit_grid_column name="Effect">effect</edit_grid_column>
+						<edit_grid_column name="Value">value</edit_grid_column>
+					</edit_grid>
+				</subform_table>
+				<static_text_field>Game Effects</static_text_field>
+				<subform_table>
+					<table_name>trait_attribute_effects</table_name>
+					<new_button/>
+					<record_switching>false</record_switching>
+					<filter_field>trait_level</filter_field>
+					<parent_table>character_trait_levels</parent_table>
+					<parent_field>key</parent_field>
+					<edit_grid>
+						<edit_grid_column name="Attribute">attribute</edit_grid_column>
+						<edit_grid_column name="Value">effect_value</edit_grid_column>
+					</edit_grid>
+				</subform_table>
+			</rows>
+		</columns>		
+	</rows>
+</root>

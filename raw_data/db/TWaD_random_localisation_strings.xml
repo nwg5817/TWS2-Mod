@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_random_localisation_strings>
+<root>
+  <edit_uuid>1e698a95-0307-4556-a058-f66382883735</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>string</name>
+    <field_type>memo</field_type>
+    <required>1</required>
+    <max_length>536870910</max_length>
+  </field>
+</root>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Wed 29. Sep 11:37:14 2010" revision="3" export_branch="C:/TW/Tim.Gosling_TRISTAN_MOBILE/campaign/dev/shogun2/src" export_user="Tim.Gosling">
+<edit_uuid>9aef28b1-b3dd-46dd-931b-b77a986fa2dd</edit_uuid><cai_military_behaviour_policies>
+<key>cai_pmbp_balanced</key>
+</cai_military_behaviour_policies>
+<cai_military_behaviour_policies>
+<key>cai_pmbp_destructive</key>
+</cai_military_behaviour_policies>
+<cai_military_behaviour_policies>
+<key>cai_pmbp_preservist</key>
+</cai_military_behaviour_policies>
+</dataroot>

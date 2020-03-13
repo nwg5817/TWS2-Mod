@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="battle_entities_shape_enum.xsd" generated="2010-02-15T18:43:18">
+<edit_uuid>76a38a9a-1764-4e42-94c3-071165c02eaf</edit_uuid>
+<battle_entities_shape_enum>
+<key>circle</key>
+<s_ColLineage>kNOq8QEAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{32F0F4F1-A4B5-4570-B0B5-E351D7FF8187}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</battle_entities_shape_enum>
+<battle_entities_shape_enum>
+<key>dynamic_ellipse</key>
+<s_ColLineage>kNOq8QMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{58B10B2F-A36B-4974-BB85-F99220E951A4}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</battle_entities_shape_enum>
+<battle_entities_shape_enum>
+<key>ellipse</key>
+<s_ColLineage>kNOq8QEAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8F7126C7-927F-4A90-9217-1D7C3F45D96B}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</battle_entities_shape_enum>
+</dataroot>
+

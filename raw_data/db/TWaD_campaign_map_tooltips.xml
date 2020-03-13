@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_campaign_map_tooltips>
+<root>
+  <edit_uuid>c6b2b765-8838-4057-9aec-c8732ea0dfd6</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>select_context</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>select_context</column_source_column>
+    <column_source_table>campaign_map_tooltip_select_contexts</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>over_context</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>over_contexts</column_source_column>
+    <column_source_table>campaign_map_tooltip_over_contexts</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>tooltip_line</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>campaign_map_tooltip_texts</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>advice_line</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>campaign_map_tooltip_texts</column_source_table>
+  </field>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Fri 23. Apr 12:07:58 2010">
+<edit_uuid>c578bd3e-f360-4fc7-be07-b43a217b794c</edit_uuid><uniform_type_enums>
+<key>admiral</key>
+</uniform_type_enums>
+<uniform_type_enums>
+<key>gunner</key>
+</uniform_type_enums>
+<uniform_type_enums>
+<key>marine</key>
+</uniform_type_enums>
+<uniform_type_enums>
+<key>musician</key>
+</uniform_type_enums>
+<uniform_type_enums>
+<key>officer</key>
+</uniform_type_enums>
+<uniform_type_enums>
+<key>officer_1</key>
+</uniform_type_enums>
+<uniform_type_enums>
+<key>officer_2</key>
+</uniform_type_enums>
+<uniform_type_enums>
+<key>officer_3</key>
+</uniform_type_enums>
+<uniform_type_enums>
+<key>seaman</key>
+</uniform_type_enums>
+<uniform_type_enums>
+<key>soldier</key>
+</uniform_type_enums>
+<uniform_type_enums>
+<key>standard_bearer</key>
+</uniform_type_enums>
+</dataroot>

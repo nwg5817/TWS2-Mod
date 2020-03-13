@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_TExc_TableExportGroups>
+<root>
+  <edit_uuid>c924e7d1-dc49-11df-8001-6cf049ef02b0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>ID</name>
+    <field_type>autonumber</field_type>
+    <required>0</required>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>category</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+    <column_source_column>category</column_source_column>
+    <column_source_table>TExc_TableExportCategories</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>table</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+    <column_source_column>table_name</column_source_column>
+    <column_source_table>TExc_ImplementedTables</column_source_table>
+  </field>
+</root>

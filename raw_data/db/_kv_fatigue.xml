@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Fri 25. Nov 11:48:00 2011" revision="4" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Jack.Lusted">
+<edit_uuid>443b47a4-1ecc-4006-ac75-d182d7baa3bd</edit_uuid><_kv_fatigue>
+<description>fatigue_charging delta</description>
+<key>charging</key>
+<value>15</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>fatigue_climbing_walls delta</description>
+<key>climbing_walls</key>
+<value>15</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>fatigue_combat (melee) delta</description>
+<key>combat</key>
+<value>8</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>fatigue adjustment per tick for fatigue resistant stat (USL table) (not wired in yet!!!)</description>
+<key>fatigue_resistant_delta</key>
+<value>-1</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>% incline/decline for shallow gradient</description>
+<key>gradient_shallow</key>
+<value>7</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>fatigue % multiplier for moving up shallow gradients</description>
+<key>gradient_shallow_movement_multiplier</key>
+<value>100</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>% incline/decline for steep gradient</description>
+<key>gradient_steep</key>
+<value>15</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>fatigue % multiplier for moving up steep gradients</description>
+<key>gradient_steep_movement_multiplier</key>
+<value>150</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>% incline/decline for very steep gradient</description>
+<key>gradient_very_steep</key>
+<value>25</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>fatigue % multiplier for moving up very steep gradients</description>
+<key>gradient_very_steep_movement_multiplier</key>
+<value>200</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>fatigue_idle delta</description>
+<key>idle</key>
+<value>-8</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>unit idle in building</description>
+<key>idle_in_building</key>
+<value>-10</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>unit idle in heavy rain</description>
+<key>idle_rain</key>
+<value>-4</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>unit idle in heavy snow</description>
+<key>idle_snow</key>
+<value>-2</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>unit limbering/unlimbering gun</description>
+<key>limbering</key>
+<value>6</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>fatigue_ready delta (in 'ready' pose)</description>
+<key>ready</key>
+<value>2</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>fatigue_reloading delta (small arms)</description>
+<key>reloading</key>
+<value>3</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>reloading artillery</description>
+<key>reloading_artillery</key>
+<value>10</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>fatigue_running delta</description>
+<key>running</key>
+<value>6</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>horse artillery running</description>
+<key>running_artillery_horse</key>
+<value>6</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>heavy/medium cavalry running</description>
+<key>running_cavalry</key>
+<value>2</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>light cavalry running</description>
+<key>running_cavalry_light</key>
+<value>1</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>fatigue_shooting delta</description>
+<key>shooting</key>
+<value>6</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>fatigue_th_active threshold</description>
+<key>threshold_active</key>
+<value>1800</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>fatigue_th_exhausted threshold</description>
+<key>threshold_exhausted</key>
+<value>21600</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>fatigue_th_fresh threshold</description>
+<key>threshold_fresh</key>
+<value>0</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>fatigue_th_max threshold</description>
+<key>threshold_max</key>
+<value>28800</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>fatigue_th_tired threshold</description>
+<key>threshold_tired</key>
+<value>7200</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>fatigue_th_very_tired threshold</description>
+<key>threshold_very_tired</key>
+<value>10800</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>fatigue_th_winded threshold</description>
+<key>threshold_winded</key>
+<value>3600</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>unit moving in tight formation</description>
+<key>tight_formation</key>
+<value>6</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>unit under artillery fire</description>
+<key>under_fire_artillery</key>
+<value>6</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>unit under small arms fire</description>
+<key>under_fire_small_arms</key>
+<value>5</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>fatigue_walking delta</description>
+<key>walking</key>
+<value>0</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>foot artillery marching</description>
+<key>walking_artillery</key>
+<value>2</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>horse artillery marching</description>
+<key>walking_horse_artillery</key>
+<value>2</value>
+</_kv_fatigue>
+<_kv_fatigue>
+<description>fatigue_walking delta</description>
+<key>working</key>
+<value>20</value>
+</_kv_fatigue>
+</dataroot>

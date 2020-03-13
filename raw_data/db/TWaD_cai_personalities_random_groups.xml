@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_cai_personalities_random_groups>
+<root>
+<edit_uuid>a566fd30-1fb0-45d5-bbc1-c190f307b0eb</edit_uuid>
+<field>
+<field_uuid>{08e492d2-7697-448f-a86a-853c07bca4d5}</field_uuid>
+<primary_key>1</primary_key>
+<name>random_personality_group_key</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>2000</max_length>
+</field>
+</root>

@@ -1,0 +1,12 @@
+<!DOCTYPE TWaD_voice_events>
+<root>
+<edit_uuid>912b6eb4-8b7a-11df-8001-001fd02417f0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>name</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <default_value>GENERIC</default_value>
+  </field>
+</root>

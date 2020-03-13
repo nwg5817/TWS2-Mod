@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_avatar_clan_specialisms>
+<root>
+  <edit_uuid>d562ca07-dfad-11e0-8001-6cf049ef02b0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>1024</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>ancillary</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_table>ancillary_info</column_source_table>
+    <column_source_column>ancillary</column_source_column>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>product</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>avatar_product_lookups</column_source_table>
+  </field>
+</root>

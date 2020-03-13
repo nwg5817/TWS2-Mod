@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_genders>
+<root>
+  <edit_uuid>0cfc6210-34bb-4573-bde1-44050bc6d557</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>gender</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>onscreen</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+</root>

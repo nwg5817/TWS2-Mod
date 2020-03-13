@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_trait_to_included_agents>
+<root>
+  <edit_uuid>60021bdd-efb9-4d2d-ab77-f19200d469dd</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>trait</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>trait</column_source_column>
+    <column_source_table>trait_info</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>agent</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>agents</column_source_table>
+  </field>
+</root>

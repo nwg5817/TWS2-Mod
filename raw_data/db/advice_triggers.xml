@@ -1,0 +1,1333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Fri 24. Feb 10:54:07 2012" revision="102" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Chris.Gambold">
+<edit_uuid>86d1b231-dbab-4781-9618-472dfaa72a72</edit_uuid><advice_triggers>
+<condition_script>not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>0100_Battle_Advice_UI_Buttons_Trigger</key>
+<test_when>BattleConflictPhaseCommenced</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>BattleIsLandConflict() and [BattlePlayerAlliancePercentageOfUnitClass(&quot;infantry_spearman&quot;) &gt;= 1 or BattlePlayerAlliancePercentageOfUnitClass(&quot;infantry_heavy&quot;) &gt;= 1] and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>0101_Battle_Advice_Guard_Mode_Button_Trigger</key>
+<test_when>BattleConflictPhaseCommenced</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>AdviceJustDisplayed(&quot;1424352004&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>0102_Battle_Advice_Fire_At_Will_Button_Trigger</key>
+<test_when>AdviceDismissed</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;button_withdraw&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>0103_Battle_Advice_Withdraw_Button_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>AdviceJustDisplayed(&quot;-722605174&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>0104_Battle_Advice_Group_Formations_Button_Trigger</key>
+<test_when>AdviceDismissed</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;button_group&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>0105_Battle_Advice_Group_Button_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;radar&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>0106_Battle_Advice_Radar_Map_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;button_melee&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>0107_Battle_Advice_Melee_Button_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>AdviceJustDisplayed(&quot;-1755835367&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>0108_Battle_Advice_Killometer_Trigger</key>
+<test_when>AdviceDismissed</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>BattleIsLandConflict() and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>0109_Battle_Advice_Hour_Glass_Trigger</key>
+<test_when>BattleConflictPhaseCommenced</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;button_movespeed&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>0110_Battle_Advice_Run_Button_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;compass_toggle&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>0112_Battle_Advice_Manoeuvre_Compass_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>[IsComponentType(&quot;pause&quot;) or IsComponentType(&quot;slo_mo&quot;) or IsComponentType(&quot;play&quot;) or IsComponentType(&quot;fwd&quot;) or IsComponentType(&quot;ffwd&quot;)] and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>0116_Battle_Advice_Speed_Slider_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;nav_button_board&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>0120_Battle_Advice_Naval_Boarding_Button_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>BattleIsNavalConflict() and BattleAllianceIsPlayers() and BattleAllianceIsAttacker() and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>0122_Battle_Advice_Naval_Boarding_Meter_Trigger</key>
+<test_when>BattleBoardingActionCommenced</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>[IsComponentType(&quot;general_portrait&quot;) or IsComponentType(&quot;cards_panel&quot;)] and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>0123_Battle_Advice_Review_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>BattleIsLandConflict() and [BattlePlayerAlliancePercentageOfUnitClass(&quot;infantry_bow&quot;) &gt;= 1 or BattlePlayerAlliancePercentageOfUnitClass(&quot;cavalry_missile&quot;) &gt;= 1] and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>0124_Battle_Advice_Skirmish_Mode_Button_Trigger</key>
+<test_when>BattleConflictPhaseCommenced</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;button_halt&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>0125_Battle_Advice_Cancel_Order_Button_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;button_repair&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>0126_Battle_Advice_Naval_Repair_Button_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>BattleIsSiegeConflict() and BattleAllianceIsAttacker() and BattleAllianceIsPlayers() and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>0127_Battle_Advice_Siege_Assault_Trigger</key>
+<test_when>BattleDeploymentPhaseCommenced</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>BattleIsSiegeConflict() and not BattleAllianceIsAttacker() and BattleAllianceIsPlayers() and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>0128_Battle_Advice_Siege_Defence_Trigger</key>
+<test_when>BattleDeploymentPhaseCommenced</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>BattleIsLandConflict() and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>0130_Battle_Advice_Unit_Abilities_Trigger</key>
+<test_when>BattleConflictPhaseCommenced</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>BattleIsAmbushConflict() and BattleAllianceIsAttacker() and BattleAllianceIsPlayers() and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>0131_Battle_Advice_Ambush_Attack_Trigger</key>
+<test_when>BattleDeploymentPhaseCommenced</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>BattleIsAmbushConflict() and not BattleAllianceIsAttacker() and BattleAllianceIsPlayers() and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>0132_Battle_Advice_Ambush_Defence_Trigger</key>
+<test_when>BattleDeploymentPhaseCommenced</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>BattleIsSiegeConflict() and BattleAllianceIsAttacker() and BattleAllianceIsPlayers() and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>0133_Battle_Advice_Naval_Siege_Attack_Trigger</key>
+<test_when>BattleDeploymentPhaseCommenced</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>BattleIsSiegeConflict() and not BattleAllianceIsAttacker() and BattleAllianceIsPlayers() and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>0134_Battle_Advice_Naval_Siege_Defence_Trigger</key>
+<test_when>BattleDeploymentPhaseCommenced</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>BattleArmyIsPlayers() and BattlePlayerNavalFireSupportPossible()</condition_script>
+<key>0135_Battle_Advice_Naval_Fire_Support_Trigger</key>
+<test_when>BattleDeploymentPhaseCommenced</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;popup_pre_battle&quot;) and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>0135_Campaign_Advice_Multiple_Armies_Trigger</key>
+<test_when>PanelOpenedCampaign</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>0137_Battle_Advice_Selection_Groups_Trigger</key>
+<test_when>BattleConflictPhaseCommenced</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and TurnNumber() == 8 and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>0138_Campaign_Advice_Tower_Defences_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>BattleArmyIsPlayers() and BattleArmyHasGatlings() and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>0139_Battle_Advice_Gatling_Guns_Trigger</key>
+<test_when>BattleConflictPhaseCommenced</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and TurnNumber() == 5 and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1013_Campaign_Advice_UI_Diplomacy_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;diplomacy_panel&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1014_Campaign_Advice_UI_Diplomacy_Panel_Trigger</key>
+<test_when>PanelOpenedCampaign</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;diplomacy_button_trade&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1014a_Campaign_Advice_UI_Diplomacy_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;diplomacy_button_alliance&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1014b_Campaign_Advice_UI_Diplomacy_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;diplomacy_button_hostage&quot;) and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1014c1_Campaign_Advice_UI_Diplomacy_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;diplomacy_button_hostage&quot;) and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1014c_Campaign_Advice_UI_Diplomacy_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;diplomacy_button_protector&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1014d_Campaign_Advice_UI_Diplomacy_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;diplomacy_button_war&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1014e_Campaign_Advice_UI_Diplomacy_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;diplomacy_button_access&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1014f_Campaign_Advice_UI_Diplomacy_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;diplomacy_button_marriage&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1014g_Campaign_Advice_UI_Diplomacy_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;diplomacy_button_payments&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1014j_Campaign_Advice_UI_Diplomacy_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;diplomacy_button_break_trade&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1014m_Campaign_Advice_UI_Diplomacy_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;diplomacy_button_request_join_war&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1014n_Campaign_Advice_UI_Diplomacy_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;diplomacy_button_break_alliance&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1014p_Campaign_Advice_UI_Diplomacy_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;button_threat_of_force&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1014q_Campaign_Advice_UI_Diplomacy_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;s2_review_controls&quot;) and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1021_Campaign_Advice_UI_Review_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;s2_review_controls&quot;) and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1021a_Campaign_Advice_UI_Review_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>[IsComponentType(&quot;dy_treasury&quot;) or IsComponentType(&quot;dy_income&quot;) or IsComponentType(&quot;dy_food&quot;) or IsComponentType(&quot;tx_treasury&quot;) or IsComponentType(&quot;tx_income&quot;)] and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1022_Campaign_Advice_UI_Treasury_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>[IsComponentType(&quot;dy_treasury&quot;) or IsComponentType(&quot;dy_income&quot;) or IsComponentType(&quot;dy_food&quot;) or IsComponentType(&quot;tx_treasury&quot;) or IsComponentType(&quot;tx_income&quot;)] and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1022a_Campaign_Advice_UI_Treasury_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and TurnNumber() &gt;= 12 and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1023_Campaign_Advice_UI_Radar_Map_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;fleets&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1024_Campaign_Advice_UI_Lists_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;regions&quot;) and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1025_Campaign_Advice_UI_Lists_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;regions&quot;) and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1025a_Campaign_Advice_UI_Lists_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;agents&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1026_Campaign_Advice_UI_Lists_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;armies&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1027_Campaign_Advice_UI_Lists_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;factions&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1027b_Campaign_Advice_UI_Lists_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;clan&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1028_Campaign_Advice_UI_Clan_Panel_Trigger</key>
+<test_when>PanelOpenedCampaign</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;Family&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1028a_Campaign_Advice_UI_Clan_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;Summary&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1028b_Campaign_Advice_UI_Clan_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>[IsComponentType(&quot;offices_panel&quot;) or IsComponentType(&quot;offices_holder&quot;) or IsComponentType(&quot;txt_warfare&quot;) or IsComponentType(&quot;txt_logistics&quot;) or IsComponentType(&quot;txt_development&quot;) or IsComponentType(&quot;txt_prosperity&quot;)] and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1028c_Campaign_Advice_UI_Clan_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;Records&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1028d_Campaign_Advice_UI_Clan_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;finance_screen&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1029_Campaign_Advice_UI_Finance_Panel_Trigger</key>
+<test_when>PanelOpenedCampaign</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;tab_taxes&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1029a_Campaign_Advice_UI_Finance_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;tab_trade&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1029b_Campaign_Advice_UI_Finance_Panel_Thread</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;tab_taxes&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1029c_Campaign_Advice_UI_Finance_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;tab_taxes&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1029d_Campaign_Advice_UI_Finance_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;tab_trade&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1029e_Campaign_Advice_UI_Finance_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;missions&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1030_Campaign_Advice_UI_Events_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;victory_conditions&quot;) and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1030a_Campaign_Advice_UI_Events_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;victory_conditions&quot;) and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1030b_Campaign_Advice_UI_Events_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and TurnNumber() == 3 and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1031_Campaign_Advice_UI_Technology_Panel_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and TurnNumber() == 4 and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1031a_Campaign_Advice_UI_Technology_Panel_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;technology&quot;) and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1032_Campaign_Advice_UI_Technology_Panel_Trigger</key>
+<test_when>PanelOpenedCampaign</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;technology&quot;) and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1032a_Campaign_Advice_UI_Technology_Panel_Trigger</key>
+<test_when>PanelOpenedCampaign</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;sabotage&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1033_Campaign_Advice_UI_Agent_Options_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;assassinate&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1034_Campaign_Advice_UI_Agent_Options_Panel_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;popup_pre_battle&quot;) and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1039_Campaign_Advice_UI_Prebattle_Panel_Trigger</key>
+<test_when>PanelOpenedCampaign</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;popup_battle_results&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1040_Campaign_Advice_UI_Postbattle_Panel_Trigger</key>
+<test_when>PanelOpenedCampaign</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;Region_Construction_Tab&quot;) and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1047_Campaign_Advice_UI_Infrastructure_Tab_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;Region_Construction_Tab&quot;) and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1048_Campaign_Advice_UI_Construction_Tab_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;Region_Construction_Tab&quot;) and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1048a_Campaign_Advice_UI_Construction_Tab_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;Land_Recruitment_Tab&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1049_Campaign_Advice_UI_Recruitment_Tab_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;unit_exchange&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1050_Campaign_Advice_UI_Exchange_Panel_Trigger</key>
+<test_when>PanelOpenedCampaign</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and CharacterType(&quot;General&quot;) and not CharacterType(&quot;colonel&quot;) and not IsAdmiral() and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1051_Campaign_Advice_Merging_Armies_Trigger</key>
+<test_when>CharacterCompletedBattle</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and CharacterType(&quot;General&quot;) and not CharacterType(&quot;colonel&quot;) and IsAdmiral() and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1052_Campaign_Advice_Merging_Fleets_Trigger</key>
+<test_when>CharacterCompletedBattle</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>SlotIsLocal() and SlotType(&quot;port&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1057_Campaign_Advice_Port_Selected_Trigger</key>
+<test_when>SlotSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>SlotIsLocal() and [SlotType(&quot;sheep&quot;) or SlotType(&quot;wheat&quot;) or SlotType(&quot;rice&quot;) or SlotType(&quot;horses&quot;)] and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1058_Campaign_Advice_Farm_Selected_Trigger</key>
+<test_when>SlotSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>SlotIsLocal() and [SlotType(&quot;sheep&quot;) or SlotType(&quot;wheat&quot;) or SlotType(&quot;rice&quot;) or SlotType(&quot;horses&quot;)] and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1058a_Campaign_Advice_Farm_Selected_Trigger</key>
+<test_when>SlotSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>SlotIsLocal() and [SlotType(&quot;iron&quot;) or SlotType(&quot;gold&quot;) or SlotType(&quot;gems&quot;)] and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1059_Campaign_Advice_Mine_Selected_Trigger</key>
+<test_when>SlotSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and CharacterType(&quot;General&quot;) and IsDaimyo() and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1064_Campaign_Advice_Daimyo_Selected_Trigger</key>
+<test_when>CharacterSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and CharacterType(&quot;General&quot;) and IsDaimyo() and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1064a_Campaign_Advice_Daimyo_Selected_Trigger</key>
+<test_when>CharacterSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and [CharacterType(&quot;General&quot;) or CharacterType(&quot;colonel&quot;)] and not IsAdmiral() and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1065_Campaign_Advice_General_Selected_Trigger</key>
+<test_when>CharacterSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and [CharacterType(&quot;General&quot;) or CharacterType(&quot;colonel&quot;)] and not IsAdmiral() and CampaignName(&quot;jap_boshin&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1065a_Campaign_Advice_General_Selected_Trigger</key>
+<test_when>CharacterSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and [CharacterType(&quot;General&quot;) or CharacterType(&quot;colonel&quot;)] and IsAdmiral() and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1066_Campaign_Advice_Fleet_Selected_Trigger</key>
+<test_when>CharacterSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and CharacterType(&quot;geisha&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1067_Campaign_Advice_Geisha_Selected_Trigger</key>
+<test_when>CharacterSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and CharacterType(&quot;ninja&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1068_Campaign_Advice_Ninja_Selected_Trigger</key>
+<test_when>CharacterSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and CharacterType(&quot;metsuke&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1069_Campaign_Advice_Metsuke_Selected_Trigger</key>
+<test_when>CharacterSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and CharacterType(&quot;monk&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1070_Campaign_Advice_Monk_Selected_Trigger</key>
+<test_when>CharacterSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and CharacterType(&quot;missionary&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1071_Campaign_Advice_Missionary_Selected_Trigger</key>
+<test_when>CharacterSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and CharacterType(&quot;boshin_shinobi&quot;) and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1072_Campaign_Advice_Shinobi_Selected_Trigger</key>
+<test_when>CharacterSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and CharacterType(&quot;boshin_shinsengumi&quot;) and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1073_Campaign_Advice_Shinsengumi_Selected_Trigger</key>
+<test_when>CharacterSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and CharacterType(&quot;boshin_ishinshishi&quot;) and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1074_Campaign_Advice_Ishinshishi_Selected_Trigger</key>
+<test_when>CharacterSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterType(&quot;pirate&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1075_Campaign_Advice_Wako_Selected_Trigger</key>
+<test_when>CharacterSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and CharacterType(&quot;boshin_geisha&quot;) and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1076_Campaign_Advice_Geisha_Selected_Trigger</key>
+<test_when>CharacterSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>not CharacterIsLocalCampaign() and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1077_Campaign_Advice_NPC_Selected_Trigger</key>
+<test_when>CharacterSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and [CharacterType(&quot;ninja&quot;) or CharacterType(&quot;geisha&quot;) or CharacterType(&quot;metsuke&quot;) or CharacterType(&quot;monk&quot;) or CharacterType(&quot;missionary&quot;)] and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1078_Campaign_Advice_Agent_Right_Click_Trigger</key>
+<test_when>CharacterInfoPanelOpened</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and CharacterType(&quot;General&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1079_Campaign_Advice_General_Right_Click_Trigger</key>
+<test_when>CharacterInfoPanelOpened</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>not CharacterIsLocalCampaign() and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1080_Campaign_Advice_NPC_Right_Click_Trigger</key>
+<test_when>CharacterInfoPanelOpened</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;region_info&quot;) and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1081_Campaign_Advice_Region_Right_Click_Trigger</key>
+<test_when>PanelOpenedCampaign</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;region_info&quot;) and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1081a_Campaign_Advice_Region_Right_Click_Trigger</key>
+<test_when>PanelOpenedCampaign</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;UnitInfoPopup&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1082_Campaign_Advice_Unit_Right_Click_Trigger</key>
+<test_when>PanelOpenedCampaign</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;CharacterInfoUnitInfoPopup&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1082b_Campaign_Advice_Unit_Right_Click_Trigger</key>
+<test_when>PanelOpenedCampaign</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;BuildingInfoPopup&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1083_Campaign_Advice_Building_Right_Click_Trigger</key>
+<test_when>BuildingInfoPanelOpenedCampaign</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;BuildingInfoPopup&quot;) and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1084_Campaign_Advice_Tech_Right_Click_Trigger</key>
+<test_when>TechnologyInfoPanelOpenedCampaign</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;BuildingInfoPopup&quot;) and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1084a_Campaign_Advice_Tech_Right_Click_Trigger</key>
+<test_when>TechnologyInfoPanelOpenedCampaign</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>SettlementIsLocal() and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1085_Campaign_Advice_Settlement_Occupied_Trigger</key>
+<test_when>SettlementOccupied</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>SettlementIsLocal() and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1085a_Campaign_Advice_Settlement_Occupied_Trigger</key>
+<test_when>SettlementOccupied</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and CharacterType(&quot;General&quot;) and IsCarryingTroops() and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1086_Campaign_Advice_Coastal_Assault_Trigger</key>
+<test_when>CharacterEmbarksNavy</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1087_Campaign_Advice_Coastal_Assault_Trigger</key>
+<test_when>CampaignCoastalAssaultOnCharacter</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1088_Campaign_Advice_Coastal_Assault_Trigger</key>
+<test_when>CampaignCoastalAssaultOnGarrison</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1088a_Campaign_Advice_Coastal_Assault_Trigger</key>
+<test_when>CampaignCoastalAssaultOnGarrison</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and CharacterType(&quot;General&quot;) and CharacterEndedInAmbushPosition() and IsPlayerTurn() and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1089_Campaign_Advice_Ambush_Trigger</key>
+<test_when>CharacterTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and IsPlayerTurn() and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1090_Campaign_Advice_Multi_Turn_Moves_Trigger</key>
+<test_when>MultiTurnMove</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and IsPlayerTurn() and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1090a_Campaign_Advice_Multi_Turn_Moves_Trigger</key>
+<test_when>MultiTurnMove</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and IsPlayerTurn() and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1091_Campaign_Advice_Movement_Exhausted_Trigger</key>
+<test_when>MovementPointsExhausted</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and IsPlayerTurn() and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1091a_Campaign_Advice_Movement_Exhausted_Trigger</key>
+<test_when>MovementPointsExhausted</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>SettlementIsLocal() and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1092_Campaign_Advice_Region_Capital_Trigger</key>
+<test_when>SettlementSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>SettlementIsLocal() and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1092a_Campaign_Advice_Region_Capital_Trigger</key>
+<test_when>SettlementSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and CharacterType(&quot;boshin_veteran&quot;) and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1093_Campaign_Advice_Veteran_Selected_Trigger</key>
+<test_when>CharacterSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsPlayerTurn() and FactionIsLocal() and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1095_Campaign_Advice_Trade_Agreement_Trigger</key>
+<test_when>TradeRouteEstablished</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and TurnNumber() == 5 and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1096_Campaign_Advice_Fame_Levels_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and [CharacterType(&quot;General&quot;) or CharacterType(&quot;colonel&quot;)] and IsAdmiral() and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1097_Campaign_Advice_Punitive_Forces_Trigger</key>
+<test_when>CharacterSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>SettlementIsLocal() and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1098_Campaign_Advice_Modernisation_Trigger</key>
+<test_when>SettlementSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;technology&quot;) and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1099_Campaign_Advice_Development_Trigger</key>
+<test_when>PanelOpenedCampaign</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>PlayerFactionIsAttacker() and IsPlayerTurn() and IsUnderSiege() and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1101_Campaign_Advice_Sieges_Trigger</key>
+<test_when>CampaignSettlementAttacked</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>PlayerFactionIsAttacker() and IsPlayerTurn() and IsUnderSiege() and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1101b_Campaign_Advice_Sieges_Trigger</key>
+<test_when>CampaignSettlementAttacked</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>not PlayerFactionIsAttacker() and IsPlayerTurn() and IsUnderSiege() and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1101c_Campaign_Advice_Sieges_Trigger</key>
+<test_when>CampaignSettlementAttacked</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>GarrisonIsLocal() and GarrisonUnitCount() == 0 and not CharacterInHomeRegion()</condition_script>
+<key>1102_Campaign_Advice_Ungarrisoned_Region_Trigger</key>
+<test_when>CharacterLeavesGarrison</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>GarrisonIsLocal() and [TurnNumber() == 1 or TurnNumber() == 2] and GarrisonUnitCount() == 0 and CharacterInHomeRegion() and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1103_Campaign_Advice_Ungarrisoned_Castle_Trigger</key>
+<test_when>CharacterLeavesGarrison</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>GarrisonIsLocal() and [TurnNumber() == 1 or TurnNumber() == 2] and GarrisonUnitCount() == 0 and CharacterInHomeRegion() and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1103a_Campaign_Advice_Ungarrisoned_Castle_Trigger</key>
+<test_when>CharacterLeavesGarrison</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>SlotIsLocal() and SlotBuildingQueueIdleDespiteCash() and SlotType(&quot;port&quot;) and [TurnsSinceThreadLastAdvanced(&quot;1104_Campaign_Advice_Undeveloped_Port_Thread&quot;) == 0 or TurnsSinceThreadLastAdvanced(&quot;1104_Campaign_Advice_Undeveloped_Port_Thread&quot;) == 5] and not CampaignName(&quot;tut_shogun&quot;) and TurnNumber() &gt;= 15</condition_script>
+<key>1104_Campaign_Advice_Warning_Undeveloped_Port_Trigger</key>
+<test_when>SlotTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>SlotIsLocal() and SlotBuildingQueueIdleDespiteCash() and SlotType(&quot;settlement_road&quot;) and [TurnsSinceThreadLastAdvanced(&quot;2190_Campaign_Advice_Undeveloped_Roads_Thread&quot;) == 0 or TurnsSinceThreadLastAdvanced(&quot;2190_Campaign_Advice_Undeveloped_Roads_Thread&quot;) == 5] and not CampaignName(&quot;tut_shogun&quot;) and TurnNumber() &gt;= 15</condition_script>
+<key>1105_Campaign_Advice_Warning_Undeveloped_Roads_Trigger</key>
+<test_when>SlotTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>RegionIsLocal() and not TradeRouteLimitReached() and not RegionSlotBuildingTypeExists(&quot;SHO_Port_2_Trading_Port&quot;) and [TurnsSinceThreadLastAdvanced(&quot;1106_Campaign_Advice_Warning_Undeveloped_Trade_Thread&quot;) == 0 or TurnsSinceThreadLastAdvanced(&quot;1106_Campaign_Advice_Warning_Undeveloped_Trade_Thread&quot;) == 5] and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;) and TurnNumber() &gt;= 15</condition_script>
+<key>1106_Campaign_Advice_Warning_Undeveloped_Trade_Trigger</key>
+<test_when>RegionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>RegionIsLocal() and not TradeRouteLimitReached() and not RegionSlotBuildingTypeExists(&quot;SHO_Port_2_Trading_Port&quot;) and [TurnsSinceThreadLastAdvanced(&quot;1106_Campaign_Advice_Warning_Undeveloped_Trade_Thread&quot;) == 0 or TurnsSinceThreadLastAdvanced(&quot;1106_Campaign_Advice_Warning_Undeveloped_Trade_Thread&quot;) == 5] and CampaignName(&quot;jap_boshin&quot;) and TurnNumber() &gt;= 15</condition_script>
+<key>1106a_Campaign_Advice_Warning_Undeveloped_Trade_Trigger</key>
+<test_when>RegionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>SlotIsLocal() and [SlotType(&quot;SHO_region_specialty_gold_mining&quot;) or SlotType(&quot;SHO_region_specialty_iron_mining&quot;) or SlotType(&quot;SHO_region_specialty_horses&quot;) or SlotType(&quot;SHO_region_specialty_prime_forest&quot;) or SlotType(&quot;SHO_region_specialty_stone&quot;) or SlotType(&quot;SHO_region_specialty_artisans&quot;) or SlotType(&quot;SHO_region_specialty_farm&quot;)] and [TurnsSinceThreadLastAdvanced(&quot;1107_Campaign_Advice_Unexploited_Resources_Thread&quot;) == 0 or TurnsSinceThreadLastAdvanced(&quot;1107_Campaign_Advice_Unexploited_Resources_Thread&quot;) == 5] and not CampaignName(&quot;tut_shogun&quot;) and TurnNumber() &gt;= 15</condition_script>
+<key>1107_Campaign_Advice_Warning_Unexploited_Resources_Trigger</key>
+<test_when>SlotTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and TurnNumber() &gt;= 12 and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1108_Campaign_Advice_Bookmarks_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and TurnNumber() &gt;= 12 and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1109_Campaign_Advice_Fog_Of_War_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and TurnNumber() &gt;= 11 and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1109a_Campaign_Advice_Fog_Of_War_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and TurnNumber() == 8 and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1110_Campaign_Advice_Trade_Routes_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and TurnNumber() == 9 and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1111_Campaign_Advice_Slots_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and TurnNumber() &gt;= 11 and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1111a_Campaign_Advice_Slots_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and TurnNumber() &gt;= 12 and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1112_Campaign_Advice_Resources_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and TurnNumber() &gt;= 12 and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1114_Campaign_Advice_Keyboard_Shortcuts_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and TurnNumber() &gt;= 12 and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1115_Campaign_Advice_Camera_Controls_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>AdviceJustDisplayed(&quot;2139657977&quot;) and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1116_Campaign_Advice_UI_Help_Buttons_Trigger</key>
+<test_when>AdviceDismissed</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>AdviceJustDisplayed(&quot;2139657977&quot;) and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1116a_Campaign_Advice_UI_Help_Buttons_Trigger</key>
+<test_when>AdviceDismissed</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>RegionIsLocal() and IsPlayerTurn() and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1118_Campaign_Advice_Warning_Riot_Trigger</key>
+<test_when>RegionRiots</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>RegionIsLocal() and IsPlayerTurn() and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1119_Campaign_Advice_Warning_Rebellion_Trigger</key>
+<test_when>RegionRebels</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and LosingMoney() and FactionTreasury() &lt;= 0 and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1122_Campaign_Advice_Warning_Bankrupt_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and LosingMoney() and SupportCostsPercentage() &gt; 60 and FactionTreasury() &gt; 0 and [FactionTaxLevel(&quot;upper_classes&quot;) &lt; TaxLevel(&quot;tax_extortionate&quot;) or FactionTaxLevel(&quot;lower_classes&quot;) &lt; TaxLevel(&quot;tax_extortionate&quot;)] and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1123_Campaign_Advice_Warning_Upkeep_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and LosingMoney() and FactionTreasury() &lt;= 0 and UnusedInternationalTradeRoute() and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1124_Campaign_Advice_Warning_Bankrupt_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and LosingMoney() and SupportCostsPercentage() &gt; 60 and FactionTreasury() &lt;= 0 and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1125_Campaign_Advice_Warning_Bankrupt_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and FactionTreasury() &lt; 200 and [FactionTaxLevel(&quot;upper_classes&quot;) &lt; TaxLevel(&quot;tax_extortionate&quot;) or FactionTaxLevel(&quot;lower_classes&quot;) &lt; TaxLevel(&quot;tax_extortionate&quot;)] and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1126_Campaign_Advice_Warning_Cashflow_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and FactionTreasury() &lt; 200 and [FactionTaxLevel(&quot;upper_classes&quot;) &lt; TaxLevel(&quot;tax_extortionate&quot;) or FactionTaxLevel(&quot;lower_classes&quot;) &lt; TaxLevel(&quot;tax_extortionate&quot;)] and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1126a_Campaign_Advice_Warning_Cashflow_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and LosingMoney() and TradeNodeAvailableWorldwide() and [TurnsSinceThreadLastAdvanced(&quot;1127_Campaign_Advice_Warning_Trade_Thread&quot;) == 0 or TurnsSinceThreadLastAdvanced(&quot;1127_Campaign_Advice_Warning_Trade_Thread&quot;) == 5] and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1127_Campaign_Advice_Warning_Trade_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>not RegionIsLocal() and IsPlayerTurn() and AdjacentRegionRebelling() and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1128_Campaign_Advice_Warning_Adjacent_Rebellion_Trigger</key>
+<test_when>RegionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and LosingMoney() and FactionTreasury() &lt; 200 and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1129_Campaign_Advice_Warning_Cashflow_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and LosingMoney() and FactionTreasury() &lt; 200 and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1129a_Campaign_Advice_Warning_Cashflow_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>RegionWealthDecrease() and RegionIsLocal() and not CampaignName(&quot;tut_shogun&quot;) and TurnNumber() &gt;= 10 and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1130_Campaign_Advice_Warning_Region_Wealth_Trigger</key>
+<test_when>RegionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>RegionIsLocal() and RegionMajorityReligion(&quot;rel_catholic&quot;) and not RegionReligionIsStateReligion() and [TurnsSinceThreadLastAdvanced(&quot;1137_Campaign_Advice_Warning_Religious_Unrest_Thread&quot;) == 0 or TurnsSinceThreadLastAdvanced(&quot;1137_Campaign_Advice_Warning_Religious_Unrest_Thread&quot;) == 5] and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1136_Campaign_Advice_Warning_Religious_Unrest_Trigger</key>
+<test_when>RegionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>RegionIsLocal() and [RegionMajorityReligion(&quot;rel_buddhist&quot;) or RegionMajorityReligion(&quot;rel_ikko&quot;)] and not RegionReligionIsStateReligion() and [TurnsSinceThreadLastAdvanced(&quot;1137_Campaign_Advice_Warning_Religious_Unrest_Thread&quot;) == 0 or TurnsSinceThreadLastAdvanced(&quot;1137_Campaign_Advice_Warning_Religious_Unrest_Thread&quot;) == 5] and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1137_Campaign_Advice_Warning_Religious_Unrest_Trigger</key>
+<test_when>RegionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>RegionIsLocal() and RegionHasFoodShortages() and [TurnsSinceThreadLastAdvanced(&quot;1138_Campaign_Advice_Warning_Population_Thread&quot;) == 0 or TurnsSinceThreadLastAdvanced(&quot;1138_Campaign_Advice_Warning_Population_Thread&quot;) == 5] and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1138_Campaign_Advice_Warning_Population_Trigger</key>
+<test_when>RegionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>TradeRouteIsEnemy() and IsPlayerTurn() and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1142b_Campaign_Advice_Trade_Route_Raided_Trigger</key>
+<test_when>SeaTradeRouteRaided</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and SeaTradeRouteRaided() and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1143_Campaign_Advice_Trade_Route_Raided_Trigger</key>
+<test_when>FactionRoundStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and IsPlayerTurn() and FactionHasTradeShipNotInTradeNode() and TradeNodeAvailableWorldwide() and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1147_Campaign_Advice_Trade_Nodes_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>not SlotIsLocal() and not SlotIsAlliedCampaign() and IsBuildingInChain(&quot;port-navy&quot;) and PortBlockadedLocal() and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1148_Campaign_Advice_Port_Blockaded_Trigger</key>
+<test_when>SlotRoundStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>SlotIsLocal() and IsBuildingInChain(&quot;port-navy&quot;) and PortBlockaded() and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1149_Campaign_Advice_Port_Blockaded_Trigger</key>
+<test_when>SlotRoundStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and TurnNumber() == 9 and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1150_Campaign_Advice_Foreign_Trade_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;technology&quot;) and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1151_Campaign_Advice_Ship_Upgrades_Trigger</key>
+<test_when>PanelOpenedCampaign</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1167_Campaign_Advice_Warning_Ally_Betrayal_Trigger</key>
+<test_when>CharacterAttacksAlly</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and LosingMoney() and FactionTreasury() &lt;= 0 and TaxCollectionLimited() and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1184_Campaign_Advice_Warning_Bankrupt_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and LosingMoney() and FactionTreasury() &lt;= 2000 and TaxCollectionLimited() and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1185_Campaign_Advice_Warning_Infrastructure_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and LosingMoney() and FactionTreasury() &lt;= 2000 and TaxCollectionLimited() and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1185a_Campaign_Advice_Warning_Infrastructure_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and [CharacterType(&quot;General&quot;) or CharacterType(&quot;colonel&quot;)] and CharacterStationaryForOneTurn() and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1213_Campaign_Advice_Digging_In_Trigger</key>
+<test_when>CharacterTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and [CharacterType(&quot;General&quot;) or CharacterType(&quot;colonel&quot;)] and CharacterStationaryForOneTurn() and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>1213a_Campaign_Advice_Digging_In_Trigger</key>
+<test_when>CharacterTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and [CharacterType(&quot;General&quot;) or CharacterType(&quot;colonel&quot;) or CharacterType(&quot;admiral&quot;) or CharacterType(&quot;captain&quot;)] and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>1216_Campaign_Advice_Zones_Of_Control_Trigger</key>
+<test_when>CharacterSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;technology&quot;) and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>2000_Campaign_Advice_Research_Goals_Trigger</key>
+<test_when>PanelOpenedCampaign</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and TurnNumber() == 4 and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>2189_Campaign_Advice_Encyclopaedia_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and IsPlayerTurn() and FactionHasTradeShipNotInTradeNode() and TradeNodeAvailableWorldwide() and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>2190_Campaign_Advice_Trade_Nodes_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>2192_Campaign_Advice_Dilemmas_Trigger</key>
+<test_when>IncomingMessage</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and TurnNumber() &gt;= 12 and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>2193_Campaign_Advice_Date_Seasons_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>AdviceJustDisplayed(&quot;1219328082&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>2194_Campaign_Advice_Advisor_Back_Button_Trigger</key>
+<test_when>AdviceDismissed</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and TurnNumber() &gt;= 12 and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>2195_Campaign_Advice_Passive_Spying_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and TurnNumber() &gt;= 11 and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>2195a_Campaign_Advice_Passive_Spying_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>GarrisonIsLocal() and [CharacterBuildingConstructed(&quot;SHO_Archery_4_Legendary_Dojo&quot;) or CharacterBuildingConstructed(&quot;SHO_Buddhist_4_Legendary_Temple&quot;) or CharacterBuildingConstructed(&quot;SHO_Cavalry_4_Legendary_Bajutsu_Dojo&quot;) or CharacterBuildingConstructed(&quot;SHO_Sword_4_Legendary_Dojo&quot;) or CharacterBuildingConstructed(&quot;SHO_Yari_4_Legendary_School&quot;)] and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>2196_Campaign_Advice_Heroes_Trigger</key>
+<test_when>BuildingCompleted</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>GarrisonIsLocal() and [IsBuildingInChain(&quot;SHO_Buddhist&quot;) or IsBuildingInChain(&quot;SHO_Archery&quot;) or IsBuildingInChain(&quot;SHO_Cavalry&quot;) or IsBuildingInChain(&quot;SHO_Sword&quot;) or IsBuildingInChain(&quot;SHO_Yari&quot;)] and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>2197_Campaign_Advice_Legendary_Building_Trigger</key>
+<test_when>BuildingCompleted</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>GarrisonIsLocal() and [IsBuildingInChain(&quot;SHO_Buddhist&quot;) or IsBuildingInChain(&quot;SHO_Archery&quot;) or IsBuildingInChain(&quot;SHO_Cavalry&quot;) or IsBuildingInChain(&quot;SHO_Sword&quot;) or IsBuildingInChain(&quot;SHO_Yari&quot;)] and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>2197a_Campaign_Advice_Legendary_Building_Trigger</key>
+<test_when>BuildingCompleted</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and CharacterArmyCouldReplenishFromBattle() and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>2198_Campaign_Advice_Replenishment_Advice_Trigger</key>
+<test_when>CharacterCompletedBattle</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and CharacterArmyCouldReplenishFromBattle() and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>2198a_Campaign_Advice_Replenishment_Advice_Trigger</key>
+<test_when>CharacterCompletedBattle</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and TurnNumber() &gt;= 12 and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>2199_Campaign_Advice_Trade_Post_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and TurnNumber() == 7 and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>2200_Campaign_Advice_Finance_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and TurnNumber() == 6 and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>2201_Campaign_Advice_Clan_Management_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and TurnNumber() == 11 and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>2202_Campaign_Advice_Drop_In_Battles_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;enlist_commander&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>2211_Campaign_Advice_Recruit_Cmd_Trigger</key>
+<test_when>PanelOpenedCampaign</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsPlayerTurn() and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>2213_Campaign_Advice_New_Protectorate_Trigger</key>
+<test_when>ClanBecomesVassal</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and IsPlayerTurn() and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>2214_Campaign_Advice_Attrition_Trigger</key>
+<test_when>CharacterEntersAttritionalArea</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and IsPlayerTurn() and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>2214a_Campaign_Advice_Attrition_Trigger</key>
+<test_when>CharacterEntersAttritionalArea</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;Summary&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>2215_Campaign_Advice_Clan_Traits_Trigger</key>
+<test_when>PanelOpenedCampaign</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>[IsComponentType(&quot;effect1&quot;) or IsComponentType(&quot;effect2&quot;) or IsComponentType(&quot;effect3&quot;) or IsComponentType(&quot;effect4&quot;) or IsComponentType(&quot;effect5&quot;)]</condition_script>
+<key>2216_Campaign_Advice_Effects_Bundles_Trigger</key>
+<test_when>ComponentLClickUp</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_gempei&quot;)</condition_script>
+<key>2217_Campaign_Advice_Mission_Objectives_Trigger</key>
+<test_when>MissionIssued</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;character_skills&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>2218_Campaign_Advice_Skills_Tree_Trigger</key>
+<test_when>PanelOpenedCampaign</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>SlotIsLocal() and [SlotType(&quot;SHO_Region_Specialty_Craftwork_1_Artisans&quot;) or SlotType(&quot;SHO_Region_Specialty_Craftwork_2_Fletchers&quot;) or SlotType(&quot;SHO_Region_Specialty_Craftwork_2_Paper_Mills&quot;) or SlotType(&quot;SHO_Region_Specialty_Craftwork_3_Laquerware&quot;) or SlotType(&quot;SHO_Region_Specialty_Craftwork_3_Master_Bowmaker&quot;) or SlotType(&quot;SHO_Region_Specialty_Gold_Mining_1_Surface_Mining&quot;) or SlotType(&quot;SHO_Region_Specialty_Gold_Mining_2_Open_Pit&quot;) or SlotType(&quot;SHO_Region_Specialty_Gold_Mining_3_Mining_Complex&quot;) or SlotType(&quot;SHO_Region_Specialty_Holy_Site_1_Holy_Site&quot;) or SlotType(&quot;SHO_Region_Specialty_Holy_Site_2_Mountain_Hermitag&quot;) or SlotType(&quot;SHO_Region_Specialty_Holy_Site_2_Pilgrim_Hostel&quot;) or SlotType(&quot;SHO_Region_Specialty_Holy_Site_3_Fortified_Monaste&quot;) or SlotType(&quot;SHO_Region_Specialty_Holy_Site_3_Great_Soja_Shrine&quot;) or SlotType(&quot;SHO_Region_Specialty_Horses_1_Pastures&quot;) or SlotType(&quot;SHO_Region_Specialty_Horses_2_Breeders&quot;) or SlotType(&quot;SHO_Region_Specialty_Horses_3_Warhorse_Breeders&quot;) or SlotType(&quot;SHO_Region_Specialty_Intellectual_Centre_1_School&quot;) or SlotType(&quot;SHO_Region_Specialty_Intellectual_Centre_2_Library&quot;) or SlotType(&quot;SHO_Region_Specialty_Intellectual_Centre_2_Magistr&quot;) or SlotType(&quot;SHO_Region_Specialty_Intellectual_Centre_3_Academy&quot;) or SlotType(&quot;SHO_Region_Specialty_Intellectual_Centre_3_Law_Cou&quot;) or SlotType(&quot;SHO_Region_Specialty_Iron_Mining_1_Iron_Mine&quot;) or SlotType(&quot;SHO_Region_Specialty_Iron_Mining_2_Deep_Mine&quot;) or SlotType(&quot;SHO_Region_Specialty_Iron_Mining_3_Mining_Complex&quot;) or SlotType(&quot;SHO_Region_Specialty_Naval_1_Merchant_Colony&quot;) or SlotType(&quot;SHO_Region_Specialty_Naval_2_Pirate_Lair&quot;) or SlotType(&quot;SHO_Region_Specialty_Naval_2_Warehouses&quot;) or SlotType(&quot;SHO_Region_Specialty_Naval_3_Pirate_Fortress&quot;) or SlotType(&quot;SHO_Region_Specialty_Naval_3_Red_Seal_Company&quot;) or SlotType(&quot;SHO_Region_Specialty_Ninja_1_Hideout&quot;) or SlotType(&quot;SHO_Region_Specialty_Ninja_2_Burakumin&quot;) or SlotType(&quot;SHO_Region_Specialty_Ninja_2_Ninjutsu_School&quot;) or SlotType(&quot;SHO_Region_Specialty_Ninja_3_Clan_Fortress&quot;) or SlotType(&quot;SHO_Region_Specialty_Ninja_3_Smuggling_Network&quot;) or SlotType(&quot;SHO_Region_Specialty_Smithing_1_Blacksmith&quot;) or SlotType(&quot;SHO_Region_Specialty_Smithing_2_Armourer&quot;) or SlotType(&quot;SHO_Region_Specialty_Smithing_2_Weaponsmith&quot;) or SlotType(&quot;SHO_Region_Specialty_Smithing_3_Master_Armourer&quot;) or SlotType(&quot;SHO_Region_Specialty_Smithing_3_Master_Weaponsmith&quot;) or SlotType(&quot;SHO_Region_Specialty_Stone_1_Stonemason&quot;) or SlotType(&quot;SHO_Region_Specialty_Stone_2_Quarry&quot;) or SlotType(&quot;SHO_Region_Specialty_Stone_3_Stoneworls&quot;) or SlotType(&quot;SHO_Region_Specialty_Timber_1_Lumbercamp&quot;) or SlotType(&quot;SHO_Region_Specialty_Timber_2_Lumberyards&quot;) or SlotType(&quot;SHO_Region_Specialty_Timber_3_Sawmills&quot;)]</condition_script>
+<key>2219_Campaign_Advice_Region_Specialities_Trigger</key>
+<test_when>SlotSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>SettlementIsLocal() and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>2220_Campaign_Advice_Food_Supplies_Trigger</key>
+<test_when>SettlementSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and [CharacterType(&quot;General&quot;) or CharacterType(&quot;colonel&quot;)] and IsAdmiral() and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>2221_Campaign_Advice_Fleets_Reveal_Trigger</key>
+<test_when>CharacterSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and TurnNumber() &gt;= 12 and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>2222_Campaign_Advice_Natural_Disasters_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>SettlementIsLocal() and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>2223_Campaign_Advice_Riots_Trigger</key>
+<test_when>SettlementSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>SettlementIsLocal() and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>2223a_Campaign_Advice_Riots_Trigger</key>
+<test_when>SettlementSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>SettlementIsLocal() and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>2224_Campaign_Advice_Rebellions_Trigger</key>
+<test_when>SettlementSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>SettlementIsLocal() and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>2224a_Campaign_Advice_Rebellions_Trigger</key>
+<test_when>SettlementSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;region_info&quot;) and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>2225_Campaign_Advice_Province_Wealth_Trigger</key>
+<test_when>PanelOpenedCampaign</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;region_info&quot;) and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>2225a_Campaign_Advice_Province_Wealth_Trigger</key>
+<test_when>PanelOpenedCampaign</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>2226_Campaign_Advice_Being_Shogun_Trigger</key>
+<test_when>FactionBecomesShogun</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>IsComponentType(&quot;popup_pre_battle&quot;) and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>2227_Campaign_Advice_Losing_Generals_Trigger</key>
+<test_when>PanelOpenedCampaign</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and IsAdmiral() and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>2228_Campaign_Advice_Experience_Sea_Trigger</key>
+<test_when>CharacterCompletedBattle</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>RegionIsLocal() and RegionTaxExemptLongerThan(10) and RegionWouldBeHappyWithNoTaxExemption() and not CampaignName(&quot;tut_shogun&quot;)</condition_script>
+<key>2229_Campaign_Advice_Exempt_Warning_Trigger</key>
+<test_when>RegionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and not FactionHasRecruitedAnyAgents() and TurnNumber() &gt;= 25 and not CampaignName(&quot;tut_shogun&quot;) and not CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>2230_Campaign_Advice_Recruit_Agents_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and not FactionHasRecruitedAnyAgents() and TurnNumber() &gt;= 25 and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>2230a_Campaign_Advice_Recruit_Agents_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and CharacterType(&quot;gempei_dancer&quot;) and CampaignName(&quot;jap_gempei&quot;)</condition_script>
+<key>2231_Campaign_Advice_Shirabyoshi_Selected_Trigger</key>
+<test_when>CharacterSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and CharacterType(&quot;gempei_monk&quot;) and CampaignName(&quot;jap_gempei&quot;)</condition_script>
+<key>2232_Campaign_Advice_Sou_ Selected_Trigger</key>
+<test_when>CharacterSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and CharacterType(&quot;gempei_inspector&quot;) and CampaignName(&quot;jap_gempei&quot;)</condition_script>
+<key>2233_Campaign_Advice_Junsatsushi_ Selected_Trigger</key>
+<test_when>CharacterSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and CharacterType(&quot;gempei_spy&quot;) and CampaignName(&quot;jap_gempei&quot;)</condition_script>
+<key>2234_Campaign_Advice_Monomi_ Selected_Trigger</key>
+<test_when>CharacterSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and TurnNumber() == 2 and CampaignName(&quot;jap_gempei&quot;) and not CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>2236_Campaign_Advice_Gempei_Influence_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and TurnNumber() == 3 and CampaignName(&quot;jap_boshin&quot;) </condition_script>
+<key>2236a_Campaign_Advice_Allegiance_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and TurnNumber() == 6 and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>2238_Campaign_Advice_Railways_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and CharacterCommandsNavy() and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>2239_Campaign_Advice_Naval_Bombardment_Trigger</key>
+<test_when>CharacterSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>2240_Campaign_Advice_Artillery_Support_Trigger</key>
+<test_when>CharacterSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and CharacterType(&quot;General&quot;) and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>2241_Campaign_Advice_Reinforcements_Trigger</key>
+<test_when>CharacterSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and TurnNumber() == 7 and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>2242_Campaign_Advice_Coastal_Defences_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>CharacterIsLocalCampaign() and [CharacterType(&quot;General&quot;) or CharacterType(&quot;colonel&quot;)] and IsAdmiral() and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>2243_Campaign_Advice_Port_Battle_Trigger</key>
+<test_when>CharacterSelected</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and TurnNumber() == 2 and CampaignName(&quot;jap_boshin&quot;) </condition_script>
+<key>2244_Campaign_Advice_Video_Tutorials_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>[IsBuildingOfType(&quot;bos_port_4_american_trading_district&quot;) or IsBuildingOfType(&quot;bos_port_4_british_trading_district&quot;) or IsBuildingOfType(&quot;bos_port_4_french_trading_district&quot;)] and CampaignName(&quot;jap_boshin&quot;)</condition_script>
+<key>2245_Campaign_Advice_Foreign_Trade_Routes_Trigger</key>
+<test_when>BuildingCompleted</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and FactionName(&quot;chosokabe&quot;) and not CampaignName(&quot;tut_shogun&quot;) and TurnNumber() == 1</condition_script>
+<key>3000_STW2_Clan_Intro_Chosokabe_1_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and FactionName(&quot;oda&quot;) and not CampaignName(&quot;tut_shogun&quot;) and TurnNumber() == 1</condition_script>
+<key>3003_STW2_Clan_Intro_Oda_1_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and FactionName(&quot;uesugi&quot;) and not CampaignName(&quot;tut_shogun&quot;) and TurnNumber() == 1</condition_script>
+<key>3006_STW2_Clan_Intro_Uesugi_1_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and FactionName(&quot;date&quot;) and not CampaignName(&quot;tut_shogun&quot;) and TurnNumber() == 1</condition_script>
+<key>3009_STW2_Clan_Intro_Date_1_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and FactionName(&quot;hojo&quot;) and not CampaignName(&quot;tut_shogun&quot;) and TurnNumber() == 1</condition_script>
+<key>3012_STW2_Clan_Intro_Hojo_1_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and FactionName(&quot;mori&quot;) and not CampaignName(&quot;tut_shogun&quot;) and TurnNumber() == 1</condition_script>
+<key>3015_STW2_Clan_Intro_Mori_1_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and FactionName(&quot;iga_ninja&quot;) and not CampaignName(&quot;tut_shogun&quot;) and TurnNumber() == 1</condition_script>
+<key>3018_STW2_Clan_Intro_Hattori_1_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and FactionName(&quot;takeda&quot;) and not CampaignName(&quot;tut_shogun&quot;) and TurnNumber() == 1</condition_script>
+<key>3021_STW2_Clan_Intro_Takeda_1_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and FactionName(&quot;shimazu&quot;) and not CampaignName(&quot;tut_shogun&quot;) and TurnNumber() == 1</condition_script>
+<key>3024_STW2_Clan_Intro_Shimazu_1_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and FactionName(&quot;tokugawa&quot;) and not CampaignName(&quot;tut_shogun&quot;) and TurnNumber() == 1</condition_script>
+<key>3027_STW2_Clan_Intro_Tokugawa_1_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and FactionName(&quot;ikko_ikki&quot;) and not CampaignName(&quot;tut_shogun&quot;) and TurnNumber() == 1</condition_script>
+<key>3030_STW2_Clan_Intro_Ikko_Ikki_1_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and [FactionName(&quot;gem_minamoto_kamakura&quot;) or FactionName(&quot;gem_minamoto_kiso&quot;)] and CampaignName(&quot;jap_gempei&quot;) and TurnNumber() == 1</condition_script>
+<key>3033_STW2_Gempei_Clan_Intro_Minamoto_1_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and [FactionName(&quot;gem_taira_fukuhara&quot;) or FactionName(&quot;gem_taira_yashima&quot;)] and CampaignName(&quot;jap_gempei&quot;) and TurnNumber() == 1</condition_script>
+<key>3034_STW2_Gempei_Clan_Intro_Taira_1_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and [FactionName(&quot;gem_fujiwara_hiraizumi&quot;) or FactionName(&quot;gem_fujiwara_kubota&quot;)] and CampaignName(&quot;jap_gempei&quot;) and TurnNumber() == 1</condition_script>
+<key>3035_STW2_Gempei_Clan_Intro_Fujiwara_1_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and FactionName(&quot;bos_satsuma&quot;) and CampaignName(&quot;jap_boshin&quot;) and TurnNumber() == 1</condition_script>
+<key>3036_STW2_Boshin_Clan_Intro_Satsuma_1_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and FactionName(&quot;bos_choshu&quot;) and CampaignName(&quot;jap_boshin&quot;) and TurnNumber() == 1</condition_script>
+<key>3037_STW2_Boshin_Clan_Intro_Choshu_1_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and FactionName(&quot;bos_tosa&quot;) and CampaignName(&quot;jap_boshin&quot;) and TurnNumber() == 1</condition_script>
+<key>3038_STW2_Boshin_Clan_Intro_Tosa_1_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and FactionName(&quot;bos_aizu&quot;) and CampaignName(&quot;jap_boshin&quot;) and TurnNumber() == 1</condition_script>
+<key>3039_STW2_Boshin_Clan_Intro_Aizu_1_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and FactionName(&quot;bos_jozai&quot;) and CampaignName(&quot;jap_boshin&quot;) and TurnNumber() == 1</condition_script>
+<key>3040_STW2_Boshin_Clan_Intro_Jozai_1_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and FactionName(&quot;bos_nagaoka&quot;) and CampaignName(&quot;jap_boshin&quot;) and TurnNumber() == 1</condition_script>
+<key>3041_STW2_Boshin_Clan_Intro_Nagaoka_1_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and FactionName(&quot;bos_saga&quot;) and CampaignName(&quot;jap_boshin&quot;) and TurnNumber() == 1</condition_script>
+<key>3042_STW2_Boshin_Clan_Intro_Saga_1_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and FactionName(&quot;bos_ueno&quot;) and CampaignName(&quot;jap_boshin&quot;) and TurnNumber() == 1</condition_script>
+<key>3043_STW2_Boshin_Clan_Intro_Tsu_1_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and FactionName(&quot;bos_sendai&quot;) and CampaignName(&quot;jap_boshin&quot;) and TurnNumber() == 1</condition_script>
+<key>3044_STW2_Boshin_Clan_Intro_Sendai_1_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and FactionName(&quot;bos_obama&quot;) and CampaignName(&quot;jap_boshin&quot;) and TurnNumber() == 1</condition_script>
+<key>3045_STW2_Boshin_Clan_Intro_Obama_1_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+</dataroot>

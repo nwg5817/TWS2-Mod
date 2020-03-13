@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Thu 22. Sep 11:02:02 2011" revision="3" export_branch="C:/TW/branches/shogun2/boshin/shogun2/src" export_user="Tim.Gosling">
+<edit_uuid>ab49f36e-0bdc-43ee-9dd9-de6a221672b2</edit_uuid><cai_personalities_building_synergy_policies>
+<key>cai_bsp_UNASSIGNED</key>
+</cai_personalities_building_synergy_policies>
+<cai_personalities_building_synergy_policies>
+<key>cai_bsp_boshin</key>
+</cai_personalities_building_synergy_policies>
+<cai_personalities_building_synergy_policies>
+<key>cai_bsp_gempei</key>
+</cai_personalities_building_synergy_policies>
+<cai_personalities_building_synergy_policies>
+<key>cai_bsp_sengoku</key>
+</cai_personalities_building_synergy_policies>
+</dataroot>

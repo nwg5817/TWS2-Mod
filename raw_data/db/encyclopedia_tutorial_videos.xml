@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Fri 20. Jan 16:11:09 2012" revision="7" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Michael.James">
+<edit_uuid>f074904e-da8c-4ec8-b130-1d51f88c5769</edit_uuid><encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_camp_advanced</game_area>
+<key>s2_bosh_tut_camp_advanced_agents</key>
+<order>12</order>
+<title>Agents</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_camp_advanced</game_area>
+<key>s2_bosh_tut_camp_advanced_development</key>
+<order>10</order>
+<title>Modernisation</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_camp_advanced</game_area>
+<key>s2_bosh_tut_camp_advanced_diplomacy</key>
+<order>13</order>
+<title>Diplomacy</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_camp_advanced</game_area>
+<key>s2_bosh_tut_camp_advanced_economy</key>
+<order>14</order>
+<title>Trade</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_camp_advanced</game_area>
+<key>s2_bosh_tut_camp_advanced_family</key>
+<order>11</order>
+<title>Clan Management</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_camp_advanced</game_area>
+<key>s2_bosh_tut_camp_advanced_introduction</key>
+<order>8</order>
+<title>Introduction</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_camp_advanced</game_area>
+<key>s2_bosh_tut_camp_advanced_navies</key>
+<order>9</order>
+<title>Campaign Navies</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_camp_essentials</game_area>
+<key>s2_bosh_tut_camp_essentials_army</key>
+<order>2</order>
+<title>Armies</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_camp_essentials</game_area>
+<key>s2_bosh_tut_camp_essentials_conflict</key>
+<order>3</order>
+<title>Campaign Battles</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_camp_essentials</game_area>
+<key>s2_bosh_tut_camp_essentials_economy</key>
+<order>6</order>
+<title>Province Development</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_camp_essentials</game_area>
+<key>s2_bosh_tut_camp_essentials_introduction</key>
+<order>1</order>
+<title>Introduction</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_camp_essentials</game_area>
+<key>s2_bosh_tut_camp_essentials_occupation</key>
+<order>5</order>
+<title>Public Order</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_camp_essentials</game_area>
+<key>s2_bosh_tut_camp_essentials_recruit</key>
+<order>7</order>
+<title>Military Buildings</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_camp_essentials</game_area>
+<key>s2_bosh_tut_camp_essentials_siege</key>
+<order>4</order>
+<title>Attacking Provinces</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_land</game_area>
+<key>s2_bosh_tut_land_controls</key>
+<order>16</order>
+<title>Camera Controls</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_land</game_area>
+<key>s2_bosh_tut_land_groups</key>
+<order>19</order>
+<title>Groups &amp; Formations</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_land</game_area>
+<key>s2_bosh_tut_land_introduction</key>
+<order>15</order>
+<title>Introduction</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_land</game_area>
+<key>s2_bosh_tut_land_movement</key>
+<order>17</order>
+<title>Battle Begins</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_land</game_area>
+<key>s2_bosh_tut_land_projectiles</key>
+<order>20</order>
+<title>Ranged Attacks</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_land</game_area>
+<key>s2_bosh_tut_land_units_abilities</key>
+<order>18</order>
+<title>Engagement</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_multiplayer</game_area>
+<key>s2_bosh_tut_multiplayer_army</key>
+<order>23</order>
+<title>Army Management</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_multiplayer</game_area>
+<key>s2_bosh_tut_multiplayer_avatar</key>
+<order>22</order>
+<title>The Avatar</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_multiplayer</game_area>
+<key>s2_bosh_tut_multiplayer_avatar_xp</key>
+<order>27</order>
+<title>Ranking up</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_multiplayer</game_area>
+<key>s2_bosh_tut_multiplayer_battles</key>
+<order>25</order>
+<title>Finding a Battle</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_multiplayer</game_area>
+<key>s2_bosh_tut_multiplayer_clans</key>
+<order>29</order>
+<title>The Clan Competition</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_multiplayer</game_area>
+<key>s2_bosh_tut_multiplayer_conquest</key>
+<order>24</order>
+<title>Avatar Conquest Map</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_multiplayer</game_area>
+<key>s2_bosh_tut_multiplayer_introduction</key>
+<order>21</order>
+<title>Introduction</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_multiplayer</game_area>
+<key>s2_bosh_tut_multiplayer_matchmade</key>
+<order>26</order>
+<title>Match-made Battles</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_multiplayer</game_area>
+<key>s2_bosh_tut_multiplayer_veterans</key>
+<order>28</order>
+<title>Unlocking Units</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_naval</game_area>
+<key>s2_bosh_tut_naval_broadsides</key>
+<order>33</order>
+<title>Broadsides</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_naval</game_area>
+<key>s2_bosh_tut_naval_controls</key>
+<order>32</order>
+<title>Starting Battles</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_naval</game_area>
+<key>s2_bosh_tut_naval_deployment</key>
+<order>31</order>
+<title>Camera Controls</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_naval</game_area>
+<key>s2_bosh_tut_naval_groups</key>
+<order>36</order>
+<title>Ship Formations</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_naval</game_area>
+<key>s2_bosh_tut_naval_introduction</key>
+<order>30</order>
+<title>Introduction</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_naval</game_area>
+<key>s2_bosh_tut_naval_repairs</key>
+<order>35</order>
+<title>Ship Damage</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_naval</game_area>
+<key>s2_bosh_tut_naval_shells</key>
+<order>34</order>
+<title>Shell Types</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_siege</game_area>
+<key>s2_bosh_tut_siege_assault</key>
+<order>39</order>
+<title>Assault</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_siege</game_area>
+<key>s2_bosh_tut_siege_introduction</key>
+<order>37</order>
+<title>Introduction</title>
+</encyclopedia_tutorial_videos>
+<encyclopedia_tutorial_videos>
+<game_area>s2_bosh_tut_siege</game_area>
+<key>s2_bosh_tut_siege_units</key>
+<order>38</order>
+<title>Preparation</title>
+</encyclopedia_tutorial_videos>
+</dataroot>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Tue 20. Dec 16:02:22 2011" revision="2" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="gabor.beressy">
+<edit_uuid>d0ca964b-0b94-4d3b-885c-ee9fd97cd846</edit_uuid><wind_levels>
+<key>calm_westerly</key>
+<magnitudeX>3</magnitudeX>
+<magnitudeY>0</magnitudeY>
+<onscreen>Calm: Westerly</onscreen>
+<sea_surface>wind_level_0</sea_surface>
+<sort_order>0</sort_order>
+</wind_levels>
+<wind_levels>
+<key>gale_northern</key>
+<magnitudeX>0</magnitudeX>
+<magnitudeY>12</magnitudeY>
+<onscreen>Strong Breeze: Northerly</onscreen>
+<sea_surface>wind_level_3</sea_surface>
+<sort_order>8</sort_order>
+</wind_levels>
+<wind_levels>
+<key>light_northern</key>
+<magnitudeX>0</magnitudeX>
+<magnitudeY>3</magnitudeY>
+<onscreen>Calm: Northerly</onscreen>
+<sea_surface>wind_level_0</sea_surface>
+<sort_order>5</sort_order>
+</wind_levels>
+<wind_levels>
+<key>light_westerly</key>
+<magnitudeX>6</magnitudeX>
+<magnitudeY>0</magnitudeY>
+<onscreen>Light Breeze: Westerly</onscreen>
+<sea_surface>wind_level_1</sea_surface>
+<sort_order>1</sort_order>
+</wind_levels>
+<wind_levels>
+<key>moderate_northern</key>
+<magnitudeX>0</magnitudeX>
+<magnitudeY>6</magnitudeY>
+<onscreen>Light Breeze: Northerly</onscreen>
+<sea_surface>wind_level_1</sea_surface>
+<sort_order>6</sort_order>
+</wind_levels>
+<wind_levels>
+<key>moderate_westerly</key>
+<magnitudeX>9</magnitudeX>
+<magnitudeY>0</magnitudeY>
+<onscreen>Moderate Breeze: Westerly</onscreen>
+<sea_surface>wind_level_2</sea_surface>
+<sort_order>2</sort_order>
+</wind_levels>
+<wind_levels>
+<key>storm_northern</key>
+<magnitudeX>0</magnitudeX>
+<magnitudeY>12</magnitudeY>
+<onscreen>Gale: Northerly</onscreen>
+<sea_surface>wind_level_4</sea_surface>
+<sort_order>9</sort_order>
+</wind_levels>
+<wind_levels>
+<key>storm_westerly</key>
+<magnitudeX>12</magnitudeX>
+<magnitudeY>0</magnitudeY>
+<onscreen>Gale: Westerly</onscreen>
+<sea_surface>wind_level_4</sea_surface>
+<sort_order>4</sort_order>
+</wind_levels>
+<wind_levels>
+<key>strong_northern</key>
+<magnitudeX>0</magnitudeX>
+<magnitudeY>9</magnitudeY>
+<onscreen>Moderate Breeze: Northerly</onscreen>
+<sea_surface>wind_level_2</sea_surface>
+<sort_order>7</sort_order>
+</wind_levels>
+<wind_levels>
+<key>strong_westerly</key>
+<magnitudeX>12</magnitudeX>
+<magnitudeY>0</magnitudeY>
+<onscreen>Strong Breeze: Westerly</onscreen>
+<sea_surface>wind_level_3</sea_surface>
+<sort_order>3</sort_order>
+</wind_levels>
+</dataroot>

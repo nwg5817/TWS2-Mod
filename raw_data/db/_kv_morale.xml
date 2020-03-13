@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Mon 24. Oct 11:11:16 2011" revision="34" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Jack.Lusted">
+<edit_uuid>e3356b04-98a8-4ebd-8667-9982584534c9</edit_uuid><_kv_morale>
+<description>ratio of current to starting strength needed</description>
+<key>army_destruction_alliance_strength_ratio</key>
+<value>0.300000011920929</value>
+</_kv_morale>
+<_kv_morale>
+<description>ratio of current to starting strength needed (mp)</description>
+<key>army_destruction_alliance_strength_ratio_mp</key>
+<value>0.180000007152557</value>
+</_kv_morale>
+<_kv_morale>
+<description>ratio of enemy to friendly current strength needed</description>
+<key>army_destruction_enemy_strength_ratio</key>
+<value>3.20000004768372</value>
+</_kv_morale>
+<_kv_morale>
+<description>ratio of enemy to friendly current strength (mp)</description>
+<key>army_destruction_enemy_strength_ratio_mp</key>
+<value>3.20000004768372</value>
+</_kv_morale>
+<_kv_morale>
+<description>distance squared to consider it a near miss</description>
+<key>artillery_near_miss_distance_squared</key>
+<value>144</value>
+</_kv_morale>
+<_kv_morale>
+<description>unit killed 12% of enemy in last 4 sec</description>
+<key>blood_bonus_12</key>
+<value>7</value>
+</_kv_morale>
+<_kv_morale>
+<description>unit killed 5% of enemy in last 4 sec</description>
+<key>blood_bonus_5</key>
+<value>2</value>
+</_kv_morale>
+<_kv_morale>
+<description>unit killed 7.5% of enemy in last 4 sec</description>
+<key>blood_bonus_7</key>
+<value>4</value>
+</_kv_morale>
+<_kv_morale>
+<description>the base timeout for going from broken to rally</description>
+<key>broken_finish_base_timeout</key>
+<value>300</value>
+</_kv_morale>
+<_kv_morale>
+<description>range in which cavalry is considered</description>
+<key>cavalry_effect_range</key>
+<value>20</value>
+</_kv_morale>
+<_kv_morale>
+<description>charge bonus</description>
+<key>charge_bonus</key>
+<value>5</value>
+</_kv_morale>
+<_kv_morale>
+<description>the timout for morale bonus due to charging</description>
+<key>charge_timeout</key>
+<value>80</value>
+</_kv_morale>
+<_kv_morale>
+<description>unit is defending inside a fort</description>
+<key>defensive_fort</key>
+<value>6</value>
+</_kv_morale>
+<_kv_morale>
+<description>range in which enemies are considered</description>
+<key>enemy_effect_range</key>
+<value>80</value>
+</_kv_morale>
+<_kv_morale>
+<description>unit lost 10% in last 60 sec</description>
+<key>extended_casualties_penalty_10</key>
+<value>-2</value>
+</_kv_morale>
+<_kv_morale>
+<description>unit lost 15% in last 60 sec</description>
+<key>extended_casualties_penalty_15</key>
+<value>-3</value>
+</_kv_morale>
+<_kv_morale>
+<description>unit lost 33% in last 60 sec</description>
+<key>extended_casualties_penalty_33</key>
+<value>-4</value>
+</_kv_morale>
+<_kv_morale>
+<description>unit lost 50% in last 60 sec</description>
+<key>extended_casualties_penalty_50</key>
+<value>-8</value>
+</_kv_morale>
+<_kv_morale>
+<description>unit lost 80% in last 60 sec</description>
+<key>extended_casualties_penalty_80</key>
+<value>-15</value>
+</_kv_morale>
+<_kv_morale>
+<description>fear range</description>
+<key>fear_effect_range</key>
+<value>40</value>
+</_kv_morale>
+<_kv_morale>
+<description>base value (modded by training) against cavalry</description>
+<key>fighting_cavalry</key>
+<value>-4</value>
+</_kv_morale>
+<_kv_morale>
+<description>base radius of the general's passive aura</description>
+<key>general_aura_radius</key>
+<value>75</value>
+</_kv_morale>
+<_kv_morale>
+<description>unit losing in combat</description>
+<key>losing_combat</key>
+<value>-2</value>
+</_kv_morale>
+<_kv_morale>
+<description>unit significantly losing in combat</description>
+<key>losing_combat_significantly</key>
+<value>-3</value>
+</_kv_morale>
+<_kv_morale>
+<description>starting point for calculations</description>
+<key>morale_base</key>
+<value>0</value>
+</_kv_morale>
+<_kv_morale>
+<description>range in which neightbouring units are considered</description>
+<key>neighbour_effect_range</key>
+<value>160</value>
+</_kv_morale>
+<_kv_morale>
+<description>range at which flanks can lose secured bonus</description>
+<key>open_flanks_effect_range</key>
+<value>200</value>
+</_kv_morale>
+<_kv_morale>
+<description>unit lost 10% in last 4 sec</description>
+<key>recent_casualties_penalty_10</key>
+<value>-1</value>
+</_kv_morale>
+<_kv_morale>
+<description>unit lost 15% in last 4 sec</description>
+<key>recent_casualties_penalty_15</key>
+<value>-2</value>
+</_kv_morale>
+<_kv_morale>
+<description>unit lost 33% in last 4 sec</description>
+<key>recent_casualties_penalty_33</key>
+<value>-5</value>
+</_kv_morale>
+<_kv_morale>
+<description>unit lost 50% in last 4 sec</description>
+<key>recent_casualties_penalty_50</key>
+<value>-15</value>
+</_kv_morale>
+<_kv_morale>
+<description>unit lost 6% in last 4 sec</description>
+<key>recent_casualties_penalty_6</key>
+<value>-1</value>
+</_kv_morale>
+<_kv_morale>
+<description>% casualties in last 4s needed for morale shock</description>
+<key>recent_casualties_shock_threshold</key>
+<value>20</value>
+</_kv_morale>
+<_kv_morale>
+<description>routing distance flank</description>
+<key>routing_unit_effect_distance_flank</key>
+<value>100</value>
+</_kv_morale>
+<_kv_morale>
+<description>routing distance front</description>
+<key>routing_unit_effect_distance_front</key>
+<value>75</value>
+</_kv_morale>
+<_kv_morale>
+<description>surprise timeout</description>
+<key>surprise_timeout</key>
+<value>200</value>
+</_kv_morale>
+<_kv_morale>
+<description>unit lost 20% in total</description>
+<key>total_casualties_penalty_20</key>
+<value>-1</value>
+</_kv_morale>
+<_kv_morale>
+<description>unit lost 40% in total</description>
+<key>total_casualties_penalty_40</key>
+<value>-3</value>
+</_kv_morale>
+<_kv_morale>
+<description>unit lost 60% in total</description>
+<key>total_casualties_penalty_60</key>
+<value>-8</value>
+</_kv_morale>
+<_kv_morale>
+<description>unit lost 80% in total</description>
+<key>total_casualties_penalty_80</key>
+<value>-30</value>
+</_kv_morale>
+<_kv_morale>
+<description>unit lost 90% in total</description>
+<key>total_casualties_penalty_90</key>
+<value>-30</value>
+</_kv_morale>
+<_kv_morale>
+<description>the army is on the brink of destruction</description>
+<key>ume_concerned_army_destruction</key>
+<value>-20</value>
+</_kv_morale>
+<_kv_morale>
+<description>unit was attacked but not hit by artillery</description>
+<key>ume_concerned_attacked_by_artillery</key>
+<value>-1</value>
+</_kv_morale>
+<_kv_morale>
+<description>attacked by projectile</description>
+<key>ume_concerned_attacked_by_projectile</key>
+<value>-2</value>
+</_kv_morale>
+<_kv_morale>
+<description>very recently the captain died</description>
+<key>ume_concerned_captain_died_recently</key>
+<value>-1</value>
+</_kv_morale>
+<_kv_morale>
+<description>unit was hit and damaged by artillery</description>
+<key>ume_concerned_damaged_by_artillery</key>
+<value>-4</value>
+</_kv_morale>
+<_kv_morale>
+<description>completely knackered</description>
+<key>ume_concerned_exhausted</key>
+<value>-4</value>
+</_kv_morale>
+<_kv_morale>
+<description>both flanks are exposed</description>
+<key>ume_concerned_flanks_exposed_multiple</key>
+<value>-5</value>
+</_kv_morale>
+<_kv_morale>
+<description>one flank is exposed</description>
+<key>ume_concerned_flanks_exposed_single</key>
+<value>-2</value>
+</_kv_morale>
+<_kv_morale>
+<description>the general is dead, but not recently</description>
+<key>ume_concerned_general_dead</key>
+<value>-2</value>
+</_kv_morale>
+<_kv_morale>
+<description>in single player this applies to the ai only</description>
+<key>ume_concerned_general_dead_ai</key>
+<value>-1</value>
+</_kv_morale>
+<_kv_morale>
+<description>for multiplayer only</description>
+<key>ume_concerned_general_dead_mp</key>
+<value>-1</value>
+</_kv_morale>
+<_kv_morale>
+<description>very recently the general died</description>
+<key>ume_concerned_general_died_recently</key>
+<value>-4</value>
+</_kv_morale>
+<_kv_morale>
+<description>in single player this applies to the ai only</description>
+<key>ume_concerned_general_died_recently_ai</key>
+<value>-2</value>
+</_kv_morale>
+<_kv_morale>
+<description>for multiplayer only</description>
+<key>ume_concerned_general_died_recently_mp</key>
+<value>-2</value>
+</_kv_morale>
+<_kv_morale>
+<description>the commanding general has recently fled</description>
+<key>ume_concerned_general_fled_recently</key>
+<value>-4</value>
+</_kv_morale>
+<_kv_morale>
+<description>in single player this applies to the ai only</description>
+<key>ume_concerned_general_fled_recently_ai</key>
+<value>-2</value>
+</_kv_morale>
+<_kv_morale>
+<description>for multiplayer only</description>
+<key>ume_concerned_general_fled_recently_mp</key>
+<value>-2</value>
+</_kv_morale>
+<_kv_morale>
+<description>enemy is frightening the horses</description>
+<key>ume_concerned_horses_frightened</key>
+<value>-4</value>
+</_kv_morale>
+<_kv_morale>
+<description>unprepared for night battle</description>
+<key>ume_concerned_night_battle_unprepared</key>
+<value>-1</value>
+</_kv_morale>
+<_kv_morale>
+<description>the unit is in panic</description>
+<key>ume_concerned_panic</key>
+<value>-50</value>
+</_kv_morale>
+<_kv_morale>
+<description>surprised</description>
+<key>ume_concerned_surprised</key>
+<value>-4</value>
+</_kv_morale>
+<_kv_morale>
+<description>tired penalty</description>
+<key>ume_concerned_tired</key>
+<value>-1</value>
+</_kv_morale>
+<_kv_morale>
+<description>the unit is under friendly gunfire</description>
+<key>ume_concerned_under_friendly_fire</key>
+<value>-6</value>
+</_kv_morale>
+<_kv_morale>
+<description>enemy is having a frightening effect on you</description>
+<key>ume_concerned_unit_frightened</key>
+<value>-4</value>
+</_kv_morale>
+<_kv_morale>
+<description>unit is very tired but not exhausted</description>
+<key>ume_concerned_very_tired</key>
+<value>-2</value>
+</_kv_morale>
+<_kv_morale>
+<description>encouraged by being in column formation</description>
+<key>ume_encouraged_column_formation</key>
+<value>5</value>
+</_kv_morale>
+<_kv_morale>
+<description>all flanks are secure</description>
+<key>ume_encouraged_flanks_secure</key>
+<value>4</value>
+</_kv_morale>
+<_kv_morale>
+<description>unit is defending inside a fort</description>
+<key>ume_encouraged_fortification</key>
+<value>6</value>
+</_kv_morale>
+<_kv_morale>
+<description>morale bonus for being in a breached fort</description>
+<key>ume_encouraged_fortification_compromised</key>
+<value>3</value>
+</_kv_morale>
+<_kv_morale>
+<description>friendly is having an inspiring effect on you</description>
+<key>ume_encouraged_inspired</key>
+<value>4</value>
+</_kv_morale>
+<_kv_morale>
+<description>bonus for being up-hill of all enemies</description>
+<key>ume_encouraged_on_the_hill</key>
+<value>3</value>
+</_kv_morale>
+<_kv_morale>
+<description>broken bottom</description>
+<key>ums_broken_threshold_lower</key>
+<value>-30</value>
+</_kv_morale>
+<_kv_morale>
+<description>broken top</description>
+<key>ums_broken_threshold_upper</key>
+<value>-2</value>
+</_kv_morale>
+<_kv_morale>
+<description>confident bottom</description>
+<key>ums_confident_threshold_lower</key>
+<value>11</value>
+</_kv_morale>
+<_kv_morale>
+<description>confident top</description>
+<key>ums_confident_threshold_upper</key>
+<value>27</value>
+</_kv_morale>
+<_kv_morale>
+<description>eager bottom</description>
+<key>ums_eager_threshold_lower</key>
+<value>24</value>
+</_kv_morale>
+<_kv_morale>
+<description>eager top</description>
+<key>ums_eager_threshold_upper</key>
+<value>41</value>
+</_kv_morale>
+<_kv_morale>
+<description>impetuous bottom</description>
+<key>ums_impetuous_threshold_lower</key>
+<value>36</value>
+</_kv_morale>
+<_kv_morale>
+<description>shaken bottom</description>
+<key>ums_shaken_threshold_lower</key>
+<value>2</value>
+</_kv_morale>
+<_kv_morale>
+<description>shaken top</description>
+<key>ums_shaken_threshold_upper</key>
+<value>8</value>
+</_kv_morale>
+<_kv_morale>
+<description>steady bottom</description>
+<key>ums_steady_threshold_lower</key>
+<value>6</value>
+</_kv_morale>
+<_kv_morale>
+<description>steady top</description>
+<key>ums_steady_threshold_upper</key>
+<value>13</value>
+</_kv_morale>
+<_kv_morale>
+<description>wavering bottom</description>
+<key>ums_wavering_threshold_lower</key>
+<value>-4</value>
+</_kv_morale>
+<_kv_morale>
+<description>wavering top</description>
+<key>ums_wavering_threshold_upper</key>
+<value>5</value>
+</_kv_morale>
+<_kv_morale>
+<description>NOT USED</description>
+<key>warcry_effect_range</key>
+<value>225</value>
+</_kv_morale>
+<_kv_morale>
+<description>first contact from flank</description>
+<key>was_attacked_in_flank</key>
+<value>-3</value>
+</_kv_morale>
+<_kv_morale>
+<description>first contact from front</description>
+<key>was_attacked_in_front</key>
+<value>0</value>
+</_kv_morale>
+<_kv_morale>
+<description>first contact from rear</description>
+<key>was_attacked_in_rear</key>
+<value>-6</value>
+</_kv_morale>
+<_kv_morale>
+<description>the base time for which a unit spends in waver</description>
+<key>waver_base_timeout</key>
+<value>36</value>
+</_kv_morale>
+<_kv_morale>
+<description>unit winning in combat</description>
+<key>winning_combat</key>
+<value>2</value>
+</_kv_morale>
+<_kv_morale>
+<description>unit significantly winning in combat</description>
+<key>winning_combat_significantly</key>
+<value>3</value>
+</_kv_morale>
+<_kv_morale>
+<description>unit winning slightly in combat</description>
+<key>winning_combat_slightly</key>
+<value>1</value>
+</_kv_morale>
+</dataroot>

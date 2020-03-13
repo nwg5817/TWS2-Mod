@@ -1,0 +1,29 @@
+<!DOCTYPE TWaD_avatar_skill_tree_traits>
+<root>
+<edit_uuid>ae916aa8-8ffc-11df-8001-001fd02417f0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>avatar_traits</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>skill_chain</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>skill_chain</column_source_column>
+    <column_source_table>avatar_skill_chain_lookups</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>skill_points_allocated</name>
+    <field_type>integer</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+</root>

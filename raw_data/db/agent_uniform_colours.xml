@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Thu 9. Jun 08:53:50 2011" revision="9" export_branch="C:/TW/branches/shogun2/patch/shogun2/binaries" export_user="Jack.Lusted">
+<edit_uuid>5437b7b8-8918-4a64-b2d8-1f4448515b43</edit_uuid><agent_uniform_colours>
+<primary_colour_b>163</primary_colour_b>
+<primary_colour_g>131</primary_colour_g>
+<primary_colour_r>107</primary_colour_r>
+<secondary_colour_b>52</secondary_colour_b>
+<secondary_colour_g>55</secondary_colour_g>
+<secondary_colour_r>150</secondary_colour_r>
+<tertiary_colour_b>52</tertiary_colour_b>
+<tertiary_colour_g>55</tertiary_colour_g>
+<tertiary_colour_r>150</tertiary_colour_r>
+<uniform_name>gempei_captain_1</uniform_name>
+</agent_uniform_colours>
+<agent_uniform_colours>
+<primary_colour_b>49</primary_colour_b>
+<primary_colour_g>49</primary_colour_g>
+<primary_colour_r>144</primary_colour_r>
+<secondary_colour_b>0</secondary_colour_b>
+<secondary_colour_g>0</secondary_colour_g>
+<secondary_colour_r>0</secondary_colour_r>
+<tertiary_colour_b>255</tertiary_colour_b>
+<tertiary_colour_g>255</tertiary_colour_g>
+<tertiary_colour_r>255</tertiary_colour_r>
+<uniform_name>gempei_inspector</uniform_name>
+</agent_uniform_colours>
+</dataroot>

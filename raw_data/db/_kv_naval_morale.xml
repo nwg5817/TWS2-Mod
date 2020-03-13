@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Fri 17. Jun 14:09:33 2011" revision="9" export_branch="T:/branches/shogun2/patch/shogun2/binaries" export_user="gabor.beressy">
+<edit_uuid>31b7bf7a-dc8f-4cc8-a95e-b10db83be422</edit_uuid><_kv_naval_morale>
+<description>range in which the admiral's effects are applied</description>
+<key>admiral_influence_range</key>
+<value>400</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has killed/damaged 12% of equivalent ship</description>
+<key>kill_and_damage_bonus_12</key>
+<value>4</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has killed/damaged   5% of equivalent ship</description>
+<key>kill_and_damage_bonus_5</key>
+<value>2</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has killed/damaged   7% of equivalent ship</description>
+<key>kill_and_damage_bonus_7</key>
+<value>1</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>the base timout for going from broken to rally</description>
+<key>ship_broken_finish_base_timeout</key>
+<value>7200</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>the number of crew needed to be alive befor surren</description>
+<key>ship_casualty_surrender_threshold</key>
+<value>6</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has lost 13% of men in last 60 seconds</description>
+<key>ship_extended_casualties_penalty_13</key>
+<value>-6</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has lost 22% of men in last 60 seconds</description>
+<key>ship_extended_casualties_penalty_22</key>
+<value>-8</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has lost 30% of men in last 60 seconds</description>
+<key>ship_extended_casualties_penalty_30</key>
+<value>-10</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has lost 50% of men in last 60 seconds</description>
+<key>ship_extended_casualties_penalty_50</key>
+<value>-12</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has lost 7% of men in last 60 seconds</description>
+<key>ship_extended_casualties_penalty_7</key>
+<value>-1</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has received 10% damages in last 60 seconds</description>
+<key>ship_extended_damage_penalty_10</key>
+<value>-2</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has received 20% damages in last 60 seconds</description>
+<key>ship_extended_damage_penalty_20</key>
+<value>-3</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has received 40% damages in last 60 seconds</description>
+<key>ship_extended_damage_penalty_40</key>
+<value>-5</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has received   5% damages in last 60 seconds</description>
+<key>ship_extended_damage_penalty_5</key>
+<value>-1</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>range in which passive fear effect is applied</description>
+<key>ship_fear_range</key>
+<value>180</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>range in which passive inspiration effect is appli</description>
+<key>ship_inspiration_range</key>
+<value>180</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>starting point for morale calculations</description>
+<key>ship_morale_base</key>
+<value>0</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ships within this range are neighbouring</description>
+<key>ship_neighbourhood_range</key>
+<value>300</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has lost 40% of its operational guns</description>
+<key>ship_operational_guns_penalty_40</key>
+<value>-4</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has lost 75% of its operational guns</description>
+<key>ship_operational_guns_penalty_75</key>
+<value>-8</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has lost 13% of men in last 4 seconds</description>
+<key>ship_recent_casualties_penalty_13</key>
+<value>-4</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has lost   2% of men in last 4 seconds</description>
+<key>ship_recent_casualties_penalty_2</key>
+<value>-2</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has lost 22% of men in last 4 seconds</description>
+<key>ship_recent_casualties_penalty_22</key>
+<value>-8</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has lost 30% of men in last 4 seconds</description>
+<key>ship_recent_casualties_penalty_30</key>
+<value>-12</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has lost   7% of men in last 4 seconds</description>
+<key>ship_recent_casualties_penalty_7</key>
+<value>-2</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>the % amount (last 4s) needed for a morale shock</description>
+<key>ship_recent_casualties_shock_threshold</key>
+<value>30</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has received 10% damages in last 4 seconds</description>
+<key>ship_recent_damage_penalty_10</key>
+<value>-2</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has received 15% damages in last 4 seconds</description>
+<key>ship_recent_damage_penalty_15</key>
+<value>-3</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has received 30% damages in last 4 seconds</description>
+<key>ship_recent_damage_penalty_30</key>
+<value>-6</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has received   6% damages in last 4 seconds</description>
+<key>ship_recent_damage_penalty_6</key>
+<value>-1</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has lost 10% of men onboard</description>
+<key>ship_total_casualties_penalty_10</key>
+<value>-4</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has lost 20% of men onboard</description>
+<key>ship_total_casualties_penalty_20</key>
+<value>-6</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has lost 40% of men onboard</description>
+<key>ship_total_casualties_penalty_40</key>
+<value>-8</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has lost 5% of men onboard</description>
+<key>ship_total_casualties_penalty_5</key>
+<value>-2</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has lost 60% of men onboard</description>
+<key>ship_total_casualties_penalty_60</key>
+<value>-10</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has lost 10% of its total hitpoints</description>
+<key>ship_total_damage_penalty_10</key>
+<value>-2</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has lost 20% of its total hitpoints</description>
+<key>ship_total_damage_penalty_20</key>
+<value>-3</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has lost 40% of its total hitpoints</description>
+<key>ship_total_damage_penalty_40</key>
+<value>-5</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has lost 5% of its total hitpoints</description>
+<key>ship_total_damage_penalty_5</key>
+<value>-1</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has lost 60% of its total hitpoints</description>
+<key>ship_total_damage_penalty_60</key>
+<value>-12</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>waver timeout</description>
+<key>ship_waver_base_timeout</key>
+<value>120</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>the admiral is dead, long live the captain</description>
+<key>sme_concerned_admiral_dead</key>
+<value>-2</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<key>sme_concerned_admiral_dead_ai</key>
+<value>-2</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<key>sme_concerned_admiral_dead_mp</key>
+<value>-2</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>the admiral just died</description>
+<key>sme_concerned_admiral_died_recently</key>
+<value>-4</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<key>sme_concerned_admiral_died_recently_ai</key>
+<value>-4</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<key>sme_concerned_admiral_died_recently_mp</key>
+<value>-4</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>the admiral has just fled the battle</description>
+<key>sme_concerned_admiral_fled_recently</key>
+<value>-3</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<key>sme_concerned_admiral_fled_recently_ai</key>
+<value>-3</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<key>sme_concerned_admiral_fled_recently_mp</key>
+<value>-3</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>the ship has lost its masts</description>
+<key>sme_concerned_demasted</key>
+<value>-7</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>the ship is frightened by a scary enemy</description>
+<key>sme_concerned_frightened</key>
+<value>-6</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>the ship is visibly on fire</description>
+<key>sme_concerned_on_fire</key>
+<value>-2</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>the unit is in panic</description>
+<key>sme_concerned_panic</key>
+<value>-30</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ships rear is under attack from ship in rear</description>
+<key>sme_concerned_rear_attacked</key>
+<value>-4</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>an enemy threatens the rear of ship</description>
+<key>sme_concerned_rear_exposed</key>
+<value>-1</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>being attacked by some kind of projectile</description>
+<key>sme_concerned_under_attack</key>
+<value>-2</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>the ship is excited about it's boarding action</description>
+<key>sme_encouraged_boarding</key>
+<value>2</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>friendly ship is having an inspiring effect on you</description>
+<key>sme_encouraged_inspired</key>
+<value>5</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>ship has its rear protected by friendly</description>
+<key>sme_encouraged_rear_secure</key>
+<value>3</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>broken bottom</description>
+<key>sms_broken_threshold_lower</key>
+<value>-25</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>broken top</description>
+<key>sms_broken_threshold_upper</key>
+<value>-4</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>confident bottom</description>
+<key>sms_confident_threshold_lower</key>
+<value>8</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>confident top</description>
+<key>sms_confident_threshold_upper</key>
+<value>20</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>lower threshold for transition to eager</description>
+<key>sms_eager_threshold_lower</key>
+<value>20</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>shaken lower</description>
+<key>sms_shaken_threshold_lower</key>
+<value>-3</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>shaken upper</description>
+<key>sms_shaken_threshold_upper</key>
+<value>4</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>steady lower</description>
+<key>sms_steady_threshold_lower</key>
+<value>0</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>steady top</description>
+<key>sms_steady_threshold_upper</key>
+<value>10</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>lower threshold for transition from steady</description>
+<key>sms_wavering_threshold_lower</key>
+<value>-5</value>
+</_kv_naval_morale>
+<_kv_naval_morale>
+<description>wavering top</description>
+<key>sms_wavering_threshold_upper</key>
+<value>-1</value>
+</_kv_naval_morale>
+</dataroot>

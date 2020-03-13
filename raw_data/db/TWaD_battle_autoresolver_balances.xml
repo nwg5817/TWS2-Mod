@@ -1,0 +1,36 @@
+<!DOCTYPE TWaD_battle_autoresolver_balances>
+<root>
+<edit_uuid>9bfd1f41-7de7-11df-8001-001fd02417f0</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>source_unit_class</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>unit_class</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>target_unit_class</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>unit_class</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>melee_potential_multiplier</name>
+    <field_type>single</field_type>
+    <required>1</required>
+    <default_value>1</default_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>missile_potential_multiplier</name>
+    <field_type>single</field_type>
+    <required>1</required>
+    <default_value>1</default_value>
+  </field>
+</root>

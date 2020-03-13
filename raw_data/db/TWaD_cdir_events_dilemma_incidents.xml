@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_cdir_events_dilemma_incidents>
+<root>
+  <edit_uuid>0B4CD7B4-304C-11DF-A12F-19E055D89593</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>dilemma_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>choice_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>incident_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+</root>

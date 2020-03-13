@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_TExc_ImplementedTables>
+<root>
+  <edit_uuid>c528d6fe-ef96-422c-97fd-0a91a90b6f23</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>table_name</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>100</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>Designer</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>Implemented</name>
+    <field_type>yesno</field_type>
+    <required>0</required>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>Implementer</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>Modified</name>
+    <field_type>yesno</field_type>
+    <required>0</required>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>destination_pack</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+    <column_source_column>pack_category</column_source_column>
+    <column_source_table>TExc_PackCategories</column_source_table>
+  </field>
+</root>

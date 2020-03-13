@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_cdir_unit_balance_groups>
+<root>
+  <edit_uuid>2be9c5d6-3f6c-45ac-a204-e9f1845961c7</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>army</name>
+    <field_type>yesno</field_type>
+    <required>1</required>
+    <default_value>-1</default_value>
+  </field>
+</root>

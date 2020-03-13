@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_unit_class_to_population_class_priorities>
+<root>
+  <edit_uuid>ceec6e9c-aa0b-4f7d-a85c-daccbc3fcea6</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>unit_class</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>unit_class</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>upper_class_priority</name>
+    <field_type>longinteger</field_type>
+    <required>0</required>
+    <default_value>0</default_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>middle_class_priority</name>
+    <field_type>longinteger</field_type>
+    <required>0</required>
+    <default_value>0</default_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>lower_class_priority</name>
+    <field_type>longinteger</field_type>
+    <required>0</required>
+    <default_value>0</default_value>
+  </field>
+</root>

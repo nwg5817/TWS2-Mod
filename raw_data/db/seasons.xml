@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Wed 29. Sep 16:15:08 2010" revision="1" export_branch="T:/campaign/dev/common/TWeak/Framework" export_user="Luke.Carter">
+<edit_uuid>816faaa9-458a-41df-a660-48687c74d624</edit_uuid><seasons>
+<onscreen>None</onscreen>
+<order>0</order>
+<season>none</season>
+</seasons>
+<seasons>
+<onscreen>Autumn</onscreen>
+<order>0</order>
+<season>season_autumn</season>
+</seasons>
+<seasons>
+<onscreen>Spring</onscreen>
+<order>0</order>
+<season>season_spring</season>
+</seasons>
+<seasons>
+<onscreen>Summer</onscreen>
+<order>1</order>
+<season>season_summer</season>
+</seasons>
+<seasons>
+<onscreen>Winter</onscreen>
+<order>2</order>
+<season>season_winter</season>
+</seasons>
+</dataroot>

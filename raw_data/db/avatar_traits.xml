@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Thu 15. Dec 11:15:26 2011" revision="11" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="James.Whitston">
+<edit_uuid>d065895d-711a-414b-9350-78c57ed525c9</edit_uuid><avatar_traits>
+<key>Boshin_avatar_trait_skills_bushido_1</key>
+<onscreen_text>To carry a fine blade does not always signify any degree of skill, yet this man has clearly mastered at least the basic strokes and guards.</onscreen_text>
+<onscreen_title>Bushido Novice</onscreen_title>
+<unique_index>84</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>Boshin_avatar_trait_skills_bushido_2</key>
+<onscreen_text>The sword is the soul of the samurai. That this man wears a sword proclaims not only his status but also that he is more than just a soft man of court.</onscreen_text>
+<onscreen_title>Bushido Journeyman</onscreen_title>
+<unique_index>88</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>Boshin_avatar_trait_skills_bushido_3</key>
+<onscreen_text>An attentive pupil to the lessons of his sensei, and an alert observer of his opponent, he is forging a reputation as a skilled blade.</onscreen_text>
+<onscreen_title>Bushido Expert</onscreen_title>
+<unique_index>96</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>Boshin_avatar_trait_skills_bushido_4</key>
+<onscreen_text>The sword is more than a simple tool - it is also a bridge on the road to one's destiny, a road that this man has travelled now for many miles.</onscreen_text>
+<onscreen_title>Bushido Master</onscreen_title>
+<unique_index>99</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>Boshin_avatar_trait_skills_bushido_5</key>
+<onscreen_text>True skill is action independent of thought. To behold this man in battle is to witness a kensei, an immortal master of the blade.</onscreen_text>
+<onscreen_title>Legendary Bushido Master</onscreen_title>
+<unique_index>105</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>Boshin_avatar_trait_skills_command_1</key>
+<onscreen_text>Guidance from an experienced mentor has set this man on the road to becoming an effective leader of men.</onscreen_text>
+<onscreen_title>Commander</onscreen_title>
+<unique_index>54</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>Boshin_avatar_trait_skills_command_2</key>
+<onscreen_text>A calm demeanour, and a hint of steel in word, gaze and deed are useful attributes for an aspiring commander.</onscreen_text>
+<onscreen_title>Journeyman Commander</onscreen_title>
+<unique_index>61</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>Boshin_avatar_trait_skills_command_3</key>
+<onscreen_text>Has acquired the skills required to make his men follow him not only from duty, but also with pride.</onscreen_text>
+<onscreen_title>Skilled Commander</onscreen_title>
+<unique_index>62</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>Boshin_avatar_trait_skills_command_4</key>
+<onscreen_text>On many a battlefield, this man's deft leadership skills have held his men together and brought them through triumphant.</onscreen_text>
+<onscreen_title>Famous Commander</onscreen_title>
+<unique_index>72</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>Boshin_avatar_trait_skills_command_5</key>
+<onscreen_text>A rock in the tempest of battle, his inspired leadership means that while he stands, his men stand with him to face their destiny and write their names in legend.</onscreen_text>
+<onscreen_title>Legendary Commander</onscreen_title>
+<unique_index>78</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>Boshin_avatar_trait_skills_gunpowder_1</key>
+<onscreen_text>The gun is the future, a future that this man has had the foresight to embrace.</onscreen_text>
+<onscreen_title>Gunman</onscreen_title>
+<unique_index>25</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>Boshin_avatar_trait_skills_gunpowder_2</key>
+<onscreen_text>Practice breeds assurance, and this man now looks comfortable with a gun in his hand.</onscreen_text>
+<onscreen_title>Journeyman Gunman</onscreen_title>
+<unique_index>31</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>Boshin_avatar_trait_skills_gunpowder_3</key>
+<onscreen_text>Needs only one bullet to achieve what would take another man six.</onscreen_text>
+<onscreen_title>Skilled Gunman</onscreen_title>
+<unique_index>38</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>Boshin_avatar_trait_skills_gunpowder_4</key>
+<onscreen_text>Can shoot a spinning coin from the air without apparently moving a muscle.</onscreen_text>
+<onscreen_title>Famous Gunman</onscreen_title>
+<unique_index>43</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>Boshin_avatar_trait_skills_gunpowder_5</key>
+<onscreen_text>Do you feel lucky, punk?</onscreen_text>
+<onscreen_title>Legendary Gunman</onscreen_title>
+<unique_index>49</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>avatar_trait_army_artillery</key>
+<onscreen_text>Engines of war feature prominently in his military strategy.</onscreen_text>
+<onscreen_title>Favours siege engines</onscreen_title>
+<unique_index>1</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>avatar_trait_army_balanced</key>
+<onscreen_text>Follows the philosophy that a balanced army is as flexible as a grove of bamboo before the storm.</onscreen_text>
+<onscreen_title>Favours a balanced army</onscreen_title>
+<unique_index>2</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>avatar_trait_army_cavalry</key>
+<onscreen_text>Has a reputation for fielding large numbers of mounted troops in his armies.</onscreen_text>
+<onscreen_title>Favours cavalry</onscreen_title>
+<unique_index>3</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>avatar_trait_army_melee_infantry</key>
+<onscreen_text>Is convinced of the merits of an army chiefly composed of melee infantry.</onscreen_text>
+<onscreen_title>Favours melee infantry</onscreen_title>
+<unique_index>4</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>avatar_trait_army_missile_infantry</key>
+<onscreen_text>Has shown a tendency to favour large groupings of missile infantry in his army compositions.</onscreen_text>
+<onscreen_title>Favours missile infantry</onscreen_title>
+<unique_index>5</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>avatar_trait_coward</key>
+<onscreen_text>With a history of turning tail and running at the first sight of the enemy, this man lacks the courage even to make an honourable end to his own miserable existence. </onscreen_text>
+<onscreen_title>Dishonourable Coward</onscreen_title>
+<unique_index>6</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>avatar_trait_skills_bow_1</key>
+<onscreen_text>Has recently taken up the bow.</onscreen_text>
+<onscreen_title>Bowman</onscreen_title>
+<unique_index>7</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>avatar_trait_skills_bow_2</key>
+<onscreen_text>Yabusami - 'The Way of Horse and Bow' - is a fitting pursuit for a lord of men.</onscreen_text>
+<onscreen_title>Journeyman Bowman</onscreen_title>
+<unique_index>8</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>avatar_trait_skills_bow_3</key>
+<onscreen_text>Dedicated practice has seen this man's skill with the bow progress from the awkward fumbling of the novice to something far more fluid and accomplished.</onscreen_text>
+<onscreen_title>Skilled Bowman</onscreen_title>
+<unique_index>9</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>avatar_trait_skills_bow_4</key>
+<onscreen_text>Through countless hours of practice, his bow seems almost an extension of his own arm.</onscreen_text>
+<onscreen_title>Famous Bowman</onscreen_title>
+<unique_index>10</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>avatar_trait_skills_bow_5</key>
+<onscreen_text>A true master of the bow, the poets liken his skill to a sublime artform.</onscreen_text>
+<onscreen_title>Legendary Bowman</onscreen_title>
+<unique_index>11</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>avatar_trait_skills_leadership_1</key>
+<onscreen_text>Guidance from an experienced mentor has set this man on the road to becoming an effective leader of men.</onscreen_text>
+<onscreen_title>Leader</onscreen_title>
+<unique_index>12</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>avatar_trait_skills_leadership_2</key>
+<onscreen_text>A calm demeanour, and a hint of steel in word, gaze and deed are useful attributes for an aspiring commander.</onscreen_text>
+<onscreen_title>Journeyman Leader</onscreen_title>
+<unique_index>13</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>avatar_trait_skills_leadership_3</key>
+<onscreen_text>Has acquired the skills required to make his men follow him not only from duty, but also with pride.</onscreen_text>
+<onscreen_title>Skilled Leader</onscreen_title>
+<unique_index>14</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>avatar_trait_skills_leadership_4</key>
+<onscreen_text>On many a battlefield, this man's deft leadership skills have held his men together and brought them through triumphant.</onscreen_text>
+<onscreen_title>Famous Leader</onscreen_title>
+<unique_index>15</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>avatar_trait_skills_leadership_5</key>
+<onscreen_text>A rock in the tempest of battle, his inspired leadership means that while he stands, his men stand with him to face their destiny and write their names in legend.</onscreen_text>
+<onscreen_title>Legendary Leader</onscreen_title>
+<unique_index>16</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>avatar_trait_skills_melee_1</key>
+<onscreen_text>To carry a fine blade does not always signify any degree of skill, yet this man has clearly mastered at least the basic strokes and guards.</onscreen_text>
+<onscreen_title>Swordsman</onscreen_title>
+<unique_index>17</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>avatar_trait_skills_melee_2</key>
+<onscreen_text>The sword is the soul of the samurai. That this man wears a sword proclaims not only his status but also that he is more than just a soft man of court.</onscreen_text>
+<onscreen_title>Journeyman Swordsman</onscreen_title>
+<unique_index>18</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>avatar_trait_skills_melee_3</key>
+<onscreen_text>An attentive pupil to the lessons of his sensei, and an alert observer of his opponent, he is forging a reputation as a skilled blade.</onscreen_text>
+<onscreen_title>Skilled Swordsman</onscreen_title>
+<unique_index>19</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>avatar_trait_skills_melee_4</key>
+<onscreen_text>The sword is more than a simple tool - it is also a bridge on the road to one's destiny, a road that this man has travelled now for many miles.</onscreen_text>
+<onscreen_title>Famous Swordsman</onscreen_title>
+<unique_index>20</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>avatar_trait_skills_melee_5</key>
+<onscreen_text>True skill is action independent of thought. To behold this man in battle is to witness a kensei, an immortal master of the blade.</onscreen_text>
+<onscreen_title>Legendary Swordsman</onscreen_title>
+<unique_index>21</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>avatar_trait_skills_physical_1</key>
+<onscreen_text>No more late nights slumped over the Go board nursing a flask of sake and a rounded companion; this man now takes his physical well-being seriously.</onscreen_text>
+<onscreen_title>Physically fit</onscreen_title>
+<unique_index>22</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>avatar_trait_skills_physical_2</key>
+<onscreen_text>Soft living breeds weakness of spirit. This man consciously strives against such a  fate through a routine of daily physical activity.</onscreen_text>
+<onscreen_title>Exceptionally fit</onscreen_title>
+<unique_index>23</unique_index>
+</avatar_traits>
+<avatar_traits>
+<key>avatar_trait_skills_physical_3</key>
+<onscreen_text>This man's body is a temple, and the rigorous training to which he subjects it is akin to a prayer to the heavens.</onscreen_text>
+<onscreen_title>Incredibly fit</onscreen_title>
+<unique_index>24</unique_index>
+</avatar_traits>
+</dataroot>

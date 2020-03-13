@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_groupings_empires_junct>
+<root>
+  <edit_uuid>bfaefc52-70b5-4d2b-bdcc-5c6066f0a082</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>group</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>group_name</column_source_column>
+    <column_source_table>groupings</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>empire</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>empire_name</column_source_column>
+    <column_source_table>empires</column_source_table>
+  </field>
+</root>

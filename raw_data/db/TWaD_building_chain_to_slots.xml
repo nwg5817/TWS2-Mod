@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_building_chain_to_slots>
+<root>
+  <edit_uuid>fee225dd-642b-4655-8a69-849061cb62e9</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>chain</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>building_chains</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>slot</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>slot</column_source_column>
+    <column_source_table>slots</column_source_table>
+  </field>
+</root>

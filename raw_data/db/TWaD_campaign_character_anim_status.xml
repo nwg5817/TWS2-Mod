@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_campaign_character_anim_status>
+<root>
+  <edit_uuid>10415c94-44ce-446a-8ee3-80a4d8e327c7</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>status</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+</root>

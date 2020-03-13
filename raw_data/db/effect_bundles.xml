@@ -1,0 +1,1317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Wed 14. Dec 10:43:25 2011" revision="74" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Dom.Starr">
+<edit_uuid>fe5c0153-e537-4d77-beec-983b637346cd</edit_uuid><effect_bundles>
+<key>bos_aizu</key>
+<localised_description>A strong tree always has deep roots.</localised_description>
+<localised_title>The Traditionalists</localised_title>
+<ui_icon>bos_effect_faction_aizu.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>bos_choshu</key>
+<localised_description>Some hatreds have to be nurtured for centuries.</localised_description>
+<localised_title>The Emperor's Fury</localised_title>
+<ui_icon>bos_effect_faction_chosu.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>bos_clan_level_1</key>
+<localised_description>Keeping tradition alive ensures the power of the old ways.</localised_description>
+<localised_title>Clan Development Level 1</localised_title>
+<ui_icon>bos_effect_clan_level_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>bos_clan_level_2</key>
+<localised_description>Leaving tradition behind erodes the skills of the past.</localised_description>
+<localised_title>Clan Development Level 2</localised_title>
+<ui_icon>bos_effect_clan_level_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>bos_clan_level_3</key>
+<localised_description>Adopting modern, foreign ways is right for Japan, but will the people accept them?</localised_description>
+<localised_title>Clan Development Level 3</localised_title>
+<ui_icon>bos_effect_clan_level_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>bos_clan_level_4</key>
+<localised_description>A fully modernised clan is the envy of Japan. The population will be made to understand.</localised_description>
+<localised_title>Clan Development Level 4</localised_title>
+<ui_icon>bos_effect_clan_level_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>bos_clan_level_5</key>
+<localised_description>Modernisation and populations can co-exist in harmony as long as the people are kept in check.</localised_description>
+<localised_title>Clan Development Level 5</localised_title>
+<ui_icon>bos_effect_clan_level_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>bos_clan_level_6</key>
+<localised_description>A fully modernised clan is the envy of Japan. The population will be made to understand.</localised_description>
+<localised_title>Clan Development Level 6</localised_title>
+<ui_icon>bos_effect_clan_level_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>bos_jozai</key>
+<localised_description>The unexpected blow is always the hardest to bear.</localised_description>
+<localised_title>The Hidden Warriors</localised_title>
+<ui_icon>bos_effect_faction_jozai.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>bos_minor_clan</key>
+<localised_description>Minor Clan</localised_description>
+<localised_title>not_displayed</localised_title>
+<ui_icon>gempei_effect_kiso_minamoto.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>bos_nagaoka</key>
+<localised_description>Money wins wars; men fight them.</localised_description>
+<localised_title>The Tycoons</localised_title>
+<ui_icon>bos_effect_faction_nagaoka.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>bos_obama</key>
+<localised_description>All must learn their place.</localised_description>
+<localised_title>The Overseers</localised_title>
+<ui_icon>bos_effect_faction_preorder_obama.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>bos_saga</key>
+<localised_description>Wisdom has no country.</localised_description>
+<localised_title>The Emperor’s Diligence</localised_title>
+<ui_icon>bos_effect_faction_preorder_saga.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>bos_satsuma</key>
+<localised_description>Much can be achieved away from the eyes of the great and good.</localised_description>
+<localised_title>The Emperor’s Ambition</localised_title>
+<ui_icon>bos_effect_faction_satsuma.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>bos_sendai</key>
+<localised_description>Talk quietly, at least until swords are drawn.</localised_description>
+<localised_title>The Negotiators</localised_title>
+<ui_icon>bos_effect_faction_preorder_sendai.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>bos_tosa</key>
+<localised_description>The sea cannot be conquered, only endured.</localised_description>
+<localised_title>The Emperor’s Reason</localised_title>
+<ui_icon>bos_effect_faction_tosa.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>bos_tsu</key>
+<localised_description>One road can have many destinations.</localised_description>
+<localised_title>The Emperor’s Cunning</localised_title>
+<ui_icon>bos_effect_faction_preorder_ueno.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>gem_fujiwara_hiraizumi</key>
+<localised_description>Power lies in the shadows</localised_description>
+<localised_title>Expedient</localised_title>
+<ui_icon>gempei_effect_hiraizumi_fujiwara.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>gem_fujiwara_kubota</key>
+<localised_description>Power lies in the ancestors</localised_description>
+<localised_title>Illustrious</localised_title>
+<ui_icon>gempei_effect_kubota_fujiwara.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>gem_minamoto_kamakura</key>
+<localised_description>Power lies in the sword</localised_description>
+<localised_title>Indomitable</localised_title>
+<ui_icon>gempei_effect_kamakura_minamoto.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>gem_minamoto_kiso</key>
+<localised_description>Power lies in the warrior's way</localised_description>
+<localised_title>Relentless</localised_title>
+<ui_icon>gempei_effect_kiso_minamoto.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>gem_minor</key>
+<localised_description>not_displayed</localised_description>
+<localised_title>not_displayed</localised_title>
+<ui_icon>effect_daimyo.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>gem_taira_fukuhara</key>
+<localised_description>Power lies in the family</localised_description>
+<localised_title>Prevailing</localised_title>
+<ui_icon>gempei_effect_fukuhara_taira.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>gem_taira_yashima</key>
+<localised_description>Power lies in the blood</localised_description>
+<localised_title>Seaborne</localised_title>
+<ui_icon>gempei_effect_yashima_taira.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>l_first_legendary_archery</key>
+<localised_description>Your clan was the first in Japan to build this legendary testament to excellence in archery.</localised_description>
+<localised_title>Legendary Kyudo School</localised_title>
+<ui_icon>effect_archer.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>l_first_legendary_buddhist</key>
+<localised_description>Your clan was the first in Japan to build this legendary testament to the Buddhist way (effects apply only as long as your clan is Buddhist).</localised_description>
+<localised_title>Famous Temple</localised_title>
+<ui_icon>effect_buddhism.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>l_first_legendary_cavalry</key>
+<localised_description>Your clan was the first in Japan to build this legendary testament to great horsemanship.</localised_description>
+<localised_title>Legendary Bajutsu School</localised_title>
+<ui_icon>effect_cavalry.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>l_first_legendary_christian</key>
+<localised_description>Your clan was the first in Japan to build this legendary testament to the Christian way (effects apply only as long as your clan is Christian).</localised_description>
+<localised_title>Cathedral</localised_title>
+<ui_icon>effect_christianity.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>l_first_legendary_craft</key>
+<localised_description>Your clan was the first in Japan to build this legendary testament to economic excellence.</localised_description>
+<localised_title>Kabunakama</localised_title>
+<ui_icon>effect_wealth.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>l_first_legendary_siege</key>
+<localised_description>Your clan was the first in Japan to build this legendary testament to its mastery of siegecraft and gunpowder.</localised_description>
+<localised_title>Arsenal</localised_title>
+<ui_icon>effect_firearm.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>l_first_legendary_stealth</key>
+<localised_description>Your clan was the first in Japan to build this legendary testament to the clandestine arts.</localised_description>
+<localised_title>Infamous Mizu Shobai District</localised_title>
+<ui_icon>effect_ninja.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>l_first_legendary_sword</key>
+<localised_description>Your clan was the first in Japan to build this legendary testament to great swordsmanship.</localised_description>
+<localised_title>Legendary Kenjutsu School</localised_title>
+<ui_icon>effect_weapon_buff.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>l_first_legendary_yari</key>
+<localised_description>Your clan was the first in Japan to build this legendary testament to excellence with the spear.</localised_description>
+<localised_title>Legendary Sojutsu School</localised_title>
+<ui_icon>effect_weapon_buff.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_able_sailors</key>
+<localised_description>As a result of your efforts in naval matters, many able sailors are making themselves available for work aboard your ships.</localised_description>
+<localised_title>Able Sailors</localised_title>
+<ui_icon>effect_navy_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_abundant_catch_global</key>
+<localised_description>Favourable conditions and long hours have ensured that fishermen across your domain have kept their nets brimming.</localised_description>
+<localised_title>Abundant Catch</localised_title>
+<ui_icon>effect_food_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_abundant_catch_local</key>
+<localised_description>Favourable conditions and long hours have ensured that fishermen in this province have kept their nets brimming.</localised_description>
+<localised_title>Abundant Catch</localised_title>
+<ui_icon>effect_food_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_administrative_insight</key>
+<localised_description>By virtue of your recent focus on administration and infrastructure, your clan has made significant progress in civil matters.</localised_description>
+<localised_title>Civil Insight</localised_title>
+<ui_icon>effect_technology_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_aggressive_ardour</key>
+<localised_description>A focus on offensive measures has given your troops a marked advantage in close-combat.</localised_description>
+<localised_title>Aggressive Ardour</localised_title>
+<ui_icon>effect_army_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_agrarian_toil_global</key>
+<localised_description>Efficient exploitation of fertile lands across your realm has led to a significant increase in agricultural wealth.</localised_description>
+<localised_title>Agrarian Toil</localised_title>
+<ui_icon>effect_trade_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_agrarian_toil_local</key>
+<localised_description>Efficient exploitation of the fertile land has increased the agricultural wealth generated from this province.</localised_description>
+<localised_title>Agrarian Toil</localised_title>
+<ui_icon>effect_trade_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_ample_supplies</key>
+<localised_description>An abundant source of military equipment has significantly reduced the cost of equipping new troops for war.</localised_description>
+<localised_title>Ample Supplies</localised_title>
+<ui_icon>effect_weapon_buff_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_anti_nanban_riots_global</key>
+<localised_description>People across your territory are sickened by recent concessions made in favour of the nanban and their ways. </localised_description>
+<localised_title>Anti-Nanban Riots</localised_title>
+<ui_icon>effect_public_order_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_anti_nanban_riots_local</key>
+<localised_description>People in this province are sickened by recent concessions made in favour of the nanban and their ways. </localised_description>
+<localised_title>Anti-Nanban Riots</localised_title>
+<ui_icon>effect_public_order_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_ample_supplies</key>
+<localised_description>An abundant source of military supplies have significantly reduced the cost of equipping new troops for war.</localised_description>
+<localised_title>Ample Supplies</localised_title>
+<ui_icon>bos_effect_modern_infantry_melee_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_anti_western_riots_global</key>
+<localised_description>People across your domain are sickened by recent concessions made in favour of westerners.</localised_description>
+<localised_title>Anti-western Riots</localised_title>
+<ui_icon>bos_effect_disaster_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_anti_western_riots_local</key>
+<localised_description>People in this province are sickened by recent concessions made in favour of westerners.</localised_description>
+<localised_title>Anti-western Riots</localised_title>
+<ui_icon>bos_effect_disaster_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_autumn</key>
+<localised_description>A season for change.\nLeaves playfully mock the wind.\nAutumn has come.</localised_description>
+<localised_title>Autumn</localised_title>
+<ui_icon>bos_effect_season_autumn.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_better_geisha</key>
+<localised_description>Imbued with confidence and charm, your geisha are capable of lifting even the sternest of souls with their art.</localised_description>
+<localised_title>Irresistible Charmers</localised_title>
+<ui_icon>bos_effect_geisha_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_better_ishinshishi</key>
+<localised_description>Utterly devoted to the Emperor's return to power, your ishin shishi fight with unbridled zeal.</localised_description>
+<localised_title>Imperial Champions</localised_title>
+<ui_icon>bos_effect_ishin_shishi_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_better_shinobi</key>
+<localised_description>Their clandestine skills honed to perfection, your shinobi are excelling in acts of subterfuge.</localised_description>
+<localised_title>Deadly Shadows</localised_title>
+<ui_icon>bos_effect_ninja_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_better_shinsengumi</key>
+<localised_description>Unwavering in their loyalty to the Shogunate, your shinsengumi fervently carry out their duties.</localised_description>
+<localised_title>Defenders of the Shogunate</localised_title>
+<ui_icon>bos_effect_shinsengumi_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_better_veteran</key>
+<localised_description>Their experience unmatched, the foreign veterans in your service provide vital support for the war effort.</localised_description>
+<localised_title>Martial Experts</localised_title>
+<ui_icon>bos_effect_foreign_veteran_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_breakthrough_civil_eng</key>
+<localised_description>Public buildings throughout your domain have benefitted from recent advances in civil engineering.</localised_description>
+<localised_title>Civil Breakthrough</localised_title>
+<ui_icon>bos_effect_modernisation_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_breakthrough_industrial_sci</key>
+<localised_description>Industrial breakthroughs have boosted both your production and economy.</localised_description>
+<localised_title>Industrial Breakthrough</localised_title>
+<ui_icon>bos_effect_modernisation_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_breakthrough_medical_sci</key>
+<localised_description>The recent breakthroughs in medical science have proved greatly beneficial to all.</localised_description>
+<localised_title>Medical Breakthrough</localised_title>
+<ui_icon>bos_effect_commodity_tea_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_breakthrough_military_eng</key>
+<localised_description>Advances in military engineering have improved the  efficiency of your artillery production.</localised_description>
+<localised_title>Military Breakthrough</localised_title>
+<ui_icon>bos_effect_artillery_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_brigandry_global</key>
+<localised_description>An increase in criminal acts has affected production across your domain. Unrest is stirring amongst the populace.</localised_description>
+<localised_title>Brigandry</localised_title>
+<ui_icon>bos_effect_public_order_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_brigandry_local</key>
+<localised_description>An increase in criminal acts has affected production in this province. Unrest is stirring amongst the populace.</localised_description>
+<localised_title>Brigandry</localised_title>
+<ui_icon>bos_effect_public_order_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_call_to_arms</key>
+<localised_description>An increasing number of your subjects are clamouring to join the ranks and take arms against the clan's enemies.</localised_description>
+<localised_title>Call to Arms</localised_title>
+<ui_icon>bos_effect_army_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_civil_insight</key>
+<localised_description>By virtue of your focus on infrastructure and culture, your clan has made significant progress in civil matters.</localised_description>
+<localised_title>Civil Insight</localised_title>
+<ui_icon>bos_effect_modernisation_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_criminal_contacts_global</key>
+<localised_description>Owing to your criminal connections, you are better-able to exploit the wealth-producing establishments within your domain.</localised_description>
+<localised_title>Underworld Contacts</localised_title>
+<ui_icon>bos_effect_subterfuge_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_criminal_contacts_local</key>
+<localised_description>Owing to your criminal connections, you are better-able to exploit the wealth-producing establishments in this province.</localised_description>
+<localised_title>Underworld Contacts</localised_title>
+<ui_icon>bos_effect_subterfuge_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_disaffected_populace_global</key>
+<localised_description>Neglect for the wants and needs of the people across your domain has caused resentment to your rule.</localised_description>
+<localised_title>Disaffected Populace</localised_title>
+<ui_icon>bos_effect_public_order_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_disaffected_populace_local</key>
+<localised_description>Neglect for the wants and needs of the people of this province has caused resentment to your rule.</localised_description>
+<localised_title>Disaffected Populace</localised_title>
+<ui_icon>bos_effect_public_order_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_dreaded_force</key>
+<localised_description>Rumours of your martial superiority have spread, crushing the morale of all those who would face your clan in battle.</localised_description>
+<localised_title>Dreaded Force</localised_title>
+<ui_icon>bos_effect_army_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_earthquake</key>
+<localised_description>A tumultuous earthquake has struck this province! Construction efforts and production have been frustrated as the populace cope with the devastation.</localised_description>
+<localised_title>Earthquake</localised_title>
+<ui_icon>bos_effect_disaster_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_emperors_mandate</key>
+<localised_description>In return for your loyal service, the Emperor has openly declared his support for your clan.</localised_description>
+<localised_title>The Emperor's Mandate</localised_title>
+<ui_icon>bos_effect_imperial_allegiance_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_fire</key>
+<localised_description>Raging fires have spread destruction throughout this province's capital, affecting local production and ruining the livelihoods of many of the people.</localised_description>
+<localised_title>Fire</localised_title>
+<ui_icon>bos_effect_disaster_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_flourishing_growth_global</key>
+<localised_description>Business and public services are flourishing throughout your domain, improving the economy.</localised_description>
+<localised_title>Business Flourishes</localised_title>
+<ui_icon>bos_effect_wealth_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_flourishing_growth_local</key>
+<localised_description>Business and public services are flourishing in this province, improving the economy.</localised_description>
+<localised_title>Business Flourishes</localised_title>
+<ui_icon>bos_effect_wealth_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_foreign_boost</key>
+<localised_description>Your recent decisions regarding westerners have resulted in an increase in foreign trade.</localised_description>
+<localised_title>Foreign Trade Boost</localised_title>
+<ui_icon>bos_effect_trade_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_foreign_setback</key>
+<localised_description>Your recent decisions regarding westerners have caused a decline in foreign trade.</localised_description>
+<localised_title>Foreign Trade Setback</localised_title>
+<ui_icon>bos_effect_trade_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_grateful_populace_global</key>
+<localised_description>Your dedication to the wants and needs of the people throughout your domain has engendered feelings of joy and gratitude.</localised_description>
+<localised_title>Grateful Populace</localised_title>
+<ui_icon>bos_effect_public_order_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_grateful_populace_local</key>
+<localised_description>Your dedication to the wants and needs of the people of this province has engendered feelings of joy and gratitude.</localised_description>
+<localised_title>Grateful Populace</localised_title>
+<ui_icon>bos_effect_public_order_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_high_yield</key>
+<localised_description>The recent focus on improving your primary economy has boosted agricultural and mineral wealth.</localised_description>
+<localised_title>High Yield</localised_title>
+<ui_icon>bos_effect_trade_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_imperial_propaganda_local</key>
+<localised_description>Support for the Emperor and his return to power is spreading throughout this province.</localised_description>
+<localised_title>Imperialist Influence</localised_title>
+<ui_icon>bos_effect_imperial_allegiance_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_inspired_endeavours_global</key>
+<localised_description>Your commitment to the clan's wellbeing has filled the people with fervent pride, inspiring them to make a greater effort in their daily lives.</localised_description>
+<localised_title>Inspired Endeavours</localised_title>
+<ui_icon>bos_effect_public_order_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_inspired_endeavours_local</key>
+<localised_description>Your commitment to this province's wellbeing has filled the people with fervent pride, inspiring them to make a greater effort in their daily lives.</localised_description>
+<localised_title>Inspired Endeavours</localised_title>
+<ui_icon>bos_effect_public_order_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_iron_fist_local</key>
+<localised_description>Your reputation for stringent action in response to offence has instilled fear in the people of this province.</localised_description>
+<localised_title>Iron Fist</localised_title>
+<ui_icon>bos_effect_traditional_infantry_melee_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_lord_of_war</key>
+<localised_description>Driven by your mastery of warfare, your armies march fervently into battle.</localised_description>
+<localised_title>Lord of War</localised_title>
+<ui_icon>bos_effect_army_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_martial_wisdom</key>
+<localised_description>By virtue of your focus on martial matters, your clan has made significant military advances.</localised_description>
+<localised_title>Martial Wisdom</localised_title>
+<ui_icon>bos_effect_army_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_master_artillery</key>
+<localised_description>A focus upon gunnery drill has improved the proficiency of your newly-recruited artillery-crews.</localised_description>
+<localised_title>Gunnery Experts</localised_title>
+<ui_icon>bos_effect_artillery_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_master_rifles</key>
+<localised_description>A focus upon firearms training has improved the competence of your newly-recruited riflemen.</localised_description>
+<localised_title>Keen Marksmen</localised_title>
+<ui_icon>bos_effect_modern_infantry_ranged_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_master_shipwrights</key>
+<localised_description>Quality equipment and industrial expertise have improved your clan's ability to build warships.</localised_description>
+<localised_title>Master Shipwrights</localised_title>
+<ui_icon>bos_effect_navy_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_military_mission_american</key>
+<localised_description>You have allowed America to establish a military mission with your clan.</localised_description>
+<localised_title>American Military Mission</localised_title>
+<ui_icon>bos_effect_america.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_military_mission_british</key>
+<localised_description>You have allowed Britain to establish a military mission with your clan.</localised_description>
+<localised_title>British Military Mission</localised_title>
+<ui_icon>bos_effect_britain.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_military_mission_french</key>
+<localised_description>You have allowed France to establish a military mission with your clan.</localised_description>
+<localised_title>French Military Mission</localised_title>
+<ui_icon>bos_effect_france.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_peer_contempt</key>
+<localised_description>Dubious of your recent decisions, your fellow daimyo are harbouring considerable disrespect towards you.</localised_description>
+<localised_title>Peer Contempt</localised_title>
+<ui_icon>bos_effect_diplomacy_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_peer_respect</key>
+<localised_description>Inspired by your recent decisions, your fellow daimyo have gained considerable respect for you.</localised_description>
+<localised_title>Peer Respect</localised_title>
+<ui_icon>bos_effect_diplomacy_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_realm_divide_emperor</key>
+<localised_description>The Emperor has rallied his bannermen: no quarter will be given to those who support the Shogun. The unification of Japan has begun!</localised_description>
+<localised_title>The Final Push</localised_title>
+<ui_icon>bos_effect_imperial_allegiance_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_realm_divide_self</key>
+<localised_description>You have decided that neither the Shogun nor the Emperor are worthy of Japan's leadership: the country will be united beneath your own banner!</localised_description>
+<localised_title>Making a Stand</localised_title>
+<ui_icon>bos_effect_independant_allegiance_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_realm_divide_shogun</key>
+<localised_description>The Shogun has rallied his bannermen; no quarter will be given to those who support the Emperor. The unification of Japan has begun!</localised_description>
+<localised_title>The Final Push</localised_title>
+<ui_icon>bos_effect_shogunate_allegiance_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_ronin_marauders_local</key>
+<localised_description>Lacking the wise guidance of a daimyo, ronin are running amok in this province. </localised_description>
+<localised_title>Ronin Marauders</localised_title>
+<ui_icon>bos_effect_disaster_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_rule_the_waves</key>
+<localised_description>Inspired by your mastery of combat at sea, your fleets sail fearlessly into battle.</localised_description>
+<localised_title>Rule the Waves</localised_title>
+<ui_icon>bos_effect_navy_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_samurai_discontent</key>
+<localised_description>Your disregard for the old ways has led to a decline in happiness amongst the samurai within your domain. </localised_description>
+<localised_title>Samurai Discontent</localised_title>
+<ui_icon>bos_effect_public_order_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_samurai_satisfaction</key>
+<localised_description>Samurai within your domain are satisfied with your adherence to tradition.</localised_description>
+<localised_title>Samurai Satisfaction</localised_title>
+<ui_icon>bos_effect_public_order_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_security</key>
+<localised_description>In order to improve security in this province, policing efforts have been stepped up.</localised_description>
+<localised_title>Security Matters</localised_title>
+<ui_icon>bos_effect_military_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_shogunate_propaganda_local</key>
+<localised_description>Support for the Shogun and his continued rule is spreading throughout this province.</localised_description>
+<localised_title>Shogunate Influence</localised_title>
+<ui_icon>bos_effect_shogunate_allegiance_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_shoguns_authority</key>
+<localised_description>In return for your loyal service, the Shogun has openly declared his support for your clan.</localised_description>
+<localised_title>The Shogun's Authority</localised_title>
+<ui_icon>bos_effect_shogunate_allegiance_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_slow_research</key>
+<localised_description>Your have tempered your clan's developmental efforts to help preserve tradition and prevent the loss of cultural identity.</localised_description>
+<localised_title>Developmental Restraint</localised_title>
+<ui_icon>bos_effect_modernisation_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_spring</key>
+<localised_description>Shivering beauty\nraises my spirit higher. \nThe herald of spring.</localised_description>
+<localised_title>Spring</localised_title>
+<ui_icon>bos_effect_season_spring.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_summer</key>
+<localised_description>Heralding summer.\nThe orange blossom in bloom.\nBright and beautiful.</localised_description>
+<localised_title>Summer</localised_title>
+<ui_icon>bos_effect_season_summer.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_thriving_markets</key>
+<localised_description>As a result of your recent mercantile endeavours trade is now booming throughout your lands.</localised_description>
+<localised_title>Thriving Markets</localised_title>
+<ui_icon>bos_effect_wealth_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_wait</key>
+<localised_description>Patience is a virtue.</localised_description>
+<localised_title>Await Outcome</localised_title>
+<ui_icon>bos_effect_daimyo_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_war_fervour</key>
+<localised_description>Morale is currently running high. Your recent military undertakings have filled your troops with an unquenchable thirst for battle!</localised_description>
+<localised_title>War Fervour</localised_title>
+<ui_icon>bos_effect_army_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_bos_winter</key>
+<localised_description>When will spring arrive?\nIn the grip of cold white death,\nThe earth is smothered.</localised_description>
+<localised_title>Winter</localised_title>
+<ui_icon>bos_effect_season_winter.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_call_to_arms</key>
+<localised_description>Inspired by your recent military endeavours, scores of devoted clansmen have rushed to join the ranks to take arms against the clan's enemies.</localised_description>
+<localised_title>Call to Arms</localised_title>
+<ui_icon>effect_army_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_compassion_buddha_global</key>
+<localised_description>Buddhism abounds as true believers have spread the Buddha's teachings across your domain.</localised_description>
+<localised_title>Compassion of Buddha</localised_title>
+<ui_icon>effect_buddhism_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_compassion_buddha_local</key>
+<localised_description>Buddhism abounds as true believers have spread the Buddha's teachings throughout this province.</localised_description>
+<localised_title>Compassion of Buddha</localised_title>
+<ui_icon>effect_buddhism_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_dis_disease</key>
+<localised_description>Sickness has spread amongst the people in this province, disrupting local production and development.</localised_description>
+<localised_title>Disease</localised_title>
+<ui_icon>effect_disaster_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_dis_drought</key>
+<localised_description>A lack of rainfall across this province has seriously affected farming, resulting in a shortage of food and other agricultural produce.</localised_description>
+<localised_title>Drought</localised_title>
+<ui_icon>effect_disaster_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_dis_earthquake</key>
+<localised_description>A tumultuous earthquake has struck this province! Construction efforts and production have been frustrated as the populace cope with the devastation.</localised_description>
+<localised_title>Earthquake</localised_title>
+<ui_icon>effect_disaster_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_dis_fire</key>
+<localised_description>Raging fires have spread destruction throughout this province's castle town, affecting local production and ruining the livelihoods of many of the people.</localised_description>
+<localised_title>Fire</localised_title>
+<ui_icon>effect_disaster_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_dis_flood</key>
+<localised_description>Flooding has occurred in this province, affecting agriculture and production across the area.</localised_description>
+<localised_title>Flooding</localised_title>
+<ui_icon>effect_disaster_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_dis_severe_winter</key>
+<localised_description>This province is suffering the effects of a long, severe winter. The heavy snowfall and harsh cold has affected local farming and production.</localised_description>
+<localised_title>Severe Winter</localised_title>
+<ui_icon>effect_disaster_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_dis_stormy_seas</key>
+<localised_description>Turbulent waters and raging storms have wrought havoc for this naval force, resulting in the damage of ships and loss of life.</localised_description>
+<localised_title>Stormy Seas</localised_title>
+<ui_icon>effect_disaster_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_dis_tsunami</key>
+<localised_description>This coastal province has been hit by a tsunami, affecting local port activity and impeding production.</localised_description>
+<localised_title>Tsunami</localised_title>
+<ui_icon>effect_disaster_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_dis_typhoon</key>
+<localised_description>A devastating typhoon has swept across this province, leaving a trail of destruction which has affected local construction efforts and production.</localised_description>
+<localised_title>Typhoon</localised_title>
+<ui_icon>effect_disaster_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_dis_volcano</key>
+<localised_description>This volcano has erupted, smothering nearby provinces with volcanic ash.</localised_description>
+<localised_title>Volcano</localised_title>
+<ui_icon>effect_disaster_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_disaffected_populace_global</key>
+<localised_description>Neglect for the wants and needs of the people across your domain has caused resentment to your rule.</localised_description>
+<localised_title>Disaffected Populace</localised_title>
+<ui_icon>effect_public_order_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_disaffected_populace_local</key>
+<localised_description>Neglect for the wants and needs of the people of this province has caused resentment to your rule.</localised_description>
+<localised_title>Disaffected Populace</localised_title>
+<ui_icon>effect_public_order_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_disaster</key>
+<localised_description>These provinces are suffering the after-effects of the recent natural disaster.</localised_description>
+<localised_title>Natural Disaster</localised_title>
+<ui_icon>effect_disaster_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_dreaded_force</key>
+<localised_description>Word of your martial superiority has spread, crushing the morale of all those who would face your clan in battle.</localised_description>
+<localised_title>Dreaded Force</localised_title>
+<ui_icon>effect_military_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_foreign_prosperity</key>
+<localised_description>Your efforts in favour of trade with foreign powers have led to an increase in imports.</localised_description>
+<localised_title>Foreign Prosperity</localised_title>
+<ui_icon>effect_trade_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_gem_administrative_insight</key>
+<localised_description>By virtue of your recent focus on infrastructure and culture, your clan has made significant progress in civil matters.</localised_description>
+<localised_title>Civil Insight</localised_title>
+<ui_icon>effect_technology_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_gem_ardent_support</key>
+<localised_description>Ever true to your family and cause, people across your realm are impervious to all outside influences.</localised_description>
+<localised_title>Ardent Support</localised_title>
+<ui_icon>effect_generic_event_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_gem_await_response</key>
+<localised_description>Patience is a virtue.</localised_description>
+<localised_title>Await Response</localised_title>
+<ui_icon>effect_buddhism.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_gem_brigandry_global</key>
+<localised_description>An increase in criminal acts has impaired production across your domain. Unrest is stirring amongst the populace.</localised_description>
+<localised_title>Brigandry</localised_title>
+<ui_icon>effect_daimyo.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_gem_brigandry_local</key>
+<localised_description>An increase in criminal acts has impaired production in this province. Unrest is stirring amongst the populace.</localised_description>
+<localised_title>Brigandry</localised_title>
+<ui_icon>effect_daimyo.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_gem_fujiwara_influence_other</key>
+<localised_description>Despite our best efforts, knowledge of the Fujiwara's past continues to foster support for them.</localised_description>
+<localised_title>Fujiwara Influence</localised_title>
+<ui_icon>effect_daimyo.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_gem_fujiwara_influence_self</key>
+<localised_description>Word of the family's past achievements has spread; support for the Fujiwara cause is stronger than ever.</localised_description>
+<localised_title>Fujiwara Influence</localised_title>
+<ui_icon>effect_daimyo.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_gem_martial_wisdom</key>
+<localised_description>By virtue of your recent focus on martial matters, your clan has made significant progress in the field of military advancement.</localised_description>
+<localised_title>Martial Wisdom</localised_title>
+<ui_icon>effect_technology_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_gem_master_dancer</key>
+<localised_description>Imbued with confidence and charm, your shirabyoshi are capable of lifting even the sternest of souls.</localised_description>
+<localised_title>Entrancing Allure</localised_title>
+<ui_icon>gempei_effect_dancer_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_gem_master_inspector</key>
+<localised_description>Quick of tongue and cunning to the last, your junsatsushi are championing your cause with irrepressible conviction.</localised_description>
+<localised_title>Influential Exponent</localised_title>
+<ui_icon>effect_metsuke_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_gem_master_monk</key>
+<localised_description>Inspired by their pursuit of enlightenment, your sou are fulfilling their duties with unbounded zeal.</localised_description>
+<localised_title>Noble Truth</localised_title>
+<ui_icon>effect_monk_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_gem_master_spy</key>
+<localised_description>Their skills honed to perfection, your monomi are excelling in acts of subterfuge.</localised_description>
+<localised_title>Clandestine Practices</localised_title>
+<ui_icon>effect_ninja_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_gem_minamoto_influence_other</key>
+<localised_description>Despite our best efforts, knowledge of the Minamoto's past continues to foster support for them.</localised_description>
+<localised_title>Minamoto Influence</localised_title>
+<ui_icon>effect_daimyo.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_gem_minamoto_influence_self</key>
+<localised_description>Word of the family's past achievements has spread; support for the Minamoto cause is stronger than ever.</localised_description>
+<localised_title>Minamoto Influence</localised_title>
+<ui_icon>effect_daimyo.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_gem_propaganda</key>
+<localised_description>Your family’s influence is spreading like wildfire as word of your exploits reaches every corner of the realm.</localised_description>
+<localised_title>Propaganda</localised_title>
+<ui_icon>effect_generic_event_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_gem_taira_antoku_enthroned</key>
+<localised_description>A Taira now sits upon the Chrysanthemum Throne. Your family profits from its newfound position of power, and much of Japan resents that.</localised_description>
+<localised_title>Emperor Antoku</localised_title>
+<ui_icon>effect_daimyo.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_gem_taira_influence_other</key>
+<localised_description>Despite our best efforts, knowledge of the Taira's past continues to foster support for them.</localised_description>
+<localised_title>Taira Influence</localised_title>
+<ui_icon>effect_daimyo.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_gem_taira_influence_self</key>
+<localised_description>Word of the family's past achievements has spread; support for the Taira cause is stronger than ever.</localised_description>
+<localised_title>Taira Influence</localised_title>
+<ui_icon>effect_daimyo.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_gem_tax_supplement</key>
+<localised_description>Your recent initiatives have increased the tax revenue gathered in this province.</localised_description>
+<localised_title>Tax Supplement</localised_title>
+<ui_icon>effect_daimyo.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_gem_unwanted_influence_fujiwara</key>
+<localised_description>Harbouring those with Minamoto and Taira sympathies has allowed their influence to spread throughout your domain.</localised_description>
+<localised_title>Unwanted Influence</localised_title>
+<ui_icon>effect_daimyo.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_gem_unwanted_influence_minamoto</key>
+<localised_description>Harbouring those with Taira and Fujiwara sympathies has allowed their influence to spread throughout your domain.</localised_description>
+<localised_title>Unwanted Influence</localised_title>
+<ui_icon>effect_daimyo.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_gem_unwanted_influence_taira</key>
+<localised_description>Harbouring those with Minamoto and Fujiwara sympathies has allowed their influence to spread throughout your domain.</localised_description>
+<localised_title>Unwanted Influence</localised_title>
+<ui_icon>effect_daimyo.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_grateful_populace_global</key>
+<localised_description>Your dedication to the wants and needs of the people throughout your domain has engendered feelings of joy and gratitude.</localised_description>
+<localised_title>Grateful Populace</localised_title>
+<ui_icon>effect_public_order_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_grateful_populace_local</key>
+<localised_description>Your dedication to the wants and needs of the people of this province has engendered feelings of joy and gratitude.</localised_description>
+<localised_title>Grateful Populace</localised_title>
+<ui_icon>effect_public_order_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_inspired_endeavours_global</key>
+<localised_description>Your commitment to the clan's wellbeing has filled the people with fervent pride, inspiring them to make a greater effort in their daily lives.</localised_description>
+<localised_title>Inspired Endeavours</localised_title>
+<ui_icon>effect_wealth_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_inspired_endeavours_local</key>
+<localised_description>Your commitment to this province's wellbeing has filled the people with fervent pride, inspiring them to make a greater effort in their daily lives.</localised_description>
+<localised_title>Inspired Endeavours</localised_title>
+<ui_icon>effect_wealth_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_iron_fist</key>
+<localised_description>Your reputation for stringent action in response to offence has instilled fear in the people throughout your domain, cowing them into obedience.</localised_description>
+<localised_title>Iron Fist</localised_title>
+<ui_icon>effect_public_order_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_lackluster_efforts_global</key>
+<localised_description>Unmotivated and undisciplined, people across your domain have lost their commitment to the natural order of work and duty.</localised_description>
+<localised_title>Lackluster Efforts</localised_title>
+<ui_icon>effect_public_order_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_lackluster_efforts_local</key>
+<localised_description>Unmotivated and undisciplined, people in this province have lost their commitment to the natural order of work and duty.</localised_description>
+<localised_title>Lackluster Efforts</localised_title>
+<ui_icon>effect_public_order_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_lucrative_shipping</key>
+<localised_description>Your dominance of the shipping lanes has led to an increase of the sea trade conducted through your ports.</localised_description>
+<localised_title>Lucrative Shipping</localised_title>
+<ui_icon>effect_trade_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_martial_wisdom</key>
+<localised_description>By virtue of your recent focus on martial matters, your clan has made significant progress in the field of military advancement.</localised_description>
+<localised_title>Martial Wisdom</localised_title>
+<ui_icon>effect_technology_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_master_archers</key>
+<localised_description>Your devotion to kyujutsu has markedly improved the abilities of your newly-recruited bowmen.</localised_description>
+<localised_title>Keen Marksmen</localised_title>
+<ui_icon>effect_archer_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_master_ashigaru</key>
+<localised_description>Improved ashigaru training methods have improved the combat potential of your ashigaru recruits.</localised_description>
+<localised_title>Superior Ashigaru</localised_title>
+<ui_icon>effect_ashigaru_units_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_master_builders</key>
+<localised_description>Acquisition and use of the best available materials has greatly increased the efficiency of the construction process.</localised_description>
+<localised_title>Master Builders</localised_title>
+<ui_icon>effect_construction_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_master_cavalry</key>
+<localised_description>Your devotion to bajutsu has enabled the training of exceptionally able cavalry recruits.</localised_description>
+<localised_title>Expert Horsemanship</localised_title>
+<ui_icon>effect_cavalry_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_master_gunners</key>
+<localised_description>Improved training with firearms has made your newly-recruited gunmen more proficient in battle.</localised_description>
+<localised_title>Crack Gunmen</localised_title>
+<ui_icon>effect_firearm_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_master_horsebreeders</key>
+<localised_description>Countless hours spent breaking in the finest stock have greatly increased the efficiency of your horse breeders.</localised_description>
+<localised_title>Master Horse Breeders</localised_title>
+<ui_icon>effect_cavalry_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_master_ikko_monks</key>
+<localised_description>Resolute in their Jodo Shinshu convictions, your Ikko monks are fulfilling their spiritual calling with unbounded zeal.</localised_description>
+<localised_title>The True Pure Land</localised_title>
+<ui_icon>effect_ikko_monk_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_master_metsuke</key>
+<localised_description>Driven by their innate sense of justice, your metsuke are carrying out their duties with all the cunning that they can muster.</localised_description>
+<localised_title>Unscrupulous Aegis</localised_title>
+<ui_icon>effect_metsuke_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_master_missionaries</key>
+<localised_description>Empowered by their faith in the almighty, your missionaries are fulfilling their divine mission with unbridled zeal.</localised_description>
+<localised_title>Divine Right</localised_title>
+<ui_icon>effect_missionary_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_master_monks</key>
+<localised_description>Inspired by their pursuit of enlightenment, your monks are fulfilling their duties with unbounded zeal.</localised_description>
+<localised_title>Noble Truth</localised_title>
+<ui_icon>effect_monk_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_master_ninja</key>
+<localised_description>Their skills honed to perfection, your ninja are excelling in acts of subterfuge.</localised_description>
+<localised_title>Clandestine Practices</localised_title>
+<ui_icon>effect_ninja_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_master_samurai</key>
+<localised_description>Improved samurai training methods have given your recruits an edge in combat.</localised_description>
+<localised_title>Exceptional Samurai</localised_title>
+<ui_icon>effect_samurai_units_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_master_shipwrights</key>
+<localised_description>Acquistion and use of the best timber available has greatly increased the efficiency of your shipwrights.</localised_description>
+<localised_title>Master Shipwrights</localised_title>
+<ui_icon>effect_navy_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_master_siegecraft</key>
+<localised_description>A focus upon siegecraft techniques has improved the proficiency of your newly-recruited siege-crews.</localised_description>
+<localised_title>Siegecraft Experts</localised_title>
+<ui_icon>effect_firearm_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_master_smithies</key>
+<localised_description>Countless hours spent at the forge crafting arms and armour from the finest metals have greatly increased the efficiency of your blacksmiths.</localised_description>
+<localised_title>Master Smithies</localised_title>
+<ui_icon>effect_armour_buff_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_master_spearmen</key>
+<localised_description>Your devotion to sojutsu has improved the skill and resolve of your newly-recruited spearmen.</localised_description>
+<localised_title>Inexorable Spearmen</localised_title>
+<ui_icon>effect_weapon_buff_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_master_swordsmen</key>
+<localised_description>Your devotion to kenjutsu has sharpened the skills of your newly-recruited swordsmen.</localised_description>
+<localised_title>Celebrated Swordsmanship</localised_title>
+<ui_icon>effect_weapon_buff_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_meagre_harvest</key>
+<localised_description>A poor crop has severely affected food production throughout your domain.</localised_description>
+<localised_title>Meagre Harvest</localised_title>
+<ui_icon>effect_food_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_meagre_harvest_local</key>
+<localised_description>A poor crop has severely affected food production in this province.</localised_description>
+<localised_title>Meagre Harvest</localised_title>
+<ui_icon>effect_food_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_merchant_discontent</key>
+<localised_description>Trade revenue is in decline as merchants, incensed by your recent dismissal of trade requests, are seeking their livelihoods elsewhere.</localised_description>
+<localised_title>Merchant Class Discontent</localised_title>
+<ui_icon>effect_trade_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_nanban_ambassador</key>
+<localised_description>In return for your favourable attitude towards the nanban, they have dispatched an emissary to help facilitate trade between you.</localised_description>
+<localised_title>Nanban Ambassador</localised_title>
+<ui_icon>effect_diplomacy_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_nanban_ire</key>
+<localised_description>Angered by recent affronts made against them, the nanban have demanded larger payments for their trade goods.</localised_description>
+<localised_title>Nanban Ire</localised_title>
+<ui_icon>effect_diplomacy_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_old_ways</key>
+<localised_description>Your people have been inspired by the knowledge that their daimyo still favours the customs upon which your clan was established. </localised_description>
+<localised_title>The Old Ways</localised_title>
+<ui_icon>effect_public_order_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_peer_contempt</key>
+<localised_description>Dubious of your recent decisions, your fellow daimyo are harbouring considerable disrespect towards you.</localised_description>
+<localised_title>Peer Contempt</localised_title>
+<ui_icon>effect_diplomacy_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_plenty</key>
+<localised_description>A healthy crop has ensured that there is ample sustenance for your clan.</localised_description>
+<localised_title>Plenty</localised_title>
+<ui_icon>effect_food_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_prosperity_global</key>
+<localised_description>Owing to your regard for its economic wellbeing, your realm is currently experiencing a surge in economic growth.</localised_description>
+<localised_title>Prosperity</localised_title>
+<ui_icon>effect_wealth_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_prosperity_local</key>
+<localised_description>Owing to your regard for its economic wellbeing, this province is currently experiencing a surge in economic growth.</localised_description>
+<localised_title>Prosperity</localised_title>
+<ui_icon>effect_wealth_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_provincial_turmoil_global</key>
+<localised_description>Low morale and a lack of support for your rule have caused widespread dereliction of work and duty amongst the people of your clan.</localised_description>
+<localised_title>Provincial Turmoil</localised_title>
+<ui_icon>effect_wealth_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_provincial_turmoil_local</key>
+<localised_description>Low morale and a lack of support for your rule have caused widespread dereliction of work and duty amongst the people of this province.</localised_description>
+<localised_title>Provincial Turmoil</localised_title>
+<ui_icon>effect_wealth_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_rampant_piracy</key>
+<localised_description>In the wake of your disregard for recent wako threats, pirates are now sweeping across your seas.</localised_description>
+<localised_title>Rampant Piracy</localised_title>
+<ui_icon>effect_trade_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_religious_zeal</key>
+<localised_description>Resolute in their religious convictions, the will of your people has not wavered in the face of spiritual adversity.</localised_description>
+<localised_title>Religious Zeal</localised_title>
+<ui_icon>effect_religion_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_research</key>
+<localised_description>A dedicated approach to mastery of the arts has resulted in significant progress for your clan in both military and civic disciplines.</localised_description>
+<localised_title>Significant Advances</localised_title>
+<ui_icon>effect_technology_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_ronin_marauders</key>
+<localised_description>Their exploits unchecked, ronin have run amok in this province leaving terror and devastation in their wake.</localised_description>
+<localised_title>Ronin Marauders</localised_title>
+<ui_icon>effect_public_order_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_rule_the_waves</key>
+<localised_description>Inspired by your clan's mastery of the sea, your fleets row fearlessly into battle.</localised_description>
+<localised_title>Rule the Waves</localised_title>
+<ui_icon>effect_navy_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_shogunal_deputy</key>
+<localised_description>Satisfied with your recent show of support for his cause, the Shogun has dispatched an official to your capital to aid in matters of state.</localised_description>
+<localised_title>Shogunal Deputy</localised_title>
+<ui_icon>effect_diplomacy_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_staunch_defence</key>
+<localised_description>Owing to an increased focus on clan defence, your troops are better able to withstand melee attacks.</localised_description>
+<localised_title>Staunch Defence</localised_title>
+<ui_icon>effect_armour_buff_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_taskmaster_global</key>
+<localised_description>Your command to intensify construction efforts across your domain has caused them to progress rapidly.</localised_description>
+<localised_title>Taskmaster</localised_title>
+<ui_icon>effect_construction_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_taskmaster_local</key>
+<localised_description>Your command to intensify construction efforts in this province has caused them to progress rapidly.</localised_description>
+<localised_title>Taskmaster</localised_title>
+<ui_icon>effect_construction_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_thriving_markets</key>
+<localised_description>As a result of your recent mercantile endeavours trade is now booming throughout your lands.</localised_description>
+<localised_title>Thriving Markets</localised_title>
+<ui_icon>effect_trade_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_vigilance_global</key>
+<localised_description>Mindful of the clan's defensive needs, clansmen throughout your domain have been keeping a close guard on all comings and goings.</localised_description>
+<localised_title>Vigilance</localised_title>
+<ui_icon>effect_army_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_vigilance_local</key>
+<localised_description>Mindful of the clan's defensive needs, clansmen throughout this province have been keeping a close guard on all comings and goings.</localised_description>
+<localised_title>Vigilance</localised_title>
+<ui_icon>effect_army_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_war_fervour</key>
+<localised_description>Morale is currently running high. Your recent military undertakings have filled your troops with an unquenchable thirst for battle!</localised_description>
+<localised_title>War Fervour</localised_title>
+<ui_icon>effect_army_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_way_words</key>
+<localised_description>Your politeness and tact has given you an edge in matters of diplomatic relations.</localised_description>
+<localised_title>Way with Words</localised_title>
+<ui_icon>effect_diplomacy_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_wisdom_shinran_global</key>
+<localised_description>Faith in the Ikko cause is strong as people across your lands find solace in Shinran's wise teachings.</localised_description>
+<localised_title>Wisdom of Shinran</localised_title>
+<ui_icon>effect_ikko_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_wisdom_shinran_local</key>
+<localised_description>Faith in the Ikko cause is strong as people in this province find solace in Shinran's wise teachings.</localised_description>
+<localised_title>Wisdom of Shinran</localised_title>
+<ui_icon>effect_ikko_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_word_of_god_global</key>
+<localised_description>Christianity has flourished throughout your lands as converts spread the word of God without fear of repression.</localised_description>
+<localised_title>Word of God</localised_title>
+<ui_icon>effect_christianity_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>p_word_of_god_local</key>
+<localised_description>Christianity has flourished throughout this province as converts spread the word of God without fear of repression.</localised_description>
+<localised_title>Word of God</localised_title>
+<ui_icon>effect_christianity_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>requiem_of_the_dead</key>
+<localised_description>Your courage throughout the long, dark winter has not gone unnoticed; Amaterasu blesses you with her light, dispelling fear and doubt amongst your people. (Applies only during the winter season.)</localised_description>
+<localised_title>Reflection of Amaterasu</localised_title>
+<ui_icon>effect_midwinter_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>s_broken_trade</key>
+<localised_description>An end to trade with another clan has affected your clan's domestic growth, as merchants adapt to the situation.</localised_description>
+<localised_title>Broken Trade Agreement</localised_title>
+<ui_icon>effect_trade_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>s_christian</key>
+<localised_description>You have embraced the Christian faith, thereby improving trade relations with the nanban and enabling the construction of Christian buildings.</localised_description>
+<localised_title>Christian</localised_title>
+<ui_icon>effect_christianity_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>s_family_death_mourn</key>
+<localised_description>Your clan is in mourning following the recent tragic loss of the daimyo and his family.</localised_description>
+<localised_title>In Mourning</localised_title>
+<ui_icon>effect_daimyo_negative.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>s_shogun_effects</key>
+<localised_description>You are the shogun. All Japan bows before your military might!</localised_description>
+<localised_title>Shogun</localised_title>
+<ui_icon>effect_daimyo.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>summer_son</key>
+<localised_description>Amaterasu recognises the victories you have achieved in her honour and accords your warriors her blessing. (Applies only during the summer season.)</localised_description>
+<localised_title>Blessing of Amaterasu</localised_title>
+<ui_icon>effect_summer_son_positive.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>t_chosokabe</key>
+<localised_description>As the arrow flies, so travels the honest man.</localised_description>
+<localised_title>Masters of the Land</localised_title>
+<ui_icon>effect_chosokabe.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>t_date</key>
+<localised_description>The sword that strikes first, strikes hardest.</localised_description>
+<localised_title>Masters of Battle</localised_title>
+<ui_icon>effect_date.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>t_hattori</key>
+<localised_description>Death comes in many ways, not only in battle.</localised_description>
+<localised_title>Masters of Darkness</localised_title>
+<ui_icon>effect_hattori.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>t_hojo</key>
+<localised_description>Those who know how to build also know how to destroy.</localised_description>
+<localised_title>Master Builders</localised_title>
+<ui_icon>effect_hojo.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>t_ikko</key>
+<localised_description>Conquering the soul secures the land.</localised_description>
+<localised_title>Masters of Faith</localised_title>
+<ui_icon>effect_ikko_ikki.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>t_mori</key>
+<localised_description>Water is stronger than any stone, any steel, any man.</localised_description>
+<localised_title>Masters of the Waves</localised_title>
+<ui_icon>effect_mori.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>t_oda</key>
+<localised_description>Any man can bravely carry a spear.</localised_description>
+<localised_title>Masters of Peasantry</localised_title>
+<ui_icon>effect_oda.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>t_shimazu</key>
+<localised_description>Blood is thicker than water.</localised_description>
+<localised_title>Masters of Integrity</localised_title>
+<ui_icon>effect_shimazu.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>t_takeda</key>
+<localised_description>Born to the saddle; born to command.</localised_description>
+<localised_title>Masters of Horses</localised_title>
+<ui_icon>effect_takeda.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>t_tokugawa</key>
+<localised_description>Words are weapons in the mouths of the wise.</localised_description>
+<localised_title>Masters of Intrigue</localised_title>
+<ui_icon>effect_tokugawa.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>t_uesugi</key>
+<localised_description>Evil will never prevail against those with faith.</localised_description>
+<localised_title>Masters of Prayer</localised_title>
+<ui_icon>effect_uesugi.tga</ui_icon>
+</effect_bundles>
+</dataroot>

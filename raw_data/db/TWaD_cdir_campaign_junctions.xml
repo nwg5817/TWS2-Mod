@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_cdir_campaign_junctions>
+<root>
+  <edit_uuid>47ea3d04-2613-49f4-adda-e27598b836f1</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>campaign</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>255</max_length>
+    <column_source_column>campaign_name</column_source_column>
+    <column_source_table>campaigns</column_source_table>
+  </field>
+</root>

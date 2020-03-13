@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_cdir_configs>
+<root>
+  <edit_uuid>20da8acc-396f-4289-9755-a926972e5d0d</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>campaign_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>cdir_campaign_junctions</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>faction_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>cdir_faction_junctions</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>cdir_config_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>cdir_config_values</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>value</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>255</max_length>
+  </field>
+</root>

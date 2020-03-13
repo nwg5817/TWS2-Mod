@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_battle_entities_class_validation_enum>
+<root>
+  <edit_uuid>b4e4a8a2-9d9e-4e4a-a1da-085a124fcfd6</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+</root>

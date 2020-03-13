@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_encyclopedia_agent_manual_block_links>
+<root>
+  <edit_uuid>2255c6bb-d559-4534-9498-cf24b775ec05</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>agent_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>agents</column_source_table>
+  </field>
+  <field>
+    <primary_key>1</primary_key>
+    <name>block_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>block_key</column_source_column>
+    <column_source_table>encyclopedia_blocks</column_source_table>
+  </field>
+</root>

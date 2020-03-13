@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_start_pos_governorships>
+<root>
+  <edit_uuid>3c8a4e93-01be-4f6e-a423-6d22dd0af084</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>id</name>
+    <field_type>autonumber</field_type>
+    <required>1</required>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>governorship</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>governorship</column_source_column>
+    <column_source_table>governorships</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>campaign</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>campaign_name</column_source_column>
+    <column_source_column>onscreen_name</column_source_column>
+    <column_source_table>campaigns</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>lower_class_tax_rate</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>upper_class_tax_rate</name>
+    <field_type>double</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+  </field>
+</root>

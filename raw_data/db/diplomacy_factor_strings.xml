@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Tue 22. Nov 16:55:35 2011" revision="19" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Dom.Starr">
+<edit_uuid>f36c336a-b458-4600-87fd-55b37e439d8f</edit_uuid><diplomacy_factor_strings>
+<key>abandoned_ally_in_war</key>
+<negative_factor_string>Unreliable ally</negative_factor_string>
+<positive_factor_string>Unreliable ally</positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>abused_military_access</key>
+<negative_factor_string>Backstabber! (Attacked by forces given safe passage)</negative_factor_string>
+<positive_factor_string>Backstabber! (Attacked by forces given safe passage)</positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>allegiance</key>
+<negative_factor_string>Different allegiance</negative_factor_string>
+<positive_factor_string>Same allegiance</positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>alliance</key>
+<negative_factor_string>Military alliance</negative_factor_string>
+<positive_factor_string>Military alliance</positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>alliance_broken</key>
+<negative_factor_string>Alliance broken</negative_factor_string>
+<positive_factor_string>Alliance broken</positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>allied_with_enemies</key>
+<negative_factor_string>Alliance with an enemy clan</negative_factor_string>
+<positive_factor_string>Alliance with an enemy clan</positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>annexed_territory</key>
+<negative_factor_string>Territorial expansion</negative_factor_string>
+<positive_factor_string>Territorial expansion</positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>assasination_attempt</key>
+<negative_factor_string>Hostile agent actions</negative_factor_string>
+<positive_factor_string>Hostile agent actions</positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>betrayed_allegiance</key>
+<negative_factor_string>Traitor! (Allegiences were betrayed)</negative_factor_string>
+<positive_factor_string>Traitor! (Allegiences were betrayed)</positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>clan_development</key>
+<negative_factor_string>Clan Development</negative_factor_string>
+<positive_factor_string>Clan Development </positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>cultural_alliance_broken</key>
+<negative_factor_string>Alliances were not honoured</negative_factor_string>
+<positive_factor_string>Alliances were not honoured</positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>daimyo_honour</key>
+<negative_factor_string>Daimyo honour</negative_factor_string>
+<positive_factor_string>Daimyo honour</positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>declared_war_against_enemies</key>
+<negative_factor_string>An enemy of my enemy is my friend</negative_factor_string>
+<positive_factor_string>An enemy of my enemy is my friend</positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>declared_war_against_friends</key>
+<negative_factor_string>War declared on a friendly clan</negative_factor_string>
+<positive_factor_string>War declared on a friendly clan</positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>diplo_character_bonus</key>
+<negative_factor_string>Clan is not respected</negative_factor_string>
+<positive_factor_string>Clan commands respect</positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>enlightenment</key>
+<negative_factor_string>Mastery of the arts</negative_factor_string>
+<positive_factor_string>Mastery of the arts</positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>faction_leader</key>
+<negative_factor_string>Clan is not respected</negative_factor_string>
+<positive_factor_string>Clan commands respect</positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>hostages</key>
+<negative_factor_string>Hostages killed</negative_factor_string>
+<positive_factor_string>Hostages</positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>incited_revolt</key>
+<negative_factor_string>Revolts incited</negative_factor_string>
+<positive_factor_string>Revolts incited</positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>initial_modifier</key>
+<negative_factor_string>Past grievances</negative_factor_string>
+<positive_factor_string>Past friendship</positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>marriage</key>
+<negative_factor_string>Marriage between clans</negative_factor_string>
+<positive_factor_string>Marriage between clans</positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>marriage_with_enemies</key>
+<negative_factor_string>Marriage with hostile clan</negative_factor_string>
+<positive_factor_string>Marriage with hostile clan</positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>peace_treaty</key>
+<negative_factor_string>Peace treaty</negative_factor_string>
+<positive_factor_string>Dishonouring treaties</positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>realm_divide</key>
+<negative_factor_string>Realm divide</negative_factor_string>
+<positive_factor_string>Realm divide</positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>realm_divide_boshin</key>
+<negative_factor_string>Realm divide</negative_factor_string>
+<positive_factor_string>Realm divide</positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>religion</key>
+<negative_factor_string>Religious differences</negative_factor_string>
+<positive_factor_string>Same religion</positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>sabotage_attempt</key>
+<negative_factor_string>Sabotage attempts</negative_factor_string>
+<positive_factor_string>Sabotage attempts</positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>spying_attempt</key>
+<negative_factor_string>Spying attempt</negative_factor_string>
+<positive_factor_string>Spying attempt</positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>state_gift</key>
+<negative_factor_string>Gifts appreciated</negative_factor_string>
+<positive_factor_string>Gifts appreciated</positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>threatened</key>
+<negative_factor_string>Threats of attack</negative_factor_string>
+<positive_factor_string>Threats of attack</positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>trade</key>
+<negative_factor_string>Trade agreement</negative_factor_string>
+<positive_factor_string>Trade agreement</positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>trade_broken</key>
+<negative_factor_string>Trade agreement broken</negative_factor_string>
+<positive_factor_string>Trade agreement broken</positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>trade_embargoed</key>
+<negative_factor_string>Trade ban</negative_factor_string>
+<positive_factor_string>Trade ban</positive_factor_string>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>war</key>
+<negative_factor_string>War!</negative_factor_string>
+<positive_factor_string>Peace treaty</positive_factor_string>
+</diplomacy_factor_strings>
+</dataroot>

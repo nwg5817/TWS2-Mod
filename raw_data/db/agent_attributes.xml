@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Mon 6. Dec 11:35:43 2010" revision="1" export_branch="C:/tw/campaign/dev/shogun2/src" export_user="Alan.Blair">
+<edit_uuid>f9bb71d5-e2ee-464f-9e57-c340404c6e86</edit_uuid><agent_attributes>
+<effect_text>%+n to Command in land battles.</effect_text>
+<icon_path>data/ui/campaign ui/pips/skill_command.tga</icon_path>
+<key>command_land</key>
+<name>Command on Land</name>
+</agent_attributes>
+<agent_attributes>
+<effect_text>%+n to Command in sea battles.</effect_text>
+<icon_path>data/ui/campaign ui/pips/skill_naval.tga</icon_path>
+<key>command_sea</key>
+<name>Command at Sea</name>
+</agent_attributes>
+<agent_attributes>
+<effect_text>%+n to Cunning</effect_text>
+<icon_path>PLACEHOLDER</icon_path>
+<key>cunning</key>
+<name>Cunning</name>
+</agent_attributes>
+<agent_attributes>
+<effect_text>%+n to Duelling when duelling with pistols.</effect_text>
+<icon_path>data/ui/campaign ui/pips/skill_shooting.tga</icon_path>
+<key>duelling_pistols</key>
+<name>Pistol duelling</name>
+</agent_attributes>
+<agent_attributes>
+<effect_text>%+n to Duelling when duelling with swords.</effect_text>
+<icon_path>data/ui/campaign ui/pips/skill_swordfighting.tga</icon_path>
+<key>duelling_swords</key>
+<name>Sword duelling</name>
+</agent_attributes>
+<agent_attributes>
+<effect_text>%+n %% to battlefield defence work points.</effect_text>
+<icon_path>PLACEHOLDER</icon_path>
+<key>land_defence_engineering</key>
+<name>Land defence engineering</name>
+</agent_attributes>
+<agent_attributes>
+<effect_text>%+n %% to siege works points.</effect_text>
+<icon_path>PLACEHOLDER</icon_path>
+<key>land_siege_engineering</key>
+<name>Siege engineering</name>
+</agent_attributes>
+<agent_attributes>
+<effect_text>%+n to Management.</effect_text>
+<icon_path>data/ui/campaign ui/pips/skill_managing.tga</icon_path>
+<key>management</key>
+<name>Management Skill</name>
+</agent_attributes>
+<agent_attributes>
+<effect_text>%+n to army Morale.</effect_text>
+<icon_path>PLACEHOLDER</icon_path>
+<key>morale_land</key>
+<name>Morale</name>
+</agent_attributes>
+<agent_attributes>
+<effect_text>%+n to fleet Morale.</effect_text>
+<icon_path>PLACEHOLDER</icon_path>
+<key>morale_sea</key>
+<name>Morale</name>
+</agent_attributes>
+<agent_attributes>
+<effect_text>%+n %% to army movement allowance.</effect_text>
+<icon_path>PLACEHOLDER</icon_path>
+<key>movement_points_land</key>
+<name>movement_points_land_name</name>
+</agent_attributes>
+<agent_attributes>
+<effect_text>%+n to Research.</effect_text>
+<icon_path>data/ui/campaign ui/pips/skill_research.tga</icon_path>
+<key>research</key>
+<name>Research Skill</name>
+</agent_attributes>
+<agent_attributes>
+<effect_text>%+n to Subterfuge.</effect_text>
+<icon_path>data/ui/campaign ui/pips/skill_spying.tga</icon_path>
+<key>subterfuge</key>
+<name>Subterfuge Skill</name>
+</agent_attributes>
+<agent_attributes>
+<effect_text>PLACEHOLDER (agent_attributes.effect_text)</effect_text>
+<icon_path>PLACEHOLDER</icon_path>
+<key>trade</key>
+<name>Trade</name>
+</agent_attributes>
+<agent_attributes>
+<effect_text>%+n to Zeal.</effect_text>
+<icon_path>data/ui/campaign ui/pips/skill_zeal.tga</icon_path>
+<key>zeal</key>
+<name>Religious Zeal</name>
+</agent_attributes>
+</dataroot>

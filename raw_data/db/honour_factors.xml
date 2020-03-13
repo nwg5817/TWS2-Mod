@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Wed 16. May 16:46:19 2012" revision="12" export_branch="T:/branches/shogun2/boshin_dlc/shogun2/binaries" export_user="Dom.Starr">
+<edit_uuid>ec520b07-f75d-408c-acaf-2f08e53da976</edit_uuid><honour_factors>
+<key>acquired_vassal</key>
+<localised_negative_name>[Placeholder]</localised_negative_name>
+<localised_positive_name>Vassals established</localised_positive_name>
+<maximum_value>3</maximum_value>
+<minimum_value>0</minimum_value>
+</honour_factors>
+<honour_factors>
+<key>assassination_attempt</key>
+<localised_negative_name>Discovered assassination attempts</localised_negative_name>
+<localised_positive_name>[Placeholder]</localised_positive_name>
+<maximum_value>0</maximum_value>
+<minimum_value>0</minimum_value>
+</honour_factors>
+<honour_factors>
+<key>bankruptcy</key>
+<localised_negative_name>Descent into bankruptcy</localised_negative_name>
+<localised_positive_name>[Placeholder]</localised_positive_name>
+<maximum_value>0</maximum_value>
+<minimum_value>-3</minimum_value>
+</honour_factors>
+<honour_factors>
+<key>base</key>
+<localised_negative_name>Personal honour</localised_negative_name>
+<localised_positive_name>Personal honour</localised_positive_name>
+<maximum_value>10</maximum_value>
+<minimum_value>0</minimum_value>
+</honour_factors>
+<honour_factors>
+<key>battles</key>
+<localised_negative_name>Terrible losses</localised_negative_name>
+<localised_positive_name>Great victories</localised_positive_name>
+<maximum_value>3</maximum_value>
+<minimum_value>-3</minimum_value>
+</honour_factors>
+<honour_factors>
+<key>becoming_christian</key>
+<localised_negative_name>Converted to Christianity</localised_negative_name>
+<localised_positive_name>[Placeholder]</localised_positive_name>
+<maximum_value>0</maximum_value>
+<minimum_value>-2</minimum_value>
+</honour_factors>
+<honour_factors>
+<key>being_christian</key>
+<localised_negative_name>Christian</localised_negative_name>
+<localised_positive_name>[Placeholder]</localised_positive_name>
+<maximum_value>0</maximum_value>
+<minimum_value>-1</minimum_value>
+</honour_factors>
+<honour_factors>
+<key>bonus_values</key>
+<localised_negative_name>Arts, Skills, Traits and Retainers</localised_negative_name>
+<localised_positive_name>Arts, Skills, Traits and Retainers</localised_positive_name>
+<maximum_value>3</maximum_value>
+<minimum_value>-2</minimum_value>
+</honour_factors>
+<honour_factors>
+<key>dishonouring_alliance</key>
+<localised_negative_name>Betrayed alliances</localised_negative_name>
+<localised_positive_name>[Placeholder]</localised_positive_name>
+<maximum_value>0</maximum_value>
+<minimum_value>-3</minimum_value>
+</honour_factors>
+<honour_factors>
+<key>looting_city</key>
+<localised_negative_name>Looting</localised_negative_name>
+<localised_positive_name>[Placeholder]</localised_positive_name>
+<maximum_value>0</maximum_value>
+<minimum_value>-3</minimum_value>
+</honour_factors>
+<honour_factors>
+<key>payload</key>
+<localised_negative_name>Past events</localised_negative_name>
+<localised_positive_name>Past events</localised_positive_name>
+<maximum_value>10</maximum_value>
+<minimum_value>-10</minimum_value>
+</honour_factors>
+<honour_factors>
+<key>threatening_with_empty_words</key>
+<localised_negative_name>Empty threats</localised_negative_name>
+<localised_positive_name>[Placeholder]</localised_positive_name>
+<maximum_value>0</maximum_value>
+<minimum_value>-3</minimum_value>
+</honour_factors>
+</dataroot>

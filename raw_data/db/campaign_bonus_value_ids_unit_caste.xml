@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Fri 23. Sep 14:12:41 2011" revision="5" export_branch="C:/tw/branches/shogun2/boshin/shogun2/binaries" export_user="Alan.Blair">
+<edit_uuid>ef80f782-c036-4f64-a602-e357a297d4a2</edit_uuid><campaign_bonus_value_ids_unit_caste>
+<key>armour_mod</key>
+</campaign_bonus_value_ids_unit_caste>
+<campaign_bonus_value_ids_unit_caste>
+<key>cost_mod</key>
+</campaign_bonus_value_ids_unit_caste>
+<campaign_bonus_value_ids_unit_caste>
+<key>fatigue_resistance</key>
+</campaign_bonus_value_ids_unit_caste>
+<campaign_bonus_value_ids_unit_caste>
+<key>melee_attack_mod</key>
+</campaign_bonus_value_ids_unit_caste>
+<campaign_bonus_value_ids_unit_caste>
+<key>melee_defence_mod</key>
+</campaign_bonus_value_ids_unit_caste>
+<campaign_bonus_value_ids_unit_caste>
+<key>morale</key>
+</campaign_bonus_value_ids_unit_caste>
+<campaign_bonus_value_ids_unit_caste>
+<key>unit_stat_bonus_armour_mod</key>
+</campaign_bonus_value_ids_unit_caste>
+<campaign_bonus_value_ids_unit_caste>
+<key>unit_stat_bonus_melee_attack_mod</key>
+</campaign_bonus_value_ids_unit_caste>
+<campaign_bonus_value_ids_unit_caste>
+<key>unit_xp_mod</key>
+</campaign_bonus_value_ids_unit_caste>
+<campaign_bonus_value_ids_unit_caste>
+<key>upkeep_mod</key>
+</campaign_bonus_value_ids_unit_caste>
+</dataroot>

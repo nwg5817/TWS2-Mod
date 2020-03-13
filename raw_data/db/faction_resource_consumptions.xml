@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Wed 14. Jul 09:45:47 2010" revision="1" export_branch="C:/TW/campaign/dev/shogun2/binaries" export_user="Florian.Ziegler">
+<edit_uuid>c4d0c5f2-ec14-41d5-bd0b-dae16aa1d87d</edit_uuid><faction_resource_consumptions>
+<number_of_regions>1</number_of_regions>
+<resource_consumption>3</resource_consumption>
+</faction_resource_consumptions>
+<faction_resource_consumptions>
+<number_of_regions>10</number_of_regions>
+<resource_consumption>12</resource_consumption>
+</faction_resource_consumptions>
+<faction_resource_consumptions>
+<number_of_regions>3</number_of_regions>
+<resource_consumption>5</resource_consumption>
+</faction_resource_consumptions>
+<faction_resource_consumptions>
+<number_of_regions>6</number_of_regions>
+<resource_consumption>8</resource_consumption>
+</faction_resource_consumptions>
+</dataroot>

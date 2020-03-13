@@ -1,0 +1,1953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Tue 13. Dec 16:17:33 2011" revision="119" export_branch="C:/TW/branches/shogun2/boshin/shogun2/binaries" export_user="Will.OBrien">
+<edit_uuid>24962825-9cb8-46a4-ac61-250acc600b1e</edit_uuid><campaign_variables>
+<description>The maximum number of agents that can be assigned to research one technology.</description>
+<value>3</value>
+<variable_key>agents_per_tech_cap</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Multiplier applied to player annexed_territory diplomatic factor after realm divide has occured.</description>
+<value>1</value>
+<variable_key>annexed_territory_multiplier_on_realm_divide</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Chance of capturing an artillery unit from the losing side after a battle (percent 0-100)</description>
+<value>10</value>
+<variable_key>artillery_capture_chance</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Window, in seconds, during which all shells will arrive</description>
+<value>5</value>
+<variable_key>artillery_support_arrival_window_base</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Window, in seconds, during which all shells will arrive (max)</description>
+<value>24</value>
+<variable_key>artillery_support_arrival_window_max</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Artillery support cooldown between uses (seconds)</description>
+<value>180</value>
+<variable_key>artillery_support_cooldown_base</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Minimum artillery support cooldown between uses (seconds)</description>
+<value>60</value>
+<variable_key>artillery_support_cooldown_min</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Artillery support damage per shell (DEFUNCT - projectile type-dependent)</description>
+<value>10</value>
+<variable_key>artillery_support_damage_base</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Maximum rtillery support damage per shell (DEFUNCT - projectile type-dependent)</description>
+<value>50</value>
+<variable_key>artillery_support_damage_max</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Artillery support time for artillery shells to arrive (seconds)</description>
+<value>10</value>
+<variable_key>artillery_support_impact_time_base</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Minimum artillery support time for artillery shells to arrive (seconds)</description>
+<value>4</value>
+<variable_key>artillery_support_impact_time_min</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Artillery support impact radius (metres)</description>
+<value>45</value>
+<variable_key>artillery_support_radius_base</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Minimum artillery support impact radius (metres)</description>
+<value>30</value>
+<variable_key>artillery_support_radius_min</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Artillery support number of shells per use</description>
+<value>4</value>
+<variable_key>artillery_support_shells_base</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Maximum artillery support number of shells per use</description>
+<value>48</value>
+<variable_key>artillery_support_shells_max</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Artillery support number of uses</description>
+<value>2</value>
+<variable_key>artillery_support_uses_base</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Maximum artillery support number of uses</description>
+<value>5</value>
+<variable_key>artillery_support_uses_max</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The advantage an alliance must have over the enemy, to wipe out the opposition on a win in the autoresolver</description>
+<value>0.6</value>
+<variable_key>autoresolve_advantage_over_enemy_wipeout_threshold</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>The chance of losing units receiving additional casualty by chase down</description>
+<value>0.75</value>
+<variable_key>autoresolve_alliance_additional_damage_chance</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Maximum variation for performance in an alliance. Units will have performance between (1 – alliance_max_performance) and (1 + alliance_max_performance)</description>
+<value>0.5</value>
+<variable_key>autoresolve_alliance_max_performance</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Minimum variation for performance in an alliance.. Units will have performance between (1 – alliance_min_performance) and (1 + alliance_min_performance)</description>
+<value>0.2</value>
+<variable_key>autoresolve_alliance_min_performance</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>The range of Gaussian random numbers for alliance performance</description>
+<value>3</value>
+<variable_key>autoresolve_alliance_performance_gaussian_range</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>The standard deviation to be used when calculating Gaussian random numbers for alliance performance</description>
+<value>1</value>
+<variable_key>autoresolve_alliance_performance_gaussian_sd</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>The additional performance given to each unit per star level</description>
+<value>0.06</value>
+<variable_key>autoresolve_alliance_star_performance_modifier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>A losing alliance will be wiped out when the win percentage is below this threshold</description>
+<value>0.1</value>
+<variable_key>autoresolve_alliance_wipe_out_win_percentage</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The base proportion of losing navy kills that should be converted to captures (may choose to not capture these depending on the random factor applied later)</description>
+<value>0.3</value>
+<variable_key>autoresolve_base_best_ship_kills_to_capture</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) This is a modifier applied to when calculating whether to take captives or not for a particular unit. Depending on the units base morale this is either added or deducted from the chance to take captives</description>
+<value>0.5</value>
+<variable_key>autoresolve_base_chance_a_unit_takes_captives</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Base ratio of captives to take in the range 0.0 -&gt; 1.0. This is then modified. Keep to a low number.</description>
+<value>0.3</value>
+<variable_key>autoresolve_base_ratio_of_captives</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>This is a modifier that's randomised and then added or subtracted from the base ratio. So If you have a base ratio of 0.1 (10%) and a modifier of 0.75 (75%) you will have a base ratio between 0.025 and 0.175.</description>
+<value>0.5</value>
+<variable_key>autoresolve_base_ratio_of_captives_modifier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) A modifier for artillery missile combat in the autoresolver. Does not effect the gatling gun in any way. Boshin only.</description>
+<value>0.5</value>
+<variable_key>autoresolve_bos_art_missile_multiplier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Damage multiplier for artillery support</description>
+<value>1</value>
+<variable_key>autoresolve_bos_artillery_damage_multiplier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Damage multiplier for coastal defences</description>
+<value>1</value>
+<variable_key>autoresolve_bos_coastal_defence_damage_multiplier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) A modifier for gatling gun missile combat in the autoresolver. Boshin only.</description>
+<value>0.3</value>
+<variable_key>autoresolve_bos_gatling_missile_multiplier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) A multiplier for boshin land unit missile potential in the autoresolver</description>
+<value>2.5</value>
+<variable_key>autoresolve_bos_land_missile_multiplier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) A multiplier for boshin land unit missile potential in the autoresolver. This is applied to the defender units in a siege battle.</description>
+<value>2</value>
+<variable_key>autoresolve_bos_land_missile_sett_def_multiplier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The number of ranged turns each naval unit gets in boshin battles. Used for balancing ranged and boarding damage.</description>
+<value>5</value>
+<variable_key>autoresolve_bos_naval_ranged_turns</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Maximum total potential allowed for a land unit in Boshin. Total potential is melee + missile. Values above this max will be scaled down to fit within this bound.</description>
+<value>3000</value>
+<variable_key>autoresolve_bos_unit_land_max_total_potential</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Multiply the vs crew combat potential for naval units in boshin battles. Used for balancing crew and hull damage in ranged combat.</description>
+<value>1</value>
+<variable_key>autoresolve_bos_unit_naval_crew_missile_multiplier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Multiply the vs hull combat potential for naval units in boshin battles. Used for balancing crew and hull damage in ranged combat.</description>
+<value>1</value>
+<variable_key>autoresolve_bos_unit_naval_hull_missile_multiplier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Multiply the total combat potential for naval units in boshin battles. Used for balancing ranged and boarding damage.</description>
+<value>1</value>
+<variable_key>autoresolve_bos_unit_naval_missile_multiplier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The chance we will not take a ship from the set of possible ships to capture</description>
+<value>0.4</value>
+<variable_key>autoresolve_chance_of_not_capturing_ship</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Base chance ( 0.0 -&gt; 1.0 ) of taking captives. Modified by generals, being out numbered etc...</description>
+<value>0.05</value>
+<variable_key>autoresolve_chance_of_taking_captives</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The effect an advantage in the generals star rating has on the win chances, effects the overall win chance</description>
+<value>0.06</value>
+<variable_key>autoresolve_commander_star_rating_impact</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The amount to increase AI casualties in autoresolved battles when campaign difficulty level is easy</description>
+<value>0.05</value>
+<variable_key>autoresolve_easy_campaign_AI_percent_reduction</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The advantage (applied to combat potential) human units recieve when the battle is austoresolved on battle difficulty easy</description>
+<value>0.1</value>
+<variable_key>autoresolve_easy_difficulty_human_advantage</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Represents a positive/negative range for Gaussian random numbers - number will never be out of this range</description>
+<value>3</value>
+<variable_key>autoresolve_gaussian_boundary</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The standard deviation to be used when calculating Gaussian random numbers</description>
+<value>1</value>
+<variable_key>autoresolve_gaussian_standard_deviation</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The amount to decrease AI casulaties in autoresolved battles when campaign difficulty level is hard</description>
+<value>0.2</value>
+<variable_key>autoresolve_hard_campaign_AI_percent_increase</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The advantage (applied to combat potential) AI units recieve when the battle is autoresolved on battle difficulty hard</description>
+<value>0.08</value>
+<variable_key>autoresolve_hard_difficulty_AI_advantage</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The casualty percentage improvement/impedance (winner/loser respectively) on a major victory</description>
+<value>0.1</value>
+<variable_key>autoresolve_major_land_victory_percent</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The casualty percentage impedance for naval loser on a major loss</description>
+<value>0.4</value>
+<variable_key>autoresolve_major_naval_victory_lose_percent</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The casualty percentage improvement for naval winner on a major victory</description>
+<value>0.18</value>
+<variable_key>autoresolve_major_naval_victory_win_percent</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The percentage of the win chances that should always be calculated by the unit combat potential alone.</description>
+<value>0.5</value>
+<variable_key>autoresolve_min_combat_potential_only_win_chance</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The minimum casualties percentage for a unit on an alliances lose</description>
+<value>0.55</value>
+<variable_key>autoresolve_minimum_casualties_on_lose</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The minimum casualties percentage for a unit on an alliances win (altered for class and relative strengths)</description>
+<value>0.15</value>
+<variable_key>autoresolve_minimum_casualties_on_win</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The minimum win chance of an alliance, if their win chance is less than this they cannot win the autoresolve battle.</description>
+<value>0.225</value>
+<variable_key>autoresolve_minimum_win_chance_to_win</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The casualty percentage improvement/impedance (loser/winner respectively) on a minor victory</description>
+<value>0.1</value>
+<variable_key>autoresolve_minor_land_victory_percent</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The casualty percentage impedance for naval loser on a minor loss</description>
+<value>0</value>
+<variable_key>autoresolve_minor_naval_victory_lose_percent</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The casualty percentage improvement for naval winner on a minor victory</description>
+<value>0.14</value>
+<variable_key>autoresolve_minor_naval_victory_win_percent</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Chance to capture a ship</description>
+<value>0.5</value>
+<variable_key>autoresolve_naval_capture_roll</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>When chasing down ships for capture. This is the chasing ships speed modification.</description>
+<value>1</value>
+<variable_key>autoresolve_naval_chasing_speed_multiplier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The casualty percentage impedance for naval loser on a normal loss</description>
+<value>0.2</value>
+<variable_key>autoresolve_normal_naval_victory_lose_percent</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The casualty percentage improvement for naval winner on a normal victory</description>
+<value>0.16</value>
+<variable_key>autoresolve_normal_naval_victory_win_percent</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The randomness to apply to the amount of captives % of base captives - keep it low</description>
+<value>0.1</value>
+<variable_key>autoresolve_relative_captives_fuzziness</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The percentage of damage to keep on a ship that has been reassigned from sunk to captured</description>
+<value>0.35</value>
+<variable_key>autoresolve_ship_damage_capture_multiplier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Randomness of each ships damage, to represent vageries of battle - keep it low</description>
+<value>0.3</value>
+<variable_key>autoresolve_ship_damage_fuzziness</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The percent damage required for a ship unit to sink</description>
+<value>0.875</value>
+<variable_key>autoresolve_ship_damage_required_for_sink</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Chance of massacre, compared to a normal win</description>
+<value>0.2</value>
+<variable_key>autoresolve_stat_massacre_chance</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Combat potential multiplier for units with an ambush bonus</description>
+<value>1.5</value>
+<variable_key>autoresolve_unit_ambush_combat_multiplier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Units will have a maximum rout strength of this value</description>
+<value>0.3</value>
+<variable_key>autoresolve_unit_land_base_rout_point</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Melee combat potential multiplier for hero units</description>
+<value>1</value>
+<variable_key>autoresolve_unit_land_hero_melee_multiplier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Missile combat potential multiplier for hero units</description>
+<value>1</value>
+<variable_key>autoresolve_unit_land_hero_missile_multiplier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>The maximum number of ranged hits a unit can perform</description>
+<value>10</value>
+<variable_key>autoresolve_unit_land_max_ranged_turns</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Missile damage modifier for ranged combat</description>
+<value>1</value>
+<variable_key>autoresolve_unit_land_missile_multiplier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>The maximum causality reduction for winning ranged unit at maximum win chance</description>
+<value>0.5</value>
+<variable_key>autoresolve_unit_land_ranged_casualty_reduction</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Modify the number of ranged hits a unit performs</description>
+<value>1</value>
+<variable_key>autoresolve_unit_land_ranged_turns_multiplier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Randomness of each units losses, to represent vageries of battle - keep it low</description>
+<value>0.1</value>
+<variable_key>autoresolve_unit_losses_fuzziness</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Missile crew damage modifier in ranged combat</description>
+<value>2</value>
+<variable_key>autoresolve_unit_naval_crew_missile_multiplier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Missile hull damage modifier in ranged combat</description>
+<value>2</value>
+<variable_key>autoresolve_unit_naval_hull_missile_multiplier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Missile damage modifier for ranged combat</description>
+<value>3</value>
+<variable_key>autoresolve_unit_naval_missile_multiplier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Ships will surrender when their crew reach this strength percentage</description>
+<value>0.1</value>
+<variable_key>autoresolve_unit_naval_surrender_threshold</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>The range of Gaussian random numbers for alliance performance</description>
+<value>3</value>
+<variable_key>autoresolve_unit_performance_gaussian_range</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>The standard deviation to be used when calculating Gaussian random numbers for unit performance</description>
+<value>1</value>
+<variable_key>autoresolve_unit_performance_gaussian_sd</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Faction leader will have this casualty modifier after battle</description>
+<value>0.5</value>
+<variable_key>autoresolve_unit_protect_faction_leader</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Protected units will have this casualty modifier on lose</description>
+<value>0.85</value>
+<variable_key>autoresolve_unit_protect_lose</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Protected units will have this casualty modifier on major win</description>
+<value>0.4</value>
+<variable_key>autoresolve_unit_protect_major_win</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Protected units will have this casualty modifier on win</description>
+<value>0.6</value>
+<variable_key>autoresolve_unit_protect_win</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Units will be wiped out if their percentage strength is below this threshold</description>
+<value>0.2</value>
+<variable_key>autoresolve_unit_wipe_out_threshold</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The amount the damage probability should be scaled by the win chance in a naval battle with an unlikely result</description>
+<value>0.3</value>
+<variable_key>autoresolve_unlikely_naval_result_scaling_factor</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The amount to decrease AI casulaties in autoresolved battles when campaign difficulty level is very hard</description>
+<value>0.35</value>
+<variable_key>autoresolve_very_hard_campaign_AI_percent_increase</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The advantage (applied to combat potential) AI units recieve when the battle is austoresolved on battle difficulty very hard</description>
+<value>0.2</value>
+<variable_key>autoresolve_very_hard_difficulty_AI_advantage</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Number of resource units always available on the global market for each resource (to prevent division by zero).</description>
+<value>20000</value>
+<variable_key>background_resource_supply</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The base amount of TW required for a town to grow its wealth level. Formula: base_wealth_increase*power((total_wealth_increases+1),2)</description>
+<value>1000</value>
+<variable_key>base_wealth_increase</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Pop growth percentage in every region regardless of farms. We might want to define this on a per-region basis?</description>
+<value>0.3</value>
+<variable_key>baseline_pop_growth</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The base chance of hitting for bombardment by a naval unit on the campaign map.</description>
+<value>0.1</value>
+<variable_key>bombardment_campaign_base_chance</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The base damage figure for bombardment by a naval unit on the campaign map.</description>
+<value>0.02</value>
+<variable_key>bombardment_campaign_base_damage</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The increase in hit chance for each point in bombard ability for bombardment by a naval unit on the campaign map.</description>
+<value>0.015</value>
+<variable_key>bombardment_campaign_chance_per_ability_point</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The increase in hit chance for each experience level for bombardment by a naval unit on the campaign map.</description>
+<value>0.02</value>
+<variable_key>bombardment_campaign_chance_per_experience_level</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The increase in damage for each point in bombard ability for bombardment by a naval unit on the campaign map.</description>
+<value>0.01</value>
+<variable_key>bombardment_campaign_damage_per_ability_point</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The increase in damage for each experience level for bombardment by a naval unit on the campaign map.</description>
+<value>0.01</value>
+<variable_key>bombardment_campaign_damage_per_experience_level</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The amount of experience granted to a ship for a successful bombardment action.</description>
+<value>100</value>
+<variable_key>bombardment_experience_gain</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Base distance at which targets can be bombarded.</description>
+<value>8</value>
+<variable_key>bombardment_radius</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) When considering the importance of buildings for a specific context how much should value for money count versus raw priority (0.0, not a bit to 1.0, entirely)</description>
+<value>0.1</value>
+<variable_key>cai_cnstr_priority_over_cost_modification</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) CAI Budgeting bias, easy difficulty, levels to apply at</description>
+<value>4</value>
+<variable_key>cai_finance_const_bias_easy_level</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) CAI Budgeting bias,easy difficulty, rounds to apply for</description>
+<value>12</value>
+<variable_key>cai_finance_const_bias_easy_turns</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) CAI Budgeting bias, hard difficulty, levels to apply at</description>
+<value>2</value>
+<variable_key>cai_finance_const_bias_hard_level</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) CAI Budgeting bias, hard difficulty, rounds to apply for</description>
+<value>4</value>
+<variable_key>cai_finance_const_bias_hard_turns</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) CAI Budgeting bias, legendary difficulty, levels to apply at</description>
+<value>1</value>
+<variable_key>cai_finance_const_bias_legendary_level</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) CAI Budgeting bias, legendary difficulty, rounds to apply for</description>
+<value>0</value>
+<variable_key>cai_finance_const_bias_legendary_turns</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) CAI Budgeting bias, normal difficulty, levels to apply at</description>
+<value>4</value>
+<variable_key>cai_finance_const_bias_normal_level</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) CAI Budgeting bias, normal difficulty, rounds to apply for</description>
+<value>8</value>
+<variable_key>cai_finance_const_bias_normal_turns</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) CAI Budgeting bias, very hard difficulty, levels to apply at</description>
+<value>1</value>
+<variable_key>cai_finance_const_bias_very_hard_level</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) CAI Budgeting bias, very hard difficulty, rounds to apply for</description>
+<value>0</value>
+<variable_key>cai_finance_const_bias_very_hard_turns</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The point at or below which bonus will be provided to food producgin buildings</description>
+<value>1</value>
+<variable_key>cai_food_ctrl_building_apply_bonus_at_or_below</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The point below which a food penalty will be applied to a building option</description>
+<value>2</value>
+<variable_key>cai_food_ctrl_building_apply_penalty_below</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Bonus applied (per food point) for buildings that increae food up to the specified level</description>
+<value>60</value>
+<variable_key>cai_food_ctrl_building_bonus</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Penalty applied (per food point) for buildings that use food beyond the specified level</description>
+<value>30</value>
+<variable_key>cai_food_ctrl_building_penalty</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Below this number of defending units don't allow retreat (easy difficulty)</description>
+<value>5</value>
+<variable_key>cai_rfb_easy_no_below_min_units</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) If defender can not retreat to a settlement and defender/attacker strength ratio is below this number, retreat (easy difficulty)</description>
+<value>0.3</value>
+<variable_key>cai_rfb_easy_yes_below_ratio_no_sett_retreat</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) If defender can retreat to a settlement and defender/attacker strength ratio is below this number, retreat (easy difficulty)</description>
+<value>0.55</value>
+<variable_key>cai_rfb_easy_yes_below_ratio_sett_retreat</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Below this number of defending units don't allow retreat (hard difficulty)</description>
+<value>2</value>
+<variable_key>cai_rfb_hard_no_below_min_units</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) If defender can not retreat to a settlement and defender/attacker strength ratio is below this number, retreat (hardl difficulty)</description>
+<value>0.5</value>
+<variable_key>cai_rfb_hard_yes_below_ratio_no_sett_retreat</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) If defender can retreat to a settlement and defender/attacker strength ratio is below this number, retreat (hard difficulty)</description>
+<value>0.75</value>
+<variable_key>cai_rfb_hard_yes_below_ratio_sett_retreat</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Below this number of defending units don't allow retreat (normal difficulty)</description>
+<value>4</value>
+<variable_key>cai_rfb_normal_no_below_min_units</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) If defender can not retreat to a settlement and defender/attacker strength ratio is below this number, retreat (normal difficulty)</description>
+<value>0.4</value>
+<variable_key>cai_rfb_normal_yes_below_ratio_no_sett_retreat</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) If defender can retreat to a settlement and defender/attacker strength ratio is below this number, retreat (normal difficulty)</description>
+<value>0.65</value>
+<variable_key>cai_rfb_normal_yes_below_ratio_sett_retreat</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Above zero, allows AI to consider retreat versus another AI</description>
+<value>1</value>
+<variable_key>cai_rfb_test_versus_ai</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Below this number of defending units don't allow retreat (very hard difficulty)</description>
+<value>0</value>
+<variable_key>cai_rfb_vhard_no_below_min_units</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) If defender can not retreat to a settlement and defender/attacker strength ratio is below this number, retreat (very hard difficulty)</description>
+<value>0.6</value>
+<variable_key>cai_rfb_vhard_yes_below_ratio_no_sett_retreat</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) If defender can retreat to a settlement and defender/attacker strength ratio is below this number, retreat (very hard difficulty)</description>
+<value>0.8</value>
+<variable_key>cai_rfb_vhard_yes_below_ratio_sett_retreat</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(Not in use) Integer only.The multiplier applied to a regions prestige if that region is a region the capturing faction must capture to fulfill its victory conditions</description>
+<value>1</value>
+<variable_key>captured_required_region_prestige_multiplier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>The quality value boost for a unit with accuracy upgrades.</description>
+<value>100</value>
+<variable_key>cdir_unit_quality_accuracy_value</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>The quality value boost for a unit with armour upgrades.</description>
+<value>100</value>
+<variable_key>cdir_unit_quality_armour_value</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>The quality value boost for a unit with charge upgrades.</description>
+<value>100</value>
+<variable_key>cdir_unit_quality_charge_value</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>The quality value boost for 1 unit of experience.</description>
+<value>50</value>
+<variable_key>cdir_unit_quality_experience_value</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>The quality value boost for a unit with morale upgrades.</description>
+<value>100</value>
+<variable_key>cdir_unit_quality_morale_value</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>The quality value boost for a unit with weapons upgrades.</description>
+<value>100</value>
+<variable_key>cdir_unit_quality_weapons_value</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Base recruitment cost for characters</description>
+<value>400</value>
+<variable_key>character_recruitment_base_cost</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Cost each command star adds to the cost of the character.</description>
+<value>300</value>
+<variable_key>character_recruitment_cost_per_command_star</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Max distance for character recruitment  (recruitment over this distance will result in a capped distance-cost modifier)</description>
+<value>1000</value>
+<variable_key>character_recruitment_max_distance</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The maximum size of the character recruitment pool</description>
+<value>3</value>
+<variable_key>character_recruitment_pool_cap</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Number of turns it takes to add a new admiral to the character recruitment pool.</description>
+<value>4</value>
+<variable_key>character_recruitment_pool_refill_rate_admiral_0</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Number of turns it takes to add a new admiral to the character recruitment pool. Activated by bonus value.</description>
+<value>3</value>
+<variable_key>character_recruitment_pool_refill_rate_admiral_1</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Number of turns it takes to add a new admiral to the character recruitment pool. Activated by bonus value.</description>
+<value>2</value>
+<variable_key>character_recruitment_pool_refill_rate_admiral_2</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Number of turns it takes to add a new general to the character recruitment pool.</description>
+<value>4</value>
+<variable_key>character_recruitment_pool_refill_rate_general_0</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Number of turns it takes to add a new admiral to the character recruitment pool. Activated by bonus value.</description>
+<value>3</value>
+<variable_key>character_recruitment_pool_refill_rate_general_1</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Number of turns it takes to add a new admiral to the character recruitment pool. Activated by bonus value.</description>
+<value>2</value>
+<variable_key>character_recruitment_pool_refill_rate_general_2</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME)  Research points being contributed by character attributes are clamped to this value in any research slot</description>
+<value>12</value>
+<variable_key>character_research_points_cap</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The amount of daimyo honour granted for acquiring a vassal clan.</description>
+<value>1</value>
+<variable_key>daimyo_honour_effect_acquired_vassal_clan</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The amount of daimyo honour granted for detected assassination attempts.</description>
+<value>0</value>
+<variable_key>daimyo_honour_effect_assassination_attempt</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The amount of daimyo honour granted by becoming christian.</description>
+<value>-2</value>
+<variable_key>daimyo_honour_effect_becoming_christian</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The amount of daimyo honour granted by being christian.</description>
+<value>-1</value>
+<variable_key>daimyo_honour_effect_being_christian</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The amount of daimyo honour granted by a crushing defeat in which the daimyo is involved.</description>
+<value>-1</value>
+<variable_key>daimyo_honour_effect_crushing_defeat</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The amount of daimyo honour granted for dishonouring alliances.</description>
+<value>-1</value>
+<variable_key>daimyo_honour_effect_dishonouring_alliance</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The amount of daimyo honour granted by an army containing the daimyo capturing a faction's last region.</description>
+<value>1</value>
+<variable_key>daimyo_honour_effect_eradicated_clan</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The amount of daimyo honour granted by a heroic victory in which the daimyo is involved.</description>
+<value>1</value>
+<variable_key>daimyo_honour_effect_heroic_victory</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The amount of daimyo honour granted for looting a city.</description>
+<value>-1</value>
+<variable_key>daimyo_honour_effect_looting_city</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The amount of daimyo honour granted for following through on a rejected diplomatic threat.</description>
+<value>-1</value>
+<variable_key>daimyo_honour_effect_threatening_with_empty_words</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The threshold round number for villages to start appearing</description>
+<value>10</value>
+<variable_key>display_ambient_village_level_0_round_threshold</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The threshold round number for level 1 villages</description>
+<value>35</value>
+<variable_key>display_ambient_village_level_1_round_threshold</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The threshold round number for level 2 villages</description>
+<value>90</value>
+<variable_key>display_ambient_village_level_2_round_threshold</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The threshold round number for level 3 villages</description>
+<value>140</value>
+<variable_key>display_ambient_village_level_3_round_threshold</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The chance of a village to change model, per round, after a new threshold has been reached</description>
+<value>0.3</value>
+<variable_key>display_ambient_village_update_chance</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The inital angle of bombardment cannons  (campaign map display)</description>
+<value>0.4</value>
+<variable_key>display_bombard_angle_offset</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The maximum time between bombard cannons firing  (campaign map display)</description>
+<value>1500</value>
+<variable_key>display_bombard_cannon_fire_offset</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The height above terrain that a bombard impact will hit a character  (campaign map display)</description>
+<value>0.4</value>
+<variable_key>display_bombard_character_impact_height</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The height above terrain that a bombard impact will hit a garrison  (campaign map display)</description>
+<value>0.2</value>
+<variable_key>display_bombard_garrison_impact_height</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Bombardment cannonball speed  (campaign map display)</description>
+<value>5</value>
+<variable_key>display_bombard_projectile_speed</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The distance between cannonballs on bombard impact   (campaign map display)</description>
+<value>0.1</value>
+<variable_key>display_bombard_target_offset</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Chance for a coastal defence cannon to cause an impact effect on the target ship (campaign map display)</description>
+<value>0.15</value>
+<variable_key>display_coastal_def_cannon_chance_to_hit</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Chance for a coastal defence cannon to cause a splash around the target ship (campaign map display)</description>
+<value>0.3</value>
+<variable_key>display_coastal_def_cannon_chance_to_splash</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The time it takes for coastal defence cannons to reload (campaign map display)</description>
+<value>5</value>
+<variable_key>display_coastal_def_cannon_reload_time</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The maximum time in seconds between coastal defence building becoming active (campaign map display)</description>
+<value>2</value>
+<variable_key>display_coastal_def_max_building_fire_offset</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The maximum time in seconds a cannon can fire after it's defence building has become active (campaign map display)</description>
+<value>3</value>
+<variable_key>display_coastal_def_max_cannon_fire_offset</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The time in seconds between a cannon firing and a splash effect firing (campaign map display)</description>
+<value>0.3</value>
+<variable_key>display_coastal_def_splash_delay_after_cannon</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Maximum distance from the centre of the target ship that a splash effect can fire (campaign map display)</description>
+<value>1.5</value>
+<variable_key>display_coastal_def_splash_max_distance_from_ship</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Minimum distance from the centre of the target ship that a splash effect can fire (campaign map display)</description>
+<value>0.8</value>
+<variable_key>display_coastal_def_splash_min_distance_from_ship</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The number of milliseconds to fade trade routes over.</description>
+<value>5000</value>
+<variable_key>display_trade_route_fade_time</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The scale of trade carts/ships for a trade route of maximum flow.</description>
+<value>0.65</value>
+<variable_key>display_trade_route_maximum_flow_scale</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The time in milliseconds between trade carts/ships for a trade route of maximum flow.</description>
+<value>10000</value>
+<variable_key>display_trade_route_maximum_flow_time</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The upper value limit for trade route display.  Trade routes with values greater than this are displayed as if they had this value.</description>
+<value>10000</value>
+<variable_key>display_trade_route_maximum_flow_value</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The scale of trade carts/ships for a trade route of minimum flow.</description>
+<value>0.65</value>
+<variable_key>display_trade_route_minimum_flow_scale</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The time in milliseconds between trade carts/ships for a trade route of minimum flow.</description>
+<value>25000</value>
+<variable_key>display_trade_route_minimum_flow_time</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The lower value limit for trade route display.  Trade routes with values less than this are displayed as if they had this value.</description>
+<value>50</value>
+<variable_key>display_trade_route_minimum_flow_value</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The relative time taken for a trade ship to travel the same distance as a trade cart.</description>
+<value>0.5</value>
+<variable_key>display_trade_route_sea_cost</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The distance offset of the trader to the left of the route in units.</description>
+<value>0.1</value>
+<variable_key>display_trade_route_trader_offset</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The speed of trade carts in units/second.</description>
+<value>0.5</value>
+<variable_key>display_trade_route_trader_speed</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Background gdp value.</description>
+<value>1200</value>
+<variable_key>faction_gdp_other</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Background gdp value for minor nations.</description>
+<value>800</value>
+<variable_key>faction_gdp_other_minor</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Integer only. This maps the faction leaders management attribute to a value ( such as +1 / -1 etc... ). This is applied to the ministers management level for working out the minister effects.</description>
+<value>0</value>
+<variable_key>faction_leader_management_level_0_to_value</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Integer only. This maps the faction leaders management attribute to a value ( such as +1 / -1 etc... ). This is applied to the ministers management level for working out the minister effects.</description>
+<value>0</value>
+<variable_key>faction_leader_management_level_1_to_value</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Integer only. This maps the faction leaders management attribute to a value ( such as +1 / -1 etc... ). This is applied to the ministers management level for working out the minister effects.</description>
+<value>0</value>
+<variable_key>faction_leader_management_level_2_to_value</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Integer only. This maps the faction leaders management attribute to a value ( such as +1 / -1 etc... ). This is applied to the ministers management level for working out the minister effects.</description>
+<value>0</value>
+<variable_key>faction_leader_management_level_3_to_value</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Integer only. This maps the faction leaders management attribute to a value ( such as +1 / -1 etc... ). This is applied to the ministers management level for working out the minister effects.</description>
+<value>0</value>
+<variable_key>faction_leader_management_level_4_to_value</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Integer only. This maps the faction leaders management attribute to a value ( such as +1 / -1 etc... ). This is applied to the ministers management level for working out the minister effects.</description>
+<value>0</value>
+<variable_key>faction_leader_management_level_5_to_value</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Integer only. This maps the faction leaders management attribute to a value ( such as +1 / -1 etc... ). This is applied to the ministers management level for working out the minister effects.</description>
+<value>0</value>
+<variable_key>faction_leader_management_level_6_to_value</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Integer only. This maps the faction leaders management attribute to a value ( such as +1 / -1 etc... ). This is applied to the ministers management level for working out the minister effects.</description>
+<value>0</value>
+<variable_key>faction_leader_management_level_7_to_value</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Integer only. This maps the faction leaders management attribute to a value ( such as +1 / -1 etc... ). This is applied to the ministers management level for working out the minister effects.</description>
+<value>0</value>
+<variable_key>faction_leader_management_level_8_to_value</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Integer only. This maps the faction leaders management attribute to a value ( such as +1 / -1 etc... ). This is applied to the ministers management level for working out the minister effects.</description>
+<value>0</value>
+<variable_key>faction_leader_management_level_9_to_value</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>This is multiplied to the value for the faction_leader_management_level for an absolute monarchy government type.</description>
+<value>1</value>
+<variable_key>faction_leader_management_value_mod_abs_monarchy</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>This is multiplied to the value for the faction_leader_management_level for a constitutional monarchy government type.</description>
+<value>0.66</value>
+<variable_key>faction_leader_management_value_mod_cons_monarchy</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>This is multiplied to the value for the faction_leader_management_level for a republic government type.</description>
+<value>0.33</value>
+<variable_key>faction_leader_management_value_mod_republic</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The age at which family members can first be considered adults.</description>
+<value>14</value>
+<variable_key>family_age_of_adulthood</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The age at which family members will definitely be considered adults.</description>
+<value>22</value>
+<variable_key>family_age_of_guaranteed_adulthood</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The base chance of family members having a child.</description>
+<value>10</value>
+<variable_key>family_base_child_chance</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The base percentage chance of a male child being offered a wife from one of the clans retainer families.</description>
+<value>5</value>
+<variable_key>family_base_wife_chance</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The chance each turn that a child of appropriate age will be considered adult.</description>
+<value>8</value>
+<variable_key>family_chance_of_adulthood</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The maximum age of a daimyo created on faction emergence.</description>
+<value>40</value>
+<variable_key>family_emergent_daimyo_maximum_age</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The minimum age of a daimyo created on faction emergence.</description>
+<value>30</value>
+<variable_key>family_emergent_daimyo_minimum_age</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The maximum age of a daimyo's wife created on faction emergence.</description>
+<value>40</value>
+<variable_key>family_emergent_wife_maximum_age</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The age at which the fathers chance of having children starts to decrease.</description>
+<value>30</value>
+<variable_key>family_husband_decreasing_child_chance_age</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The percentage chance of any child being male.</description>
+<value>65</value>
+<variable_key>family_male_child_chance</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The maximum decrease in chance of family members having a child due to the husbands age.</description>
+<value>8</value>
+<variable_key>family_maximum_child_chance_decrease_due_to_age</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The maximum number of children per family unit.</description>
+<value>5</value>
+<variable_key>family_maximum_number_of_children</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The minimum age for a family member to become a hostage.</description>
+<value>5</value>
+<variable_key>family_minimum_hostage_age</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The maximum age for a retainer daimyo on creation.</description>
+<value>35</value>
+<variable_key>family_retainer_daimyo_maximum_age</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The minimum age for a retainer daimyos on creation.</description>
+<value>25</value>
+<variable_key>family_retainer_daimyo_minimum_age</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The maximum_age for wifes offered to male children from one of the clans retainer families.</description>
+<value>25</value>
+<variable_key>family_retainer_wife_maximum_age</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The number of rounds between a character dieing and their surviving spouse being eligable to remarry.</description>
+<value>16</value>
+<variable_key>family_rounds_between_bereavement_and_remarriage</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The number of rounds that must pass after a child is born before the parents may have another child.</description>
+<value>4</value>
+<variable_key>family_rounds_between_children</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The number of rounds that must pass after family members marry before they can have a child.</description>
+<value>4</value>
+<variable_key>family_rounds_between_marriage_and_first_child</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The number of rounds that must pass after a male child refuses an offer of a wife from one of the clans retainer families before he may be offered another one.</description>
+<value>8</value>
+<variable_key>family_rounds_between_wife_offers</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The number of turns at start of game before any non-adult family member can be considered adult.</description>
+<value>4</value>
+<variable_key>family_turns_before_any_chance_of_adulthood</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The age at which women cease to have children.</description>
+<value>50</value>
+<variable_key>family_wife_barren_age</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The number of years between each increase of the chance of a male child being offered a wife from one of the clans retainer families.</description>
+<value>8</value>
+<variable_key>family_wife_chance_increase_period</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The percentage by which the chance of a male child being offered a wife from one of the clans retainer families increases over time.</description>
+<value>3</value>
+<variable_key>family_wife_chance_increase_value</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The global food surplus multiplied by this value is applied as a town wealth growth factor to all regions.</description>
+<value>1</value>
+<variable_key>food_surplus_town_wealth_multiplier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Base chance per round that an eligible faction will be selected for aggression increase. Base Chance + (Rounds Played * Per Round Chance)</description>
+<value>10</value>
+<variable_key>gempei_cai_aggr_ramp_chance_base</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Additional per round chance that an eligible faction will be selected for aggression increase. Base Chance + (Rounds Played * Per Round Chance)</description>
+<value>0</value>
+<variable_key>gempei_cai_aggr_ramp_chance_per_round</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Whether the aggression ramp is enable. 0=no, 1=yes</description>
+<value>0</value>
+<variable_key>gempei_cai_aggr_ramp_enabled</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Player fame level at which the ramp ends and the maximum level of aggression will be applied.</description>
+<value>100</value>
+<variable_key>gempei_cai_aggr_ramp_fame_max</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Player fame level beyond which the aggression ramp will start to apply</description>
+<value>20</value>
+<variable_key>gempei_cai_aggr_ramp_fame_min</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The ending level for the aggression ramp to use. 1-6. Should be equal to or greater than the minimum level selected. 1=LOW, 2=LOW_TO_MEDIUM, 3=MEDIUM, 4=MEDIUM_TO_HIGH, 5=HIGH, 6=VERY HIGH.</description>
+<value>5</value>
+<variable_key>gempei_cai_aggr_ramp_level_max</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The starting level for the aggression ramp to use. 1-6. 1=LOW, 2=LOW_TO_MEDIUM, 3=MEDIUM, 4=MEDIUM_TO_HIGH, 5=HIGH, 6=VERY HIGH.</description>
+<value>1</value>
+<variable_key>gempei_cai_aggr_ramp_level_min</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Round at which the ramp should finish (and max level be used for aggression increases)</description>
+<value>100</value>
+<variable_key>gempei_cai_aggr_ramp_rounds_max</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Round beyond which the aggression ramp will start (beginning with the minimum aggression level)</description>
+<value>20</value>
+<variable_key>gempei_cai_aggr_ramp_rounds_min</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) In Gempei targetting and diplomatic adjustments the number of regions a minor faction must own before being considered major.</description>
+<value>15</value>
+<variable_key>gempei_cai_consider_major_over_regions</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) In Gempei diplomatic adjustments the adjustment applied against the desire of a major clan to aid a minor clan ally when being attacked or attacking</description>
+<value>0.75</value>
+<variable_key>gempei_cai_fnca_aid_minor_ally_padj</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) In Gempei diplomatic adjustments the adjustment applied against the desire of a major clan allying with a minor clan</description>
+<value>0.75</value>
+<variable_key>gempei_cai_fnca_ally_minor_padj</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) In Gempei diplomatic adjustments the weighing multiplier applied for a major clan joining a war against a minor clan at the request of a minor clan</description>
+<value>0.4</value>
+<variable_key>gempei_cai_fnca_join_minor_ally_wadj</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The number of prestige points granted per region you own. (Domination easy difficulty gempei campaign)</description>
+<value>3</value>
+<variable_key>gempei_prestige_region_value_domination_easy</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The number of prestige points granted per region you own. (Domination hard/very hard/legendary difficulty gempei campaign)</description>
+<value>5</value>
+<variable_key>gempei_prestige_region_value_domination_hard</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The number of prestige points granted per region you own. (Domination normal difficulty gempei campaign)</description>
+<value>4</value>
+<variable_key>gempei_prestige_region_value_domination_normal</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The number of prestige points granted per region you own. (Long or MP easy difficulty gempei campaign)</description>
+<value>4</value>
+<variable_key>gempei_prestige_region_value_easy</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The number of prestige points granted per region you own. (Long or MP hard difficulty gempei campaign)</description>
+<value>6</value>
+<variable_key>gempei_prestige_region_value_hard</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The number of prestige points granted per region you own. (Long or MP normal difficulty gempei campaign)</description>
+<value>5</value>
+<variable_key>gempei_prestige_region_value_normal</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The number of prestige points granted per region you own. (Short easy difficulty gempei campaign)</description>
+<value>5</value>
+<variable_key>gempei_prestige_region_value_short_easy</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The number of prestige points granted per region you own. (Short hard/very hard/legendary difficulty gempei campaign)</description>
+<value>7</value>
+<variable_key>gempei_prestige_region_value_short_hard</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The number of prestige points granted per region you own. (Short normal difficulty gempei campaign)</description>
+<value>6</value>
+<variable_key>gempei_prestige_region_value_short_normal</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The base general/admiral action point bonus</description>
+<value>0.1</value>
+<variable_key>general_admiral_action_point_bonus</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Cost of a promoted general</description>
+<value>1000</value>
+<variable_key>general_promotion_cost</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Gentleman happiness effect in settlement is derived from attribute_level divided by this value (rounded up)</description>
+<value>3</value>
+<variable_key>gentleman_happiness_divisor</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME)  Total negative effect from all non-allied gentlemen in a settlement is clamped to this.</description>
+<value>-8</value>
+<variable_key>gentleman_happiness_negative_limit</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME)  Total positive effect from all allied gentlemen in a settlement is clamped to this.</description>
+<value>6</value>
+<variable_key>gentleman_happiness_positive_limit</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>?</description>
+<value>-1</value>
+<variable_key>happiness_revolution_culture</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Happiness effect of revolution in a neighbouring faction (per faction).</description>
+<value>-2</value>
+<variable_key>happiness_revolution_neighbour</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Happiness effect of revolution of any faction in the same culture (per faction).</description>
+<value>1</value>
+<variable_key>happiness_war_drift</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Upper (positive) happiness cap for war-related effects.</description>
+<value>-15</value>
+<variable_key>happiness_war_lower_cap</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Lower (negative) unhappiness cap for war-related effects.</description>
+<value>-1</value>
+<variable_key>happiness_war_major_defeat</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Per-turn drift towards 0 of war-related happiness effects.</description>
+<value>1</value>
+<variable_key>happiness_war_major_victory</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Happiness effect of a major defeat.</description>
+<value>4</value>
+<variable_key>happiness_war_region_conquered</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Happiness effect of a major victory.</description>
+<value>-4</value>
+<variable_key>happiness_war_region_lost</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Happiness effect of taking a region from the enemy.</description>
+<value>6</value>
+<variable_key>happiness_war_upper_cap</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The number of turns a hostage is held for.</description>
+<value>8</value>
+<variable_key>hostage_turns</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Additional cost for inciting revolt for Ikko Ikki monks</description>
+<value>700</value>
+<variable_key>ikko_ikki_incite_revolt_cost</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) As percentage of population</description>
+<value>5</value>
+<variable_key>immigration_capacity</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The minimum pct of the losing units max soldiers a unit can have before it is destroyed</description>
+<value>0.2</value>
+<variable_key>losing_unit_minimum_strength</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Chance of defection for a general with a loyalty of 1</description>
+<value>25</value>
+<variable_key>loyalty_1_chance_of_defection</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Chance of defection for a general with a loyalty of 2</description>
+<value>5</value>
+<variable_key>loyalty_2_chance_of_defection</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The amount by which a generals loyalty increases when he is married to a family member.</description>
+<value>1</value>
+<variable_key>loyalty_adjustment_general_married_daughter</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The amount by which the loyalty of a general increases when they lose an office shortly after being granted it.</description>
+<value>-2</value>
+<variable_key>loyalty_adjustment_lost_office_after_gaining_it</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The amount by which the loyalty of a general without an office increases when a lower level general is granted an office.</description>
+<value>-1</value>
+<variable_key>loyalty_adjustment_lower_level_granted_office</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The amount by which a family members loyalty increases when they become the heir.</description>
+<value>2</value>
+<variable_key>loyalty_adjustment_son_became_heir</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The amount by which a family members loyalty increases when they are replaced as the heir.</description>
+<value>-3</value>
+<variable_key>loyalty_adjustment_son_replaced_as_heir</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Maximum percentage of a unit that is lost to attrition every turn</description>
+<value>0.15</value>
+<variable_key>maximum_attrition_pct</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Maximum distance at which targets can be bombarded.</description>
+<value>11</value>
+<variable_key>maximum_bombardment_radius</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The maximum possible amount of daimyo honour.</description>
+<value>6</value>
+<variable_key>maximum_daimyo_honour</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The maximum possible amount of general loyalty.</description>
+<value>6</value>
+<variable_key>maximum_loyalty</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Maximum port bombardment radius</description>
+<value>12</value>
+<variable_key>maximum_port_bombardment_radius</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Levels of town wealth that exist in the game data.</description>
+<value>5</value>
+<variable_key>maximum_town_wealth_level</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>0.0005 (IN GAME) Means X% of the minority will emigate</description>
+<value>0.001</value>
+<variable_key>migration_religion</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>0.012 (IN GAME) Percentage of net unhappiness contributing to unhappiness related migration. NUP% * X% * pop = emigration.</description>
+<value>0.01</value>
+<variable_key>migration_unhappiness</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The minimum possible amount of daimyo honour.</description>
+<value>1</value>
+<variable_key>minimum_daimyo_honour</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The minimum possible amount of general loyalty.</description>
+<value>1</value>
+<variable_key>minimum_loyalty</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Minimum popluation for a region.</description>
+<value>1000</value>
+<variable_key>minimum_population</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Mimimum population that must be left after recruitment;  so population must be at least this PLUS the recruitment population cost to enable recruitment.</description>
+<value>0</value>
+<variable_key>minimum_population_after_recruitment</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Modification to critical failure chance</description>
+<value>30</value>
+<variable_key>mission_result_critical_failure_modifier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Modification to critical success chance</description>
+<value>200</value>
+<variable_key>mission_result_critical_success_modifier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The multiplier applied to the multiplayer cost of a unit when given an armour upgrade in multiplayer.</description>
+<value>1.1</value>
+<variable_key>mp_armour_cost_multiplier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The fixed cost added to a unit when given an armour upgrade in multiplayer.</description>
+<value>100</value>
+<variable_key>mp_armour_fixed_cost</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The multiplier applied to the multiplayer cost of a unit when given a weapon upgrade in multiplayer.</description>
+<value>1.1</value>
+<variable_key>mp_weapon_cost_multiplier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The fixed cost added to a unit when given a weapon upgrade in multiplayer.</description>
+<value>100</value>
+<variable_key>mp_weapon_fixed_cost</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Maximum crew damage recieved through naval attrition</description>
+<value>0.25</value>
+<variable_key>naval_attrition_crew_max_damage</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Minimum crew damage recieved through naval attrition</description>
+<value>0.1</value>
+<variable_key>naval_attrition_crew_min_damage</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Crew damage threshold, below at which ships are counted as sunk</description>
+<value>0.1</value>
+<variable_key>naval_attrition_crew_min_pct</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Maximum hull damage recieved through naval attrition</description>
+<value>0.35</value>
+<variable_key>naval_attrition_hull_max_damage</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Minimum hull damage recieved through naval attrition</description>
+<value>0.1</value>
+<variable_key>naval_attrition_hull_min_damage</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Hull damage threshold, above which ships are counted as sunk</description>
+<value>0.9</value>
+<variable_key>naval_attrition_hull_min_pct</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Pct per agent level action point bonus granted to armies</description>
+<value>0.04</value>
+<variable_key>ninja_action_point_bonus</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The initial honour for a non-general daimyo.</description>
+<value>3</value>
+<variable_key>non_general_daimyo_starting_honour</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Passive spying calculation region bonus</description>
+<value>2</value>
+<variable_key>passive_spying_region_bonus</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Maximum effect of happiness due to automated policing.</description>
+<value>4</value>
+<variable_key>policing_automated_cap</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Policing_pips (sum of both classes) * sqrt(population) * policing_automated_cost_per_pop</description>
+<value>0.03</value>
+<variable_key>policing_automated_cost_per_pop</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Cap on happiness from garrisoned units.</description>
+<value>15</value>
+<variable_key>policing_garrison_cap</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The percentage of population growth required to spawn a new town, relative to the population of the last spawning.</description>
+<value>25</value>
+<variable_key>pop_growth_for_spawn</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The number of prestige points granted for losing a famous battle.</description>
+<value>-3</value>
+<variable_key>prestige_famous_battle_defeat_value</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The number of prestige points granted for winning a famous battle.</description>
+<value>3</value>
+<variable_key>prestige_famous_battle_victory_value</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The number of prestige points required for the emperor to acknowledge you.</description>
+<value>25</value>
+<variable_key>prestige_level_emperor_acknowledgement</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The number of prestige points required for your faction to be known throughout japan.</description>
+<value>50</value>
+<variable_key>prestige_level_public_knowledge</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The number of prestige points required to trigger realm divide.</description>
+<value>100</value>
+<variable_key>prestige_level_realm_divide</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The number of prestige points required for you to be considered a threat to the shogunate.</description>
+<value>75</value>
+<variable_key>prestige_level_shogun_threat</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The maximum number of prestige points that can be gained from daimyo honour.</description>
+<value>10</value>
+<variable_key>prestige_limit_daimyo_honour</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The maximum number of prestige points that can be gained from famous battles.</description>
+<value>10</value>
+<variable_key>prestige_limit_famous_battles</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The maximum number of prestige points that can be gained from infrastructure.</description>
+<value>10</value>
+<variable_key>prestige_limit_infrastructure</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The number of prestige points granted per region your protectorates own.</description>
+<value>4</value>
+<variable_key>prestige_protectorate_region_value</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The number of prestige points granted per region you own. (Long campaign)</description>
+<value>5</value>
+<variable_key>prestige_region_value</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The number of prestige points granted per region you own. (Domination campaign)</description>
+<value>4</value>
+<variable_key>prestige_region_value_domination</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The number of prestige points granted per region you own. (Short campaign)</description>
+<value>6</value>
+<variable_key>prestige_region_value_short</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME)  The number of carriages per train for Boshin railways</description>
+<value>3</value>
+<variable_key>railway_num_carriages</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME)  The height of telegraph poles for Boshin railways</description>
+<value>1</value>
+<variable_key>railway_telegraph_pole_height</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME)  The distance between telegraph poles for Boshin railways</description>
+<value>3.5</value>
+<variable_key>railway_telegraph_pole_offset</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME)  The acceleration of the train for Boshin railways</description>
+<value>0.1</value>
+<variable_key>railway_train_acceleration</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME)  The deceleration of the train for Boshin railways. Must be negative.</description>
+<value>-0.4</value>
+<variable_key>railway_train_deceleration</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME)  The height of the train for Boshin railways</description>
+<value>0.95</value>
+<variable_key>railway_train_height</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME)  The maximum speed of the train for Boshin railways</description>
+<value>2</value>
+<variable_key>railway_train_max_speed</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME)  The length of time a train will be stationary in it's destination station</description>
+<value>1.5</value>
+<variable_key>railway_train_time_stopped_in_station</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Number by which population is reduced for recruitment of a single unit</description>
+<value>0</value>
+<variable_key>recruitment_population_cost</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The maximum distance from the edge of a zone of control a piece can be to reinforce.  Clamped between 0.1 and 4.0</description>
+<value>1</value>
+<variable_key>reinforcement_radius</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The action point cost to travel 1 unit distance on level zero (unupgraded) roads.</description>
+<value>0.85</value>
+<variable_key>road_level_0_action_point_cost</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The action point cost to travel 1 unit distance on level one roads.</description>
+<value>0.7</value>
+<variable_key>road_level_1_action_point_cost</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The action point cost to travel 1 unit distance on level two roads.</description>
+<value>0.5</value>
+<variable_key>road_level_2_action_point_cost</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The action point cost to travel 1 unit distance on level three roads.</description>
+<value>0.4</value>
+<variable_key>road_level_3_action_point_cost</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The number of rounds you must hold kyoto for before being declared shogun.</description>
+<value>4</value>
+<variable_key>rounds_between_taking_kyoto_and_becoming_shogun</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The number of rounds between a general being granted an office and it being taken away without it affecting his loyalty.</description>
+<value>4</value>
+<variable_key>rounds_to_hold_office_before_loss_hits_loyalty</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Base amount loot the looting force get when looting a settlement</description>
+<value>0</value>
+<variable_key>settlement_looting_base_loot</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The pct of region town wealth given to a player when looting a settlement (0.0 - 1.0). Player also gets 0.15 of this % of GDP</description>
+<value>0.15</value>
+<variable_key>settlement_looting_pct_region_gdp</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Percentage of region town wealth wiped out after looting. 0.0-1.0. (e.g. 0.7 means region town wealth reduced by 70%.)</description>
+<value>0.8</value>
+<variable_key>settlement_looting_pct_region_gdp_reduction</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Public order penalty when a settlement is looted.</description>
+<value>7</value>
+<variable_key>settlement_looting_publicorder_reduction</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(UNUSED). Number of turns the GDP reduction effect lasts for after looting a region</description>
+<value>15</value>
+<variable_key>settlement_looting_region_gdp_reduction_turns</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME). Public order penalty when a settlement is looted after it has surrendered.</description>
+<value>14</value>
+<variable_key>settlement_looting_surrender_publicorder_reduction</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) State gift diplomatic effect = (gift_value * state_gift_multiplier_linear) + (gift_value * gift_value * state_gift_multiplier_quadratic / root(combined_gdp))</description>
+<value>0.03</value>
+<variable_key>state_gift_multiplier_linear</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) State gift diplomatic effect = (gift_value * state_gift_multiplier_linear) + (gift_value * gift_value * state_gift_multiplier_quadratic / root(combined_gdp))</description>
+<value>2e-05</value>
+<variable_key>state_gift_multiplier_quadratic</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>Bonus for state religion conversion</description>
+<value>0.5</value>
+<variable_key>state_religion_conversion_bonus</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The logarithm base for the formula used for calculating loss of tax income from having too many regions.</description>
+<value>888</value>
+<variable_key>tax_efficiency_log_base</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) A multiplier on the loss of tax income from having too many regions.</description>
+<value>-12</value>
+<variable_key>tax_efficiency_modifier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(DEPRECATED) The percentage reduction in tax for each region in a governorship beyond the tax_efficiency_regions_minimum.</description>
+<value>-1.8</value>
+<variable_key>tax_efficiency_region_modifier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The minimum number of regions before tax efficiency penalties apply.</description>
+<value>0.8</value>
+<variable_key>tax_efficiency_regions_minimum</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The maximum number of regions for tax efficiency purposes.</description>
+<value>10</value>
+<variable_key>tax_efficiency_total_regions</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME). Integer only. The multipler applied to a technology's prestige if the discovering in faction is the first faction in its culture to discover that technology</description>
+<value>1</value>
+<variable_key>tech_first_in_culture_prestige_multiplier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The maximum diplomatic comparison multiplier addition for deals involving threats.</description>
+<value>0.15</value>
+<variable_key>threat_effect_maximum</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The minimum diplomatic comparison multiplier addition for deals involving threats.</description>
+<value>0.05</value>
+<variable_key>threat_effect_minimum</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The diplomatic comparison multiplier for deals not involving threats.</description>
+<value>1.05</value>
+<variable_key>threat_effect_no_threat_multiplier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The maximum threat reputation.</description>
+<value>1</value>
+<variable_key>threat_reputation_maximum</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The minimum threat reputation.</description>
+<value>0.25</value>
+<variable_key>threat_reputation_minimum</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The amount by which the threat reputation is reduced every time an empty threat is made.</description>
+<value>0.25</value>
+<variable_key>threat_reputation_reduction</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Number of rounds you have to declare war after a rejected diplomatic threat before everyone considers your threat empty.</description>
+<value>4</value>
+<variable_key>threat_reputation_rounds_before_required_war</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The amount the average ally fame contributes to a coalition fame score.</description>
+<value>0.5</value>
+<variable_key>threaten_modifier_ally_fame_multiplier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The base value for the threaten modifier.</description>
+<value>40</value>
+<variable_key>threaten_modifier_base</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The base fame value for the threaten modifier.</description>
+<value>70</value>
+<variable_key>threaten_modifier_fame_contribution_base</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The maximum threaten modifier.</description>
+<value>200</value>
+<variable_key>threaten_modifier_maximum</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The minimum threaten modifier.</description>
+<value>20</value>
+<variable_key>threaten_modifier_minimum</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME). The amount town wealth is reduced when strikes, riots, ultimatums, letters of demand or rebellions are active in a region.</description>
+<value>25</value>
+<variable_key>town_wealth_growth_discontent_reduction</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The maximum proportion of a trade route which may be commerce raided, in thousandths.</description>
+<value>700</value>
+<variable_key>trade_commerce_raiding_maximum_raiding_permille</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The proportion of this ships commerce raid value that the next commerce raiding ship downstream on this route will achieve.</description>
+<value>0.9</value>
+<variable_key>trade_commerce_raiding_reduction_per_ship</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The constant factor by which a factions gdp is multiplied to produce the faction trade resource consumption.</description>
+<value>0.0005</value>
+<variable_key>trade_demand_multiplier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The strategic value in trade for luxury resources or any resource which is already available to a faction.</description>
+<value>400</value>
+<variable_key>trade_luxury_resource_strategic_value</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The minimum absolute difference between the current and target prices of a trade resource for the price change to be considered large.</description>
+<value>10</value>
+<variable_key>trade_price_large_change_threshold</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The minimum absolute difference between the current and target prices of a trade resource for the price change to be considered small.</description>
+<value>5</value>
+<variable_key>trade_price_small_change_threshold</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The proportion of trade resource value each resource not traded on to other factions contributes to total income</description>
+<value>33</value>
+<variable_key>trade_resource_region_gdp_contribution</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Length limit on an international trade route.</description>
+<value>99999999</value>
+<variable_key>trade_route_internat_sea_length_limit</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) How much land routes are preferred over sea routes (0.5 = sea routes twice as preferred).</description>
+<value>0.75</value>
+<variable_key>trade_route_land_sea_bias</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The proportion of the trade route value that gets accumulated each turn, &quot;time factor&quot;.</description>
+<value>0.005</value>
+<variable_key>trade_route_value_accumulator_proportion</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The proportion of the combined gdps of the two factions which contributes to the value of a trade route.</description>
+<value>1.1</value>
+<variable_key>trade_route_value_combined_gdp_proportion</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(UNUSED) Volume of resources a trade ship can export. </description>
+<value>10</value>
+<variable_key>trade_ship_resource_volume</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The proportion of the value of a state gift obtained for a unilateral diplomatic gift of equivalent raw value.</description>
+<value>0.5</value>
+<variable_key>unilateral_diplomatic_gift_state_gift_proportion</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Integer only. The multipler applied to a unit's prestige if the recruiting in faction is the first faction in its culture to recruit a unit of that unit's class</description>
+<value>1</value>
+<variable_key>unit_first_in_culture_prestige_multiplier</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) The minimum pct of the units max soldiers a unit can have before it is destroyed</description>
+<value>0.05</value>
+<variable_key>unit_minimum_strength</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Threshold for 'superior' stat bonus</description>
+<value>14</value>
+<variable_key>unit_stat_accuracy_bonus_threshold_level_1</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Threshold for 'exceptional' stat bonus</description>
+<value>24</value>
+<variable_key>unit_stat_accuracy_bonus_threshold_level_2</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Threshold for 'superior' stat bonus</description>
+<value>1</value>
+<variable_key>unit_stat_armour_bonus_threshold_level_1</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Threshold for 'exceptional' stat bonus</description>
+<value>3</value>
+<variable_key>unit_stat_armour_bonus_threshold_level_2</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Threshold for 'superior' stat bonus</description>
+<value>3</value>
+<variable_key>unit_stat_charge_bonus_threshold_level_1</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Threshold for 'exceptional' stat bonus</description>
+<value>6</value>
+<variable_key>unit_stat_charge_bonus_threshold_level_2</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Threshold for 'superior' stat bonus</description>
+<value>3</value>
+<variable_key>unit_stat_melee_bonus_threshold_level_1</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Threshold for 'exceptional' stat bonus</description>
+<value>5</value>
+<variable_key>unit_stat_melee_bonus_threshold_level_2</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Threshold for 'superior' stat bonus</description>
+<value>3</value>
+<variable_key>unit_stat_morale_bonus_threshold_level_1</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Threshold for 'exceptional' stat bonus</description>
+<value>4</value>
+<variable_key>unit_stat_morale_bonus_threshold_level_2</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Additional radius of the zone of control for pieces garrisoned in settlements or forts.  Clamped between 0.0 and 4.0</description>
+<value>0.5</value>
+<variable_key>zone_of_control_garrison_bonus</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Radius of the zone of control for land pieces.  Clamped between 0.1 and 8.0</description>
+<value>3</value>
+<variable_key>zone_of_control_land_radius</variable_key>
+</campaign_variables>
+<campaign_variables>
+<description>(IN GAME) Radius of the zone of control for naval pieces.  Clamped between 0.1 and 15.0</description>
+<value>6</value>
+<variable_key>zone_of_control_naval_radius</variable_key>
+</campaign_variables>
+</dataroot>

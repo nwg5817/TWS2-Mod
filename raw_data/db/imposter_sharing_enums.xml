@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Fri 7. Jan 12:32:47 2011" revision="3" export_branch="C:/TW/branches/shogun2/release/shogun2/src" export_user="Charlie.Dell">
+<edit_uuid>1efd56bf-0aba-438c-9f7c-e6ce57a5ffa1</edit_uuid><imposter_sharing_enums>
+<key>ashigaru</key>
+</imposter_sharing_enums>
+<imposter_sharing_enums>
+<key>naval_european</key>
+</imposter_sharing_enums>
+<imposter_sharing_enums>
+<key>naval_japanese</key>
+</imposter_sharing_enums>
+<imposter_sharing_enums>
+<key>naval_japanese_wako</key>
+</imposter_sharing_enums>
+<imposter_sharing_enums>
+<key>ninja</key>
+</imposter_sharing_enums>
+<imposter_sharing_enums>
+<key>samurai</key>
+</imposter_sharing_enums>
+<imposter_sharing_enums>
+<key>samurai_general</key>
+</imposter_sharing_enums>
+<imposter_sharing_enums>
+<key>samurai_nodachi</key>
+</imposter_sharing_enums>
+<imposter_sharing_enums>
+<key>wako</key>
+</imposter_sharing_enums>
+<imposter_sharing_enums>
+<key>warrior_monk</key>
+</imposter_sharing_enums>
+</dataroot>

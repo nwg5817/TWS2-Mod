@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_cdir_events_mission_statuses>
+<root>
+  <edit_uuid>6A03D5F4-304D-11DF-891C-39EC55D89593</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>status_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+</root>

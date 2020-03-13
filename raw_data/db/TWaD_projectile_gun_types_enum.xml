@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_projectile_gun_types_enum>
+<root>
+  <edit_uuid>72df7c7b-d31d-4a1e-9b50-b37063ecfc7e</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>gun_type</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+  </field>
+</root>

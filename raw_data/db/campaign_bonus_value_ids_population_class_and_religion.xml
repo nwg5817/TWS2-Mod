@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="campaign_bonus_value_ids_population_class_and_religion.xsd" generated="2010-02-15T18:54:39">
+<edit_uuid>62b4f4c0-bb9a-494f-a8eb-dd80ff8e69e6</edit_uuid>
+<campaign_bonus_value_ids_population_class_and_religion>
+<key>happiness</key>
+<s_ColLineage>kNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{598E3813-911B-46F9-9F1E-8BE1C0AE9596}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_bonus_value_ids_population_class_and_religion>
+</dataroot>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Mon 12. Sep 14:27:40 2011" revision="1" export_branch="C:/TW/branches/shogun2/boshin/common/TWeak/Framework" export_user="Jon.Raftery">
+<edit_uuid>fbe345b9-26d3-4214-9487-65acee4a1415</edit_uuid><battlefield_building_audio_materials>
+<audio_material>body</audio_material>
+</battlefield_building_audio_materials>
+<battlefield_building_audio_materials>
+<audio_material>brick</audio_material>
+</battlefield_building_audio_materials>
+<battlefield_building_audio_materials>
+<audio_material>glass</audio_material>
+</battlefield_building_audio_materials>
+<battlefield_building_audio_materials>
+<audio_material>metal</audio_material>
+</battlefield_building_audio_materials>
+<battlefield_building_audio_materials>
+<audio_material>smash_wood</audio_material>
+</battlefield_building_audio_materials>
+<battlefield_building_audio_materials>
+<audio_material>stone</audio_material>
+</battlefield_building_audio_materials>
+<battlefield_building_audio_materials>
+<audio_material>wood</audio_material>
+</battlefield_building_audio_materials>
+</dataroot>

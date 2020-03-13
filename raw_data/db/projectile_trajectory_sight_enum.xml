@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Wed 24. Aug 08:31:40 2011" revision="1" export_branch="T:/branches/shogun2/patch/common/TWeak/Framework" export_user="Luke.Carter">
+<edit_uuid>d505d2a0-3485-4009-b35a-8793378cfde9</edit_uuid><projectile_trajectory_sight_enum>
+<key>fixed</key>
+</projectile_trajectory_sight_enum>
+<projectile_trajectory_sight_enum>
+<key>high</key>
+</projectile_trajectory_sight_enum>
+<projectile_trajectory_sight_enum>
+<key>low</key>
+</projectile_trajectory_sight_enum>
+<projectile_trajectory_sight_enum>
+<key>rocket</key>
+</projectile_trajectory_sight_enum>
+<projectile_trajectory_sight_enum>
+<key>torpedo</key>
+</projectile_trajectory_sight_enum>
+</dataroot>

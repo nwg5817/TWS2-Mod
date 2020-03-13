@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_commodities>
+<root>
+  <edit_uuid>8cda5507-44f2-4c13-8e05-e441ee4bc187</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_column>onscreen_text</column_source_column>
+    <column_source_table>resources</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>baseline_price_per_unit</name>
+    <field_type>double</field_type>
+    <required>1</required>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>price_elasticity_of_demand</name>
+    <field_type>double</field_type>
+    <required>1</required>
+  </field>
+</root>

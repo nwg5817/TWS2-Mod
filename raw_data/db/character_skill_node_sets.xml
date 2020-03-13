@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Wed 24. Aug 17:04:06 2011" revision="11" export_branch="T:/branches/shogun2/patch/common/TWeak/Framework" export_user="Luke.Carter">
+<edit_uuid>7bd2787e-f297-412c-9f70-f8823f576754</edit_uuid><character_skill_node_sets>
+<agent_key>boshin_geisha</agent_key>
+<campaign_key>jap_boshin</campaign_key>
+<enc_title>Geisha Skills (FotS)</enc_title>
+<key>bos_geisha_skills</key>
+</character_skill_node_sets>
+<character_skill_node_sets>
+<agent_key>General</agent_key>
+<campaign_key>jap_boshin</campaign_key>
+<enc_title>General Skills (FotS)</enc_title>
+<key>bos_general_skills</key>
+</character_skill_node_sets>
+<character_skill_node_sets>
+<agent_key>boshin_ishinshishi</agent_key>
+<campaign_key>jap_boshin</campaign_key>
+<enc_title>Ishin-shishi Skills</enc_title>
+<key>bos_ishinshishi_skills</key>
+</character_skill_node_sets>
+<character_skill_node_sets>
+<agent_key>boshin_shinobi</agent_key>
+<campaign_key>jap_boshin</campaign_key>
+<enc_title>Shinobi Skills</enc_title>
+<key>bos_shinobi_skills</key>
+</character_skill_node_sets>
+<character_skill_node_sets>
+<agent_key>boshin_shinsengumi</agent_key>
+<campaign_key>jap_boshin</campaign_key>
+<enc_title>Shinsengumi Skills</enc_title>
+<key>bos_shinsengumi_skills</key>
+</character_skill_node_sets>
+<character_skill_node_sets>
+<agent_key>boshin_veteran</agent_key>
+<campaign_key>jap_boshin</campaign_key>
+<enc_title>Foreign Veteran Skills</enc_title>
+<key>bos_veteran_skills</key>
+</character_skill_node_sets>
+<character_skill_node_sets>
+<agent_key>geisha</agent_key>
+<enc_title>Geisha Skills</enc_title>
+<key>geisha_skills</key>
+</character_skill_node_sets>
+<character_skill_node_sets>
+<agent_key>gempei_dancer</agent_key>
+<campaign_key>jap_gempei</campaign_key>
+<enc_title>Shirabyoshi Skills</enc_title>
+<key>gem_dancer_skills</key>
+</character_skill_node_sets>
+<character_skill_node_sets>
+<agent_key>General</agent_key>
+<campaign_key>jap_gempei</campaign_key>
+<enc_title>Gempei General Skills</enc_title>
+<key>gem_general_skills</key>
+</character_skill_node_sets>
+<character_skill_node_sets>
+<agent_key>gempei_inspector</agent_key>
+<campaign_key>jap_gempei</campaign_key>
+<enc_title>Junsatsushi Skills</enc_title>
+<key>gem_inspector_skills</key>
+</character_skill_node_sets>
+<character_skill_node_sets>
+<agent_key>gempei_monk</agent_key>
+<campaign_key>jap_gempei</campaign_key>
+<enc_title>Sou Skills</enc_title>
+<key>gem_monk_skills</key>
+</character_skill_node_sets>
+<character_skill_node_sets>
+<agent_key>gempei_spy</agent_key>
+<campaign_key>jap_gempei</campaign_key>
+<enc_title>Monomi Skills</enc_title>
+<key>gem_spy_skills</key>
+</character_skill_node_sets>
+<character_skill_node_sets>
+<agent_key>General</agent_key>
+<enc_title>General Skills</enc_title>
+<key>general_skills</key>
+</character_skill_node_sets>
+<character_skill_node_sets>
+<agent_key>General</agent_key>
+<enc_title>Ikko General Skills</enc_title>
+<faction_key>ikko_ikki</faction_key>
+<key>ikko_general_skills</key>
+</character_skill_node_sets>
+<character_skill_node_sets>
+<agent_key>ikko_monk</agent_key>
+<enc_title>Ikko Monk Skills</enc_title>
+<faction_key>ikko_ikki</faction_key>
+<key>ikko_monk_skills</key>
+</character_skill_node_sets>
+<character_skill_node_sets>
+<agent_key>metsuke</agent_key>
+<enc_title>Metsuke Skills</enc_title>
+<key>metsuke_skills</key>
+</character_skill_node_sets>
+<character_skill_node_sets>
+<agent_key>missionary</agent_key>
+<enc_title>Missionary Skills</enc_title>
+<key>missionary_skills</key>
+</character_skill_node_sets>
+<character_skill_node_sets>
+<agent_key>monk</agent_key>
+<enc_title>Monk Skills</enc_title>
+<key>monk_skills</key>
+</character_skill_node_sets>
+<character_skill_node_sets>
+<agent_key>ninja</agent_key>
+<enc_title>Ninja Skills</enc_title>
+<key>ninja_skills</key>
+</character_skill_node_sets>
+</dataroot>

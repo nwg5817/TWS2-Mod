@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_TExc_TableExportCategories>
+<root>
+  <edit_uuid>27916ee4-90f9-4a80-8fca-cd34f291ded6</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>category</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>50</max_length>
+  </field>
+</root>

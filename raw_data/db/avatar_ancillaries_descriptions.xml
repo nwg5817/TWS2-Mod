@@ -1,0 +1,1028 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Fri 9. Mar 15:50:15 2012" revision="79" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="James.Whitston">
+<edit_uuid>de0ef68a-d3bb-447f-bf6e-6ca1039f1e03</edit_uuid><avatar_ancillaries_descriptions>
+<description>\n %-n morale to all enemy ashigaru units. \n \n A man makes his own fate, sometimes.</description>
+<key>mp_anc_bad_omen</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Enemy cavalry: %-n charge bonus. \n \n It's only theft if you are caught.</description>
+<key>mp_anc_bandit_horse_thieves</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n attack to all sword infantry. \n \n The sword must be one with the hand.</description>
+<key>mp_anc_blade_master</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n armour to all monk units. \n \n Armour does not weaken the spirit.</description>
+<key>mp_anc_blessed_kote_armoured_sleeves</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n accuracy to all bow units. \n \n When the heart is pure, the arrow finds a way.</description>
+<key>mp_anc_blind_bow_sensei</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Reduced speed for all enemy bow and matchlock infantry. \n \n The wise man runs with caution when touching cloth.</description>
+<key>mp_anc_camp_sickness</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n morale to all cavalry. \n \n Men, like horses, need a firm hand.</description>
+<key>mp_anc_cavalry_officer</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %-n reload skill for all enemy bow units. \n \n Cold hands make strangers of familiar tasks.</description>
+<key>mp_anc_cold_snap</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>Reduced reload skill for all enemy matchlock units. \n \n Rain, fog and water drive the devils from black powder.</description>
+<key>mp_anc_damp_powder</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n melee defence to all naginata infantry. \n \n Drill is a battle without blood.</description>
+<key>mp_anc_drill_square</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n accuracy for all matchlock units. \n \n The smell is sulphurous, the results: astounding!</description>
+<key>mp_anc_european_gunsmith</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n%% speed for all cavalry. \n \n A stud is always useful.</description>
+<key>mp_anc_european_horse_trader</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n reload skill for all matchlock units. \n \n Guns are useless in the hands of idiots.</description>
+<key>mp_anc_expert_gun_instructor</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n armour to all melee infantry. \n \n Protection is wisdom.</description>
+<key>mp_anc_famous_armoury</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Increased fatigue resistance for all cavalry. \n \n  Peasants cannot hide everything.</description>
+<key>mp_anc_forage_parties</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Your two most damaged veteran units will fully heal before the next battle. \n \n A garden soothes the soul.</description>
+<key>mp_anc_garden_of_convalescence</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Increases enemy avatar cooldowns by %n0%. \n Cancels effects of enemy Metsuke Inspector retainer. \n \n There can be mercy in a dish of tea.</description>
+<key>mp_anc_geisha_poisoner</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Naginata Warrior Monk Hero: %+n morale. \n \n &quot;Here is Benkei! None shall pass!&quot;</description>
+<key>mp_anc_genpei_benkei</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Naginata Attendants: %+n charge bonus,</description>
+<key>mp_anc_genpei_enryakuji_fugitive</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>%+n melee attack. \n \n &quot;Fall upon the enemy with the flames of Enryakuji in your hearts!&quot;</description>
+<key>mp_anc_genpei_enryakuji_fugitive</key>
+<string_order>2</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Sword Attendants: %+n melee attack. \n \n Technique and honour separate the warrior on the battlefield from the peasant in the rice field.</description>
+<key>mp_anc_genpei_honourable_attendant</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Katana Hero: %+n melee attack,</description>
+<key>mp_anc_genpei_ichirai_hoshi</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>%+n morale. \n \n &quot;Fight ME!&quot;</description>
+<key>mp_anc_genpei_ichirai_hoshi</key>
+<string_order>2</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Enemy Attendants: %-n morale</description>
+<key>mp_anc_genpei_junsatsushi_inspector</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>&amp; %-n charge bonus. \n \n &quot;Fools are always trapped by loyalty.&quot;</description>
+<key>mp_anc_genpei_junsatsushi_inspector</key>
+<string_order>2</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Fortress gates in siege battles in which you are the attacker will be open at the start of battle. \n </description>
+<key>mp_anc_genpei_monomi_spy</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>Kisho Ninjas gain: %+n melee attack,</description>
+<key>mp_anc_genpei_monomi_spy</key>
+<string_order>2</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>%+n melee defence,</description>
+<key>mp_anc_genpei_monomi_spy</key>
+<string_order>3</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>&amp; increased movement speed. \n \n &quot;You ain't seen me, right?&quot;</description>
+<key>mp_anc_genpei_monomi_spy</key>
+<string_order>4</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Foot Samurai: %n melee attack,</description>
+<key>mp_anc_genpei_nasu_no_yoichi</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>%n melee defence,</description>
+<key>mp_anc_genpei_nasu_no_yoichi</key>
+<string_order>2</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>%+n accuracy,</description>
+<key>mp_anc_genpei_nasu_no_yoichi</key>
+<string_order>3</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>%+n reload speed. \n \n A man cannot walk two paths at once. A choice lies at the start of every journey.</description>
+<key>mp_anc_genpei_nasu_no_yoichi</key>
+<string_order>4</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Avatar and all veterans: %+n morale.</description>
+<key>mp_anc_genpei_shirabyoshi_dancer</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Warrior Monks and Nuns: %+n%% recruitment cost. \n \n Lust and loathing are two sides of the same coin.</description>
+<key>mp_anc_genpei_shirabyoshi_dancer</key>
+<string_order>2</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>Warrior Monks and Nuns: %+n morale. </description>
+<key>mp_anc_genpei_sou_monk</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n All veterans: %+n%% recruitment cost.\n \n &quot;Ignore all earthly beauty. It fades.&quot;</description>
+<key>mp_anc_genpei_sou_monk</key>
+<string_order>2</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Naginata Warrior Monk Hero: %+n armour. \n \n &quot;Tajima... cut through those [arrows]... with his whirling naginata, so that even the enemy looked on in admiration.&quot;</description>
+<key>mp_anc_genpei_tajima_arrow_cutter</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Avatar: %+n melee defence. \n \n A man at your back forestalls many problems.</description>
+<key>mp_anc_gokamon_bodyguard</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Avatar slightly decreases morale of enemy units in vicinity. \n \n There is solace, even for the warrior.</description>
+<key>mp_anc_gosha_odosama_samurai_priest</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Avatar: %+n hitpoints. \n \n Every boy would die for his hero.</description>
+<key>mp_anc_hero_worshipping_boy</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n accuracy for Bow Ashigaru units. \n \n Men are the fiercest prey of all.</description>
+<key>mp_anc_huntsmen</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Warrior Monk units receive %n%% increased speed. \n \n Truth flies on swift wings.</description>
+<key>mp_anc_indefatigable</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n morale to all samurai melee infantry. \n \n The mob is not an army.</description>
+<key>mp_anc_infantry_officer</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %-n%% recruitment cost for all ashigaru units. \n \n Words can move a man's heart to sorrow, or anger.</description>
+<key>mp_anc_inspiring_orator</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Avatar: %+n armour. \n \n There is honour in serving well.</description>
+<key>mp_anc_kacchu_mochi_armour_bearer</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Avatar: \n Your Avatar and his bodyguard's melee attacks pierce armour. \n \n The cleansing stroke brings its own peace.</description>
+<key>mp_anc_katana_of_the_pure_land</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n%% speed for all cavalry units. \n \n Speed comes more readily to the rider with a comfortable seat.</description>
+<key>mp_anc_lightweiught_gunjingura_war_saddle</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Reduced speed for all enemy cavalry units. \n \n Dull eye and drooping ear speak eloquently of the suffering within.</description>
+<key>mp_anc_livestock_pestilence</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n charge bonus to all monk units. \n \n There are many paths to heaven.</description>
+<key>mp_anc_lotus_sect_adherent</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Avatar: %+n hitpoints. \n \n Loyalty reflects well on the one who gives it.</description>
+<key>mp_anc_loyal_fudai_shu_retainers</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Avatar: \n Your Avatar and his bodyguard have %+n morale. \n \n An honest faith armours an honest soul.</description>
+<key>mp_anc_mark_of_fantacism</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Avatar's rally ability also causes %-n to enemy morale in radius. \n Cancels effect of enemy Shinobi Informer retainer. \n \n &quot;You're nicked, my old beauty!&quot;</description>
+<key>mp_anc_metsuke_inspector</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Increased fatigue resistance for all melee infantry. \n \n Without stores, an army soon becomes a hungry mob.</description>
+<key>mp_anc_military_storehouse</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Avatar: %+n charge bonus. \n \n A samurai may need his weapon at any moment.</description>
+<key>mp_anc_mochiyari_gumi_spear_bearer</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Reduced fatigue resistance for all enemy cavalry. \n \n A horse's stamina is only a good as the oats it is fed.</description>
+<key>mp_anc_mouldy_feed_stocks</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Increased ability to spot hidden enemy units. \n \n Knowledge is better than rumour.</description>
+<key>mp_anc_mounted_scout</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Allows player to field Kisho Ninjas. \n \n The hidden knife is no less deadly for being expected.</description>
+<key>mp_anc_ninja_jonin</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n ammunition to all bow units. \n \n The arrow is no less important than the bow.</description>
+<key>mp_anc_open_basketwork_quivers</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Allows you to field 1 siege engine (Fire Rockets, Mangonel or Cannon) \n \n Summer dust and heat, oxen bellow, drivers goad: doom rumbles onward.</description>
+<key>mp_anc_ox_carts</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n melee attack for all monk units. \n \n The pure heart beats louder than any war drum.</description>
+<key>mp_anc_portable_shrine</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n melee attack to all melee cavalry. \n \n Nothing in battle should be a surprise.</description>
+<key>mp_anc_practice_grounds</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description> \n %+n morale for ashigaru units. \n \n Wealth is a full ricebowl.</description>
+<key>mp_anc_productive_rice_paddy</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Your units sacrifice attack power for greatly increased defence. \n All units receive: \n %-n melee attack</description>
+<key>mp_anc_rennyos_teachings</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>%+n melee defence</description>
+<key>mp_anc_rennyos_teachings</key>
+<string_order>2</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>%-n reload speed</description>
+<key>mp_anc_rennyos_teachings</key>
+<string_order>3</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>%+n morale. \n \n There is little wisdom in bringing pain to others, yet much in avoiding pain.</description>
+<key>mp_anc_rennyos_teachings</key>
+<string_order>4</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n All unit cooldowns reduced by 10%. \n Cancels effects of enemy Wizened Monk retainer. \n \n &quot;Do not look for wisdom. It will find you.&quot;</description>
+<key>mp_anc_sage_advisor</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %-n enemy bow and matchlock accuracy. \n \n Strong drink is a comfort to some, a tool for others.</description>
+<key>mp_anc_sake_peddler</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Avatar: melee attack %+n. \n \n &quot;O! For a muse of fire…&quot;</description>
+<key>mp_anc_scroll_of_inspirational_verse</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Reveals the deployment of all enemy units not hidden. \n Cancels effect of enemy Sage Advisor retainer. \n \n Secrets and lies travel in the same cart.</description>
+<key>mp_anc_shinobi_informer</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Allows player to field Great Guard units. \n \n The blessings of heaven come in many forms.</description>
+<key>mp_anc_shoguns_emissary</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>Reduced reload skill for enemy European Cannon, Mangonels, Fire Rockets and Hand Mortars. \n \n Sometimes looking is not the same as seeing.</description>
+<key>mp_anc_short_sighted_inspector</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n melee attack for all spear infantry units. \n \n The edge is where the moment is decided.</description>
+<key>mp_anc_skilled_weaponsmith</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Reduced fatigue resistance for all enemy melee infantry. \n \n Food nourishes the spirit as well as the body.</description>
+<key>mp_anc_spoiled_rations</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Light cavalry: %+n melee attack. \n \n Careful husbandry always improves the breed.</description>
+<key>mp_anc_steppe_horse_stud</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %-n%% ammunition for enemy bow units. \n \n &quot;Ah! Those. Give me a day. I'll find some…&quot;</description>
+<key>mp_anc_sticky_fingered_storemaster</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n melee attack for Loan-Sword Ashigaru units. \n \n The first cut is the deepest.</description>
+<key>mp_anc_straw_practice_dummy</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n All enemy melee infantry receive %-n armour. \n \n The strongest steel will not serve in a worthless cause.</description>
+<key>mp_anc_stricken_unholy_forge</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n% ammunition to all bow and matchlock units. \n \n &quot;Do not throw your bow when the arrows are gone!&quot;</description>
+<key>mp_anc_supply_wagon</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n A proportion of each unit's casualties will be healed after a battle. \n \n &quot;Brave wounds mend the quickest!&quot;</description>
+<key>mp_anc_surgeon</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n accuracy for all bow units. \n \n A target stands; an enemy thinks.</description>
+<key>mp_anc_target_range</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n bonus versus cavalry for all spear, bow and matchlock infantry. \n \n To cripple a horse is to stop the warrior.</description>
+<key>mp_anc_tetsu_bishi_caltrops</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %-n%% recruitment cost for all units. \n \n Trade is beneath a samurai; money is not.</description>
+<key>mp_anc_trading_post</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Avatar: %+n% speed. \n \n A horseman is only as good as his horse.</description>
+<key>mp_anc_uma_i_horse_doctor</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Avatar: %+n morale. \n \n A banner, floating on the breeze, is a noble sight.</description>
+<key>mp_anc_uma_jirushi_nobori_standard_bearer</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %-n melee defence for all enemy spear infantry. \n \n &quot;Unbalanced? Nonsense! Next you'll be saying I'm unbalanced!&quot;</description>
+<key>mp_anc_unbalanced_spears</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %-n melee attack to all enemy sword infantry. \n \n Nothing ventured over dinner, nothing gained.</description>
+<key>mp_anc_untrained_fugu_cook</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Increased fatigue resistance for all bow and matchlock infantry. \n \n Battle gives a man a powerful thirst.</description>
+<key>mp_anc_water_carrier</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Enemy Warrior Monk units receive %-n morale. \n \n Doubt gnaws at even the smallest grain of faith.</description>
+<key>mp_anc_wavering_faith</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Warrior Monk and Ashigaru units you command have %+n melee defence, </description>
+<key>mp_anc_way_of_the_ikko_ikki</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>+%n%% recruitment cost &amp; </description>
+<key>mp_anc_way_of_the_ikko_ikki</key>
+<string_order>2</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>%+n morale. \n \n The faith of the people is the strength of the people.</description>
+<key>mp_anc_way_of_the_ikko_ikki</key>
+<string_order>3</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Avatar: %+n morale. \n %-n morale for enemy avatar. \n Cancels effect of enemy Geisha Poisoner retainer. \n \n &quot;There is no enemy: defeat your own fears!&quot;</description>
+<key>mp_anc_wizened_monk</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n melee defence for Yari Ashigaru units. \n \n A sore head or bruised knuckles is fair exchange for one's life.</description>
+<key>mp_anc_wooden_practice_spears</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Veteran units (including heroes) under your enemy's command receive: \n %-n melee attack,</description>
+<key>mp_anc_world_weary</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>%-n accuracy &amp;</description>
+<key>mp_anc_world_weary</key>
+<string_order>2</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>%-n morale. \n \n The burden of a lifetime bends a man's back.</description>
+<key>mp_anc_world_weary</key>
+<string_order>3</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Avatar: %+n accuracy, \n %+n reloading skill. \n \n Horse and bow can be in harmony.</description>
+<key>mp_anc_yabusami_master</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n melee attack for all sword infantry. \n \n &quot;Do not cut at your enemy. Perfect the stroke!&quot;</description>
+<key>mp_anc_yagyu_sword_instructor</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n All units have reduced fatigue gain </description>
+<key>mp_anc_yamabushi_guide</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>and %-n% to standard speed penalties for crossing rough terrain. \n \n The sure-footed way is its own reward.</description>
+<key>mp_anc_yamabushi_guide</key>
+<string_order>2</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n melee defence for all spear infantry. \n \n Even the simplest thing must be mastered.</description>
+<key>mp_anc_yari_master</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n reload skill for all bow infantry. \n \n Men must be lead in battle.</description>
+<key>mp_anc_yumi_officer</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n The range at which the enemy can spot hidden units is subject to a %n%% penalty. \n \n The calm heart does not beat like a drum.</description>
+<key>mp_anc_zen_like_silence</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Avatar: increased fatigue resistance. \n \n No task is humble if it is done well.</description>
+<key>mp_anc_zori_tori_sandal_bearer</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Allows you to field 1 piece of artillery (Wooden Cannon, Parrot Gun, Armstrong Gun or Gatling Gun) \n \n Make every shot count.</description>
+<key>mp_bosh_anc_artillery_officers_handbook</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Enemy cavalry: %-n charge bonus. \n \n It's only theft if you are caught.</description>
+<key>mp_bosh_anc_bandit_horse_thieves</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n attack to all sword infantry. \n \n The sword must be one with the hand.</description>
+<key>mp_bosh_anc_blade_master</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n accuracy to all bow units. \n \n When the heart is pure, the arrow finds a way.</description>
+<key>mp_bosh_anc_blind_bow_sensei</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Ironclad hull strength: %+n%% \n \n There are ironclad arguments as to why the Royal Navy rules the waves.</description>
+<key>mp_bosh_anc_british_naval_engineer</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %-n reload skill for all enemy bow units. \n \n Cold hands make strangers of familiar tasks.</description>
+<key>mp_bosh_anc_cold_snap</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Frigates: %n%% to Overheat Engine ability cooldown &amp; </description>
+<key>mp_bosh_anc_crack_frigate_crew</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>%n%% to Fast Reload ability cooldown. \n \n Even a frigate is only as fast as her crew.</description>
+<key>mp_bosh_anc_crack_frigate_crew</key>
+<string_order>2</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Elite infantry reload skill: %+n. \n \n The bullet is substantial. The needle is within the workings.</description>
+<key>mp_bosh_anc_dreyse_needle_gun</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Corvette reload skill: %+n. \n \n &quot;54 seconds: not bad. Not outstanding either! Again!&quot;</description>
+<key>mp_bosh_anc_eager_lieutenant</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Ironclads: %n%% to Overheat Engine ability cooldown &amp; </description>
+<key>mp_bosh_anc_elite_ironclad_crew</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>%n%% to Fast Reload ability cooldown. \n \n &quot;Neatly done, Lieutenant. Carry on.&quot;</description>
+<key>mp_bosh_anc_elite_ironclad_crew</key>
+<string_order>2</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Modern gunpowder cavalry reload skill: %+n. \n \n &quot;Proven in combat, by the Confederate States of America, sir, among others.&quot;</description>
+<key>mp_bosh_anc_enfield_musketoon</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n%% speed for all cavalry. \n \n A stud is always useful.</description>
+<key>mp_bosh_anc_european_horse_trader</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Gunboats: %n%% to Overheat Engine ability cooldown &amp; </description>
+<key>mp_bosh_anc_experienced_gunboat_crew</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>%n%% to Fast Reload ability cooldown. \n \n Even a little ship well-handled can punch above its weight.</description>
+<key>mp_bosh_anc_experienced_gunboat_crew</key>
+<string_order>2</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n armour to all melee infantry. \n \n Protection is wisdom.</description>
+<key>mp_bosh_anc_famous_armoury</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Frigate accuracy: %+n. \n \n &quot;Fire on the rise!&quot;</description>
+<key>mp_bosh_anc_fighting_captain</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Enemy line &amp; elite infantry morale: %-n. \n \n &quot;The men respect me for it.&quot;</description>
+<key>mp_bosh_anc_flogging_officer</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Increased fatigue resistance for all cavalry. \n \n  Peasants cannot hide everything.</description>
+<key>mp_bosh_anc_forage_parties</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Enemy frigate movement speed: %n%%. \n \n &quot;A foul bottom? How dare you sir?!&quot;</description>
+<key>mp_bosh_anc_foul_bottom</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Frigate movement speed: %+n%%. \n \n &quot;A Frenchman, sir, builds a ship with a soul. Any Anglo-Saxon idiot can make an ironclad.&quot;</description>
+<key>mp_bosh_anc_french_naval_engineer</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Your two most damaged veteran units will fully heal before the next battle. \n \n A garden soothes the soul.</description>
+<key>mp_bosh_anc_garden_of_convalescence</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Enemy corvettes: %+n%% to Overheat Engine ability cooldown &amp; </description>
+<key>mp_bosh_anc_green_corvette_crew</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>%+n%% to Fast Reload ability cooldown. \n \n &quot;Is there an able seaman anywhere on this ship?!&quot;</description>
+<key>mp_bosh_anc_green_corvette_crew</key>
+<string_order>2</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n  Modern gunpowder cavalry have increased fatigue resistance. \n \n Only a fool looks after his sword yet neglects his horse.</description>
+<key>mp_bosh_anc_groom</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Gunboat reload skill: %+n. \n \n When you've few guns, make sure you fire often.</description>
+<key>mp_bosh_anc_gun_crew_drill</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Avatar: %+n hitpoints. \n \n Every boy would die for his hero.</description>
+<key>mp_bosh_anc_hero_worshipping_boy</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Ironclad reload skill: %+n. \n \n Precision engineered for maximum efficiency.</description>
+<key>mp_bosh_anc_improved_breech_mechanism</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Corvette accuracy: %+n. \n \n Science removes the guesswork from gunnery.</description>
+<key>mp_bosh_anc_improved_gun_sights</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Enemy corvette accuracy: %n. \n \n &quot;100 yards short again!&quot;</description>
+<key>mp_bosh_anc_incorrect_calibration</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Enemy gunboats: %+n%% to Overheat Engine ability cooldown &amp; </description>
+<key>mp_bosh_anc_inexperienced_gunboat_crew</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>%+n%% to Fast Reload ability cooldown. \n \n &quot;Other side lads. 'The port is always left on the table', remember?&quot;</description>
+<key>mp_bosh_anc_inexperienced_gunboat_crew</key>
+<string_order>2</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Avatar: %+n armour. \n \n There is honour in serving well.</description>
+<key>mp_bosh_anc_kacchu_mochi_armour_bearer</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Tosa Riflemen, Yugekitai &amp; Sharpshooter movement speed: %+n%%. \n \n &quot;At the double, men!&quot;</description>
+<key>mp_bosh_anc_light_infantry_officer</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Reduced speed for all enemy cavalry units. \n \n Dull eye and drooping ear speak eloquently of the suffering within.</description>
+<key>mp_bosh_anc_livestock_pestilence</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Increased fatigue resistance for all melee infantry. \n \n Without stores, an army soon becomes a hungry mob.</description>
+<key>mp_bosh_anc_military_storehouse</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Tosa Riflemen, Yugekitai &amp; Sharpshooter accuracy: %+n. \n \n Simple, sturdy, and soldier-proof. Deadly, in the right hands, too.</description>
+<key>mp_bosh_anc_minie_muzzle_loading_rifle</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Avatar: %+n charge bonus. \n \n A samurai may need his weapon at any moment.</description>
+<key>mp_bosh_anc_mochiyari_gumi_spear_bearer</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Line &amp; elite infantry ammunition: %+n . \n \n Victory can be decided on the pages of a ledger.</description>
+<key>mp_bosh_anc_modern_supply_corps</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Fortress gates in siege battles in which you are the attacker will be open at the start of battle. \n </description>
+<key>mp_bosh_anc_monomi_spy</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>Kisho Ninjas gain: %+n melee attack,</description>
+<key>mp_bosh_anc_monomi_spy</key>
+<string_order>2</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>%+n melee defence,</description>
+<key>mp_bosh_anc_monomi_spy</key>
+<string_order>3</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>&amp; increased movement speed. \n \n &quot;You ain't seen me, right?&quot;</description>
+<key>mp_bosh_anc_monomi_spy</key>
+<string_order>4</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Reduced fatigue resistance for all enemy cavalry. \n \n A horse's stamina is only a good as the oats it is fed.</description>
+<key>mp_bosh_anc_mouldy_feedstocks</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Increased ability to spot hidden enemy units. \n \n Knowledge is better than rumour.</description>
+<key>mp_bosh_anc_mounted_scout</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Enemy modern gunpowder cavalry reload skill: %-n. \n \n Accuracy comes at a price.</description>
+<key>mp_bosh_anc_muzzle_loading_carbine</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Enemy elite infantry reload skill: %-n. \n \n Tried, tested and out-dated.</description>
+<key>mp_bosh_anc_muzzle_loading_muskets</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Enemy Tosa Riflemen, Yugekitai &amp; Sharpshooter accuracy: %-n. \n \n &quot;Oh, drat these spectacles! Was that a hit? Sergeant?&quot;</description>
+<key>mp_bosh_anc_myopic_captain</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n ammunition to all bow units. \n \n The arrow is no less important than the bow.</description>
+<key>mp_bosh_anc_open_basketwork_quivers</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Enemy Tosa Riflemen, Yugekitai &amp; Sharpshooter movement speed: %-n%%. \n \n &quot;Phew! I'll catch you up, men.&quot;</description>
+<key>mp_bosh_anc_overweight_infantry_officer</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Enemy gunboat reload skill: %n. \n \n &quot;All equipment to be correctly stowed BEFORE firing.&quot;</description>
+<key>mp_bosh_anc_pedantic_gun_captain</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Enemy modern gunpowder cavalry have greatly decreased fatigue resistance. \n \n &quot;See what I mean? Too narrow across the withers.&quot;</description>
+<key>mp_bosh_anc_poor_bloodstock</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n melee attack to all melee cavalry. \n \n Nothing in battle should be a surprise.</description>
+<key>mp_bosh_anc_practice_grounds</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Enemy frigates: %+n%% to Overheat Engine ability cooldown &amp; </description>
+<key>mp_bosh_anc_raw_frigate_crew</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>%+n%% to Fast Reload ability cooldown. \n \n &quot;Don't you lot know your starboard from your larboard?&quot;</description>
+<key>mp_bosh_anc_raw_frigate_crew</key>
+<string_order>2</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Enemy Tosa Riflemen, Yugekitai &amp; Sharpshooter reload skill: %-n. \n \n Accuracy comes at a price.</description>
+<key>mp_bosh_anc_rifled_barrels</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Enemy Ironclads: %+n%% to Overheat Engine ability cooldown &amp; </description>
+<key>mp_bosh_anc_scratch_ironclad_crew</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>%+n%% to Fast Reload ability cooldown. \n \n &quot;Take that man's name!&quot;</description>
+<key>mp_bosh_anc_scratch_ironclad_crew</key>
+<string_order>2</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Avatar: melee attack %+n. \n \n &quot;O! For a muse of fire…&quot;</description>
+<key>mp_bosh_anc_scroll_of_inspirational_verse</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Reveals the deployment of all enemy units not hidden. \n \n Secrets and lies travel in the same cart.</description>
+<key>mp_bosh_anc_shinobi_informer</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Gunboat accuracy: %+n. \n \n &quot;Steady. Steady. Fire!&quot;</description>
+<key>mp_bosh_anc_skilled_gun_captain</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n melee attack for all spear infantry units. \n \n The edge is where the moment is decided.</description>
+<key>mp_bosh_anc_skilled_weaponsmith</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Enemy modern gunpowder cavalry accuracy: %-n. \n \n &quot;YOU try standing still whilst someone fires a gun over your head!&quot;</description>
+<key>mp_bosh_anc_skittish_mounts</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Tosa Riflemen, Yugekitai &amp; Sharpshooter reload skill: %+n. \n \n A good reliable weapon, as you'd expect from Her Majesty's Government.</description>
+<key>mp_bosh_anc_snider_breech_loading_rifle</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Reduced fatigue resistance for all enemy melee infantry. \n \n Food nourishes the spirit as well as the body.</description>
+<key>mp_bosh_anc_spoiled_rations</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %-n%% ammunition for enemy bow units. \n \n &quot;Ah! Those. Give me a day. I'll find some…&quot;</description>
+<key>mp_bosh_anc_sticky_fingered_storemaster</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Avatar: %+n% speed. \n \n A horseman is only as good as his horse.</description>
+<key>mp_bosh_anc_uma_i_horse_doctor</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Avatar: %+n morale. \n \n A banner, floating on the breeze, is a noble sight.</description>
+<key>mp_bosh_anc_uma_jirushi_nobori_standard_bearer</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %-n melee defence for all enemy spear infantry. \n \n &quot;Unbalanced? Nonsense! Next you'll be saying I'm unbalanced!&quot;</description>
+<key>mp_bosh_anc_unbalanced_spears</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Enemy Ironclad reload skill: %n. \n \n &quot;Gun practice Lieutenant? Not today, I have a headache.&quot;</description>
+<key>mp_bosh_anc_unpracticed_gun_crews</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Enemy line &amp; elite infantry ammunition: %-n%. \n \n ...Click!...</description>
+<key>mp_bosh_anc_unwaxed_cartridges</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Corvettes: %n%% to Overheat Engine ability cooldown &amp; </description>
+<key>mp_bosh_anc_veteran_corvette_crew</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>%n%% to Fast Reload ability cooldown. \n \n A good crew is as one with their ship.</description>
+<key>mp_bosh_anc_veteran_corvette_crew</key>
+<string_order>2</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Line &amp; elite infantry morale: %+n. \n \n War is the school of warriors.</description>
+<key>mp_bosh_anc_von_clausewitzs_on_war</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Modern gunpowder cavalry accuracy: %+n. \n \n Man and beast in perfect harmony.</description>
+<key>mp_bosh_anc_well_schooled_mounts</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n All units have reduced fatigue gain </description>
+<key>mp_bosh_anc_yamabushi_guide</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>and %-n% to standard speed penalties for crossing rough terrain. \n \n The sure-footed way is its own reward.</description>
+<key>mp_bosh_anc_yamabushi_guide</key>
+<string_order>2</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n melee defence for all spear infantry. \n \n Even the simplest thing must be mastered.</description>
+<key>mp_bosh_anc_yari_master</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n reload skill for all bow infantry. \n \n Men must be lead in battle.</description>
+<key>mp_bosh_anc_yumi_officer</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n The range at which the enemy can spot hidden units is subject to a %n%% penalty. \n \n The calm heart does not beat like a drum.</description>
+<key>mp_bosh_anc_zen_like_silence</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Avatar: increased fatigue resistance. \n \n No task is humble if it is done well.</description>
+<key>mp_bosh_anc_zori_tori_sandal_bearer</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Reduced modern Imperial unit casualties. \n Increased Clan Influence Points gain. \n \n There is great honour in service to the Emperor.</description>
+<key>mp_bosh_clan_imperial</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Reduced modern Shogunate unit casualties. \n Increased Clan Influence Points gain. \n \n Tradition and honour are everything.</description>
+<key>mp_bosh_clan_shogunate</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Reduced bow unit casualties. \n Increased Clan Influence Points gain. \n \n Training is never wasted in life.</description>
+<key>mp_clan_anc_bow</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Reduced melee cavalry casualties. \n Increased Clan Influence Points gain. \n \n Training is never wasted in life.</description>
+<key>mp_clan_anc_horse</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Reduced spear infantry casualties. \n Increased Clan Influence Points gain. \n \n Training is never wasted in life.</description>
+<key>mp_clan_anc_spear</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Reduced sword infantry casualties. \n Increased Clan Influence Points gain. \n \n Training is never wasted in life.</description>
+<key>mp_clan_anc_sword</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Avatar: %+n charge bonus, \n %+n bonus versus cavalry. \n \n Everything can be perfected.</description>
+<key>mp_legendary_dragonfly_cutting_spear</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Avatar: %+n speed. \n \n The noble steed demands a noble master.</description>
+<key>mp_legendary_flawless_mount_okage</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Avatar: aura radius increased and rally ability cooldown decreased. \n \n A noble sign brings terror to enemies' hearts.</description>
+<key>mp_legendary_hachiman_crest</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n %+n morale for all units. \n \n When men lift their eyes to heaven, their hearts follow.</description>
+<key>mp_legendary_heavenly_banner</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Enemy units close to your avatar suffer a %-n morale penalty.</description>
+<key>mp_legendary_hideous_menpo_mask</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\nYour avatar has %+n morale. \n \n The God of Battles should show a hard face to the world.</description>
+<key>mp_legendary_hideous_menpo_mask</key>
+<string_order>2</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Avatar: %+n melee defence. \n \n What use a general's brains if they are splashed to the winds?</description>
+<key>mp_legendary_kawari_kabuto_helm</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Avatar: %+n hitpoints, \n %+n armour. \n \n &quot;Yes Great Lord, truly a splendid helmet!&quot;</description>
+<key>mp_legendary_legendary_kabuto_of_ykok</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Avatar: %+n armour. \n \n Sometimes age adds to the worthiness of a thing.</description>
+<key>mp_legendary_masterwork_do_maru_armour</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Avatar: %+n hitpoints. \n \n The wise man seeks out the very best of everything.</description>
+<key>mp_legendary_masterwork_kote_armguards</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+<avatar_ancillaries_descriptions>
+<description>\n Avatar: %+n melee attack. \n \n Some swords will seek out worthy hands.</description>
+<key>mp_legendary_tenkagoken_sword</key>
+<string_order>1</string_order>
+</avatar_ancillaries_descriptions>
+</dataroot>

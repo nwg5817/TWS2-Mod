@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot export_time="Wed 2. Feb 14:20:40 2011" revision="1" export_branch="T:/branches/shogun2/patch/shogun2/binaries" export_user="Janos.Gaspar">
+<edit_uuid>3f863ca0-f2a6-4e35-a1f9-a41d65d1f3e0</edit_uuid><campaign_ai_character_skill_tree_agent_managers>
+<key>default</key>
+</campaign_ai_character_skill_tree_agent_managers>
+<campaign_ai_character_skill_tree_agent_managers>
+<key>general_ashigaru</key>
+</campaign_ai_character_skill_tree_agent_managers>
+<campaign_ai_character_skill_tree_agent_managers>
+<key>general_horseman</key>
+</campaign_ai_character_skill_tree_agent_managers>
+<campaign_ai_character_skill_tree_agent_managers>
+<key>general_ninja</key>
+</campaign_ai_character_skill_tree_agent_managers>
+<campaign_ai_character_skill_tree_agent_managers>
+<key>general_pirate</key>
+</campaign_ai_character_skill_tree_agent_managers>
+<campaign_ai_character_skill_tree_agent_managers>
+<key>general_poet</key>
+</campaign_ai_character_skill_tree_agent_managers>
+<campaign_ai_character_skill_tree_agent_managers>
+<key>general_strategist</key>
+</campaign_ai_character_skill_tree_agent_managers>
+<campaign_ai_character_skill_tree_agent_managers>
+<key>general_warrior</key>
+</campaign_ai_character_skill_tree_agent_managers>
+</dataroot>

@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_campaign_ai_personality_properties>
+<root>
+  <edit_uuid>0c13b528-e85b-4386-9735-97b9dbcdc2d8</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>property</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>description</name>
+    <field_type>text</field_type>
+    <required>0</required>
+    <max_length>255</max_length>
+  </field>
+</root>

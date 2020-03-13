@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_cdir_events_incident_options>
+<root>
+  <edit_uuid>91CB13F0-304C-11DF-9BB0-95E455D89593</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>option_key</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>255</max_length>
+  </field>
+</root>

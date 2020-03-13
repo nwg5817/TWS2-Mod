@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TWaD_start_pos_naval_units>
+<root>
+  <edit_uuid>c224cb29-1464-464b-97de-3af564461ebd</edit_uuid>
+  <field>
+    <primary_key>1</primary_key>
+    <name>ID</name>
+    <field_type>autonumber</field_type>
+    <required>1</required>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>unit_type</name>
+    <field_type>text</field_type>
+    <required>1</required>
+    <max_length>50</max_length>
+    <column_source_column>key</column_source_column>
+    <column_source_table>unit_stats_naval</column_source_table>
+  </field>
+  <field>
+    <primary_key>0</primary_key>
+    <name>admiral</name>
+    <field_type>longinteger</field_type>
+    <required>1</required>
+    <default_value>0</default_value>
+    <column_source_column>ID</column_source_column>
+    <column_source_column>Name</column_source_column>
+    <column_source_column>Surname</column_source_column>
+    <column_source_table>start_pos_characters</column_source_table>
+  </field>
+</root>
