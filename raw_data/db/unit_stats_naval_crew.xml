@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Mon 12. Dec 15:04:37 2011" revision="23" export_branch="C:/TW/branches/shogun2/boshin/shogun2/src" export_user="Lee.Cowen">
-<edit_uuid>66e9a0ad-76a3-4c8b-8397-59ca8bf4d68c</edit_uuid><unit_stats_naval_crew>
+<dataroot export_time="So 13. Apr 00:07:22 2014" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>f25606d4-5298-4326-b6a9-78211cc5d510</edit_uuid><unit_stats_naval_crew>
 <ammo>30</ammo>
 <armour>1</armour>
 <armour_audio>ph</armour_audio>
@@ -241,6 +241,25 @@
 <soldier_model>euro_marines</soldier_model>
 <spacing>1.5</spacing>
 <unit_type>matchlock_marine</unit_type>
+</unit_stats_naval_crew>
+<unit_stats_naval_crew>
+<ammo>30</ammo>
+<armour>1</armour>
+<armour_audio>ph</armour_audio>
+<battle_entity>shogun_inf_missile_ashigaru_naval</battle_entity>
+<core_loading_skill>0</core_loading_skill>
+<core_marksmanship>40</core_marksmanship>
+<discipline>5</discipline>
+<equipment_theme>shogun_teppo</equipment_theme>
+<man_animations_table>shogun_man_musket</man_animations_table>
+<melee_attack>4</melee_attack>
+<melee_defence>1</melee_defence>
+<melee_weapon_type>sabre</melee_weapon_type>
+<missile_type>shogun_matchlock_naval</missile_type>
+<pistols>0</pistols>
+<soldier_model>euro_marines</soldier_model>
+<spacing>1.5</spacing>
+<unit_type>matchlock_marine_otomo</unit_type>
 </unit_stats_naval_crew>
 <unit_stats_naval_crew>
 <ammo>0</ammo>

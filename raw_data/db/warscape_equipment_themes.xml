@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Mon 9. Jul 16:56:20 2012" revision="33" export_branch="T:/branches/shogun2/boshin_dlc/common/TWeak/Framework" export_user="Richard.Thiang">
-<edit_uuid>1930512d-03a5-415b-9623-d9ac085bc582</edit_uuid><warscape_equipment_themes>
+<dataroot export_time="Sa 12. Apr 23:48:15 2014" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>72157016-0c79-42aa-a1d8-7bb35c154ceb</edit_uuid><warscape_equipment_themes>
 <ambient>boshin_american_bp</ambient>
 <primary_weapon>boshin_minnie</primary_weapon>
 <secondary_weapon>boshin_sabre</secondary_weapon>
@@ -282,6 +282,12 @@
 <theme>shogun_cutting_sword</theme>
 </warscape_equipment_themes>
 <warscape_equipment_themes>
+<banners>sashimono_cavalry</banners>
+<primary_weapon>donderbuss</primary_weapon>
+<secondary_weapon>shogun_katana</secondary_weapon>
+<theme>shogun_donderbuss</theme>
+</warscape_equipment_themes>
+<warscape_equipment_themes>
 <primary_weapon>shogun_extralong_yari</primary_weapon>
 <secondary_weapon>shogun_katana</secondary_weapon>
 <theme>shogun_extralong_yari</theme>
@@ -420,6 +426,11 @@
 <primary_weapon>shogun_teppo</primary_weapon>
 <secondary_weapon>shogun_katana</secondary_weapon>
 <theme>shogun_teppo</theme>
+</warscape_equipment_themes>
+<warscape_equipment_themes>
+<primary_weapon>shogun_teppo</primary_weapon>
+<secondary_weapon>boshin_sabre</secondary_weapon>
+<theme>shogun_tercos</theme>
 </warscape_equipment_themes>
 <warscape_equipment_themes>
 <primary_weapon>shogun_kanabo</primary_weapon>

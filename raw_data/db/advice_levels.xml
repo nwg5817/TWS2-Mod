@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Wed 16. May 16:10:42 2012" revision="296" export_branch="T:/branches/shogun2/boshin_dlc/shogun2/binaries" export_user="Dom.Starr">
-<edit_uuid>d2df9b6f-9902-42fa-894e-fb472f9369de</edit_uuid><advice_levels>
+<dataroot export_time="ju. 26. dic. 18:29:02 2013" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>d811b016-30e4-4519-b9e7-e26721c90414</edit_uuid><advice_levels>
 <advice_item_title>Raiding Trade Routes</advice_item_title>
 <advice_thread>1066_Campaign_Advice_Fleet_Selected_Thread</advice_thread>
 <advice_thread_level>2</advice_thread_level>
@@ -14307,6 +14307,29 @@
 <priority_level>1</priority_level>
 <repeat_interval>0</repeat_interval>
 <sub_category>Trade</sub_category>
+<suppressible>0</suppressible>
+<uninhibitable>0</uninhibitable>
+</advice_levels>
+<advice_levels>
+<advice_item_title>We are the Otomo</advice_item_title>
+<advice_thread>4000_STW2_Clan_Intro_Otomo</advice_thread>
+<advice_thread_level>1</advice_thread_level>
+<advisor_name>battle_advisor</advisor_name>
+<audio_clip>n</audio_clip>
+<category>Clan</category>
+<for_loading_screen>0</for_loading_screen>
+<game_area>Campaign</game_area>
+<high_verbosity_only>0</high_verbosity_only>
+<key>2139659780</key>
+<locatable>0</locatable>
+<max_repeat_count>0</max_repeat_count>
+<onscreen_text>My fellow Jesuits landed recently on your shores, and found that we have much in common. We have our deep loyalty to the Holy Father in Rome. You have a deep loyalty to your daimyo and to the Shogun. Our loyalties have provoked others and made them enemies, for such is the way of the world. Now your country is in turmoil. The Shogun’s authority wanes, and your own position is threatened by lesser men. Together, though, we can be strong. Trade with us brings you the strength of God, wealth, and guns to arm the righteous. The lands of your old rivals, the Ouchi, are near. Seize them, punish your rivals, and gain a foothold on the mainland. The Shimazu resent the favour you enjoy in the eyes of the Shogunate and the close friendship we have between us. Be wary of them, for their delusions of superiority will make them determined to see you crushed. Be vigilant, and all will be well. The heathens will be brought to the Lamb, or they will be destroyed. By God’s grace, the Otomo will prevail!</onscreen_text>
+<parameter>none</parameter>
+<pause_battle>0</pause_battle>
+<points_needed>1</points_needed>
+<priority_level>0</priority_level>
+<repeat_interval>0</repeat_interval>
+<sub_category>Intros</sub_category>
 <suppressible>0</suppressible>
 <uninhibitable>0</uninhibitable>
 </advice_levels>

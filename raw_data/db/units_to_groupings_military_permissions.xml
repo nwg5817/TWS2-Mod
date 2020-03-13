@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Wed 16. May 14:54:00 2012" revision="60" export_branch="T:/branches/shogun2/boshin_dlc/shogun2/binaries" export_user="Janos.Gaspar">
-<edit_uuid>54cde4dd-7e9a-41cb-926c-2909712f72c8</edit_uuid><units_to_groupings_military_permissions>
+<dataroot export_time="So 13. Apr 01:33:13 2014" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>90f7e4e1-4c07-41ed-b976-3ca2ae833c1f</edit_uuid><units_to_groupings_military_permissions>
 <military_group>multiplayer_avatar</military_group>
 <unit>Art_European_Cannons_MP</unit>
 </units_to_groupings_military_permissions>
@@ -570,6 +570,10 @@
 </units_to_groupings_military_permissions>
 <units_to_groupings_military_permissions>
 <military_group>multiplayer_avatar</military_group>
+<unit>Cav_Missile_Donderbuss_Cavalry_MP</unit>
+</units_to_groupings_military_permissions>
+<units_to_groupings_military_permissions>
+<military_group>multiplayer_avatar</military_group>
 <unit>Cav_Spear_Great_Guard_MP</unit>
 </units_to_groupings_military_permissions>
 <units_to_groupings_military_permissions>
@@ -1083,6 +1087,10 @@
 <units_to_groupings_military_permissions>
 <military_group>ikko_ikki</military_group>
 <unit>Inf_Missile_Matchlock_Warrior_Monks</unit>
+</units_to_groupings_military_permissions>
+<units_to_groupings_military_permissions>
+<military_group>multiplayer_avatar</military_group>
+<unit>Inf_Missile_Portuguese_Tercos_MP</unit>
 </units_to_groupings_military_permissions>
 <units_to_groupings_military_permissions>
 <military_group>buddhist_rebels</military_group>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Wed 16. May 12:44:05 2012" revision="283" export_branch="T:/branches/shogun2/boshin_dlc/shogun2/binaries" export_user="Jeff.Woods">
-<edit_uuid>77d40c8b-0328-41d6-9f37-bf547603ec0c</edit_uuid><effects>
+<dataroot export_time="So 13. Apr 01:19:06 2014" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>fe4df12c-413c-4c19-adc0-a2bccf649435</edit_uuid><effects>
 <description>%+n to command when attacking on land</description>
 <effect>Command_Land_Attack</effect>
 <icon>data/ui/campaign ui/pips/effect_admiral.tga</icon>
@@ -2919,6 +2919,36 @@
 <priority>5</priority>
 </effects>
 <effects>
+<description>Reduced recruitment cost for gunpowder infantry</description>
+<effect>clan_trait_otomo_cheap_gunpowder_units</effect>
+<icon>data/ui/campaign ui/effect_bundles/effect_otomo.tga</icon>
+<priority>1</priority>
+</effects>
+<effects>
+<description>Reduced cost for missionary actions</description>
+<effect>clan_trait_otomo_cheap_missionary_actions</effect>
+<icon>data/ui/campaign ui/effect_bundles/effect_otomo.tga</icon>
+<priority>2</priority>
+</effects>
+<effects>
+<description>Faster import of matchlocks</description>
+<effect>clan_trait_otomo_faster_import_matchlock</effect>
+<icon>data/ui/campaign ui/effect_bundles/effect_otomo.tga</icon>
+<priority>4</priority>
+</effects>
+<effects>
+<description>Improved rate of conversion to the clan's religion</description>
+<effect>clan_trait_otomo_improved_conversion</effect>
+<icon>data/ui/campaign ui/effect_bundles/effect_otomo.tga</icon>
+<priority>5</priority>
+</effects>
+<effects>
+<description>Can recruit superior missionaries</description>
+<effect>clan_trait_otomo_superior_missionaries</effect>
+<icon>data/ui/campaign ui/effect_bundles/effect_otomo.tga</icon>
+<priority>3</priority>
+</effects>
+<effects>
 <description>Reduced recruitment costs and upkeep for katana samurai</description>
 <effect>clan_trait_shimazu_cheap_samurai</effect>
 <icon>data/ui/campaign ui/effect_bundles/effect_shimazu.tga</icon>
@@ -5371,6 +5401,18 @@
 <effect>ship_repair_increase</effect>
 <icon>data/ui/campaign ui/effect_bundles/effect_navy.tga</icon>
 <priority>1</priority>
+</effects>
+<effects>
+<description>Receive +4500 wealth from the Portuguese by leasing this land to them</description>
+<effect>shogun_land_sold_to_portugal</effect>
+<icon>data/ui/campaign ui/effect_bundles/effect_wealth.tga</icon>
+<priority>1</priority>
+</effects>
+<effects>
+<description>Allowing foreigners to use Japan's sacred soil decreases your daimyo's honour by -1</description>
+<effect>shogun_land_sold_to_portugal_honour_penalty</effect>
+<icon>data/ui/campaign ui/effect_bundles/effect_daimyo_negative.tga</icon>
+<priority>2</priority>
 </effects>
 <effects>
 <description>Enables recruitment of the Great Guard</description>

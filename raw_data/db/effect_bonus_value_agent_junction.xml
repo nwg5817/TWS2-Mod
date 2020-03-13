@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Mon 24. Oct 11:04:57 2011" revision="37" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Dom.Starr">
-<edit_uuid>cd0e9d09-480a-44a5-9a58-048051f23639</edit_uuid><effect_bonus_value_agent_junction>
+<dataroot export_time="ju. 26. dic. 16:17:16 2013" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>12defe6c-a8cc-4aa5-b203-cdd0bc58c11a</edit_uuid><effect_bonus_value_agent_junction>
 <agent>ikko_monk</agent>
 <bonus_value_id>character_xp_mod</bonus_value_id>
 <effect>agent_XP_mod_ikko_monk</effect>
@@ -624,6 +624,16 @@
 <agent>boshin_veteran</agent>
 <bonus_value_id>action_cost_mod</bonus_value_id>
 <effect>bos_veteran_mod_action_cost_global</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction>
+<agent>missionary</agent>
+<bonus_value_id>action_cost_mod</bonus_value_id>
+<effect>clan_trait_otomo_cheap_missionary_actions</effect>
+</effect_bonus_value_agent_junction>
+<effect_bonus_value_agent_junction>
+<agent>missionary</agent>
+<bonus_value_id>character_xp_mod</bonus_value_id>
+<effect>clan_trait_otomo_superior_missionaries</effect>
 </effect_bonus_value_agent_junction>
 <effect_bonus_value_agent_junction>
 <agent>gempei_dancer</agent>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Mon 23. Jan 14:39:14 2012" revision="109" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Dom.Starr">
-<edit_uuid>36629515-362d-4196-86ea-f9bb6abbf69c</edit_uuid><start_pos_factions>
+<dataroot export_time="ju. 26. dic. 16:34:15 2013" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>63dc0dff-dd1c-4166-ac9a-68ce4c40abbd</edit_uuid><start_pos_factions>
 <ai_character_skill_tree_manager>default</ai_character_skill_tree_manager>
 <ai_manager>sho_major</ai_manager>
 <ai_personality>default</ai_personality>
@@ -490,7 +490,7 @@
 </start_pos_factions>
 <start_pos_factions>
 <ai_character_skill_tree_manager>default</ai_character_skill_tree_manager>
-<ai_manager>sho_minor_full</ai_manager>
+<ai_manager>sho_major</ai_manager>
 <ai_personality>default</ai_personality>
 <ai_technology_manager>default</ai_technology_manager>
 <boshin_same_religion_regions_domination>0</boshin_same_religion_regions_domination>
@@ -500,41 +500,42 @@
 <cai_agent_recruitment_profile>cai_arp_standard</cai_agent_recruitment_profile>
 <cai_starting_personality>christian</cai_starting_personality>
 <campaign>jap_shogun</campaign>
-<can_ever_convert_religion>0</can_ever_convert_religion>
+<can_ever_convert_religion>1</can_ever_convert_religion>
 <cdir_unit_balance_config>default</cdir_unit_balance_config>
 <cdir_unit_quality_config>default</cdir_unit_quality_config>
-<description>Placeholder</description>
-<difficulty>normal</difficulty>
+<description>The Otomo clan have been part of Japanese feudal politics for over four hundred years. Alongside the Shimazu, they are one of the largest clans on Kyushu, and helped defeat the Mongol invasions in the 13th century. They were also the first to make contact with the Portuguese, establishing trade links in return for advanced European guns and other goods. Since their arrival, Otomo Sorin has showed tolerance towards the Jesuit conversion of his subjects, and may even himself convert one day. This may well bring his clan into conflict with the Buddhist Shimazu. If the Otomo can defeat them, Japan may yet see its first Christian shogun!</description>
+<difficulty>hard</difficulty>
 <faction>otomo</faction>
 <government_type>gov_absolute_monarchy</government_type>
 <honour>3</honour>
 <ID>2120134929</ID>
 <is_immune_to_cold_attrition>0</is_immune_to_cold_attrition>
 <is_immune_to_heat_attrition>0</is_immune_to_heat_attrition>
-<is_major>0</is_major>
-<long_victory_region_count>0</long_victory_region_count>
+<is_major>1</is_major>
+<long_description>Coming to prominence during the Kamakura Shogunate following the Gempei War, the Otomo clan have remained at the forefront of Japanese feudal politics for almost four hundred years, through the transition to the Ashikaga Shogunate and on to the present day. Alongside the Shoni and Shimazu, the Otomo are one of the largest clans on the southern island of Kyushu, and therefore were amongst the first to make contact with the Portuguese, establishing trade links soon after the Europeans were shipwrecked near the tiny fishing port of Nagasaki. Their daimyo, Otomo Sorin, sees the benefits to both the clan’s economy and the military advantages that trade with the West can bring, making good use of their emerging gun technology. Following the arrival of the Jesuit missionary Francis Xavier and their subsequent meeting, Sorin has showed tolerance towards Jesuit conversion of his subjects to Christianity, and may even consider conversion himself if it becomes expedient to do so. As a result, the Otomo can recruit cheaper gunpowder units more quickly that other clans, the actions of Jesuit missionaries are cheaper to perform, and the population can be converted to Christianity faster. Yet their policy of religious tolerance has brought the Otomo into conflict with their neighbours, the strictly Buddhist Shimazu. If they can be defeated, the Otomo may be able to control Kyushu in its entirety, meaning there is a chance that Japan may yet see its first Christian shogun!</long_description>
+<long_victory_region_count>40</long_victory_region_count>
 <long_victory_week_in_year_end>0</long_victory_week_in_year_end>
-<long_victory_year_end>0</long_victory_year_end>
-<mp_2p_co_op_region_count>10</mp_2p_co_op_region_count>
-<mp_2p_co_op_region_count_long>20</mp_2p_co_op_region_count_long>
-<mp_one_vs_one_region_count>10</mp_one_vs_one_region_count>
-<playable>0</playable>
+<long_victory_year_end>1600</long_victory_year_end>
+<mp_2p_co_op_region_count>35</mp_2p_co_op_region_count>
+<mp_2p_co_op_region_count_long>60</mp_2p_co_op_region_count_long>
+<mp_one_vs_one_region_count>25</mp_one_vs_one_region_count>
+<playable>1</playable>
 <prestige_army>0</prestige_army>
 <prestige_economy>0</prestige_economy>
 <prestige_enlightenment>0</prestige_enlightenment>
 <prestige_navy>0</prestige_navy>
 <prestige_victory_region_count>0</prestige_victory_region_count>
 <prestige_victory_week_in_year_end>0</prestige_victory_week_in_year_end>
-<prestige_victory_year_end>0</prestige_victory_year_end>
-<short_victory_region_count>0</short_victory_region_count>
+<prestige_victory_year_end>1600</prestige_victory_year_end>
+<short_victory_region_count>25</short_victory_region_count>
 <short_victory_week_in_year_end>0</short_victory_week_in_year_end>
-<short_victory_year_end>0</short_victory_year_end>
+<short_victory_year_end>1575</short_victory_year_end>
 <starting_order>11</starting_order>
 <state_religion>rel_catholic</state_religion>
-<treasury>1000</treasury>
-<world_domination_victory_region_count>0</world_domination_victory_region_count>
+<treasury>2000</treasury>
+<world_domination_victory_region_count>60</world_domination_victory_region_count>
 <world_domination_victory_week_in_year_end>0</world_domination_victory_week_in_year_end>
-<world_domination_victory_year_end>0</world_domination_victory_year_end>
+<world_domination_victory_year_end>1600</world_domination_victory_year_end>
 </start_pos_factions>
 <start_pos_factions>
 <ai_character_skill_tree_manager>default</ai_character_skill_tree_manager>

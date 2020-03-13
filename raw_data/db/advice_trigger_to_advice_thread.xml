@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Fri 6. Jul 15:06:11 2012" revision="67" export_branch="T:/branches/shogun2/boshin_dlc/shogun2/binaries" export_user="Chris.Gambold">
-<edit_uuid>6b5f1b40-7ef6-48b3-9db7-e58d43c82a7b</edit_uuid><advice_trigger_to_advice_thread>
+<dataroot export_time="ju. 26. dic. 18:29:02 2013" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>7d7bf606-21a7-45a4-96e3-bc50dfba3d19</edit_uuid><advice_trigger_to_advice_thread>
 <amount>1</amount>
 <thread>0100_Battle_Advice_UI_Buttons_Thread</thread>
 <trigger>0100_Battle_Advice_UI_Buttons_Trigger</trigger>
@@ -1304,5 +1304,10 @@
 <amount>1</amount>
 <thread>3045_STW2_Boshin_Clan_Intro_Obama_1_Thread</thread>
 <trigger>3045_STW2_Boshin_Clan_Intro_Obama_1_Trigger</trigger>
+</advice_trigger_to_advice_thread>
+<advice_trigger_to_advice_thread>
+<amount>1</amount>
+<thread>4000_STW2_Clan_Intro_Otomo</thread>
+<trigger>4000_STW2_Clan_Intro_Otomo_1_Trigger</trigger>
 </advice_trigger_to_advice_thread>
 </dataroot>

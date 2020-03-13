@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Wed 16. May 14:28:19 2012" revision="91" export_branch="T:/branches/shogun2/boshin_dlc/shogun2/binaries" export_user="Jeff.Woods">
-<edit_uuid>a575a846-0227-4301-910c-abd3c0c662c9</edit_uuid><effect_bundles_to_effects_junctions>
+<dataroot export_time="ju. 26. dic. 16:05:53 2013" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>442a13e8-20bf-4b15-ba05-b2bf3443f4a3</edit_uuid><effect_bundles_to_effects_junctions>
 <effect_bundle_key>bos_aizu</effect_bundle_key>
 <effect_key>bos_clan_trait_aizu_castle_cost_mod</effect_key>
 <value>-10</value>
@@ -1849,6 +1849,26 @@
 <effect_bundle_key>t_oda</effect_bundle_key>
 <effect_key>clan_trait_oda_cheap_ashigaru</effect_key>
 <value>1</value>
+</effect_bundles_to_effects_junctions>
+<effect_bundles_to_effects_junctions>
+<effect_bundle_key>t_otomo</effect_bundle_key>
+<effect_key>clan_trait_otomo_cheap_gunpowder_units</effect_key>
+<value>-10</value>
+</effect_bundles_to_effects_junctions>
+<effect_bundles_to_effects_junctions>
+<effect_bundle_key>t_otomo</effect_bundle_key>
+<effect_key>clan_trait_otomo_cheap_missionary_actions</effect_key>
+<value>-15</value>
+</effect_bundles_to_effects_junctions>
+<effect_bundles_to_effects_junctions>
+<effect_bundle_key>t_otomo</effect_bundle_key>
+<effect_key>clan_trait_otomo_faster_import_matchlock</effect_key>
+<value>-3</value>
+</effect_bundles_to_effects_junctions>
+<effect_bundles_to_effects_junctions>
+<effect_bundle_key>t_otomo</effect_bundle_key>
+<effect_key>clan_trait_otomo_improved_conversion</effect_key>
+<value>2</value>
 </effect_bundles_to_effects_junctions>
 <effect_bundles_to_effects_junctions>
 <effect_bundle_key>t_shimazu</effect_bundle_key>

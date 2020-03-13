@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Mon 13. Feb 11:47:42 2012" revision="16" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="gabor.beressy">
-<edit_uuid>5efcf52e-3dd0-4495-828d-59a2d4754a26</edit_uuid><naval_uniforms>
+<dataroot export_time="So 13. Apr 02:04:56 2014" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>19f975c5-187c-40d0-b650-8904fd121b0f</edit_uuid><naval_uniforms>
 <Filename>Boshin_Naval_Inf_Corvette_Kaiten</Filename>
 <ManAnimation>STAND</ManAnimation>
 <Uniform_Name>Default_Boshin_Corvette_Kaiten</Uniform_Name>
@@ -510,6 +510,13 @@
 <ManAnimation>STAND</ManAnimation>
 <Uniform_Name>Default_Matchlock_Kobaya_Mori</Uniform_Name>
 <Unit>Light_Ship_Matchlock_Kobaya_Mori</Unit>
+</naval_uniforms>
+<naval_uniforms>
+<Filename>Naval_Inf_Matchlock_Kobaya</Filename>
+<imposter_sharing>naval_japanese</imposter_sharing>
+<ManAnimation>STAND</ManAnimation>
+<Uniform_Name>Default_Matchlock_Kobaya_Otomo</Uniform_Name>
+<Unit>Light_Ship_Matchlock_Kobaya_Otomo</Unit>
 </naval_uniforms>
 <naval_uniforms>
 <Filename>Naval_Inf_Siege_Tower_Ship</Filename>

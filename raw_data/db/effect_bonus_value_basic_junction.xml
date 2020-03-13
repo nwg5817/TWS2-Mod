@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Tue 13. Mar 12:39:30 2012" revision="104" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Dom.Starr">
-<edit_uuid>c4d2307a-0b92-4b2e-bbde-bb86b44a78e7</edit_uuid><effect_bonus_value_basic_junction>
+<dataroot export_time="ju. 26. dic. 16:18:29 2013" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>0384dbe1-7521-453f-92a6-e0a834e4bb99</edit_uuid><effect_bonus_value_basic_junction>
 <bonus_value_id>management_army</bonus_value_id>
 <effect>Movement_Points_All_Land</effect>
 </effect_bonus_value_basic_junction>
@@ -1003,6 +1003,10 @@
 <effect_bonus_value_basic_junction>
 <bonus_value_id>charge_bonus_for_land_units</bonus_value_id>
 <effect>clan_trait_date_charge_bonus</effect>
+</effect_bonus_value_basic_junction>
+<effect_bonus_value_basic_junction>
+<bonus_value_id>state_religion_conversion_bonus</bonus_value_id>
+<effect>clan_trait_otomo_improved_conversion</effect>
 </effect_bonus_value_basic_junction>
 <effect_bonus_value_basic_junction>
 <bonus_value_id>loyalty</bonus_value_id>

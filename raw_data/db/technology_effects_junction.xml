@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Mon 12. Dec 14:21:38 2011" revision="65" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Dom.Starr">
-<edit_uuid>42c1d4c7-92fc-4d27-91d9-9e7b365fa2bb</edit_uuid><technology_effects_junction>
+<dataroot export_time="So 13. Apr 01:01:48 2014" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>c961e896-ccee-4c4c-8d2d-85e6729fa70a</edit_uuid><technology_effects_junction>
 <effect>bos_tech_building_farm_cost_mod</effect>
 <technology>boshin_civil_abolition_of_land_restriction</technology>
 <value>-10</value>
@@ -819,6 +819,46 @@
 <effect>tech_regional_happiness_mod</effect>
 <technology>shogun_civil_religion_neo_confucianism</technology>
 <value>1</value>
+</technology_effects_junction>
+<technology_effects_junction>
+<effect>tech_agent_ikko_monk_success_mod</effect>
+<technology>shogun_civil_religion_otomo_essence_of_the_spirit</technology>
+<value>5</value>
+</technology_effects_junction>
+<technology_effects_junction>
+<effect>tech_agent_missionary_success_mod</effect>
+<technology>shogun_civil_religion_otomo_essence_of_the_spirit</technology>
+<value>10</value>
+</technology_effects_junction>
+<technology_effects_junction>
+<effect>tech_agent_monk_success_mod</effect>
+<technology>shogun_civil_religion_otomo_essence_of_the_spirit</technology>
+<value>10</value>
+</technology_effects_junction>
+<technology_effects_junction>
+<effect>conversion_state_religion</effect>
+<technology>shogun_civil_religion_religious_propagation</technology>
+<value>2</value>
+</technology_effects_junction>
+<technology_effects_junction>
+<effect>tech_regional_happiness_mod</effect>
+<technology>shogun_civil_religion_religious_propagation</technology>
+<value>1</value>
+</technology_effects_junction>
+<technology_effects_junction>
+<effect>tech_agent_action_cost_mod_ikko_monk</effect>
+<technology>shogun_civil_religion_religious_self_sufficiency</technology>
+<value>-10</value>
+</technology_effects_junction>
+<technology_effects_junction>
+<effect>tech_agent_action_cost_mod_missionary</effect>
+<technology>shogun_civil_religion_religious_self_sufficiency</technology>
+<value>-25</value>
+</technology_effects_junction>
+<technology_effects_junction>
+<effect>tech_agent_action_cost_mod_monk</effect>
+<technology>shogun_civil_religion_religious_self_sufficiency</technology>
+<value>-15</value>
 </technology_effects_junction>
 <technology_effects_junction>
 <effect>tech_agent_ikko_monk_success_mod</effect>

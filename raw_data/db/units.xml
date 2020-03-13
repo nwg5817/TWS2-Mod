@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Wed 18. Jul 14:42:13 2012" revision="318" export_branch="T:/branches/shogun2/boshin_dlc/shogun2/binaries" export_user="Jack.Lusted">
-<edit_uuid>7077b9a6-bac0-4752-8a94-008ceb748f35</edit_uuid><units>
+<dataroot export_time="do. 13. abr. 17:52:34 2014" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>39988e1c-f5f5-427e-99be-0a83eb37ec14</edit_uuid><units>
 <armed_citizenry>0</armed_citizenry>
 <audio_language>UK</audio_language>
 <campaign_action_points>12</campaign_action_points>
@@ -391,8 +391,8 @@
 <mp_available_late>1</mp_available_late>
 <mp_available_middle>1</mp_available_middle>
 <multiplayer_category>mp_artillery</multiplayer_category>
-<multiplayer_cost>1360</multiplayer_cost>
-<multiplayer_late_cost>1360</multiplayer_late_cost>
+<multiplayer_cost>1300</multiplayer_cost>
+<multiplayer_late_cost>1300</multiplayer_late_cost>
 <num_audio_VO_variations>3</num_audio_VO_variations>
 <on_screen_name>Armstrong Guns</on_screen_name>
 <prestige>0</prestige>
@@ -679,8 +679,8 @@
 <mp_available_late>1</mp_available_late>
 <mp_available_middle>1</mp_available_middle>
 <multiplayer_category>mp_artillery</multiplayer_category>
-<multiplayer_cost>1700</multiplayer_cost>
-<multiplayer_late_cost>1700</multiplayer_late_cost>
+<multiplayer_cost>1400</multiplayer_cost>
+<multiplayer_late_cost>1400</multiplayer_late_cost>
 <num_audio_VO_variations>3</num_audio_VO_variations>
 <on_screen_name>Gatling Guns</on_screen_name>
 <prestige>0</prestige>
@@ -1040,8 +1040,8 @@
 <mp_available_late>1</mp_available_late>
 <mp_available_middle>1</mp_available_middle>
 <multiplayer_category>mp_cavalry</multiplayer_category>
-<multiplayer_cost>1000</multiplayer_cost>
-<multiplayer_late_cost>1000</multiplayer_late_cost>
+<multiplayer_cost>1050</multiplayer_cost>
+<multiplayer_late_cost>1050</multiplayer_late_cost>
 <num_audio_VO_variations>3</num_audio_VO_variations>
 <on_screen_name>Imperial Guard Cavalry</on_screen_name>
 <prestige>0</prestige>
@@ -1112,8 +1112,8 @@
 <mp_available_late>1</mp_available_late>
 <mp_available_middle>1</mp_available_middle>
 <multiplayer_category>mp_cavalry</multiplayer_category>
-<multiplayer_cost>1100</multiplayer_cost>
-<multiplayer_late_cost>1100</multiplayer_late_cost>
+<multiplayer_cost>1000</multiplayer_cost>
+<multiplayer_late_cost>1000</multiplayer_late_cost>
 <num_audio_VO_variations>3</num_audio_VO_variations>
 <on_screen_name>Revolver Cavalry</on_screen_name>
 <prestige>0</prestige>
@@ -1184,8 +1184,8 @@
 <mp_available_late>1</mp_available_late>
 <mp_available_middle>1</mp_available_middle>
 <multiplayer_category>mp_cavalry</multiplayer_category>
-<multiplayer_cost>1200</multiplayer_cost>
-<multiplayer_late_cost>1200</multiplayer_late_cost>
+<multiplayer_cost>1000</multiplayer_cost>
+<multiplayer_late_cost>1000</multiplayer_late_cost>
 <num_audio_VO_variations>4</num_audio_VO_variations>
 <on_screen_name>Samurai Hero</on_screen_name>
 <prestige>0</prestige>
@@ -1329,8 +1329,8 @@
 <mp_available_late>1</mp_available_late>
 <mp_available_middle>1</mp_available_middle>
 <multiplayer_category>mp_cavalry</multiplayer_category>
-<multiplayer_cost>690</multiplayer_cost>
-<multiplayer_late_cost>690</multiplayer_late_cost>
+<multiplayer_cost>790</multiplayer_cost>
+<multiplayer_late_cost>790</multiplayer_late_cost>
 <num_audio_VO_variations>3</num_audio_VO_variations>
 <on_screen_name>Yari Ki</on_screen_name>
 <prestige>0</prestige>
@@ -2735,8 +2735,8 @@
 <mp_available_late>1</mp_available_late>
 <mp_available_middle>1</mp_available_middle>
 <multiplayer_category>mp_bosh_elite_inf</multiplayer_category>
-<multiplayer_cost>1170</multiplayer_cost>
-<multiplayer_late_cost>1170</multiplayer_late_cost>
+<multiplayer_cost>1070</multiplayer_cost>
+<multiplayer_late_cost>1070</multiplayer_late_cost>
 <num_audio_VO_variations>3</num_audio_VO_variations>
 <on_screen_name>Kihetai</on_screen_name>
 <prestige>0</prestige>
@@ -2917,8 +2917,8 @@
 <mp_available_late>1</mp_available_late>
 <mp_available_middle>1</mp_available_middle>
 <multiplayer_category>mp_bosh_elite_inf</multiplayer_category>
-<multiplayer_cost>1280</multiplayer_cost>
-<multiplayer_late_cost>1280</multiplayer_late_cost>
+<multiplayer_cost>1220</multiplayer_cost>
+<multiplayer_late_cost>1220</multiplayer_late_cost>
 <num_audio_VO_variations>3</num_audio_VO_variations>
 <on_screen_name>Shogunate Guard Infantry</on_screen_name>
 <prestige>0</prestige>
@@ -3097,8 +3097,8 @@
 <mp_available_late>1</mp_available_late>
 <mp_available_middle>1</mp_available_middle>
 <multiplayer_category>mp_bosh_skirmish_inf</multiplayer_category>
-<multiplayer_cost>1000</multiplayer_cost>
-<multiplayer_late_cost>1000</multiplayer_late_cost>
+<multiplayer_cost>900</multiplayer_cost>
+<multiplayer_late_cost>900</multiplayer_late_cost>
 <num_audio_VO_variations>3</num_audio_VO_variations>
 <on_screen_name>Sharpshooters</on_screen_name>
 <prestige>0</prestige>
@@ -3241,8 +3241,8 @@
 <mp_available_late>1</mp_available_late>
 <mp_available_middle>1</mp_available_middle>
 <multiplayer_category>mp_bosh_skirmish_inf</multiplayer_category>
-<multiplayer_cost>1500</multiplayer_cost>
-<multiplayer_late_cost>1500</multiplayer_late_cost>
+<multiplayer_cost>1300</multiplayer_cost>
+<multiplayer_late_cost>1300</multiplayer_late_cost>
 <num_audio_VO_variations>3</num_audio_VO_variations>
 <on_screen_name>Yugekitai</on_screen_name>
 <prestige>0</prestige>
@@ -3674,8 +3674,8 @@
 <mp_available_late>1</mp_available_late>
 <mp_available_middle>1</mp_available_middle>
 <multiplayer_category>mp_bosh_line_inf</multiplayer_category>
-<multiplayer_cost>800</multiplayer_cost>
-<multiplayer_late_cost>800</multiplayer_late_cost>
+<multiplayer_cost>750</multiplayer_cost>
+<multiplayer_late_cost>750</multiplayer_late_cost>
 <num_audio_VO_variations>3</num_audio_VO_variations>
 <on_screen_name>Red Bear Infantry</on_screen_name>
 <prestige>0</prestige>
@@ -4399,8 +4399,8 @@
 <mp_available_late>1</mp_available_late>
 <mp_available_middle>1</mp_available_middle>
 <multiplayer_category>mp_bosh_melee_inf</multiplayer_category>
-<multiplayer_cost>750</multiplayer_cost>
-<multiplayer_late_cost>750</multiplayer_late_cost>
+<multiplayer_cost>700</multiplayer_cost>
+<multiplayer_late_cost>700</multiplayer_late_cost>
 <num_audio_VO_variations>3</num_audio_VO_variations>
 <on_screen_name>Kyoto Police</on_screen_name>
 <prestige>0</prestige>
@@ -4651,8 +4651,8 @@
 <mp_available_late>1</mp_available_late>
 <mp_available_middle>1</mp_available_middle>
 <multiplayer_category>mp_bosh_melee_inf</multiplayer_category>
-<multiplayer_cost>1090</multiplayer_cost>
-<multiplayer_late_cost>1090</multiplayer_late_cost>
+<multiplayer_cost>990</multiplayer_cost>
+<multiplayer_late_cost>990</multiplayer_late_cost>
 <num_audio_VO_variations>3</num_audio_VO_variations>
 <on_screen_name>Kisho Ninja</on_screen_name>
 <prestige>0</prestige>
@@ -4796,8 +4796,8 @@
 <mp_available_late>1</mp_available_late>
 <mp_available_middle>1</mp_available_middle>
 <multiplayer_category>mp_bosh_melee_inf</multiplayer_category>
-<multiplayer_cost>950</multiplayer_cost>
-<multiplayer_late_cost>950</multiplayer_late_cost>
+<multiplayer_cost>1000</multiplayer_cost>
+<multiplayer_late_cost>1000</multiplayer_late_cost>
 <num_audio_VO_variations>3</num_audio_VO_variations>
 <on_screen_name>Shogitai</on_screen_name>
 <prestige>0</prestige>
@@ -5120,14 +5120,14 @@
 <mp_available_late>1</mp_available_late>
 <mp_available_middle>1</mp_available_middle>
 <multiplayer_category>mp_naval_light</multiplayer_category>
-<multiplayer_cost>2000</multiplayer_cost>
-<multiplayer_late_cost>2000</multiplayer_late_cost>
+<multiplayer_cost>1200</multiplayer_cost>
+<multiplayer_late_cost>1200</multiplayer_late_cost>
 <num_audio_VO_variations>3</num_audio_VO_variations>
 <on_screen_name>Torpedo boat - Chiyodagata class</on_screen_name>
 <prestige>0</prestige>
 <supports_first_person>1</supports_first_person>
 <total_cap>8</total_cap>
-<total_cap_mp>0</total_cap_mp>
+<total_cap_mp>3</total_cap_mp>
 <unique_index>540</unique_index>
 <unit_caste>naval</unit_caste>
 <unit_description_text>Boshin_Torpedo_Boat_Chiyodagata</unit_description_text>
@@ -5156,14 +5156,14 @@
 <mp_available_late>1</mp_available_late>
 <mp_available_middle>1</mp_available_middle>
 <multiplayer_category>mp_naval_light</multiplayer_category>
-<multiplayer_cost>2000</multiplayer_cost>
-<multiplayer_late_cost>2000</multiplayer_late_cost>
+<multiplayer_cost>1200</multiplayer_cost>
+<multiplayer_late_cost>1200</multiplayer_late_cost>
 <num_audio_VO_variations>3</num_audio_VO_variations>
 <on_screen_name>Torpedo boat - Chiyodagata class</on_screen_name>
 <prestige>0</prestige>
 <supports_first_person>1</supports_first_person>
 <total_cap>8</total_cap>
-<total_cap_mp>0</total_cap_mp>
+<total_cap_mp>3</total_cap_mp>
 <unique_index>1155</unique_index>
 <unit_caste>naval</unit_caste>
 <unit_description_text>Boshin_Torpedo_Boat_Chiyodagata</unit_description_text>
@@ -5396,6 +5396,81 @@
 <unit_recruited_movie>unit_cavalry_bow</unit_recruited_movie>
 <unit_type_icon>bow_cavalry</unit_type_icon>
 <upkeep_cost>175</upkeep_cost>
+<use_onscreen_name>0</use_onscreen_name>
+<VO_actor_numbers>0</VO_actor_numbers>
+<voice>cavalry</voice>
+</units>
+<units>
+<additional_building_level_requirement>SHO_Siege_2_Powder_Maker</additional_building_level_requirement>
+<armed_citizenry>0</armed_citizenry>
+<audio_language>UK</audio_language>
+<campaign_action_points>20</campaign_action_points>
+<category>cavalry</category>
+<class>cavalry_missile</class>
+<create_cost>800</create_cost>
+<create_time>2</create_time>
+<era>early</era>
+<fitness>6</fitness>
+<icon_name>placeholder_cavalry</icon_name>
+<in_encyclopedia>1</in_encyclopedia>
+<info_pic>placeholder_cavalry</info_pic>
+<is_male>1</is_male>
+<key>Cav_Missile_Donderbuss_Cavalry</key>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<mp_available_middle>1</mp_available_middle>
+<multiplayer_category>mp_cavalry</multiplayer_category>
+<multiplayer_cost>800</multiplayer_cost>
+<multiplayer_late_cost>800</multiplayer_late_cost>
+<num_audio_VO_variations>4</num_audio_VO_variations>
+<on_screen_name>Donderbuss Cavalry</on_screen_name>
+<prestige>0</prestige>
+<resource_requirement>res_sho_horses</resource_requirement>
+<supports_first_person>0</supports_first_person>
+<total_cap>0</total_cap>
+<total_cap_mp>0</total_cap_mp>
+<unique_index>1433</unique_index>
+<unit_caste>samurai</unit_caste>
+<unit_description_text>Cav_Missile_Donderbuss_Cavalry</unit_description_text>
+<unit_type_icon>bow_cavalry</unit_type_icon>
+<upkeep_cost>200</upkeep_cost>
+<use_onscreen_name>0</use_onscreen_name>
+<VO_actor_numbers>0</VO_actor_numbers>
+<voice>cavalry</voice>
+</units>
+<units>
+<armed_citizenry>0</armed_citizenry>
+<audio_language>UK</audio_language>
+<campaign_action_points>20</campaign_action_points>
+<category>cavalry</category>
+<class>cavalry_missile</class>
+<create_cost>800</create_cost>
+<create_time>2</create_time>
+<era>early</era>
+<fitness>6</fitness>
+<icon_name>placeholder_cavalry</icon_name>
+<in_encyclopedia>1</in_encyclopedia>
+<info_pic>placeholder_cavalry</info_pic>
+<is_male>1</is_male>
+<key>Cav_Missile_Donderbuss_Cavalry_MP</key>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<mp_available_middle>1</mp_available_middle>
+<multiplayer_category>mp_cavalry</multiplayer_category>
+<multiplayer_cost>800</multiplayer_cost>
+<multiplayer_late_cost>800</multiplayer_late_cost>
+<num_audio_VO_variations>4</num_audio_VO_variations>
+<on_screen_name>Donderbuss Cavalry</on_screen_name>
+<prestige>0</prestige>
+<resource_requirement>res_sho_horses</resource_requirement>
+<supports_first_person>0</supports_first_person>
+<total_cap>0</total_cap>
+<total_cap_mp>0</total_cap_mp>
+<unique_index>1440</unique_index>
+<unit_caste>samurai</unit_caste>
+<unit_description_text>Cav_Missile_Donderbuss_Cavalry</unit_description_text>
+<unit_type_icon>bow_cavalry</unit_type_icon>
+<upkeep_cost>200</upkeep_cost>
 <use_onscreen_name>0</use_onscreen_name>
 <VO_actor_numbers>0</VO_actor_numbers>
 <voice>cavalry</voice>
@@ -5684,8 +5759,8 @@
 <mp_available_late>1</mp_available_late>
 <mp_available_middle>1</mp_available_middle>
 <multiplayer_category>mp_cavalry</multiplayer_category>
-<multiplayer_cost>800</multiplayer_cost>
-<multiplayer_late_cost>800</multiplayer_late_cost>
+<multiplayer_cost>850</multiplayer_cost>
+<multiplayer_late_cost>850</multiplayer_late_cost>
 <num_audio_VO_variations>2</num_audio_VO_variations>
 <on_screen_name>Naginata Warrior Monk Cavalry</on_screen_name>
 <prestige>0</prestige>
@@ -5797,8 +5872,8 @@
 <mp_available_late>1</mp_available_late>
 <mp_available_middle>1</mp_available_middle>
 <multiplayer_category>mp_cavalry</multiplayer_category>
-<multiplayer_cost>850</multiplayer_cost>
-<multiplayer_late_cost>850</multiplayer_late_cost>
+<multiplayer_cost>900</multiplayer_cost>
+<multiplayer_late_cost>900</multiplayer_late_cost>
 <num_audio_VO_variations>4</num_audio_VO_variations>
 <on_screen_name>Yari Cavalry</on_screen_name>
 <prestige>0</prestige>
@@ -7032,6 +7107,42 @@
 <in_encyclopedia>0</in_encyclopedia>
 <info_pic>placeholder_cavalry</info_pic>
 <is_male>1</is_male>
+<key>Gen_Otomo_Sorin</key>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<mp_available_middle>1</mp_available_middle>
+<multiplayer_category>mp_cavalry</multiplayer_category>
+<multiplayer_cost>600</multiplayer_cost>
+<multiplayer_late_cost>600</multiplayer_late_cost>
+<num_audio_VO_variations>4</num_audio_VO_variations>
+<on_screen_name>Otomo Sorin</on_screen_name>
+<prestige>0</prestige>
+<supports_first_person>0</supports_first_person>
+<total_cap>0</total_cap>
+<total_cap_mp>0</total_cap_mp>
+<unique_index>1463</unique_index>
+<unit_caste>samurai</unit_caste>
+<unit_description_text>Gen_Taisho</unit_description_text>
+<unit_type_icon>sword_cavalry</unit_type_icon>
+<upkeep_cost>100</upkeep_cost>
+<use_onscreen_name>0</use_onscreen_name>
+<VO_actor_numbers>0</VO_actor_numbers>
+<voice>general</voice>
+</units>
+<units>
+<armed_citizenry>0</armed_citizenry>
+<audio_language>UK</audio_language>
+<campaign_action_points>20</campaign_action_points>
+<category>cavalry</category>
+<class>general</class>
+<create_cost>300</create_cost>
+<create_time>1</create_time>
+<era>early</era>
+<fitness>6</fitness>
+<icon_name>placeholder_cavalry</icon_name>
+<in_encyclopedia>0</in_encyclopedia>
+<info_pic>placeholder_cavalry</info_pic>
+<is_male>1</is_male>
 <key>Gen_Shimazu_Yoshihiro</key>
 <mp_available_early>1</mp_available_early>
 <mp_available_late>1</mp_available_late>
@@ -7940,8 +8051,8 @@
 <mp_available_late>1</mp_available_late>
 <mp_available_middle>1</mp_available_middle>
 <multiplayer_category>mp_spear</multiplayer_category>
-<multiplayer_cost>150</multiplayer_cost>
-<multiplayer_late_cost>150</multiplayer_late_cost>
+<multiplayer_cost>220</multiplayer_cost>
+<multiplayer_late_cost>220</multiplayer_late_cost>
 <num_audio_VO_variations>4</num_audio_VO_variations>
 <on_screen_name>Naginata Attendants</on_screen_name>
 <prestige>0</prestige>
@@ -9504,8 +9615,8 @@
 <mp_available_late>1</mp_available_late>
 <mp_available_middle>1</mp_available_middle>
 <multiplayer_category>mp_spear</multiplayer_category>
-<multiplayer_cost>750</multiplayer_cost>
-<multiplayer_late_cost>750</multiplayer_late_cost>
+<multiplayer_cost>800</multiplayer_cost>
+<multiplayer_late_cost>800</multiplayer_late_cost>
 <num_audio_VO_variations>4</num_audio_VO_variations>
 <on_screen_name>Naginata Samurai</on_screen_name>
 <prestige>0</prestige>
@@ -9964,8 +10075,8 @@
 <mp_available_late>1</mp_available_late>
 <mp_available_middle>1</mp_available_middle>
 <multiplayer_category>mp_spear</multiplayer_category>
-<multiplayer_cost>850</multiplayer_cost>
-<multiplayer_late_cost>850</multiplayer_late_cost>
+<multiplayer_cost>800</multiplayer_cost>
+<multiplayer_late_cost>800</multiplayer_late_cost>
 <num_audio_VO_variations>3</num_audio_VO_variations>
 <on_screen_name>Warrior Nuns</on_screen_name>
 <prestige>0</prestige>
@@ -11105,6 +11216,43 @@
 <campaign_action_points>15</campaign_action_points>
 <category>infantry_ranged</category>
 <class>infantry_matchlock</class>
+<create_cost>250</create_cost>
+<create_time>1</create_time>
+<era>early</era>
+<fitness>6</fitness>
+<icon_name>placeholder</icon_name>
+<in_encyclopedia>1</in_encyclopedia>
+<info_pic>placeholder</info_pic>
+<is_male>1</is_male>
+<key>Inf_Missile_Matchlock_Ashigaru_Otomo</key>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<mp_available_middle>1</mp_available_middle>
+<multiplayer_category>mp_gun</multiplayer_category>
+<multiplayer_cost>500</multiplayer_cost>
+<multiplayer_late_cost>500</multiplayer_late_cost>
+<num_audio_VO_variations>4</num_audio_VO_variations>
+<on_screen_name>Otomo Matchlock Ashigaru</on_screen_name>
+<prestige>0</prestige>
+<supports_first_person>0</supports_first_person>
+<total_cap>0</total_cap>
+<total_cap_mp>0</total_cap_mp>
+<unique_index>1410</unique_index>
+<unit_caste>ashigaru</unit_caste>
+<unit_description_text>Inf_Missile_Matchlock_Ashigaru_Otomo</unit_description_text>
+<unit_recruited_movie>unit_ashigaru_matchlock</unit_recruited_movie>
+<unit_type_icon>gun_infantry</unit_type_icon>
+<upkeep_cost>100</upkeep_cost>
+<use_onscreen_name>0</use_onscreen_name>
+<VO_actor_numbers>0</VO_actor_numbers>
+<voice>infantry_matchlock_ashigaru</voice>
+</units>
+<units>
+<armed_citizenry>0</armed_citizenry>
+<audio_language>UK</audio_language>
+<campaign_action_points>15</campaign_action_points>
+<category>infantry_ranged</category>
+<class>infantry_matchlock</class>
 <create_cost>700</create_cost>
 <create_time>2</create_time>
 <era>early</era>
@@ -11203,6 +11351,43 @@
 <unique_index>117</unique_index>
 <unit_caste>samurai</unit_caste>
 <unit_description_text>Inf_Missile_Matchlock_Samurai</unit_description_text>
+<unit_recruited_movie>unit_samurai_matchlock</unit_recruited_movie>
+<unit_type_icon>gun_infantry</unit_type_icon>
+<upkeep_cost>150</upkeep_cost>
+<use_onscreen_name>0</use_onscreen_name>
+<VO_actor_numbers>0</VO_actor_numbers>
+<voice>infantry_matchlock_samurai</voice>
+</units>
+<units>
+<armed_citizenry>0</armed_citizenry>
+<audio_language>UK</audio_language>
+<campaign_action_points>15</campaign_action_points>
+<category>infantry_ranged</category>
+<class>infantry_matchlock</class>
+<create_cost>600</create_cost>
+<create_time>2</create_time>
+<era>early</era>
+<fitness>6</fitness>
+<icon_name>placeholder</icon_name>
+<in_encyclopedia>1</in_encyclopedia>
+<info_pic>placeholder</info_pic>
+<is_male>1</is_male>
+<key>Inf_Missile_Matchlock_Samurai_Otomo</key>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<mp_available_middle>1</mp_available_middle>
+<multiplayer_category>mp_gun</multiplayer_category>
+<multiplayer_cost>800</multiplayer_cost>
+<multiplayer_late_cost>800</multiplayer_late_cost>
+<num_audio_VO_variations>4</num_audio_VO_variations>
+<on_screen_name>Otomo Matchlock Samurai</on_screen_name>
+<prestige>0</prestige>
+<supports_first_person>0</supports_first_person>
+<total_cap>0</total_cap>
+<total_cap_mp>0</total_cap_mp>
+<unique_index>1415</unique_index>
+<unit_caste>samurai</unit_caste>
+<unit_description_text>Inf_Missile_Matchlock_Samurai_Otomo</unit_description_text>
 <unit_recruited_movie>unit_samurai_matchlock</unit_recruited_movie>
 <unit_type_icon>gun_infantry</unit_type_icon>
 <upkeep_cost>150</upkeep_cost>
@@ -11325,6 +11510,79 @@
 <use_onscreen_name>0</use_onscreen_name>
 <VO_actor_numbers>0</VO_actor_numbers>
 <voice>monk</voice>
+</units>
+<units>
+<additional_building_level_requirement>SHO_Siege_2_Powder_Maker</additional_building_level_requirement>
+<armed_citizenry>0</armed_citizenry>
+<audio_language>UK</audio_language>
+<campaign_action_points>15</campaign_action_points>
+<category>infantry_ranged</category>
+<class>infantry_matchlock</class>
+<create_cost>850</create_cost>
+<create_time>2</create_time>
+<era>early</era>
+<fitness>6</fitness>
+<icon_name>placeholder</icon_name>
+<in_encyclopedia>1</in_encyclopedia>
+<info_pic>placeholder</info_pic>
+<is_male>1</is_male>
+<key>Inf_Missile_Portuguese_Tercos</key>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<mp_available_middle>1</mp_available_middle>
+<multiplayer_category>mp_gun</multiplayer_category>
+<multiplayer_cost>850</multiplayer_cost>
+<multiplayer_late_cost>850</multiplayer_late_cost>
+<num_audio_VO_variations>4</num_audio_VO_variations>
+<on_screen_name>Portuguese Tercos</on_screen_name>
+<prestige>0</prestige>
+<supports_first_person>0</supports_first_person>
+<total_cap>0</total_cap>
+<total_cap_mp>0</total_cap_mp>
+<unique_index>1449</unique_index>
+<unit_caste>samurai</unit_caste>
+<unit_description_text>Inf_Missile_Portuguese_Tercos</unit_description_text>
+<unit_type_icon>gun_infantry</unit_type_icon>
+<upkeep_cost>150</upkeep_cost>
+<use_onscreen_name>0</use_onscreen_name>
+<VO_actor_numbers>0</VO_actor_numbers>
+<voice>infantry_matchlock_samurai</voice>
+</units>
+<units>
+<armed_citizenry>0</armed_citizenry>
+<audio_language>UK</audio_language>
+<campaign_action_points>15</campaign_action_points>
+<category>infantry_ranged</category>
+<class>infantry_matchlock</class>
+<create_cost>850</create_cost>
+<create_time>2</create_time>
+<era>early</era>
+<fitness>6</fitness>
+<icon_name>placeholder</icon_name>
+<in_encyclopedia>1</in_encyclopedia>
+<info_pic>placeholder</info_pic>
+<is_male>1</is_male>
+<key>Inf_Missile_Portuguese_Tercos_MP</key>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<mp_available_middle>1</mp_available_middle>
+<multiplayer_category>mp_gun</multiplayer_category>
+<multiplayer_cost>850</multiplayer_cost>
+<multiplayer_late_cost>850</multiplayer_late_cost>
+<num_audio_VO_variations>4</num_audio_VO_variations>
+<on_screen_name>Portuguese Tercos</on_screen_name>
+<prestige>0</prestige>
+<supports_first_person>0</supports_first_person>
+<total_cap>0</total_cap>
+<total_cap_mp>0</total_cap_mp>
+<unique_index>1458</unique_index>
+<unit_caste>samurai</unit_caste>
+<unit_description_text>Inf_Missile_Portuguese_Tercos</unit_description_text>
+<unit_type_icon>gun_infantry</unit_type_icon>
+<upkeep_cost>150</upkeep_cost>
+<use_onscreen_name>0</use_onscreen_name>
+<VO_actor_numbers>0</VO_actor_numbers>
+<voice>infantry_matchlock_samurai</voice>
 </units>
 <units>
 <armed_citizenry>0</armed_citizenry>
@@ -11493,8 +11751,8 @@
 <mp_available_late>1</mp_available_late>
 <mp_available_middle>1</mp_available_middle>
 <multiplayer_category>mp_spear</multiplayer_category>
-<multiplayer_cost>350</multiplayer_cost>
-<multiplayer_late_cost>350</multiplayer_late_cost>
+<multiplayer_cost>370</multiplayer_cost>
+<multiplayer_late_cost>370</multiplayer_late_cost>
 <num_audio_VO_variations>4</num_audio_VO_variations>
 <on_screen_name>Yari Ashigaru</on_screen_name>
 <prestige>0</prestige>
@@ -11862,8 +12120,8 @@
 <mp_available_late>1</mp_available_late>
 <mp_available_middle>1</mp_available_middle>
 <multiplayer_category>mp_spear</multiplayer_category>
-<multiplayer_cost>700</multiplayer_cost>
-<multiplayer_late_cost>700</multiplayer_late_cost>
+<multiplayer_cost>650</multiplayer_cost>
+<multiplayer_late_cost>650</multiplayer_late_cost>
 <num_audio_VO_variations>4</num_audio_VO_variations>
 <on_screen_name>Yari Samurai</on_screen_name>
 <prestige>0</prestige>
@@ -12746,8 +13004,8 @@
 <mp_available_late>1</mp_available_late>
 <mp_available_middle>1</mp_available_middle>
 <multiplayer_category>mp_sword</multiplayer_category>
-<multiplayer_cost>800</multiplayer_cost>
-<multiplayer_late_cost>800</multiplayer_late_cost>
+<multiplayer_cost>850</multiplayer_cost>
+<multiplayer_late_cost>850</multiplayer_late_cost>
 <num_audio_VO_variations>4</num_audio_VO_variations>
 <on_screen_name>No-Dachi Samurai</on_screen_name>
 <prestige>0</prestige>
@@ -13129,6 +13387,43 @@
 <unit_recruited_movie>ship_light_matchlock</unit_recruited_movie>
 <unit_type_icon>gun_infantry</unit_type_icon>
 <upkeep_cost>50</upkeep_cost>
+<use_onscreen_name>0</use_onscreen_name>
+<VO_actor_numbers>0</VO_actor_numbers>
+<voice>ship</voice>
+</units>
+<units>
+<armed_citizenry>0</armed_citizenry>
+<audio_language>UK</audio_language>
+<campaign_action_points>50</campaign_action_points>
+<category>naval_light</category>
+<class>naval_light_ship</class>
+<create_cost>150</create_cost>
+<create_time>1</create_time>
+<era>early</era>
+<fitness>6</fitness>
+<icon_name>2deck50</icon_name>
+<in_encyclopedia>1</in_encyclopedia>
+<info_pic>2deck50</info_pic>
+<is_male>1</is_male>
+<key>Light_Ship_Matchlock_Kobaya_Otomo</key>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<mp_available_middle>1</mp_available_middle>
+<multiplayer_category>mp_naval_light</multiplayer_category>
+<multiplayer_cost>950</multiplayer_cost>
+<multiplayer_late_cost>950</multiplayer_late_cost>
+<num_audio_VO_variations>3</num_audio_VO_variations>
+<on_screen_name>Otomo Matchlock Kobaya</on_screen_name>
+<prestige>0</prestige>
+<supports_first_person>0</supports_first_person>
+<total_cap>0</total_cap>
+<total_cap_mp>0</total_cap_mp>
+<unique_index>1425</unique_index>
+<unit_caste>naval</unit_caste>
+<unit_description_text>Light_Ship_Matchlock_Kobaya_Otomo</unit_description_text>
+<unit_recruited_movie>ship_light_matchlock</unit_recruited_movie>
+<unit_type_icon>gun_infantry</unit_type_icon>
+<upkeep_cost>100</upkeep_cost>
 <use_onscreen_name>0</use_onscreen_name>
 <VO_actor_numbers>0</VO_actor_numbers>
 <voice>ship</voice>
@@ -14919,8 +15214,8 @@
 <mp_available_late>1</mp_available_late>
 <mp_available_middle>1</mp_available_middle>
 <multiplayer_category>mp_spear</multiplayer_category>
-<multiplayer_cost>500</multiplayer_cost>
-<multiplayer_late_cost>500</multiplayer_late_cost>
+<multiplayer_cost>520</multiplayer_cost>
+<multiplayer_late_cost>520</multiplayer_late_cost>
 <num_audio_VO_variations>4</num_audio_VO_variations>
 <on_screen_name>Long Yari Ashigaru</on_screen_name>
 <prestige>0</prestige>
@@ -15029,8 +15324,8 @@
 <mp_available_late>1</mp_available_late>
 <mp_available_middle>1</mp_available_middle>
 <multiplayer_category>mp_spear</multiplayer_category>
-<multiplayer_cost>950</multiplayer_cost>
-<multiplayer_late_cost>950</multiplayer_late_cost>
+<multiplayer_cost>900</multiplayer_cost>
+<multiplayer_late_cost>900</multiplayer_late_cost>
 <num_audio_VO_variations>4</num_audio_VO_variations>
 <on_screen_name>Bulletproof Samurai</on_screen_name>
 <prestige>0</prestige>
@@ -15065,8 +15360,8 @@
 <mp_available_late>1</mp_available_late>
 <mp_available_middle>1</mp_available_middle>
 <multiplayer_category>mp_sword</multiplayer_category>
-<multiplayer_cost>500</multiplayer_cost>
-<multiplayer_late_cost>500</multiplayer_late_cost>
+<multiplayer_cost>550</multiplayer_cost>
+<multiplayer_late_cost>550</multiplayer_late_cost>
 <num_audio_VO_variations>4</num_audio_VO_variations>
 <on_screen_name>Wako Raiders</on_screen_name>
 <prestige>0</prestige>

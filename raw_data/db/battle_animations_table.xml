@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Thu 3. Nov 16:33:33 2011" revision="23" export_branch="T:/branches/shogun2/boshin/common/TWeak/Framework" export_user="Richard.Thiang">
-<edit_uuid>34f0198a-f094-4351-b9e7-95561abfbed7</edit_uuid><battle_animations_table>
+<dataroot export_time="Sa 12. Apr 23:50:42 2014" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>086bf0fd-8436-41e3-88bd-7290d1f07af6</edit_uuid><battle_animations_table>
 <key>boshin_engine_armstrong_cannon</key>
 </battle_animations_table>
 <battle_animations_table>
@@ -73,6 +73,9 @@
 <key>shogun_man_carbine</key>
 </battle_animations_table>
 <battle_animations_table>
+<key>shogun_man_donderbuss</key>
+</battle_animations_table>
+<battle_animations_table>
 <key>shogun_man_hand_mortar</key>
 </battle_animations_table>
 <battle_animations_table>
@@ -83,6 +86,9 @@
 </battle_animations_table>
 <battle_animations_table>
 <key>shogun_man_musket_trained</key>
+</battle_animations_table>
+<battle_animations_table>
+<key>shogun_man_musket_trained_sabre</key>
 </battle_animations_table>
 <battle_animations_table>
 <key>shogun_man_ninja</key>

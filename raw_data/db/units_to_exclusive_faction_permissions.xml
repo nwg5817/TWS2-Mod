@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Wed 16. May 12:45:46 2012" revision="21" export_branch="T:/branches/shogun2/boshin_dlc/shogun2/binaries" export_user="Janos.Gaspar">
-<edit_uuid>07596a7e-3295-408c-9dcb-37ead0a011d0</edit_uuid><units_to_exclusive_faction_permissions>
+<dataroot export_time="So 13. Apr 01:34:08 2014" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>0d47e12f-7503-40b4-8462-f3aaa74de18c</edit_uuid><units_to_exclusive_faction_permissions>
 <allowed>1</allowed>
 <faction>hojo</faction>
 <key>Art_European_Cannons_Hojo</key>
@@ -431,6 +431,11 @@
 <key>Cav_Missile_Bow_Cavalry</key>
 </units_to_exclusive_faction_permissions>
 <units_to_exclusive_faction_permissions>
+<allowed>1</allowed>
+<faction>otomo</faction>
+<key>Cav_Missile_Donderbuss_Cavalry</key>
+</units_to_exclusive_faction_permissions>
+<units_to_exclusive_faction_permissions>
 <allowed>0</allowed>
 <faction>takeda</faction>
 <key>Cav_Spear_Great_Guard_Takeda</key>
@@ -509,6 +514,11 @@
 <allowed>1</allowed>
 <faction>oda</faction>
 <key>Gen_Oda_Nobunaga</key>
+</units_to_exclusive_faction_permissions>
+<units_to_exclusive_faction_permissions>
+<allowed>1</allowed>
+<faction>otomo</faction>
+<key>Gen_Otomo_Sorin</key>
 </units_to_exclusive_faction_permissions>
 <units_to_exclusive_faction_permissions>
 <allowed>1</allowed>
@@ -746,6 +756,11 @@
 <key>Inf_Missile_Matchlock_Ashigaru_Oda</key>
 </units_to_exclusive_faction_permissions>
 <units_to_exclusive_faction_permissions>
+<allowed>1</allowed>
+<faction>otomo</faction>
+<key>Inf_Missile_Matchlock_Ashigaru_Otomo</key>
+</units_to_exclusive_faction_permissions>
+<units_to_exclusive_faction_permissions>
 <allowed>0</allowed>
 <faction>iga_ninja</faction>
 <key>Inf_Missile_Matchlock_Ashigaru</key>
@@ -761,9 +776,19 @@
 <key>Inf_Missile_Matchlock_Samurai_Hattori</key>
 </units_to_exclusive_faction_permissions>
 <units_to_exclusive_faction_permissions>
+<allowed>1</allowed>
+<faction>otomo</faction>
+<key>Inf_Missile_Matchlock_Samurai_Otomo</key>
+</units_to_exclusive_faction_permissions>
+<units_to_exclusive_faction_permissions>
 <allowed>0</allowed>
 <faction>iga_ninja</faction>
 <key>Inf_Missile_Matchlock_Samurai</key>
+</units_to_exclusive_faction_permissions>
+<units_to_exclusive_faction_permissions>
+<allowed>1</allowed>
+<faction>otomo</faction>
+<key>Inf_Missile_Portuguese_Tercos</key>
 </units_to_exclusive_faction_permissions>
 <units_to_exclusive_faction_permissions>
 <allowed>1</allowed>
@@ -924,6 +949,11 @@
 <allowed>1</allowed>
 <faction>mori</faction>
 <key>Light_Ship_Matchlock_Kobaya_Mori</key>
+</units_to_exclusive_faction_permissions>
+<units_to_exclusive_faction_permissions>
+<allowed>1</allowed>
+<faction>otomo</faction>
+<key>Light_Ship_Matchlock_Kobaya_Otomo</key>
 </units_to_exclusive_faction_permissions>
 <units_to_exclusive_faction_permissions>
 <allowed>0</allowed>

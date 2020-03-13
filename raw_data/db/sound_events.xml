@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Sat 12. May 16:43:40 2012" revision="36" export_branch="T:/branches/shogun2/boshin_dlc/shogun2/binaries" export_user="Graham.Schroeter">
-<edit_uuid>b2114587-dfc2-4dc8-8f5a-aab137f9fbd2</edit_uuid><sound_events>
+<dataroot export_time="So 13. Apr 01:44:14 2014" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>ea5b861a-d41b-4365-9041-9032982643e4</edit_uuid><sound_events>
 <name>Ashigaru_Archers_Special_Ability_Fire_Arrows</name>
 </sound_events>
 <sound_events>
@@ -2983,10 +2983,25 @@
 <name>Unit_type_selection_Onna_Bushi_Heroine</name>
 </sound_events>
 <sound_events>
+<name>Unit_type_selection_Otomo_Donderrbuss_Cavalry</name>
+</sound_events>
+<sound_events>
+<name>Unit_type_selection_Otomo_Matchlock_Ashigaru</name>
+</sound_events>
+<sound_events>
+<name>Unit_type_selection_Otomo_Matchlock_Kobaya</name>
+</sound_events>
+<sound_events>
+<name>Unit_type_selection_Otomo_Matchlock_Samurai</name>
+</sound_events>
+<sound_events>
 <name>Unit_type_selection_Pirate_Light_Ship</name>
 </sound_events>
 <sound_events>
 <name>Unit_type_selection_Pirate_Medium_Ship</name>
+</sound_events>
+<sound_events>
+<name>Unit_type_selection_Portuguese_Tercos</name>
 </sound_events>
 <sound_events>
 <name>Unit_type_selection_Red_Seal_Ship</name>

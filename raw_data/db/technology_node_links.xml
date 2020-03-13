@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Thu 8. Dec 15:53:28 2011" revision="21" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Jeff.Woods">
-<edit_uuid>d49f17b0-ffa7-4358-aac8-2c63570feedf</edit_uuid><technology_node_links>
+<dataroot export_time="So 13. Apr 01:09:34 2014" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>7eb3881d-e63a-4e6b-b0b9-3e98c73f9313</edit_uuid><technology_node_links>
 <child_key>boshin_main_civil_node_003_administrative_training</child_key>
 <child_link_position>0</child_link_position>
 <initial_descent_tiers>0</initial_descent_tiers>
@@ -946,6 +946,13 @@
 <parent_link_position>-1</parent_link_position>
 </technology_node_links>
 <technology_node_links>
+<child_key>shogun_main_civil_node_004_otomo_essence_of_the_spirit</child_key>
+<child_link_position>0</child_link_position>
+<initial_descent_tiers>0</initial_descent_tiers>
+<parent_key>shogun_main_civil_node_002_zen</parent_key>
+<parent_link_position>-1</parent_link_position>
+</technology_node_links>
+<technology_node_links>
 <child_key>shogun_main_civil_node_005_noh</child_key>
 <child_link_position>0</child_link_position>
 <initial_descent_tiers>0</initial_descent_tiers>
@@ -999,6 +1006,13 @@
 <child_link_position>0</child_link_position>
 <initial_descent_tiers>1</initial_descent_tiers>
 <parent_key>shogun_main_civil_node_004_essence_of_the_spirit</parent_key>
+<parent_link_position>0</parent_link_position>
+</technology_node_links>
+<technology_node_links>
+<child_key>shogun_main_civil_node_010_religious_self_sufficiency</child_key>
+<child_link_position>0</child_link_position>
+<initial_descent_tiers>1</initial_descent_tiers>
+<parent_key>shogun_main_civil_node_004_otomo_essence_of_the_spirit</parent_key>
 <parent_link_position>0</parent_link_position>
 </technology_node_links>
 <technology_node_links>
@@ -1065,6 +1079,13 @@
 <parent_link_position>0</parent_link_position>
 </technology_node_links>
 <technology_node_links>
+<child_key>shogun_main_civil_node_016_religious_propagation</child_key>
+<child_link_position>0</child_link_position>
+<initial_descent_tiers>1</initial_descent_tiers>
+<parent_key>shogun_main_civil_node_010_religious_self_sufficiency</parent_key>
+<parent_link_position>0</parent_link_position>
+</technology_node_links>
+<technology_node_links>
 <child_key>shogun_main_civil_node_018_ninjutsu_mastery</child_key>
 <child_link_position>0</child_link_position>
 <initial_descent_tiers>1</initial_descent_tiers>
@@ -1081,6 +1102,13 @@
 <technology_node_links>
 <child_key>shogun_main_civil_node_016_neo_confucianism</child_key>
 <child_link_position>0</child_link_position>
+<initial_descent_tiers>0</initial_descent_tiers>
+<parent_key>shogun_main_civil_node_014_calligraphy</parent_key>
+<parent_link_position>-1</parent_link_position>
+</technology_node_links>
+<technology_node_links>
+<child_key>shogun_main_civil_node_016_religious_propagation</child_key>
+<child_link_position>1</child_link_position>
 <initial_descent_tiers>0</initial_descent_tiers>
 <parent_key>shogun_main_civil_node_014_calligraphy</parent_key>
 <parent_link_position>-1</parent_link_position>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Thu 8. Mar 16:46:24 2012" revision="35" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Janos.Gaspar">
-<edit_uuid>254daef3-c40c-4230-8134-cf77e55b6f47</edit_uuid><building_factionwide_effects_junctions>
+<dataroot export_time="So 13. Apr 01:21:45 2014" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>093d8876-901d-4e0f-9539-b7a9bf6c669c</edit_uuid><building_factionwide_effects_junctions>
 <building>GEM_Buddhist_1_Buddhist_Sanctuary</building>
 <effect>gem_agent_cap_monk</effect>
 <effect_value>1</effect_value>
@@ -211,6 +211,16 @@
 <effect_value>5</effect_value>
 </building_factionwide_effects_junctions>
 <building_factionwide_effects_junctions>
+<building>SHO_Christian_2_Hospital</building>
+<effect>agent_cap_missionary</effect>
+<effect_value>1</effect_value>
+</building_factionwide_effects_junctions>
+<building_factionwide_effects_junctions>
+<building>SHO_Christian_2_Hospital</building>
+<effect>research_points_bonus_civil</effect>
+<effect_value>5</effect_value>
+</building_factionwide_effects_junctions>
+<building_factionwide_effects_junctions>
 <building>SHO_Christian_2_Mission</building>
 <effect>agent_cap_missionary</effect>
 <effect_value>1</effect_value>
@@ -231,6 +241,16 @@
 <effect_value>15</effect_value>
 </building_factionwide_effects_junctions>
 <building_factionwide_effects_junctions>
+<building>SHO_Christian_3_Jesuit_Seminar</building>
+<effect>agent_cap_missionary</effect>
+<effect_value>1</effect_value>
+</building_factionwide_effects_junctions>
+<building_factionwide_effects_junctions>
+<building>SHO_Christian_3_Jesuit_Seminar</building>
+<effect>research_points_bonus_civil</effect>
+<effect_value>5</effect_value>
+</building_factionwide_effects_junctions>
+<building_factionwide_effects_junctions>
 <building>SHO_Christian_4_Cathedral</building>
 <effect>agent_cap_missionary</effect>
 <effect_value>1</effect_value>
@@ -239,6 +259,16 @@
 <building>SHO_Christian_4_Cathedral</building>
 <effect>research_points_bonus_civil</effect>
 <effect_value>25</effect_value>
+</building_factionwide_effects_junctions>
+<building_factionwide_effects_junctions>
+<building>SHO_Christian_4_Jesuit_College</building>
+<effect>agent_cap_missionary</effect>
+<effect_value>1</effect_value>
+</building_factionwide_effects_junctions>
+<building_factionwide_effects_junctions>
+<building>SHO_Christian_4_Jesuit_College</building>
+<effect>research_points_bonus_civil</effect>
+<effect_value>5</effect_value>
 </building_factionwide_effects_junctions>
 <building_factionwide_effects_junctions>
 <building>SHO_Crafts_1_Market</building>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Tue 3. Apr 14:20:43 2012" revision="89" export_branch="T:/branches/shogun2/ted_release/common/TWeak/Framework" export_user="Luke.Carter">
-<edit_uuid>480950d3-58a6-4efb-b0f9-4042838baf89</edit_uuid><factions>
+<dataroot export_time="do. 13. abr. 15:29:36 2014" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>ef15e4b6-2e75-4d4e-86de-8bc7bb9465bf</edit_uuid><factions>
 <alt_primary_colour_b>150</alt_primary_colour_b>
 <alt_primary_colour_g>79</alt_primary_colour_g>
 <alt_primary_colour_r>9</alt_primary_colour_r>
@@ -10339,6 +10339,8 @@
 <audio_faction_string>Uk</audio_faction_string>
 <audio_language>UK</audio_language>
 <category>minor</category>
+<clan_summary_name>The Otomo Clan</clan_summary_name>
+<clan_summary_name_when_shogun>The Otomo Shogunate</clan_summary_name_when_shogun>
 <defend_desc>You are defending against a force of Otomo attackers.</defend_desc>
 <flags_path>data\ui\flags\Otomo</flags_path>
 <icons_path_units>data\ui\units\icons\france</icons_path_units>
@@ -10347,8 +10349,8 @@
 <key>otomo</key>
 <military_group>japan</military_group>
 <movie_death_event>0</movie_death_event>
-<mp_available>0</mp_available>
-<mp_available_naval>0</mp_available_naval>
+<mp_available>1</mp_available>
+<mp_available_naval>1</mp_available_naval>
 <mp_use_republic_early>0</mp_use_republic_early>
 <mp_use_republic_late>0</mp_use_republic_late>
 <name_group>names_japanese</name_group>

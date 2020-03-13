@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Fri 29. Jun 14:29:19 2012" revision="24" export_branch="T:/branches/shogun2/boshin_dlc/shogun2/binaries" export_user="Jack.Lusted">
-<edit_uuid>29c01efb-89dd-4afd-a726-7fa53a876d68</edit_uuid><warscape_equipment_items>
+<dataroot export_time="So 13. Apr 01:31:21 2014" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>2de32194-05f0-4df1-bfe0-ea11a7280bdf</edit_uuid><warscape_equipment_items>
 <equipment_item>Basket</equipment_item>
 <equipment_key>cinematic_basket</equipment_key>
 </warscape_equipment_items>
@@ -163,6 +163,10 @@
 <warscape_equipment_items>
 <equipment_item>csabre_A</equipment_item>
 <equipment_key>boshin_campaign_sabre</equipment_key>
+</warscape_equipment_items>
+<warscape_equipment_items>
+<equipment_item>donderbuss</equipment_item>
+<equipment_key>donderbuss</equipment_key>
 </warscape_equipment_items>
 <warscape_equipment_items>
 <equipment_item>drumstick1</equipment_item>

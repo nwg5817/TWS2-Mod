@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Fri 29. Jun 14:29:09 2012" revision="8" export_branch="T:/branches/shogun2/boshin_dlc/shogun2/binaries" export_user="Jack.Lusted">
-<edit_uuid>7cf638f3-c60e-4fa5-ab14-3a5e300f83b4</edit_uuid><warscape_equipment_collections>
+<dataroot export_time="Sa 12. Apr 23:47:37 2014" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>956ff2b8-b723-48e3-9eaa-318ed18fe6ec</edit_uuid><warscape_equipment_collections>
 <collection_key>arrow_foot</collection_key>
 </warscape_equipment_collections>
 <warscape_equipment_collections>
@@ -92,6 +92,9 @@
 </warscape_equipment_collections>
 <warscape_equipment_collections>
 <collection_key>cinematic_umbrella</collection_key>
+</warscape_equipment_collections>
+<warscape_equipment_collections>
+<collection_key>donderbuss</collection_key>
 </warscape_equipment_collections>
 <warscape_equipment_collections>
 <collection_key>drumstick1</collection_key>

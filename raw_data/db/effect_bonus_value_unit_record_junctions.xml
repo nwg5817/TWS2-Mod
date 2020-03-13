@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Wed 16. May 15:35:32 2012" revision="54" export_branch="T:/branches/shogun2/boshin_dlc/shogun2/binaries" export_user="Dom.Starr">
-<edit_uuid>d3955927-0691-4a25-9750-40ed248b5b83</edit_uuid><effect_bonus_value_unit_record_junctions>
+<dataroot export_time="vi. 17. abr. 05:30:22 2015" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>596483a3-fd78-4e63-8ccd-d1b1b7d98013</edit_uuid><effect_bonus_value_unit_record_junctions>
 <bonus_value_id>accuracy_mod</bonus_value_id>
 <effect>bos_ancillary_accuracy_mod_bows</effect>
 <unit_record_key>Boshin_Cav_Missile_Bow_Ki</unit_record_key>
@@ -1932,6 +1932,26 @@
 </effect_bonus_value_unit_record_junctions>
 <effect_bonus_value_unit_record_junctions>
 <bonus_value_id>cost_mod</bonus_value_id>
+<effect>clan_trait_otomo_cheap_gunpowder_units</effect>
+<unit_record_key>Inf_Missile_Imported_Matchlock_Ashigaru</unit_record_key>
+</effect_bonus_value_unit_record_junctions>
+<effect_bonus_value_unit_record_junctions>
+<bonus_value_id>cost_mod</bonus_value_id>
+<effect>clan_trait_otomo_cheap_gunpowder_units</effect>
+<unit_record_key>Inf_Missile_Matchlock_Ashigaru</unit_record_key>
+</effect_bonus_value_unit_record_junctions>
+<effect_bonus_value_unit_record_junctions>
+<bonus_value_id>cost_mod</bonus_value_id>
+<effect>clan_trait_otomo_cheap_gunpowder_units</effect>
+<unit_record_key>Inf_Missile_Matchlock_Samurai</unit_record_key>
+</effect_bonus_value_unit_record_junctions>
+<effect_bonus_value_unit_record_junctions>
+<bonus_value_id>recruit_time_mod</bonus_value_id>
+<effect>clan_trait_otomo_faster_import_matchlock</effect>
+<unit_record_key>Inf_Missile_Imported_Matchlock_Ashigaru</unit_record_key>
+</effect_bonus_value_unit_record_junctions>
+<effect_bonus_value_unit_record_junctions>
+<bonus_value_id>cost_mod</bonus_value_id>
 <effect>gem_clan_trait_fujiwara_kubota_levy_cost_increase</effect>
 <unit_record_key>Genpei_Heavy_Ship_Heavy_Ship_Attendants</unit_record_key>
 </effect_bonus_value_unit_record_junctions>
@@ -2313,6 +2333,11 @@
 <effect_bonus_value_unit_record_junctions>
 <bonus_value_id>general_aoe_mod</bonus_value_id>
 <effect>general_aura_mod</effect>
+<unit_record_key>Gen_Otomo_Sorin</unit_record_key>
+</effect_bonus_value_unit_record_junctions>
+<effect_bonus_value_unit_record_junctions>
+<bonus_value_id>general_aoe_mod</bonus_value_id>
+<effect>general_aura_mod</effect>
 <unit_record_key>Gen_Shimazu_Yoshihiro</unit_record_key>
 </effect_bonus_value_unit_record_junctions>
 <effect_bonus_value_unit_record_junctions>
@@ -2438,6 +2463,11 @@
 <effect_bonus_value_unit_record_junctions>
 <bonus_value_id>armour_mod</bonus_value_id>
 <effect>general_bodyguard_armour_bonus</effect>
+<unit_record_key>Gen_Otomo_Sorin</unit_record_key>
+</effect_bonus_value_unit_record_junctions>
+<effect_bonus_value_unit_record_junctions>
+<bonus_value_id>armour_mod</bonus_value_id>
+<effect>general_bodyguard_armour_bonus</effect>
 <unit_record_key>Gen_Shimazu_Yoshihiro</unit_record_key>
 </effect_bonus_value_unit_record_junctions>
 <effect_bonus_value_unit_record_junctions>
@@ -2553,6 +2583,11 @@
 <effect_bonus_value_unit_record_junctions>
 <bonus_value_id>melee_attack_mod</bonus_value_id>
 <effect>general_bodyguard_attack_bonus</effect>
+<unit_record_key>Gen_Otomo_Sorin</unit_record_key>
+</effect_bonus_value_unit_record_junctions>
+<effect_bonus_value_unit_record_junctions>
+<bonus_value_id>melee_attack_mod</bonus_value_id>
+<effect>general_bodyguard_attack_bonus</effect>
 <unit_record_key>Gen_Shimazu_Yoshihiro</unit_record_key>
 </effect_bonus_value_unit_record_junctions>
 <effect_bonus_value_unit_record_junctions>
@@ -2668,6 +2703,11 @@
 <effect_bonus_value_unit_record_junctions>
 <bonus_value_id>melee_defence_mod</bonus_value_id>
 <effect>general_bodyguard_defence_bonus</effect>
+<unit_record_key>Gen_Otomo_Sorin</unit_record_key>
+</effect_bonus_value_unit_record_junctions>
+<effect_bonus_value_unit_record_junctions>
+<bonus_value_id>melee_defence_mod</bonus_value_id>
+<effect>general_bodyguard_defence_bonus</effect>
 <unit_record_key>Gen_Shimazu_Yoshihiro</unit_record_key>
 </effect_bonus_value_unit_record_junctions>
 <effect_bonus_value_unit_record_junctions>
@@ -2779,6 +2819,11 @@
 <bonus_value_id>morale</bonus_value_id>
 <effect>general_bodyguard_morale_bonus</effect>
 <unit_record_key>Gen_Ogigayatsu_Tomosada</unit_record_key>
+</effect_bonus_value_unit_record_junctions>
+<effect_bonus_value_unit_record_junctions>
+<bonus_value_id>morale</bonus_value_id>
+<effect>general_bodyguard_morale_bonus</effect>
+<unit_record_key>Gen_Otomo_Sorin</unit_record_key>
 </effect_bonus_value_unit_record_junctions>
 <effect_bonus_value_unit_record_junctions>
 <bonus_value_id>morale</bonus_value_id>
@@ -3383,6 +3428,11 @@
 <effect_bonus_value_unit_record_junctions>
 <bonus_value_id>scares_men</bonus_value_id>
 <effect>mod_unit_morale_enemy</effect>
+<unit_record_key>Gen_Otomo_Sorin</unit_record_key>
+</effect_bonus_value_unit_record_junctions>
+<effect_bonus_value_unit_record_junctions>
+<bonus_value_id>scares_men</bonus_value_id>
+<effect>mod_unit_morale_enemy</effect>
 <unit_record_key>Gen_Shimazu_Yoshihiro</unit_record_key>
 </effect_bonus_value_unit_record_junctions>
 <effect_bonus_value_unit_record_junctions>
@@ -3889,6 +3939,11 @@
 <bonus_value_id>general_aoe_mod</bonus_value_id>
 <effect>tech_general_aoe_mod</effect>
 <unit_record_key>Gen_Ogigayatsu_Tomosada</unit_record_key>
+</effect_bonus_value_unit_record_junctions>
+<effect_bonus_value_unit_record_junctions>
+<bonus_value_id>general_aoe_mod</bonus_value_id>
+<effect>tech_general_aoe_mod</effect>
+<unit_record_key>Gen_Otomo_Sorin</unit_record_key>
 </effect_bonus_value_unit_record_junctions>
 <effect_bonus_value_unit_record_junctions>
 <bonus_value_id>general_aoe_mod</bonus_value_id>

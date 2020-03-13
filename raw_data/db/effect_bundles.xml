@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Wed 14. Dec 10:43:25 2011" revision="74" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Dom.Starr">
-<edit_uuid>fe5c0153-e537-4d77-beec-983b637346cd</edit_uuid><effect_bundles>
+<dataroot export_time="ju. 26. dic. 15:59:41 2013" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>64ede202-6cdb-4e88-aed7-98d4a205482d</edit_uuid><effect_bundles>
 <key>bos_aizu</key>
 <localised_description>A strong tree always has deep roots.</localised_description>
 <localised_title>The Traditionalists</localised_title>
@@ -1289,6 +1289,12 @@
 <localised_description>Any man can bravely carry a spear.</localised_description>
 <localised_title>Masters of Peasantry</localised_title>
 <ui_icon>effect_oda.tga</ui_icon>
+</effect_bundles>
+<effect_bundles>
+<key>t_otomo</key>
+<localised_description>Shooting an enemy is not a matter of honour, but victory.</localised_description>
+<localised_title>Master Gunners</localised_title>
+<ui_icon>effect_otomo.tga</ui_icon>
 </effect_bundles>
 <effect_bundles>
 <key>t_shimazu</key>

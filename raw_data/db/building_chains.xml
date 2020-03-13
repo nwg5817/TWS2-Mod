@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Wed 5. Oct 10:22:39 2011" revision="18" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Luke.Carter">
-<edit_uuid>cc92c6ba-dce4-4465-8144-43f99ed35f2d</edit_uuid><building_chains>
+<dataroot export_time="So 13. Apr 00:13:47 2014" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>43a75c86-6909-4450-b446-66eb4b7c6b96</edit_uuid><building_chains>
 <chain_category>happiness</chain_category>
 <chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
 <in_encyclopedia>1</in_encyclopedia>
@@ -197,6 +197,12 @@
 <chain_tooltip>REPLACE_ME_140600</chain_tooltip>
 <in_encyclopedia>1</in_encyclopedia>
 <key>SHO_Port</key>
+</building_chains>
+<building_chains>
+<chain_category>money</chain_category>
+<chain_tooltip>&quot;PLACEHOLDER Tooltip&quot;</chain_tooltip>
+<in_encyclopedia>1</in_encyclopedia>
+<key>SHO_Portuguese</key>
 </building_chains>
 <building_chains>
 <chain_category>happiness</chain_category>

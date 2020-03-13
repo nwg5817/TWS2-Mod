@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Fri 25. Mar 09:11:04 2011" revision="8" export_branch="T:/branches/shogun2/release/shogun2/binaries" export_user="Dom.Starr">
-<edit_uuid>08b8a26c-36cb-4a2c-b613-2602625997f9</edit_uuid><start_pos_settlement_garrisons>
+<dataroot export_time="ju. 26. dic. 17:10:22 2013" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>ad3f097d-793f-4ef3-9326-07e6ff1f27d1</edit_uuid><start_pos_settlement_garrisons>
 <id>2106963611</id>
 <settlement>1169816324</settlement>
 <soldiers>100</soldiers>
@@ -47,18 +47,6 @@
 <settlement>-2005708209</settlement>
 <soldiers>100</soldiers>
 <unit>Inf_Missile_Bow_Ashigaru</unit>
-</start_pos_settlement_garrisons>
-<start_pos_settlement_garrisons>
-<id>2106963651</id>
-<settlement>-1369750656</settlement>
-<soldiers>100</soldiers>
-<unit>Inf_Missile_Bow_Ashigaru</unit>
-</start_pos_settlement_garrisons>
-<start_pos_settlement_garrisons>
-<id>2106963655</id>
-<settlement>-1369750656</settlement>
-<soldiers>100</soldiers>
-<unit>Inf_Spear_Yari_Ashigaru</unit>
 </start_pos_settlement_garrisons>
 <start_pos_settlement_garrisons>
 <id>2106963665</id>
@@ -203,11 +191,5 @@
 <settlement>1500887159</settlement>
 <soldiers>100</soldiers>
 <unit>Inf_Missile_Bow_Ashigaru</unit>
-</start_pos_settlement_garrisons>
-<start_pos_settlement_garrisons>
-<id>2106963789</id>
-<settlement>-1369750656</settlement>
-<soldiers>100</soldiers>
-<unit>Inf_Missile_Matchlock_Ashigaru</unit>
 </start_pos_settlement_garrisons>
 </dataroot>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Thu 19. Apr 16:02:13 2012" revision="32" export_branch="T:/branches/shogun2/boshin_dlc/shogun2/binaries" export_user="Jack.Lusted">
-<edit_uuid>b1f8da45-fd20-43bf-ae89-8393121c2749</edit_uuid><battle_personalities>
+<dataroot export_time="do. 13. abr. 15:54:23 2014" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>e265a1ef-c5e8-453f-a15b-974b16fc95e6</edit_uuid><battle_personalities>
 <equipment_theme>shogun_katana</equipment_theme>
 <key>avatar_general</key>
 <man_animations_table>shogun_man_katana</man_animations_table>
@@ -198,6 +198,13 @@
 <equipment_theme>shogun_teppo</equipment_theme>
 <key>officer_teppo</key>
 <man_animations_table>shogun_man_musket</man_animations_table>
+<soldier_model>shogun_samurai_test</soldier_model>
+<type>officer</type>
+</battle_personalities>
+<battle_personalities>
+<equipment_theme>shogun_tercos</equipment_theme>
+<key>officer_tercos</key>
+<man_animations_table>shogun_man_musket_trained_sabre</man_animations_table>
 <soldier_model>shogun_samurai_test</soldier_model>
 <type>officer</type>
 </battle_personalities>

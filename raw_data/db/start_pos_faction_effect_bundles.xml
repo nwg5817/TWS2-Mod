@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Fri 9. Dec 11:07:22 2011" revision="13" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Jeff.Woods">
-<edit_uuid>e1da1a30-98fb-4871-825f-bbe870cd489a</edit_uuid><start_pos_faction_effect_bundles>
+<dataroot export_time="do. 13. abr. 18:25:43 2014" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>0d8aa5db-295e-4aa0-b250-964cecf8e277</edit_uuid><start_pos_faction_effect_bundles>
 <duration>0</duration>
 <effect_bundle>t_oda</effect_bundle>
 <start_pos_faction>-1778312400</start_pos_faction>
@@ -39,6 +39,11 @@
 <duration>0</duration>
 <effect_bundle>t_chosokabe</effect_bundle>
 <start_pos_faction>2120134924</start_pos_faction>
+</start_pos_faction_effect_bundles>
+<start_pos_faction_effect_bundles>
+<duration>0</duration>
+<effect_bundle>t_otomo</effect_bundle>
+<start_pos_faction>2120134929</start_pos_faction>
 </start_pos_faction_effect_bundles>
 <start_pos_faction_effect_bundles>
 <duration>0</duration>

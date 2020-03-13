@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Fri 20. Jan 10:49:50 2012" revision="74" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Dom.Starr">
-<edit_uuid>f96f56fc-9fe3-42df-b106-176d5d8cf482</edit_uuid><start_pos_characters>
+<dataroot export_time="ju. 26. dic. 15:16:35 2013" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>01b4b73f-e55a-431d-82cb-446d4aca146d</edit_uuid><start_pos_characters>
 <Age>35</Age>
 <faction>-1778312400</faction>
 <ID>2140780828</ID>
@@ -7352,6 +7352,20 @@
 <startx>218</startx>
 <starty>111</starty>
 <Surname>2147321138</Surname>
+<Type>General</Type>
+</start_pos_characters>
+<start_pos_characters>
+<Age>26</Age>
+<faction>2120134929</faction>
+<ID>2140783447</ID>
+<immortal>0</immortal>
+<is_in_generals_pool>0</is_in_generals_pool>
+<is_male>1</is_male>
+<loyalty>3</loyalty>
+<Name>2147320381</Name>
+<startx>0</startx>
+<starty>0</starty>
+<Surname>2147272964</Surname>
 <Type>General</Type>
 </start_pos_characters>
 </dataroot>

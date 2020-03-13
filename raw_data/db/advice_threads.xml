@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Wed 1. Feb 11:35:58 2012" revision="97" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Chris.Gambold">
-<edit_uuid>a9ba5ab9-a73b-4834-add8-45a32e5e5ccd</edit_uuid><advice_threads>
+<dataroot export_time="ju. 26. dic. 18:29:02 2013" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>c8b0f49e-8dd7-4068-a159-d7cf058c8ccd</edit_uuid><advice_threads>
 <thread>0001_Battle_Tip_Friendly_Fire_Thread</thread>
 </advice_threads>
 <advice_threads>
@@ -1151,6 +1151,9 @@
 </advice_threads>
 <advice_threads>
 <thread>3045_STW2_Boshin_Clan_Intro_Obama_1_Thread</thread>
+</advice_threads>
+<advice_threads>
+<thread>4000_STW2_Clan_Intro_Otomo</thread>
 </advice_threads>
 <advice_threads>
 <thread>5000_MP_TUT_Thread</thread>

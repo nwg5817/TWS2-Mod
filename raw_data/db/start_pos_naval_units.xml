@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Mon 14. Nov 17:34:47 2011" revision="15" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Dom.Starr">
-<edit_uuid>4b1d6ed5-4ce0-49f9-bfea-c60f050642f1</edit_uuid><start_pos_naval_units>
+<dataroot export_time="vi. 17. abr. 05:19:27 2015" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>67477aae-0cc6-45ca-b8c9-b73bac69a14b</edit_uuid><start_pos_naval_units>
 <admiral>2140781285</admiral>
 <ID>2137602247</ID>
 <unit_type>Light_Ship_Bow_Kobaya_Mori</unit_type>
@@ -8,7 +8,7 @@
 <start_pos_naval_units>
 <admiral>2140781292</admiral>
 <ID>2137602257</ID>
-<unit_type>Light_Ship_Bow_Kobaya</unit_type>
+<unit_type>Light_Ship_Matchlock_Kobaya_Otomo</unit_type>
 </start_pos_naval_units>
 <start_pos_naval_units>
 <admiral>2140781295</admiral>

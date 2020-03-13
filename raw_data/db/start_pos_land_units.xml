@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Tue 24. Jan 11:46:18 2012" revision="37" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Dom.Starr">
-<edit_uuid>0aa4e709-41e8-4950-8dda-a1a39a19f21d</edit_uuid><start_pos_land_units>
+<dataroot export_time="ju. 26. dic. 15:33:21 2013" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>54e3a678-7902-4424-b2c7-d2733d0a91c7</edit_uuid><start_pos_land_units>
 <general>2140780855</general>
 <id>2141999984</id>
 <soldiers>100</soldiers>
@@ -13,7 +13,7 @@
 <unit_type>Inf_Spear_Yari_Ashigaru</unit_type>
 </start_pos_land_units>
 <start_pos_land_units>
-<general>2140780855</general>
+<general>2140783447</general>
 <id>2141999986</id>
 <soldiers>100</soldiers>
 <unit_type>Inf_Spear_Yari_Ashigaru</unit_type>
@@ -3389,5 +3389,17 @@
 <id>2142003132</id>
 <soldiers>100</soldiers>
 <unit_type>Boshin_Inf_Spear_Yari_Kachi</unit_type>
+</start_pos_land_units>
+<start_pos_land_units>
+<general>2140783447</general>
+<id>2142003134</id>
+<soldiers>100</soldiers>
+<unit_type>Inf_Missile_Bow_Ashigaru</unit_type>
+</start_pos_land_units>
+<start_pos_land_units>
+<general>2140783447</general>
+<id>2142003140</id>
+<soldiers>100</soldiers>
+<unit_type>Inf_Missile_Matchlock_Ashigaru</unit_type>
 </start_pos_land_units>
 </dataroot>

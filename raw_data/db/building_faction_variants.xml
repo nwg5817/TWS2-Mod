@@ -1,3 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Mon 21. Jun 12:10:25 2010" revision="1" export_branch="C:/tw/campaign/dev/common/TWeak/Framework" export_user="Alan.Blair">
-<edit_uuid>da758b5f-02f0-4da4-a475-60a28ccece21</edit_uuid></dataroot>
+<dataroot export_time="So 13. Apr 01:15:05 2014" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>f040833c-8239-400a-a1f9-435afc36cfbc</edit_uuid><building_faction_variants>
+<artpiece>campaign_sho_christian_4_cathedral</artpiece>
+<building>SHO_Christian_2_Hospital</building>
+<description>SHO_Christian_2_Hospital_Description</description>
+<faction>otomo</faction>
+<icon>SHO_Christian_2_Hospital</icon>
+<onscreen_name>Hospital</onscreen_name>
+</building_faction_variants>
+<building_faction_variants>
+<artpiece>campaign_sho_christian_4_cathedral</artpiece>
+<building>SHO_Christian_3_Jesuit_Seminar</building>
+<description>SHO_Christian_3_Jesuit_Seminar_Description</description>
+<faction>otomo</faction>
+<icon>SHO_Christian_3_Jesuit_Seminar</icon>
+<onscreen_name>Jesuit Seminar</onscreen_name>
+</building_faction_variants>
+<building_faction_variants>
+<artpiece>campaign_sho_christian_4_cathedral</artpiece>
+<building>SHO_Christian_4_Jesuit_College</building>
+<description>SHO_Christian_4_Jesuit_College_Description</description>
+<faction>otomo</faction>
+<icon>SHO_Christian_4_Jesuit_College</icon>
+<onscreen_name>Jesuit College</onscreen_name>
+</building_faction_variants>
+<building_faction_variants>
+<artpiece>campaign_sho_christian_4_cathedral</artpiece>
+<building>SHO_Portuguese_Land_Sold</building>
+<description>SHO_Portuguese_Land</description>
+<faction>otomo</faction>
+<icon>SHO_Portuguese_Land_Sold</icon>
+<onscreen_name>Leased Land</onscreen_name>
+</building_faction_variants>
+</dataroot>

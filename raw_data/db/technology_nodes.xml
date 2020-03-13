@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Thu 8. Dec 15:52:55 2011" revision="21" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Jeff.Woods">
-<edit_uuid>cc51ca72-73bc-40f6-9332-2a97f1ae3acc</edit_uuid><technology_nodes>
+<dataroot export_time="So 13. Apr 01:07:36 2014" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>c7eb8478-50e7-4baf-9f16-a0f13d0f3e4e</edit_uuid><technology_nodes>
 <indent>43</indent>
 <key>boshin_main_civil_node_001_epic_architecture</key>
 <technology_key>boshin_civil_epic_architecture</technology_key>
@@ -904,6 +904,13 @@
 <tier>2</tier>
 </technology_nodes>
 <technology_nodes>
+<indent>34</indent>
+<key>shogun_main_civil_node_004_otomo_essence_of_the_spirit</key>
+<technology_key>shogun_civil_religion_otomo_essence_of_the_spirit</technology_key>
+<technology_node_set>boshin_main_civil</technology_node_set>
+<tier>2</tier>
+</technology_nodes>
+<technology_nodes>
 <indent>40</indent>
 <key>shogun_main_civil_node_005_noh</key>
 <technology_key>shogun_civil_loyalty_noh</technology_key>
@@ -937,6 +944,13 @@
 <technology_key>shogun_civil_core_tax_reform</technology_key>
 <technology_node_set>shogun_main_civil</technology_node_set>
 <tier>3</tier>
+</technology_nodes>
+<technology_nodes>
+<indent>34</indent>
+<key>shogun_main_civil_node_010_religious_self_sufficiency</key>
+<technology_key>shogun_civil_religion_religious_self_sufficiency</technology_key>
+<technology_node_set>boshin_main_civil</technology_node_set>
+<tier>4</tier>
 </technology_nodes>
 <technology_nodes>
 <indent>34</indent>
@@ -984,6 +998,13 @@
 <indent>34</indent>
 <key>shogun_main_civil_node_016_neo_confucianism</key>
 <technology_key>shogun_civil_religion_neo_confucianism</technology_key>
+<technology_node_set>shogun_main_civil</technology_node_set>
+<tier>6</tier>
+</technology_nodes>
+<technology_nodes>
+<indent>34</indent>
+<key>shogun_main_civil_node_016_religious_propagation</key>
+<technology_key>shogun_civil_religion_religious_propagation</technology_key>
 <technology_node_set>shogun_main_civil</technology_node_set>
 <tier>6</tier>
 </technology_nodes>

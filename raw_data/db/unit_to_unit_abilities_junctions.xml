@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Tue 17. Jul 16:00:14 2012" revision="97" export_branch="T:/branches/shogun2/boshin_dlc/shogun2/binaries" export_user="Jack.Lusted">
-<edit_uuid>280100ac-522f-432a-9473-5fe5c1a0089b</edit_uuid><unit_to_unit_abilities_junctions>
+<dataroot export_time="So 13. Apr 01:41:30 2014" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>c6217a40-3b40-4abb-84a6-eb48a070c965</edit_uuid><unit_to_unit_abilities_junctions>
 <ability>shrapnel_shot</ability>
 <unit_name>Boshin_Art_Armstrong_Guns_MP</unit_name>
 </unit_to_unit_abilities_junctions>
@@ -906,6 +906,22 @@
 </unit_to_unit_abilities_junctions>
 <unit_to_unit_abilities_junctions>
 <ability>inspire_unit</ability>
+<unit_name>Gen_Otomo_Sorin</unit_name>
+</unit_to_unit_abilities_junctions>
+<unit_to_unit_abilities_junctions>
+<ability>rally</ability>
+<unit_name>Gen_Otomo_Sorin</unit_name>
+</unit_to_unit_abilities_junctions>
+<unit_to_unit_abilities_junctions>
+<ability>rally_position</ability>
+<unit_name>Gen_Otomo_Sorin</unit_name>
+</unit_to_unit_abilities_junctions>
+<unit_to_unit_abilities_junctions>
+<ability>we_stand_and_fight</ability>
+<unit_name>Gen_Otomo_Sorin</unit_name>
+</unit_to_unit_abilities_junctions>
+<unit_to_unit_abilities_junctions>
+<ability>inspire_unit</ability>
 <unit_name>Gen_Shimazu_Yoshihiro</unit_name>
 </unit_to_unit_abilities_junctions>
 <unit_to_unit_abilities_junctions>
@@ -1726,6 +1742,14 @@
 </unit_to_unit_abilities_junctions>
 <unit_to_unit_abilities_junctions>
 <ability>bamboo_wall</ability>
+<unit_name>Inf_Missile_Matchlock_Ashigaru_Otomo</unit_name>
+</unit_to_unit_abilities_junctions>
+<unit_to_unit_abilities_junctions>
+<ability>rank_fire</ability>
+<unit_name>Inf_Missile_Matchlock_Ashigaru_Otomo</unit_name>
+</unit_to_unit_abilities_junctions>
+<unit_to_unit_abilities_junctions>
+<ability>bamboo_wall</ability>
 <unit_name>Inf_Missile_Matchlock_Ashigaru</unit_name>
 </unit_to_unit_abilities_junctions>
 <unit_to_unit_abilities_junctions>
@@ -1743,6 +1767,18 @@
 <unit_to_unit_abilities_junctions>
 <ability>rapid_volley</ability>
 <unit_name>Inf_Missile_Matchlock_Samurai_Hattori</unit_name>
+</unit_to_unit_abilities_junctions>
+<unit_to_unit_abilities_junctions>
+<ability>bamboo_wall</ability>
+<unit_name>Inf_Missile_Matchlock_Samurai_Otomo</unit_name>
+</unit_to_unit_abilities_junctions>
+<unit_to_unit_abilities_junctions>
+<ability>rank_fire</ability>
+<unit_name>Inf_Missile_Matchlock_Samurai_Otomo</unit_name>
+</unit_to_unit_abilities_junctions>
+<unit_to_unit_abilities_junctions>
+<ability>rapid_volley</ability>
+<unit_name>Inf_Missile_Matchlock_Samurai_Otomo</unit_name>
 </unit_to_unit_abilities_junctions>
 <unit_to_unit_abilities_junctions>
 <ability>bamboo_wall</ability>
@@ -1775,6 +1811,14 @@
 <unit_to_unit_abilities_junctions>
 <ability>range_effect</ability>
 <unit_name>Inf_Missile_Matchlock_Warrior_Monks</unit_name>
+</unit_to_unit_abilities_junctions>
+<unit_to_unit_abilities_junctions>
+<ability>rank_fire</ability>
+<unit_name>Inf_Missile_Portuguese_Tercos</unit_name>
+</unit_to_unit_abilities_junctions>
+<unit_to_unit_abilities_junctions>
+<ability>rapid_volley</ability>
+<unit_name>Inf_Missile_Portuguese_Tercos</unit_name>
 </unit_to_unit_abilities_junctions>
 <unit_to_unit_abilities_junctions>
 <ability>pike_wall_formation</ability>
@@ -1959,6 +2003,10 @@
 <unit_to_unit_abilities_junctions>
 <ability>battle_speed_naval</ability>
 <unit_name>Light_Ship_Matchlock_Kobaya_Mori</unit_name>
+</unit_to_unit_abilities_junctions>
+<unit_to_unit_abilities_junctions>
+<ability>battle_speed_naval</ability>
+<unit_name>Light_Ship_Matchlock_Kobaya_Otomo</unit_name>
 </unit_to_unit_abilities_junctions>
 <unit_to_unit_abilities_junctions>
 <ability>battle_speed_naval</ability>

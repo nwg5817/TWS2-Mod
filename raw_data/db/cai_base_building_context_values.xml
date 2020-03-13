@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Wed 25. Jan 11:43:35 2012" revision="31" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Janos.Gaspar">
-<edit_uuid>d41ceeab-4787-4fbc-a40e-c922a86f8b93</edit_uuid><cai_base_building_context_values>
+<dataroot export_time="So 13. Apr 02:16:12 2014" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>bc7721ab-577d-4236-8a6b-0e2d76148231</edit_uuid><cai_base_building_context_values>
 <building_key>GEM_Buddhist_1_Buddhist_Sanctuary</building_key>
 <economic_value>5</economic_value>
 <education_value>1</education_value>
@@ -1299,6 +1299,17 @@
 <prestige_value>5</prestige_value>
 </cai_base_building_context_values>
 <cai_base_building_context_values>
+<building_key>SHO_Christian_2_Hospital</building_key>
+<economic_value>40</economic_value>
+<education_value>5</education_value>
+<existing_buildings_apply_discount_over_limit>3</existing_buildings_apply_discount_over_limit>
+<existing_buildings_discount_per_building>10</existing_buildings_discount_per_building>
+<existing_buildings_maximum_discount>100</existing_buildings_maximum_discount>
+<happiness_value>40</happiness_value>
+<military_value>60</military_value>
+<prestige_value>5</prestige_value>
+</cai_base_building_context_values>
+<cai_base_building_context_values>
 <building_key>SHO_Christian_2_Mission</building_key>
 <economic_value>40</economic_value>
 <education_value>5</education_value>
@@ -1321,6 +1332,17 @@
 <prestige_value>5</prestige_value>
 </cai_base_building_context_values>
 <cai_base_building_context_values>
+<building_key>SHO_Christian_3_Jesuit_Seminar</building_key>
+<economic_value>40</economic_value>
+<education_value>5</education_value>
+<existing_buildings_apply_discount_over_limit>3</existing_buildings_apply_discount_over_limit>
+<existing_buildings_discount_per_building>10</existing_buildings_discount_per_building>
+<existing_buildings_maximum_discount>100</existing_buildings_maximum_discount>
+<happiness_value>40</happiness_value>
+<military_value>60</military_value>
+<prestige_value>5</prestige_value>
+</cai_base_building_context_values>
+<cai_base_building_context_values>
 <building_key>SHO_Christian_4_Cathedral</building_key>
 <economic_value>75</economic_value>
 <education_value>5</education_value>
@@ -1329,6 +1351,17 @@
 <existing_buildings_maximum_discount>100</existing_buildings_maximum_discount>
 <happiness_value>80</happiness_value>
 <military_value>5</military_value>
+<prestige_value>5</prestige_value>
+</cai_base_building_context_values>
+<cai_base_building_context_values>
+<building_key>SHO_Christian_4_Jesuit_College</building_key>
+<economic_value>40</economic_value>
+<education_value>5</education_value>
+<existing_buildings_apply_discount_over_limit>3</existing_buildings_apply_discount_over_limit>
+<existing_buildings_discount_per_building>10</existing_buildings_discount_per_building>
+<existing_buildings_maximum_discount>100</existing_buildings_maximum_discount>
+<happiness_value>40</happiness_value>
+<military_value>60</military_value>
 <prestige_value>5</prestige_value>
 </cai_base_building_context_values>
 <cai_base_building_context_values>
@@ -1583,6 +1616,17 @@
 <happiness_value>5</happiness_value>
 <military_value>70</military_value>
 <prestige_value>5</prestige_value>
+</cai_base_building_context_values>
+<cai_base_building_context_values>
+<building_key>SHO_Portuguese_Land_Sold</building_key>
+<economic_value>0</economic_value>
+<education_value>0</education_value>
+<existing_buildings_apply_discount_over_limit>0</existing_buildings_apply_discount_over_limit>
+<existing_buildings_discount_per_building>0</existing_buildings_discount_per_building>
+<existing_buildings_maximum_discount>0</existing_buildings_maximum_discount>
+<happiness_value>0</happiness_value>
+<military_value>0</military_value>
+<prestige_value>0</prestige_value>
 </cai_base_building_context_values>
 <cai_base_building_context_values>
 <building_key>SHO_Region_Specialty_Craftwork_1_Artisans</building_key>

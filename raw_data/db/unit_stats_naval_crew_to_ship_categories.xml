@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Tue 23. Aug 17:23:28 2011" revision="6" export_branch="T:/branches/shogun2/patch/common/TWeak/Framework" export_user="Luke.Carter">
-<edit_uuid>cf708198-006e-4639-9cfe-771aaf4c8f18</edit_uuid><unit_stats_naval_crew_to_ship_categories>
+<dataroot export_time="So 13. Apr 01:46:42 2014" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>1aeb8b3f-ed57-4f30-80c1-c72058354fd4</edit_uuid><unit_stats_naval_crew_to_ship_categories>
 <admiral>naval_admiral</admiral>
 <gunner_type>boshin_guncrew</gunner_type>
 <key>Boshin_Naval_Crew</key>
@@ -104,6 +104,15 @@
 <gunner_type>guncrew</gunner_type>
 <key>Light_Ship_Matchlock</key>
 <marine_type>matchlock_marine</marine_type>
+<officer_1>naval_commodore</officer_1>
+<officer_2>naval_officer</officer_2>
+<seaman_type>spear_seaman</seaman_type>
+</unit_stats_naval_crew_to_ship_categories>
+<unit_stats_naval_crew_to_ship_categories>
+<admiral>naval_admiral</admiral>
+<gunner_type>guncrew</gunner_type>
+<key>Light_Ship_Matchlock_Otomo</key>
+<marine_type>matchlock_marine_otomo</marine_type>
 <officer_1>naval_commodore</officer_1>
 <officer_2>naval_officer</officer_2>
 <seaman_type>spear_seaman</seaman_type>

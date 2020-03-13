@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Mon 14. Nov 15:44:01 2011" revision="19" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Dom.Starr">
-<edit_uuid>029d1da8-331c-4c21-9689-c343cb44832b</edit_uuid><start_pos_character_to_settlements>
+<dataroot export_time="ju. 26. dic. 15:21:42 2013" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>0eaa5f2e-04f5-43d8-8126-73624271bc34</edit_uuid><start_pos_character_to_settlements>
 <character>2140780828</character>
 <settlement>-2010360084</settlement>
 </start_pos_character_to_settlements>
@@ -739,5 +739,9 @@
 <start_pos_character_to_settlements>
 <character>2140783302</character>
 <settlement>2145378907</settlement>
+</start_pos_character_to_settlements>
+<start_pos_character_to_settlements>
+<character>2140783447</character>
+<settlement>-1369750656</settlement>
 </start_pos_character_to_settlements>
 </dataroot>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Fri 23. Sep 14:45:13 2011" revision="15" export_branch="C:/TW/branches/shogun2/boshin/shogun2/src" export_user="Ed.Ainsley">
-<edit_uuid>6f1072dd-c8aa-4a2c-8126-ccae85182058</edit_uuid><building_chain_to_slots>
+<dataroot export_time="So 13. Apr 00:14:29 2014" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>b0d93b49-82ad-4b21-9a8e-9b12508281d9</edit_uuid><building_chain_to_slots>
 <chain>GEM_Buddhist</chain>
 <slot>settlement_sho_generic</slot>
 </building_chain_to_slots>
@@ -167,6 +167,10 @@
 <building_chain_to_slots>
 <chain>SHO_Port</chain>
 <slot>port</slot>
+</building_chain_to_slots>
+<building_chain_to_slots>
+<chain>SHO_Portuguese</chain>
+<slot>settlement_sho_generic</slot>
 </building_chain_to_slots>
 <building_chain_to_slots>
 <chain>SHO_Region_Specialty_Craftwork</chain>

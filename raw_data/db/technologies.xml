@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Thu 8. Dec 15:52:16 2011" revision="67" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Jeff.Woods">
-<edit_uuid>f3cf0cf3-3ad2-4c9b-a41a-4b328019c020</edit_uuid><technologies>
+<dataroot export_time="So 13. Apr 00:48:59 2014" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>e7ee189a-3b68-4578-ac29-32bfbfd85e5e</edit_uuid><technologies>
 <ai_bias>0</ai_bias>
 <building_level>SHO_Sword_2_Nodachi</building_level>
 <economic_prestige>0</economic_prestige>
@@ -2099,6 +2099,66 @@
 <research_points_required>2400</research_points_required>
 <short_description>When all know their place, there is clarity and righteous harmony.</short_description>
 <unique_index>19</unique_index>
+</technologies>
+<technologies>
+<ai_bias>0</ai_bias>
+<building_level>SHO_Sword_2_Nodachi</building_level>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<icon_name>shogun_civil_religion_essence_of_the_spirit</icon_name>
+<in_encyclopedia>1</in_encyclopedia>
+<info_pic>Dilemma_Agents.tga</info_pic>
+<key>shogun_civil_religion_otomo_essence_of_the_spirit</key>
+<long_description>\n\nIt requires a strong spirit and exceptional patience to become a monk. It also requires an able, educated mind to grapple with deep theological questions. A devotee of Buddha will gain wisdom and understanding of the world. The path to harmony through abandoning desire is not easy, for the desire for harmony is a desire in itself. It is not a path for the faint of heart. Education and understanding are worthwhile, though, as they increase the abilities of all monks and make it more likely that they will succeed in their given tasks. \n\nReligion in feudal Japan was a mixture of the indigenous Shinto faith, and also Buddhism, Confucianism and Christianity from overseas. Like much else, Buddhism arrived from China but was only widely adopted when the warrior class took control of the country. It was the main religion of the Sengoku Jidai, although Christianity arrived when trade with the Portuguese began; the disciplined Jesuit “warrior missionaries” were actually rather appealing to the samurai. Under the Tokugawa Shogunate, however, Christianity was banned as a foreign influence. The Tokugawas then introduced neo-Confucianism as the official religion of the state: a combination of the practicality of Confucius with the spiritual and ethereal nature of Buddhism.</long_description>
+<military_prestige>0</military_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<naval_prestige>0</naval_prestige>
+<onscreen_name>Essence of the Spirit</onscreen_name>
+<position_index>2</position_index>
+<research_points_required>700</research_points_required>
+<short_description>The body draws its strength from the cleansed soul.</short_description>
+<unique_index>1119</unique_index>
+</technologies>
+<technologies>
+<ai_bias>0</ai_bias>
+<building_level>SHO_Sword_2_Nodachi</building_level>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<icon_name>shogun_civil_religion_religious_propagation</icon_name>
+<in_encyclopedia>1</in_encyclopedia>
+<info_pic>Dilemma_Culture.tga</info_pic>
+<key>shogun_civil_religion_religious_propagation</key>
+<long_description>\n\nThe code of the Jesuits had much in it that the samurai could admire. Like bushido, the code emphasised obedience and loyalty to the point of death and beyond. That the Jesuits were also educated men in the arts of peace and war was an advantage too. The Word of Christianity, however, had to be spread, and there were never enough Jesuits to do it by themselves. They could only convert a few people who would then become apostolates, spreading the faith among their neighbours and friends. Experience had shown that converting a ruler, such as a daimyo, accelerated the process of conversion in an entire people, if only because men will adopt a lord's ideas in the hope of later preferment.</long_description>
+<military_prestige>0</military_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<naval_prestige>0</naval_prestige>
+<onscreen_name>Apostolate</onscreen_name>
+<position_index>2</position_index>
+<research_points_required>2400</research_points_required>
+<short_description>Faith is the greatest gift a man can give.</short_description>
+<unique_index>1114</unique_index>
+</technologies>
+<technologies>
+<ai_bias>0</ai_bias>
+<building_level>SHO_Sword_2_Nodachi</building_level>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<icon_name>shogun_civil_religion_religious_self_sufficiency</icon_name>
+<in_encyclopedia>1</in_encyclopedia>
+<info_pic>Dilemma_Agents.tga</info_pic>
+<key>shogun_civil_religion_religious_self_sufficiency</key>
+<long_description>\n\nAs foreigners in Japan, missionaries were treated with a degree of suspicion, and expected to shift for themselves. They might be guests, in the broadest sense of the term, but that did not mean they could expect subsidies and monetary support from a daimyo. The Christians had to pay their own way through their own efforts. Rather than rely on goods from home, half the world away, traders often found opportunities closer to Japan, and traded in chinese silks and other goods. These had always been welcome in Japan, and the money gave the Portuguese the wherewithal to finance their missionary activities. Building churches, spreading the word of God and demonstrating the virtue of Christian charity were not cheap activities; collection plates would remain very empty until there were some converts.</long_description>
+<military_prestige>0</military_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<naval_prestige>0</naval_prestige>
+<onscreen_name>Economic Independence</onscreen_name>
+<position_index>2</position_index>
+<research_points_required>1800</research_points_required>
+<short_description>Monies gathered in God’s name are always put to good use.</short_description>
+<unique_index>1109</unique_index>
 </technologies>
 <technologies>
 <ai_bias>0</ai_bias>

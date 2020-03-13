@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Tue 22. May 12:13:38 2012" revision="187" export_branch="T:/branches/shogun2/boshin_dlc/shogun2/binaries" export_user="Chris.Gambold">
-<edit_uuid>a70189a0-c6b6-4824-9430-db7d80e8f58c</edit_uuid><projectiles>
+<dataroot export_time="do. 13. abr. 17:45:24 2014" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>3d88e929-bb3b-4331-956b-0c1196818a88</edit_uuid><projectiles>
 <base_misfire_chance>0</base_misfire_chance>
 <base_reload_time>14</base_reload_time>
 <below_waterline_damage_modifer>0</below_waterline_damage_modifer>
@@ -26,7 +26,7 @@
 <minimum_range>0</minimum_range>
 <missile_model>projectile_arrow</missile_model>
 <missile_type>arrow</missile_type>
-<muzzle_velocity>45</muzzle_velocity>
+<muzzle_velocity>50</muzzle_velocity>
 <preflight_rules>0</preflight_rules>
 <projectile_number>1</projectile_number>
 <projectile_trail_particle_effect>fire_arrow_trail</projectile_trail_particle_effect>
@@ -63,7 +63,7 @@
 <minimum_range>0</minimum_range>
 <missile_model>projectile_arrow</missile_model>
 <missile_type>arrow</missile_type>
-<muzzle_velocity>45</muzzle_velocity>
+<muzzle_velocity>50</muzzle_velocity>
 <preflight_rules>0</preflight_rules>
 <projectile_number>1</projectile_number>
 <projectile_trail_particle_effect>fire_arrow_trail</projectile_trail_particle_effect>
@@ -100,7 +100,7 @@
 <minimum_range>0</minimum_range>
 <missile_model>projectile_arrow</missile_model>
 <missile_type>arrow</missile_type>
-<muzzle_velocity>45</muzzle_velocity>
+<muzzle_velocity>50</muzzle_velocity>
 <preflight_rules>0</preflight_rules>
 <projectile_number>1</projectile_number>
 <projectile_trail_particle_effect>fire_arrow_trail</projectile_trail_particle_effect>
@@ -137,7 +137,7 @@
 <minimum_range>0</minimum_range>
 <missile_model>projectile_arrow</missile_model>
 <missile_type>arrow</missile_type>
-<muzzle_velocity>45</muzzle_velocity>
+<muzzle_velocity>50</muzzle_velocity>
 <preflight_rules>0</preflight_rules>
 <projectile_number>1</projectile_number>
 <projectile_trail_particle_effect>fire_arrow_trail</projectile_trail_particle_effect>
@@ -173,7 +173,7 @@
 <minimum_range>0</minimum_range>
 <missile_model>projectile_arrow</missile_model>
 <missile_type>arrow</missile_type>
-<muzzle_velocity>45</muzzle_velocity>
+<muzzle_velocity>50</muzzle_velocity>
 <preflight_rules>0</preflight_rules>
 <projectile_number>1</projectile_number>
 <projectile_trail_particle_effect>fire_arrow_impact_long</projectile_trail_particle_effect>
@@ -209,7 +209,7 @@
 <minimum_range>0</minimum_range>
 <missile_model>projectile_arrow</missile_model>
 <missile_type>arrow</missile_type>
-<muzzle_velocity>45</muzzle_velocity>
+<muzzle_velocity>50</muzzle_velocity>
 <preflight_rules>0</preflight_rules>
 <projectile_number>1</projectile_number>
 <sail_damage_modifier>0.100000001490116</sail_damage_modifier>
@@ -244,7 +244,7 @@
 <minimum_range>0</minimum_range>
 <missile_model>projectile_arrow</missile_model>
 <missile_type>arrow</missile_type>
-<muzzle_velocity>45</muzzle_velocity>
+<muzzle_velocity>50</muzzle_velocity>
 <preflight_rules>0</preflight_rules>
 <projectile_number>1</projectile_number>
 <sail_damage_modifier>0.100000001490116</sail_damage_modifier>
@@ -280,7 +280,7 @@
 <minimum_range>0</minimum_range>
 <missile_model>projectile_arrow</missile_model>
 <missile_type>arrow</missile_type>
-<muzzle_velocity>45</muzzle_velocity>
+<muzzle_velocity>50</muzzle_velocity>
 <preflight_rules>0</preflight_rules>
 <projectile_number>1</projectile_number>
 <sail_damage_modifier>0.100000001490116</sail_damage_modifier>
@@ -2454,7 +2454,7 @@
 <minimum_range>0</minimum_range>
 <missile_model>projectile_arrow</missile_model>
 <missile_type>arrow</missile_type>
-<muzzle_velocity>45</muzzle_velocity>
+<muzzle_velocity>50</muzzle_velocity>
 <preflight_rules>0</preflight_rules>
 <projectile_number>1</projectile_number>
 <sail_damage_modifier>0.100000001490116</sail_damage_modifier>
@@ -2818,7 +2818,7 @@
 <can_bounce>1</can_bounce>
 <can_penetrate_fortwall>0</can_penetrate_fortwall>
 <category>missile</category>
-<collision_radius>0.008</collision_radius>
+<collision_radius>0.007999999</collision_radius>
 <damage>0.1</damage>
 <effective_range>5</effective_range>
 <gravity>-1</gravity>
@@ -3250,7 +3250,7 @@
 <minimum_range>0</minimum_range>
 <missile_model>projectile_arrow</missile_model>
 <missile_type>arrow</missile_type>
-<muzzle_velocity>45</muzzle_velocity>
+<muzzle_velocity>50</muzzle_velocity>
 <preflight_rules>0</preflight_rules>
 <projectile_number>1</projectile_number>
 <sail_damage_modifier>0.100000001490116</sail_damage_modifier>
@@ -3285,7 +3285,7 @@
 <minimum_range>0</minimum_range>
 <missile_model>projectile_arrow</missile_model>
 <missile_type>arrow</missile_type>
-<muzzle_velocity>45</muzzle_velocity>
+<muzzle_velocity>50</muzzle_velocity>
 <preflight_rules>0</preflight_rules>
 <projectile_number>1</projectile_number>
 <sail_damage_modifier>0.100000001490116</sail_damage_modifier>
@@ -3320,7 +3320,7 @@
 <minimum_range>0</minimum_range>
 <missile_model>projectile_arrow</missile_model>
 <missile_type>arrow</missile_type>
-<muzzle_velocity>45</muzzle_velocity>
+<muzzle_velocity>50</muzzle_velocity>
 <preflight_rules>0</preflight_rules>
 <projectile_number>1</projectile_number>
 <sail_damage_modifier>0.100000001490116</sail_damage_modifier>
@@ -3355,7 +3355,7 @@
 <minimum_range>0</minimum_range>
 <missile_model>projectile_arrow</missile_model>
 <missile_type>arrow</missile_type>
-<muzzle_velocity>45</muzzle_velocity>
+<muzzle_velocity>50</muzzle_velocity>
 <preflight_rules>0</preflight_rules>
 <projectile_number>1</projectile_number>
 <sail_damage_modifier>0.100000001490116</sail_damage_modifier>
@@ -3390,7 +3390,7 @@
 <minimum_range>0</minimum_range>
 <missile_model>projectile_arrow</missile_model>
 <missile_type>arrow</missile_type>
-<muzzle_velocity>45</muzzle_velocity>
+<muzzle_velocity>50</muzzle_velocity>
 <preflight_rules>0</preflight_rules>
 <projectile_number>1</projectile_number>
 <sail_damage_modifier>0.100000001490116</sail_damage_modifier>
@@ -3425,7 +3425,7 @@
 <minimum_range>0</minimum_range>
 <missile_model>projectile_arrow</missile_model>
 <missile_type>arrow</missile_type>
-<muzzle_velocity>45</muzzle_velocity>
+<muzzle_velocity>50</muzzle_velocity>
 <preflight_rules>0</preflight_rules>
 <projectile_number>1</projectile_number>
 <sail_damage_modifier>0.100000001490116</sail_damage_modifier>
@@ -3460,7 +3460,7 @@
 <minimum_range>0</minimum_range>
 <missile_model>projectile_arrow</missile_model>
 <missile_type>arrow</missile_type>
-<muzzle_velocity>45</muzzle_velocity>
+<muzzle_velocity>50</muzzle_velocity>
 <preflight_rules>0</preflight_rules>
 <projectile_number>1</projectile_number>
 <sail_damage_modifier>0.100000001490116</sail_damage_modifier>
@@ -3495,7 +3495,7 @@
 <minimum_range>0</minimum_range>
 <missile_model>projectile_arrow</missile_model>
 <missile_type>arrow</missile_type>
-<muzzle_velocity>45</muzzle_velocity>
+<muzzle_velocity>50</muzzle_velocity>
 <preflight_rules>0</preflight_rules>
 <projectile_number>1</projectile_number>
 <sail_damage_modifier>0.100000001490116</sail_damage_modifier>
@@ -3530,7 +3530,7 @@
 <minimum_range>0</minimum_range>
 <missile_model>projectile_arrow</missile_model>
 <missile_type>arrow</missile_type>
-<muzzle_velocity>45</muzzle_velocity>
+<muzzle_velocity>50</muzzle_velocity>
 <preflight_rules>0</preflight_rules>
 <projectile_number>1</projectile_number>
 <sail_damage_modifier>0.100000001490116</sail_damage_modifier>
@@ -3573,6 +3573,43 @@
 <shot_type>bullet</shot_type>
 <spin_type>none</spin_type>
 <spread>0</spread>
+<trail>alpha_bullet</trail>
+<trajectory_sight>low</trajectory_sight>
+<weather_effect>high</weather_effect>
+</projectiles>
+<projectiles>
+<base_misfire_chance>0</base_misfire_chance>
+<base_reload_time>22</base_reload_time>
+<below_waterline_damage_modifer>0</below_waterline_damage_modifer>
+<bounce_angle>0</bounce_angle>
+<calibration_area>1</calibration_area>
+<calibration_distance>100</calibration_distance>
+<can_bounce>0</can_bounce>
+<can_penetrate_fortwall>0</can_penetrate_fortwall>
+<category>missile</category>
+<collision_radius>0.1</collision_radius>
+<damage>1</damage>
+<effective_range>50</effective_range>
+<gravity>-1</gravity>
+<gun_type>musket_matchlock</gun_type>
+<high_air_resistance>0</high_air_resistance>
+<hit_audio>small</hit_audio>
+<impact>musket_ball</impact>
+<key>shogun_donderbuss</key>
+<launch_audio>small_arm</launch_audio>
+<launch_particle_effect>MusketFire</launch_particle_effect>
+<marksmanship_bonus>-25</marksmanship_bonus>
+<max_elevation>88</max_elevation>
+<minimum_range>0</minimum_range>
+<missile_model>projectile_musketball</missile_model>
+<missile_type>bullet</missile_type>
+<muzzle_velocity>200</muzzle_velocity>
+<preflight_rules>0</preflight_rules>
+<projectile_number>6</projectile_number>
+<sail_damage_modifier>0.100000001490116</sail_damage_modifier>
+<shot_type>bullet</shot_type>
+<spin_type>none</spin_type>
+<spread>2</spread>
 <trail>alpha_bullet</trail>
 <trajectory_sight>low</trajectory_sight>
 <weather_effect>high</weather_effect>
@@ -3703,7 +3740,7 @@
 <can_bounce>0</can_bounce>
 <can_penetrate_fortwall>0</can_penetrate_fortwall>
 <category>missile</category>
-<collision_radius>0.008</collision_radius>
+<collision_radius>0.007999999</collision_radius>
 <damage>0.1</damage>
 <effective_range>5</effective_range>
 <gravity>-1</gravity>
@@ -3908,7 +3945,7 @@
 <minimum_range>0</minimum_range>
 <missile_model>projectile_arrow</missile_model>
 <missile_type>arrow</missile_type>
-<muzzle_velocity>45</muzzle_velocity>
+<muzzle_velocity>50</muzzle_velocity>
 <preflight_rules>0</preflight_rules>
 <projectile_number>1</projectile_number>
 <sail_damage_modifier>0.100000001490116</sail_damage_modifier>
@@ -4173,7 +4210,7 @@
 <minimum_range>20</minimum_range>
 <missile_model>projectile_arrow</missile_model>
 <missile_type>arrow</missile_type>
-<muzzle_velocity>45</muzzle_velocity>
+<muzzle_velocity>50</muzzle_velocity>
 <preflight_rules>0</preflight_rules>
 <projectile_number>1</projectile_number>
 <sail_damage_modifier>0.100000001490116</sail_damage_modifier>

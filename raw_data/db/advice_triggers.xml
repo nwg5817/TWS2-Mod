@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Fri 24. Feb 10:54:07 2012" revision="102" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Chris.Gambold">
-<edit_uuid>86d1b231-dbab-4781-9618-472dfaa72a72</edit_uuid><advice_triggers>
+<dataroot export_time="ju. 26. dic. 17:46:25 2013" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>e9458894-f0b0-4355-a403-4563a7578d55</edit_uuid><advice_triggers>
 <condition_script>not CampaignName(&quot;tut_shogun&quot;)</condition_script>
 <key>0100_Battle_Advice_UI_Buttons_Trigger</key>
 <test_when>BattleConflictPhaseCommenced</test_when>
@@ -1328,6 +1328,11 @@
 <advice_triggers>
 <condition_script>FactionIsLocal() and FactionName(&quot;bos_obama&quot;) and CampaignName(&quot;jap_boshin&quot;) and TurnNumber() == 1</condition_script>
 <key>3045_STW2_Boshin_Clan_Intro_Obama_1_Trigger</key>
+<test_when>FactionTurnStart</test_when>
+</advice_triggers>
+<advice_triggers>
+<condition_script>FactionIsLocal() and FactionName(&quot;otomo&quot;) and not CampaignName(&quot;tut_shogun&quot;) and TurnNumber() == 1</condition_script>
+<key>4000_STW2_Clan_Intro_Otomo_1_Trigger</key>
 <test_when>FactionTurnStart</test_when>
 </advice_triggers>
 </dataroot>

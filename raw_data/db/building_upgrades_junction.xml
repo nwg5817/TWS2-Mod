@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Tue 15. Nov 16:50:49 2011" revision="26" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Dom.Starr">
-<edit_uuid>68c9227e-e624-40df-9eb9-dc9c186e90b1</edit_uuid><building_upgrades_junction>
+<dataroot export_time="So 13. Apr 00:26:50 2014" export_branch="C:/modding/binaries" export_user="modder">
+<edit_uuid>e7274b66-3f47-430c-9c57-efdda0df2d02</edit_uuid><building_upgrades_junction>
 <from>GEM_Buddhist_1_Buddhist_Sanctuary</from>
 <to>GEM_Buddhist_2_Buddhist_Temple</to>
 </building_upgrades_junction>
@@ -362,7 +362,15 @@
 </building_upgrades_junction>
 <building_upgrades_junction>
 <from>SHO_Christian_1_Chapel</from>
+<to>SHO_Christian_2_Hospital</to>
+</building_upgrades_junction>
+<building_upgrades_junction>
+<from>SHO_Christian_1_Chapel</from>
 <to>SHO_Christian_2_Mission</to>
+</building_upgrades_junction>
+<building_upgrades_junction>
+<from>SHO_Christian_2_Hospital</from>
+<to>SHO_Christian_3_Jesuit_Seminar</to>
 </building_upgrades_junction>
 <building_upgrades_junction>
 <from>SHO_Christian_2_Mission</from>
@@ -371,6 +379,10 @@
 <building_upgrades_junction>
 <from>SHO_Christian_3_Church</from>
 <to>SHO_Christian_4_Cathedral</to>
+</building_upgrades_junction>
+<building_upgrades_junction>
+<from>SHO_Christian_3_Jesuit_Seminar</from>
+<to>SHO_Christian_4_Jesuit_College</to>
 </building_upgrades_junction>
 <building_upgrades_junction>
 <from>SHO_Crafts_1_Market</from>
