@@ -1,0 +1,19 @@
+#
+# If all files excluded and you will include only specific sub-directories
+# the parent path must matched before.
+#
+
+/**
+!/.gitignore
+
+###############################
+# Un-ignore the affected subdirectory
+!/raw_data/
+# Ignore subdirectory and all including directories and files to match pattern as valid for the next pattern
+/raw_data/**
+# This pattern only works with the two previous patterns
+# (i remember it was working alone on older git versions)
+!/raw_data/db/
+###############################
+
+# Another example
