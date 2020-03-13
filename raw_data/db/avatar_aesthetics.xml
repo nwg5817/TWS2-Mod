@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Fri 9. Dec 14:05:02 2011" revision="71" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Richard.Aldridge">
-<edit_uuid>67436e9a-26c9-4b6c-9ae9-446bf7050eeb</edit_uuid><avatar_aesthetics>
+<dataroot export_time="Tue Mar 10 23:51:54 2020" export_branch="F:/~Modding/TWS2/TWS2-Modding/binaries" export_user="modder">
+<edit_uuid>81d8da1c-2048-4ae6-86d4-d969720384a9</edit_uuid><avatar_aesthetics>
 <armour_set>armour_set_date_masamune</armour_set>
 <category>arms</category>
 <default_item>0</default_item>
@@ -292,7 +292,7 @@
 <model_path>bs_US_Marines_1</model_path>
 <onscreen_source>battle</onscreen_source>
 <product>boshin</product>
-<source>boshin_battle</source>
+<source>battle</source>
 <unique_index>727</unique_index>
 </avatar_aesthetics>
 <avatar_aesthetics>
@@ -306,7 +306,7 @@
 <model_path>bs_Royal_Marines_Officer_1</model_path>
 <onscreen_source>battle</onscreen_source>
 <product>boshin</product>
-<source>boshin_battle</source>
+<source>battle</source>
 <unique_index>699</unique_index>
 </avatar_aesthetics>
 <avatar_aesthetics>
@@ -320,7 +320,7 @@
 <model_path>bs_French_Marines_arm</model_path>
 <onscreen_source>battle</onscreen_source>
 <product>boshin</product>
-<source>boshin_battle</source>
+<source>battle</source>
 <unique_index>678</unique_index>
 </avatar_aesthetics>
 <avatar_aesthetics>
@@ -362,7 +362,7 @@
 <model_path>bs_late_arm_1</model_path>
 <onscreen_source>battle</onscreen_source>
 <product>boshin</product>
-<source>boshin_battle</source>
+<source>battle</source>
 <unique_index>520</unique_index>
 </avatar_aesthetics>
 <avatar_aesthetics>
@@ -404,7 +404,7 @@
 <model_path>bs_Modern_Arm_2</model_path>
 <onscreen_source>battle</onscreen_source>
 <product>boshin</product>
-<source>boshin_battle</source>
+<source>battle</source>
 <unique_index>604</unique_index>
 </avatar_aesthetics>
 <avatar_aesthetics>
@@ -418,7 +418,7 @@
 <model_path>bs_Late_Arm_2</model_path>
 <onscreen_source>battle</onscreen_source>
 <product>boshin</product>
-<source>boshin_battle</source>
+<source>battle</source>
 <unique_index>624</unique_index>
 </avatar_aesthetics>
 <avatar_aesthetics>
@@ -432,7 +432,7 @@
 <model_path>bs_Officer_Arm_1</model_path>
 <onscreen_source>battle</onscreen_source>
 <product>boshin</product>
-<source>boshin_battle</source>
+<source>battle</source>
 <unique_index>545</unique_index>
 </avatar_aesthetics>
 <avatar_aesthetics>
@@ -446,7 +446,7 @@
 <model_path>bs_Officer_Arm_2</model_path>
 <onscreen_source>battle</onscreen_source>
 <product>boshin</product>
-<source>boshin_battle</source>
+<source>battle</source>
 <unique_index>561</unique_index>
 </avatar_aesthetics>
 <avatar_aesthetics>
@@ -460,7 +460,7 @@
 <model_path>bs_Shinsengumi_Arm_1</model_path>
 <onscreen_source>battle</onscreen_source>
 <product>boshin</product>
-<source>boshin_battle</source>
+<source>battle</source>
 <unique_index>635</unique_index>
 </avatar_aesthetics>
 <avatar_aesthetics>
@@ -502,7 +502,7 @@
 <model_path>bs_US_Marines_1</model_path>
 <onscreen_source>battle</onscreen_source>
 <product>boshin</product>
-<source>boshin_battle</source>
+<source>battle</source>
 <unique_index>721</unique_index>
 </avatar_aesthetics>
 <avatar_aesthetics>
@@ -516,7 +516,7 @@
 <model_path>bs_Royal_Marines_1</model_path>
 <onscreen_source>battle</onscreen_source>
 <product>boshin</product>
-<source>boshin_battle</source>
+<source>battle</source>
 <unique_index>694</unique_index>
 </avatar_aesthetics>
 <avatar_aesthetics>
@@ -530,7 +530,7 @@
 <model_path>bs_French_marine_hat_2</model_path>
 <onscreen_source>battle</onscreen_source>
 <product>boshin</product>
-<source>boshin_battle</source>
+<source>battle</source>
 <unique_index>670</unique_index>
 </avatar_aesthetics>
 <avatar_aesthetics>
@@ -572,7 +572,7 @@
 <model_path>bs_officer_jingasa</model_path>
 <onscreen_source>battle</onscreen_source>
 <product>boshin</product>
-<source>boshin_battle</source>
+<source>battle</source>
 <unique_index>511</unique_index>
 </avatar_aesthetics>
 <avatar_aesthetics>
@@ -614,7 +614,7 @@
 <model_path>bs_Late_Jingasa</model_path>
 <onscreen_source>battle</onscreen_source>
 <product>boshin</product>
-<source>boshin_battle</source>
+<source>battle</source>
 <unique_index>601</unique_index>
 </avatar_aesthetics>
 <avatar_aesthetics>
@@ -628,7 +628,7 @@
 <model_path>bs_Wig_2_tex</model_path>
 <onscreen_source>battle</onscreen_source>
 <product>boshin</product>
-<source>boshin_battle</source>
+<source>battle</source>
 <unique_index>618</unique_index>
 </avatar_aesthetics>
 <avatar_aesthetics>
@@ -642,7 +642,7 @@
 <model_path>bs_officer_cap</model_path>
 <onscreen_source>battle</onscreen_source>
 <product>boshin</product>
-<source>boshin_battle</source>
+<source>battle</source>
 <unique_index>537</unique_index>
 </avatar_aesthetics>
 <avatar_aesthetics>
@@ -656,7 +656,7 @@
 <model_path>bs_Wig_1_tex</model_path>
 <onscreen_source>battle</onscreen_source>
 <product>boshin</product>
-<source>boshin_battle</source>
+<source>battle</source>
 <unique_index>555</unique_index>
 </avatar_aesthetics>
 <avatar_aesthetics>
@@ -670,7 +670,7 @@
 <model_path>bs_late_jingasa_round</model_path>
 <onscreen_source>battle</onscreen_source>
 <product>boshin</product>
-<source>boshin_battle</source>
+<source>battle</source>
 <unique_index>631</unique_index>
 </avatar_aesthetics>
 <avatar_aesthetics>
@@ -712,7 +712,7 @@
 <model_path>bs_US_Marines_leg_tex</model_path>
 <onscreen_source>battle</onscreen_source>
 <product>boshin</product>
-<source>boshin_battle</source>
+<source>battle</source>
 <unique_index>737</unique_index>
 </avatar_aesthetics>
 <avatar_aesthetics>
@@ -726,7 +726,7 @@
 <model_path>bs_Royal_Marines_Officer_1</model_path>
 <onscreen_source>battle</onscreen_source>
 <product>boshin</product>
-<source>boshin_battle</source>
+<source>battle</source>
 <unique_index>700</unique_index>
 </avatar_aesthetics>
 <avatar_aesthetics>
@@ -740,7 +740,7 @@
 <model_path>bs_French_marine_leg</model_path>
 <onscreen_source>battle</onscreen_source>
 <product>boshin</product>
-<source>boshin_battle</source>
+<source>battle</source>
 <unique_index>686</unique_index>
 </avatar_aesthetics>
 <avatar_aesthetics>
@@ -782,7 +782,7 @@
 <model_path>bs_late_samurai_leg_1</model_path>
 <onscreen_source>battle</onscreen_source>
 <product>boshin</product>
-<source>boshin_battle</source>
+<source>battle</source>
 <unique_index>528</unique_index>
 </avatar_aesthetics>
 <avatar_aesthetics>
@@ -824,7 +824,7 @@
 <model_path>bs_modern_leg_1</model_path>
 <onscreen_source>battle</onscreen_source>
 <product>boshin</product>
-<source>boshin_battle</source>
+<source>battle</source>
 <unique_index>610</unique_index>
 </avatar_aesthetics>
 <avatar_aesthetics>
@@ -838,7 +838,7 @@
 <model_path>bs_modern_leg_3</model_path>
 <onscreen_source>battle</onscreen_source>
 <product>boshin</product>
-<source>boshin_battle</source>
+<source>battle</source>
 <unique_index>625</unique_index>
 </avatar_aesthetics>
 <avatar_aesthetics>
@@ -852,7 +852,7 @@
 <model_path>bs_Officer_Leg_1</model_path>
 <onscreen_source>battle</onscreen_source>
 <product>boshin</product>
-<source>boshin_battle</source>
+<source>battle</source>
 <unique_index>550</unique_index>
 </avatar_aesthetics>
 <avatar_aesthetics>
@@ -866,7 +866,7 @@
 <model_path>bs_Officer_Leg_2</model_path>
 <onscreen_source>battle</onscreen_source>
 <product>boshin</product>
-<source>boshin_battle</source>
+<source>battle</source>
 <unique_index>568</unique_index>
 </avatar_aesthetics>
 <avatar_aesthetics>
@@ -880,7 +880,7 @@
 <model_path>bs_shinsengumi_leg_1</model_path>
 <onscreen_source>battle</onscreen_source>
 <product>boshin</product>
-<source>boshin_battle</source>
+<source>battle</source>
 <unique_index>636</unique_index>
 </avatar_aesthetics>
 <avatar_aesthetics>

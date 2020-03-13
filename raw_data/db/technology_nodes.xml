@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="So 13. Apr 01:07:36 2014" export_branch="C:/modding/binaries" export_user="modder">
-<edit_uuid>c7eb8478-50e7-4baf-9f16-a0f13d0f3e4e</edit_uuid><technology_nodes>
+<dataroot export_time="Tue Mar 10 23:34:31 2020" export_branch="F:/~Modding/TWS2/TWS2-Modding/binaries" export_user="modder">
+<edit_uuid>beebab45-eaaa-40ec-a03b-c8f45847e2e5</edit_uuid><technology_nodes>
 <indent>43</indent>
 <key>boshin_main_civil_node_001_epic_architecture</key>
 <technology_key>boshin_civil_epic_architecture</technology_key>
@@ -904,10 +904,11 @@
 <tier>2</tier>
 </technology_nodes>
 <technology_nodes>
+<faction_key>otomo</faction_key>
 <indent>34</indent>
 <key>shogun_main_civil_node_004_otomo_essence_of_the_spirit</key>
 <technology_key>shogun_civil_religion_otomo_essence_of_the_spirit</technology_key>
-<technology_node_set>boshin_main_civil</technology_node_set>
+<technology_node_set>shogun_main_civil</technology_node_set>
 <tier>2</tier>
 </technology_nodes>
 <technology_nodes>
@@ -946,10 +947,11 @@
 <tier>3</tier>
 </technology_nodes>
 <technology_nodes>
+<faction_key>otomo</faction_key>
 <indent>34</indent>
 <key>shogun_main_civil_node_010_religious_self_sufficiency</key>
 <technology_key>shogun_civil_religion_religious_self_sufficiency</technology_key>
-<technology_node_set>boshin_main_civil</technology_node_set>
+<technology_node_set>shogun_main_civil</technology_node_set>
 <tier>4</tier>
 </technology_nodes>
 <technology_nodes>
@@ -1002,6 +1004,7 @@
 <tier>6</tier>
 </technology_nodes>
 <technology_nodes>
+<faction_key>otomo</faction_key>
 <indent>34</indent>
 <key>shogun_main_civil_node_016_religious_propagation</key>
 <technology_key>shogun_civil_religion_religious_propagation</technology_key>

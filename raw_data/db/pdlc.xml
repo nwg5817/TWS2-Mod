@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Tue 10. Jul 11:09:39 2012" revision="14" export_branch="T:/branches/shogun2/boshin_dlc/shogun2/binaries" export_user="Chris.Gambold">
-<edit_uuid>beb21cc5-da8b-4561-8df5-140cf5b08e89</edit_uuid><pdlc>
-<description>The award-winning Total War: SHOGUN 2 places you at the centre of the action during Japan's Sengoku Jidai, the brutal civil war to end all others.</description>
+<dataroot export_time="Tue Mar 10 22:36:09 2020" export_branch="F:/~Modding/TWS2/TWS2-Modding/binaries" export_user="modder">
+<edit_uuid>0a51e54b-d2de-48a4-916a-914cbabc828f</edit_uuid><pdlc>
+<description>The award-winning Total War: SHOGUN 2 places you at the centre of the action during Japan's Sengoku Jidai, the brutal civil war to end all others.
+</description>
 <ID>TWS2</ID>
-<release_order>13</release_order>
+<release_order>14</release_order>
 <SteamID>201270</SteamID>
 </pdlc>
 <pdlc>
@@ -29,6 +30,12 @@
 <ID>TWS2_PDLC_11</ID>
 <release_order>10</release_order>
 <SteamID>201279</SteamID>
+</pdlc>
+<pdlc>
+<description>A brand new downloadable pack for Total War: SHOGUN 2 is now available to purchase through Steam, featuring the Otomo as a playable clan in single player mode.</description>
+<ID>TWS2_PDLC_12</ID>
+<release_order>13</release_order>
+<SteamID>223180</SteamID>
 </pdlc>
 <pdlc>
 <description>A brand new downloadable pack featuring 11 new units for use in both single and multiplayer modes.</description>

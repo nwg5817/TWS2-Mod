@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Fri 11. Nov 09:45:45 2011" revision="9" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Jeff.Woods">
-<edit_uuid>b7433bec-ef8c-48cf-8173-533cea87604c</edit_uuid><campaign_ai_technology_managers>
+<dataroot export_time="Tue Mar 10 23:12:35 2020" export_branch="F:/~Modding/TWS2/TWS2-Modding/binaries" export_user="modder">
+<edit_uuid>06976552-3b76-4339-add5-2f6f834a8747</edit_uuid><campaign_ai_technology_managers>
 <key>Civil_heavy</key>
 </campaign_ai_technology_managers>
 <campaign_ai_technology_managers>
@@ -23,6 +23,9 @@
 </campaign_ai_technology_managers>
 <campaign_ai_technology_managers>
 <key>Religious</key>
+</campaign_ai_technology_managers>
+<campaign_ai_technology_managers>
+<key>Religious_focused</key>
 </campaign_ai_technology_managers>
 <campaign_ai_technology_managers>
 <key>bos_aizu</key>

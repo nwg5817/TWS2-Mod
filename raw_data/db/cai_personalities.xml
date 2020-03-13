@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Tue 15. Nov 11:49:59 2011" revision="34" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="Janos.Gaspar">
-<edit_uuid>fa72c8cf-6c41-4080-a350-6eb657f103b1</edit_uuid><cai_personalities>
+<dataroot export_time="Tue Mar 10 23:19:08 2020" export_branch="F:/~Modding/TWS2/TWS2-Modding/binaries" export_user="modder">
+<edit_uuid>e3967a80-60ca-442c-b19b-05b9e9912831</edit_uuid><cai_personalities>
 <agent_distribution_profile_key>agressive</agent_distribution_profile_key>
 <agent_recruitment_profile_key>cai_arp_standard</agent_recruitment_profile_key>
 <allowed_for_random_selection>1</allowed_for_random_selection>
@@ -448,7 +448,7 @@
 <military_behaviour_policy>cai_pmbp_preservist</military_behaviour_policy>
 <reliability_policy_key>cai_prp_default</reliability_policy_key>
 <religious_conversion_policy>cai_prcp_christian_fanatic</religious_conversion_policy>
-<technology_manager_key>Religious</technology_manager_key>
+<technology_manager_key>Religious_focused</technology_manager_key>
 </cai_personalities>
 <cai_personalities>
 <agent_distribution_profile_key>cai_adp_standard</agent_distribution_profile_key>
@@ -914,6 +914,21 @@
 <reliability_policy_key>cai_prp_high</reliability_policy_key>
 <religious_conversion_policy>cai_prcp_evasive</religious_conversion_policy>
 <technology_manager_key>Military_heavy</technology_manager_key>
+</cai_personalities>
+<cai_personalities>
+<agent_distribution_profile_key>agressive</agent_distribution_profile_key>
+<agent_recruitment_profile_key>religious_heavy</agent_recruitment_profile_key>
+<allowed_for_random_selection>0</allowed_for_random_selection>
+<budget_policy_key>budget_religious</budget_policy_key>
+<building_synergy_policy>cai_bsp_sengoku</building_synergy_policy>
+<character_skill_tree_manager_key>default</character_skill_tree_manager_key>
+<construction_policy_key>christian</construction_policy_key>
+<key>p_otomo</key>
+<military_aggressiveness_policy>cai_pmap_medium_to_high</military_aggressiveness_policy>
+<military_behaviour_policy>cai_pmbp_preservist</military_behaviour_policy>
+<reliability_policy_key>cai_prp_default</reliability_policy_key>
+<religious_conversion_policy>cai_prcp_christian_fanatic</religious_conversion_policy>
+<technology_manager_key>Religious_focused</technology_manager_key>
 </cai_personalities>
 <cai_personalities>
 <agent_distribution_profile_key>agressive</agent_distribution_profile_key>

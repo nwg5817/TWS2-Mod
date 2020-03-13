@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Tue 13. Dec 16:17:33 2011" revision="119" export_branch="C:/TW/branches/shogun2/boshin/shogun2/binaries" export_user="Will.OBrien">
-<edit_uuid>24962825-9cb8-46a4-ac61-250acc600b1e</edit_uuid><campaign_variables>
+<dataroot export_time="Tue Mar 10 23:00:45 2020" export_branch="F:/~Modding/TWS2/TWS2-Modding/binaries" export_user="modder">
+<edit_uuid>8077e2b6-df28-453c-b6a7-bf9eaeb83426</edit_uuid><campaign_variables>
 <description>The maximum number of agents that can be assigned to research one technology.</description>
 <value>3</value>
 <variable_key>agents_per_tech_cap</variable_key>
@@ -1402,7 +1402,7 @@
 </campaign_variables>
 <campaign_variables>
 <description>0.0005 (IN GAME) Means X% of the minority will emigate</description>
-<value>0.001</value>
+<value>0.0009999999</value>
 <variable_key>migration_religion</variable_key>
 </campaign_variables>
 <campaign_variables>

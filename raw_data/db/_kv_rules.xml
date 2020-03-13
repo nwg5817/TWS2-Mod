@@ -90,7 +90,7 @@
 <_kv_rules>
 <description>chance of accidentally falling off wall per second - for samurai</description>
 <key>climbing_walls_fall_chance_samurai</key>
-<value>0.008</value>
+<value>0.007999999</value>
 </_kv_rules>
 <_kv_rules>
 <description>minimum width in metres to search for climbing pipes</description>
@@ -560,7 +560,7 @@
 <_kv_rules>
 <description>Projectile_rule_system: chance to cause fire on hit (divide by # of fragments)</description>
 <key>projectile_incendiary_chance_low</key>
-<value>0.001</value>
+<value>0.0009999999</value>
 </_kv_rules>
 <_kv_rules>
 <description>Projectile_rule_system: chance to cause fire on hit (divide by # of fragments)</description>

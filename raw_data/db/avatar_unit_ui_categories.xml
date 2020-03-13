@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Wed 28. Sep 12:33:21 2011" revision="5" export_branch="T:/branches/shogun2/boshin/shogun2/binaries" export_user="James.Whitston">
-<edit_uuid>81c387f0-e6b9-4428-a3d6-0ae5b7cc3f35</edit_uuid><avatar_unit_ui_categories>
+<dataroot export_time="Tue Mar 10 22:40:36 2020" export_branch="F:/~Modding/TWS2/TWS2-Modding/binaries" export_user="modder">
+<edit_uuid>c822b20f-5d7d-43b6-85f2-479777aaab57</edit_uuid><avatar_unit_ui_categories>
 <unit_ui_category>artillery_boshin</unit_ui_category>
 </avatar_unit_ui_categories>
 <avatar_unit_ui_categories>
@@ -23,9 +23,6 @@
 </avatar_unit_ui_categories>
 <avatar_unit_ui_categories>
 <unit_ui_category>gun</unit_ui_category>
-</avatar_unit_ui_categories>
-<avatar_unit_ui_categories>
-<unit_ui_category>imperial_inf_boshin</unit_ui_category>
 </avatar_unit_ui_categories>
 <avatar_unit_ui_categories>
 <unit_ui_category>line_inf_boshin</unit_ui_category>
@@ -53,9 +50,6 @@
 </avatar_unit_ui_categories>
 <avatar_unit_ui_categories>
 <unit_ui_category>ship_medium</unit_ui_category>
-</avatar_unit_ui_categories>
-<avatar_unit_ui_categories>
-<unit_ui_category>shogunate_inf_boshin</unit_ui_category>
 </avatar_unit_ui_categories>
 <avatar_unit_ui_categories>
 <unit_ui_category>siege_stealth</unit_ui_category>

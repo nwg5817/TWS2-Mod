@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Wed 29. Sep 16:15:08 2010" revision="1" export_branch="T:/campaign/dev/common/TWeak/Framework" export_user="Luke.Carter">
-<edit_uuid>816faaa9-458a-41df-a660-48687c74d624</edit_uuid><seasons>
-<onscreen>None</onscreen>
-<order>0</order>
-<season>none</season>
-</seasons>
-<seasons>
+<dataroot export_time="Tue Mar 10 22:33:53 2020" export_branch="F:/~Modding/TWS2/TWS2-Modding/binaries" export_user="modder">
+<edit_uuid>ba594fb3-a0b5-4c80-be5d-b2fa8fcd0e29</edit_uuid><seasons>
 <onscreen>Autumn</onscreen>
 <order>0</order>
 <season>season_autumn</season>

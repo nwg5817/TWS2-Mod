@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot export_time="Wed 15. Sep 11:38:54 2010" revision="5" export_branch="T:/battle/dev/common/TWeak/Framework" export_user="Luke.Carter">
-<edit_uuid>76e448e6-2bb3-4354-9d6a-0d0535c15215</edit_uuid><cdir_faction_junctions>
+<dataroot export_time="Tue Mar 10 23:22:32 2020" export_branch="F:/~Modding/TWS2/TWS2-Modding/binaries" export_user="modder">
+<edit_uuid>6ea5d8ac-44c2-47f0-bf77-3da400eeb176</edit_uuid><cdir_faction_junctions>
 <faction>Utsunomiya</faction>
 <key>Utsunomiya</key>
 </cdir_faction_junctions>
@@ -146,10 +146,6 @@
 <cdir_faction_junctions>
 <faction>ouchi</faction>
 <key>ouchi</key>
-</cdir_faction_junctions>
-<cdir_faction_junctions>
-<faction>standard_rebels</faction>
-<key>rebels</key>
 </cdir_faction_junctions>
 <cdir_faction_junctions>
 <faction>sagara</faction>
